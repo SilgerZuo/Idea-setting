@@ -18,18 +18,25 @@
         <mark key="^" line="33" column="26" />
         <mark key="." line="22" column="17" />
       </file>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/test1/web/index.jsp" timestamp="1494415203876">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="56" column="109" />
-        <mark key="]" line="56" column="107" />
-        <mark key="." line="56" column="107" />
-        <mark key="^" line="56" column="107" />
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/test1/web/index.jsp" timestamp="1494421165231">
+        <mark key="'" line="35" column="0" />
+        <mark key="[" line="27" column="29" />
+        <mark key="]" line="27" column="31" />
+        <mark key="^" line="27" column="31" />
+        <mark key="." line="27" column="31" />
       </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/test1/src/i18N_zh_CN.properties" timestamp="1494312796050">
         <mark key="[" line="0" column="9" />
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/test1/src/Student.java" timestamp="1494420345922">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="31" column="5" />
+        <mark key="]" line="5" column="21" />
+        <mark key="." line="5" column="21" />
+        <mark key="^" line="5" column="21" />
       </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/bookstore_stage4/web/pages/order/order.jsp" timestamp="1494241021155">
         <mark key="[" line="74" column="0" />
@@ -54,11 +61,11 @@
         <mark key="]" line="42" column="39" />
         <mark key="." line="42" column="39" />
       </file>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/test1/src/JqueryServletServlet.java" timestamp="1494400454747">
-        <mark key="[" line="17" column="51" />
-        <mark key="]" line="18" column="14" />
-        <mark key="." line="18" column="14" />
-        <mark key="^" line="18" column="14" />
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/test1/src/JqueryServletServlet.java" timestamp="1494421114766">
+        <mark key="[" line="25" column="43" />
+        <mark key="]" line="25" column="42" />
+        <mark key="." line="25" column="42" />
+        <mark key="^" line="25" column="42" />
       </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/bookstore_stage4/src/com/atguigu/bookstore/servlet/OrderManagerServlet.java" timestamp="1494240531739">
         <mark key="[" line="41" column="0" />
@@ -132,11 +139,10 @@
         <mark key="." line="20" column="23" />
         <mark key="^" line="18" column="43" />
       </file>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/test1/src/uploadServlet.java" timestamp="1494418784644">
-        <mark key="[" line="35" column="24" />
-        <mark key="]" line="35" column="58" />
-        <mark key="^" line="35" column="58" />
-        <mark key="." line="35" column="58" />
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/test1/src/uploadServlet.java" timestamp="1494419647495">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/bookstore_stage4/src/com/atguigu/bookstore/Dao/imp/OrderDaoImpl.java" timestamp="1494295339345">
         <mark key="[" line="16" column="0" />
@@ -208,13 +214,22 @@
       <jump line="57" column="24" filename="$USER_HOME$/workspaces/IdeaProjects/javaweb/test1/web/index.jsp" />
       <jump line="0" column="0" filename="$USER_HOME$/workspaces/IdeaProjects/javaweb/test1/web/index.jsp" />
       <jump line="34" column="0" filename="$USER_HOME$/workspaces/IdeaProjects/javaweb/test1/web/index.jsp" />
+      <jump line="5" column="21" filename="$USER_HOME$/workspaces/IdeaProjects/javaweb/test1/src/Student.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspaces/IdeaProjects/javaweb/test1/src/Student.java" />
+      <jump line="8" column="0" filename="$USER_HOME$/workspaces/IdeaProjects/javaweb/test1/src/Student.java" />
+      <jump line="13" column="0" filename="$USER_HOME$/workspaces/IdeaProjects/javaweb/test1/src/Student.java" />
+      <jump line="17" column="28" filename="$USER_HOME$/workspaces/IdeaProjects/javaweb/test1/src/Student.java" />
+      <jump line="20" column="0" filename="$USER_HOME$/workspaces/IdeaProjects/javaweb/test1/src/Student.java" />
+      <jump line="24" column="0" filename="$USER_HOME$/workspaces/IdeaProjects/javaweb/test1/src/Student.java" />
+      <jump line="28" column="0" filename="$USER_HOME$/workspaces/IdeaProjects/javaweb/test1/src/Student.java" />
+      <jump line="32" column="0" filename="$USER_HOME$/workspaces/IdeaProjects/javaweb/test1/src/Student.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Zm9ybUZpZWxkIA==</text>
+        <text>Optio</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Zm9ybUZpZWxkIA==</text>
+        <text>Optio</text>
       </register>
       <register name="/" type="4">
         <text>index</text>
@@ -223,31 +238,31 @@
         <text>[i]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgYWxlcnQoZGF0YS5xcSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIFN0cmluZyA9ICIxMjNcNDU2XDc4OVwwMDAiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgYWxlcnQoIj8/Pz8iKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5hbWUgPSBuYW1lLnN1YnN0cmluZyhuYW1lLmxhc3RJbmRleE9mKCJcXCIgKSArIDEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgYWxlcnQoIiR7cmVxdWVzdFNjb3BlLmVycm9yfSIgKyJhYWFhYWFhYWEiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXNwb25zZS5nZXRXcml0ZXIoKS53cml0ZSgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkb0dldCgpOwo=</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZpbGVJdGVtLndyaXRlKGZpbGUxKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZpbGVJdGVtLndyaXRlKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
@@ -308,10 +323,10 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed F</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed G</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed Q</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
@@ -319,6 +334,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
