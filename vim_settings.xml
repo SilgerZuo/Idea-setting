@@ -1,0 +1,325 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/learnFilter/src/HelloServlet.java" timestamp="1494033966751">
+        <mark key="[" line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/bookstore_stage4/src/com/atguigu/bookstore/beans/Order.java" timestamp="1494226530693">
+        <mark key="[" line="15" column="34" />
+      </file>
+      <file name="/a.dummy" timestamp="1494213819218">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/bookstore_stage4/web/WEB-INF/include/Welcome.jsp" timestamp="1494215611092">
+        <mark key="[" line="22" column="17" />
+        <mark key="]" line="22" column="17" />
+        <mark key="^" line="33" column="26" />
+        <mark key="." line="22" column="17" />
+      </file>
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/test1/web/index.jsp" timestamp="1494415203876">
+        <mark key="'" line="34" column="0" />
+        <mark key="[" line="56" column="109" />
+        <mark key="]" line="56" column="107" />
+        <mark key="." line="56" column="107" />
+        <mark key="^" line="56" column="107" />
+      </file>
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/test1/src/i18N_zh_CN.properties" timestamp="1494312796050">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/bookstore_stage4/web/pages/order/order.jsp" timestamp="1494241021155">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="^" line="43" column="19" />
+        <mark key="." line="74" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/bookstore_stage4/src/com/atguigu/bookstore/service/OrderItems.java" timestamp="1494227848760">
+        <mark key="[" line="5" column="29" />
+      </file>
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/SpringTest1/src/com/atguigu/beans/Book.java" timestamp="1494252537491">
+        <mark key="[" line="5" column="19" />
+      </file>
+      <file name="/a.sql" timestamp="1494166290462">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/bookstore_stage4/src/com/atguigu/bookstore/Dao/itf/OrderItemDao.java" timestamp="1494295709385">
+        <mark key="[" line="16" column="57" />
+      </file>
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/bookstore_stage4/web/pages/manager/showOrderDetail.jsp" timestamp="1494228545967">
+        <mark key="[" line="42" column="39" />
+        <mark key="]" line="42" column="39" />
+        <mark key="." line="42" column="39" />
+      </file>
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/test1/src/JqueryServletServlet.java" timestamp="1494400454747">
+        <mark key="[" line="17" column="51" />
+        <mark key="]" line="18" column="14" />
+        <mark key="." line="18" column="14" />
+        <mark key="^" line="18" column="14" />
+      </file>
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/bookstore_stage4/src/com/atguigu/bookstore/servlet/OrderManagerServlet.java" timestamp="1494240531739">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="93" column="84" />
+        <mark key="." line="41" column="0" />
+      </file>
+      <file name="/HTML File.txt.ft" timestamp="1494412571617">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dummy.sql" timestamp="1494239716298">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/SpringTest1/src/com/atguigu/beans/ioc.xml" timestamp="1494252524724">
+        <mark key="[" line="6" column="25" />
+        <mark key="]" line="6" column="24" />
+        <mark key="^" line="6" column="24" />
+        <mark key="." line="6" column="24" />
+      </file>
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/bookstore_stage4/src/com/atguigu/bookstore/servlet/OrderServlet.java" timestamp="1494212074268">
+        <mark key="[" line="26" column="47" />
+        <mark key="]" line="25" column="21" />
+        <mark key="." line="25" column="21" />
+        <mark key="^" line="25" column="21" />
+      </file>
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/bookstore_stage4/src/com/atguigu/bookstore/beans/Book.java" timestamp="1494210130653">
+        <mark key="[" line="87" column="30" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1493984255753">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/bookstore_stage4/src/com/atguigu/bookstore/beans/OrderItem.java" timestamp="1494301213792">
+        <mark key="[" line="16" column="2" />
+        <mark key="]" line="16" column="2" />
+        <mark key="^" line="15" column="27" />
+        <mark key="." line="16" column="2" />
+      </file>
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/bookstore_stage4/src/com/atguigu/bookstore/Dao/imp/OrderItemDaoImpl.java" timestamp="1494301424004">
+        <mark key="[" line="30" column="8" />
+        <mark key="]" line="30" column="8" />
+        <mark key="." line="30" column="8" />
+        <mark key="^" line="27" column="207" />
+      </file>
+      <file name="/usr/share/software/jdk1.8.0_121/src.zip!/java/lang/String.java" timestamp="1494417799177" />
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/bookstore_stage4/web/WEB-INF/include/header.jsp" timestamp="1494226635925">
+        <mark key="[" line="16" column="13" />
+        <mark key="]" line="16" column="13" />
+        <mark key="." line="16" column="13" />
+      </file>
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/SpringTest1/src/com/atguigu/test/IOCTtest.java" timestamp="1494252727965">
+        <mark key="[" line="7" column="23" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/bookstore_stage4/src/com/atguigu/bookstore/service/imp/OrderServiceImpl.java" timestamp="1494300648365">
+        <mark key="[" line="87" column="23" />
+        <mark key="]" line="87" column="23" />
+        <mark key="^" line="86" column="51" />
+        <mark key="." line="87" column="23" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/769b67c8-ea18-4f9a-a6be-e58a017010b3/console.sql" timestamp="1494239165898">
+        <mark key="[" line="30" column="19" />
+        <mark key="]" line="29" column="35" />
+        <mark key="." line="29" column="35" />
+        <mark key="^" line="29" column="35" />
+      </file>
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/bookstore_stage4/src/com/atguigu/bookstore/utils/JDBCUtils.java" timestamp="1494308988656">
+        <mark key="[" line="20" column="23" />
+        <mark key="]" line="20" column="23" />
+        <mark key="." line="20" column="23" />
+        <mark key="^" line="18" column="43" />
+      </file>
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/test1/src/uploadServlet.java" timestamp="1494418002194">
+        <mark key="[" line="49" column="66" />
+        <mark key="]" line="49" column="65" />
+        <mark key="^" line="49" column="65" />
+        <mark key="." line="49" column="65" />
+      </file>
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/bookstore_stage4/src/com/atguigu/bookstore/Dao/imp/OrderDaoImpl.java" timestamp="1494295339345">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="33" column="41" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/bookstore_stage4/web/WEB-INF/web.xml" timestamp="1494288825000">
+        <mark key="[" line="79" column="27" />
+        <mark key="]" line="106" column="22" />
+        <mark key="." line="106" column="22" />
+      </file>
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/bookstore_stage4/web/pages/manager/order_manager.jsp" timestamp="1494239684426">
+        <mark key="[" line="45" column="25" />
+        <mark key="]" line="45" column="25" />
+        <mark key="." line="45" column="25" />
+      </file>
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/bookstore_stage4/src/com/atguigu/bookstore/Dao/itf/BookDao.java" timestamp="1494296027818">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/bookstore_stage4/src/com/atguigu/bookstore/Dao/itf/OrderDao.java" timestamp="1494295309649">
+        <mark key="[" line="20" column="47" />
+      </file>
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/bookstore_stage4/src/com/atguigu/bookstore/servlet/CartServlet.java" timestamp="1494210753530">
+        <mark key="[" line="64" column="108" />
+        <mark key="]" line="64" column="60" />
+        <mark key="^" line="64" column="60" />
+        <mark key="." line="64" column="60" />
+      </file>
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/bookstore_stage4/web/pages/cart/cart.jsp" timestamp="1494215581201">
+        <mark key="[" line="77" column="41" />
+        <mark key="]" line="77" column="41" />
+        <mark key="." line="77" column="41" />
+        <mark key="^" line="29" column="34" />
+      </file>
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/bookstore_stage4/src/com/atguigu/bookstore/service/OrderService.java" timestamp="1494209441115">
+        <mark key="[" line="10" column="31" />
+      </file>
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/bookstore_stage4/src/com/atguigu/bookstore/Dao/BaseDao.java" timestamp="1494301364436">
+        <mark key="[" line="129" column="37" />
+        <mark key="]" line="128" column="13" />
+        <mark key="." line="128" column="13" />
+        <mark key="^" line="128" column="13" />
+      </file>
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/bookstore_stage4/src/c3p0-config.xml" timestamp="1494294863428">
+        <mark key="[" line="23" column="70" />
+      </file>
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/test1/web/WEB-INF/web.xml" timestamp="1494412032735">
+        <mark key="[" line="24" column="14" />
+      </file>
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/bookstore_stage4/src/com/atguigu/bookstore/Dao/imp/BookDaoImp.java" timestamp="1494296016448">
+        <mark key="[" line="82" column="33" />
+        <mark key="]" line="82" column="33" />
+        <mark key="." line="82" column="33" />
+        <mark key="^" line="76" column="23" />
+      </file>
+      <file name="/fragment.java" timestamp="1494416399633">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="7" column="43" filename="$USER_HOME$/workspaces/IdeaProjects/javaweb/javascript/static/html/javasript.html" />
+      <jump line="20" column="14" filename="$USER_HOME$/workspaces/IdeaProjects/javaweb/ajax2/web/index.jsp" />
+      <jump line="23" column="23" filename="$USER_HOME$/workspaces/IdeaProjects/javaweb/bookstore01/src/com/atguigu/bookstore/beans/Student.java" />
+      <jump line="17" column="18" filename="$USER_HOME$/workspaces/IdeaProjects/javaweb/bookstore_stage4/src/com/atguigu/bookstore/service/imp/OrderManagerServiceImpl.java" />
+      <jump line="26" column="8" filename="$USER_HOME$/workspaces/IdeaProjects/javaweb/test1/web/index.jsp" />
+      <jump line="57" column="24" filename="$USER_HOME$/workspaces/IdeaProjects/javaweb/test1/web/index.jsp" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspaces/IdeaProjects/javaweb/test1/web/index.jsp" />
+      <jump line="34" column="0" filename="$USER_HOME$/workspaces/IdeaProjects/javaweb/test1/web/index.jsp" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>k</text>
+      </register>
+      <register name="/" type="4">
+        <text>index</text>
+      </register>
+      <register name="0" type="4">
+        <text>[i]</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIFN0cmluZyA9ICIxMjNcNDU2XDc4OVwwMDAiCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5hbWUgPSBuYW1lLnN1YnN0cmluZyhuYW1lLmxhc3RJbmRleE9mKCJcXCIgKSArIDEpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBkb0dldCgpOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZpbGVJdGVtLndyaXRlKGZpbGUxKTsK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZpbGVJdGVtLndyaXRlKCk7Cg==</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>index</last-search>
+      <last-offset />
+      <last-pattern>index</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>helloAjax</entry>
+        <entry>index</entry>
+      </history-search>
+      <history-cmd>
+        <entry>set paste</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
