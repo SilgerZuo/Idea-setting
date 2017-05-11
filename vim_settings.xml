@@ -102,11 +102,12 @@
         <mark key="^" line="15" column="27" />
         <mark key="." line="16" column="2" />
       </file>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/bookstore_stage4/src/com/atguigu/bookstore/Dao/imp/OrderItemDaoImpl.java" timestamp="1494471758111">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="37" column="0" />
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/bookstore_stage4/src/com/atguigu/bookstore/Dao/imp/OrderItemDaoImpl.java" timestamp="1494472327797">
+        <mark key="'" line="51" column="5" />
+        <mark key="[" line="38" column="9" />
+        <mark key="]" line="39" column="26" />
+        <mark key="." line="39" column="26" />
+        <mark key="^" line="39" column="26" />
       </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/bookstore_stage4/web/WEB-INF/include/header.jsp" timestamp="1494226635925">
         <mark key="[" line="16" column="13" />
@@ -119,11 +120,11 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/bookstore_stage4/src/com/atguigu/bookstore/service/imp/OrderServiceImpl.java" timestamp="1494300648365">
-        <mark key="[" line="87" column="23" />
-        <mark key="]" line="87" column="23" />
-        <mark key="^" line="86" column="51" />
-        <mark key="." line="87" column="23" />
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/bookstore_stage4/src/com/atguigu/bookstore/service/imp/OrderServiceImpl.java" timestamp="1494472483038">
+        <mark key="[" line="67" column="25" />
+        <mark key="]" line="92" column="23" />
+        <mark key="^" line="91" column="51" />
+        <mark key="." line="92" column="23" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/769b67c8-ea18-4f9a-a6be-e58a017010b3/console.sql" timestamp="1494239165898">
         <mark key="[" line="30" column="19" />
@@ -131,11 +132,11 @@
         <mark key="." line="29" column="35" />
         <mark key="^" line="29" column="35" />
       </file>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/bookstore_stage4/src/com/atguigu/bookstore/utils/JDBCUtils.java" timestamp="1494308988656">
-        <mark key="[" line="20" column="23" />
-        <mark key="]" line="20" column="23" />
-        <mark key="." line="20" column="23" />
-        <mark key="^" line="18" column="43" />
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/bookstore_stage4/src/com/atguigu/bookstore/utils/JDBCUtils.java" timestamp="1494473744682">
+        <mark key="[" line="31" column="31" />
+        <mark key="]" line="31" column="31" />
+        <mark key="." line="31" column="31" />
+        <mark key="^" line="34" column="1" />
       </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/test1/src/uploadServlet.java" timestamp="1494465643806">
         <mark key="[" line="43" column="0" />
@@ -181,11 +182,12 @@
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/bookstore_stage4/src/com/atguigu/bookstore/service/OrderService.java" timestamp="1494209441115">
         <mark key="[" line="10" column="31" />
       </file>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/bookstore_stage4/src/com/atguigu/bookstore/Dao/BaseDao.java" timestamp="1494471597771">
-        <mark key="[" line="148" column="0" />
-        <mark key="]" line="148" column="0" />
-        <mark key="^" line="158" column="15" />
-        <mark key="." line="148" column="0" />
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/bookstore_stage4/src/com/atguigu/bookstore/Dao/BaseDao.java" timestamp="1494474913810">
+        <mark key="'" line="139" column="17" />
+        <mark key="[" line="57" column="30" />
+        <mark key="]" line="57" column="30" />
+        <mark key="." line="57" column="30" />
+        <mark key="^" line="60" column="53" />
       </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/bookstore_stage4/src/c3p0-config.xml" timestamp="1494294863428">
         <mark key="[" line="23" column="70" />
@@ -230,13 +232,16 @@
       <jump line="24" column="0" filename="$USER_HOME$/workspaces/IdeaProjects/javaweb/test1/src/Student.java" />
       <jump line="28" column="0" filename="$USER_HOME$/workspaces/IdeaProjects/javaweb/test1/src/Student.java" />
       <jump line="32" column="0" filename="$USER_HOME$/workspaces/IdeaProjects/javaweb/test1/src/Student.java" />
+      <jump line="28" column="0" filename="$USER_HOME$/workspaces/IdeaProjects/javaweb/bookstore_stage4/src/com/atguigu/bookstore/Dao/imp/OrderItemDaoImpl.java" />
+      <jump line="41" column="5" filename="$USER_HOME$/workspaces/IdeaProjects/javaweb/bookstore_stage4/src/com/atguigu/bookstore/Dao/imp/OrderItemDaoImpl.java" />
+      <jump line="146" column="17" filename="$USER_HOME$/workspaces/IdeaProjects/javaweb/bookstore_stage4/src/com/atguigu/bookstore/Dao/BaseDao.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3FsID0gImluc2VydCBpbnRvIG9yZGVyX2l0ZW1zKGNvdW50LGFtb3VudCx0aXRsZSxhdXRob3IscHJpY2UsaW1nX3BhdGgsb3JkZXJfaWQpIHZhbHVlcyg/LD8sPyw/LD8sPyw/KSI7CiAgICB9</text>
+        <text>adfasdfasdf</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>adfasdfasdf</text>
       </register>
       <register name="/" type="4">
         <text>index</text>
@@ -245,31 +250,37 @@
         <text>[i]</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3FsID0gImluc2VydCBpbnRvIG9yZGVyX2l0ZW1zKGNvdW50LGFtb3VudCx0aXRsZSxhdXRob3IscHJpY2UsaW1nX3BhdGgsb3JkZXJfaWQpIHZhbHVlcyg/LD8sPyw/LD8sPyw/KSI7CiAgICB9</text>
+        <text encoding="base64">IGZpbmFsbHkgewogICAgICAgICAgICBKREJDVXRpbHMucmVsZWFzZUNvbm5lY3Rpb24oY29ubmVjdGlvbik7CiAgICAgICAgfQ==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoU1FMRXhjZXB0aW9uIGUpIHsK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIGJhdGNoID0gcXVlcnlSdW5uZXIuYmF0Y2goc3FsLCBwYXJhbSk7CiAgICAgICAgfSBjYXRjaCAoU1FMRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKIA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgSkRCQ1V0aWxzLnJlbGVhc2VDb25uZWN0aW9uKGNvbm5lY3Rpb24pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9ZmluYWxseSB7CiAgICAgICAgICAgIGlzLmNsb3NlKCk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>finally {
+            try {
+//                JDBCUtils.releaseConnection(connection);
+            } catch ( e) {
+                e.printStackTrace();
+            }
+        }</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzb3V0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>qa</text>
