@@ -18,12 +18,12 @@
         <mark key="^" line="33" column="26" />
         <mark key="." line="22" column="17" />
       </file>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/test1/web/index.jsp" timestamp="1494421165231">
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/test1/web/index.jsp" timestamp="1494466010034">
         <mark key="'" line="35" column="0" />
-        <mark key="[" line="27" column="29" />
-        <mark key="]" line="27" column="31" />
-        <mark key="^" line="27" column="31" />
-        <mark key="." line="27" column="31" />
+        <mark key="[" line="62" column="44" />
+        <mark key="]" line="62" column="58" />
+        <mark key="^" line="62" column="58" />
+        <mark key="." line="62" column="58" />
       </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/test1/src/i18N_zh_CN.properties" timestamp="1494312796050">
         <mark key="[" line="0" column="9" />
@@ -31,12 +31,11 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/test1/src/Student.java" timestamp="1494420345922">
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/test1/src/Student.java" timestamp="1494465002057">
         <mark key="'" line="32" column="0" />
-        <mark key="[" line="31" column="5" />
-        <mark key="]" line="5" column="21" />
-        <mark key="." line="5" column="21" />
-        <mark key="^" line="5" column="21" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/bookstore_stage4/web/pages/order/order.jsp" timestamp="1494241021155">
         <mark key="[" line="74" column="0" />
@@ -138,11 +137,10 @@
         <mark key="." line="20" column="23" />
         <mark key="^" line="18" column="43" />
       </file>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/test1/src/uploadServlet.java" timestamp="1494464882910">
-        <mark key="[" line="50" column="80" />
-        <mark key="]" line="51" column="27" />
-        <mark key="^" line="51" column="27" />
-        <mark key="." line="51" column="27" />
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/test1/src/uploadServlet.java" timestamp="1494465643806">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/bookstore_stage4/src/com/atguigu/bookstore/Dao/imp/OrderDaoImpl.java" timestamp="1494295339345">
         <mark key="[" line="16" column="0" />
@@ -225,11 +223,11 @@
       <jump line="32" column="0" filename="$USER_HOME$/workspaces/IdeaProjects/javaweb/test1/src/Student.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCkK</text>
+      <register name="&quot;" type="4">
+        <text>mp3</text>
       </register>
       <register name="-" type="4">
-        <text>request</text>
+        <text>mp3</text>
       </register>
       <register name="/" type="4">
         <text>index</text>
@@ -238,31 +236,31 @@
         <text>[i]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmcgY29udGV4dFBhdGggPSB0aGlzLmdldFNlcnZsZXRDb250ZXh0KCkuZ2V0UmVhbFBhdGgoIi91cGxvYWQiKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBzb3UgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFNvY2tldCBzbyA9IG5ldyBTb2NrZXQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>qa</text>
@@ -341,6 +339,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
