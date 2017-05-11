@@ -18,18 +18,23 @@
         <mark key="^" line="33" column="26" />
         <mark key="." line="22" column="17" />
       </file>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/test1/web/index.jsp" timestamp="1494466010034">
-        <mark key="'" line="35" column="0" />
-        <mark key="[" line="62" column="44" />
-        <mark key="]" line="62" column="58" />
-        <mark key="^" line="62" column="58" />
-        <mark key="." line="62" column="58" />
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/test1/web/index.jsp" timestamp="1494484801578">
+        <mark key="'" line="39" column="0" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+        <mark key="^" line="21" column="35" />
       </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/test1/src/i18N_zh_CN.properties" timestamp="1494312796050">
         <mark key="[" line="0" column="9" />
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/test1/src/i18n_en_US.properties" timestamp="1494485486208">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/test1/src/Student.java" timestamp="1494465002057">
         <mark key="'" line="32" column="0" />
@@ -54,6 +59,11 @@
       </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/bookstore_stage4/src/com/atguigu/bookstore/Dao/itf/OrderItemDao.java" timestamp="1494295709385">
         <mark key="[" line="16" column="57" />
+      </file>
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/test1/src/i18n_zh_CN.properties" timestamp="1494485517268">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/bookstore_stage4/web/pages/manager/showOrderDetail.jsp" timestamp="1494228545967">
         <mark key="[" line="42" column="39" />
@@ -237,11 +247,11 @@
       <jump line="146" column="17" filename="$USER_HOME$/workspaces/IdeaProjects/javaweb/bookstore_stage4/src/com/atguigu/bookstore/Dao/BaseDao.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>adfasdfasdf</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNlcm5hbWU9Y2hpbmEK</text>
       </register>
       <register name="-" type="4">
-        <text>adfasdfasdf</text>
+        <text>中国</text>
       </register>
       <register name="/" type="4">
         <text>index</text>
@@ -249,38 +259,33 @@
       <register name="0" type="4">
         <text>[i]</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IGZpbmFsbHkgewogICAgICAgICAgICBKREJDVXRpbHMucmVsZWFzZUNvbm5lY3Rpb24oY29ubmVjdGlvbik7CiAgICAgICAgfQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">dXNlcm5hbWU9Y2hpbmEK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">dXNlcm5hbWU95Lit5Zu9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
+      <register name="4" type="4">
+        <text>username=USERNAME
+upload=upload</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoU1FMRXhjZXB0aW9uIGUpIHsK</text>
+        <text encoding="base64">PC9qc3A6cm9vdD4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgSkRCQ1V0aWxzLnJlbGVhc2VDb25uZWN0aW9uKGNvbm5lY3Rpb24pOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="4">
-        <text>finally {
-            try {
-//                JDBCUtils.releaseConnection(connection);
-            } catch ( e) {
-                e.printStackTrace();
-            }
-        }</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PC9qc3A6cm9vdD4K</text>
       </register>
       <register name=":" type="4">
         <text>qa</text>
