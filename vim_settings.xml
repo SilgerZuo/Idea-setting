@@ -18,7 +18,7 @@
         <mark key="^" line="33" column="26" />
         <mark key="." line="22" column="17" />
       </file>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/test1/web/index.jsp" timestamp="1494484801578">
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/test1/web/index.jsp" timestamp="1494485997360">
         <mark key="'" line="39" column="0" />
         <mark key="[" line="63" column="0" />
         <mark key="]" line="63" column="0" />
@@ -60,10 +60,10 @@
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/bookstore_stage4/src/com/atguigu/bookstore/Dao/itf/OrderItemDao.java" timestamp="1494295709385">
         <mark key="[" line="16" column="57" />
       </file>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/test1/src/i18n_zh_CN.properties" timestamp="1494485517268">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/test1/src/i18n_zh_CN.properties" timestamp="1494485950941">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/bookstore_stage4/web/pages/manager/showOrderDetail.jsp" timestamp="1494228545967">
         <mark key="[" line="42" column="39" />
@@ -247,8 +247,8 @@
       <jump line="146" column="17" filename="$USER_HOME$/workspaces/IdeaProjects/javaweb/bookstore_stage4/src/com/atguigu/bookstore/Dao/BaseDao.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlcm5hbWU9Y2hpbmEK</text>
+      <register name="&quot;" type="4">
+        <text>中国</text>
       </register>
       <register name="-" type="4">
         <text>中国</text>
