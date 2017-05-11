@@ -190,14 +190,23 @@
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/bookstore_stage4/src/c3p0-config.xml" timestamp="1494294863428">
         <mark key="[" line="23" column="70" />
       </file>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/test1/web/WEB-INF/web.xml" timestamp="1494412032735">
-        <mark key="[" line="24" column="14" />
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/test1/web/WEB-INF/web.xml" timestamp="1494466206798">
+        <mark key="[" line="31" column="21" />
+        <mark key="]" line="31" column="20" />
+        <mark key="^" line="31" column="20" />
+        <mark key="." line="31" column="20" />
       </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/bookstore_stage4/src/com/atguigu/bookstore/Dao/imp/BookDaoImp.java" timestamp="1494296016448">
         <mark key="[" line="82" column="33" />
         <mark key="]" line="82" column="33" />
         <mark key="." line="82" column="33" />
         <mark key="^" line="76" column="23" />
+      </file>
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/test1/src/downloadServlet.java" timestamp="1494466599588">
+        <mark key="[" line="19" column="35" />
+        <mark key="]" line="20" column="7" />
+        <mark key="." line="20" column="7" />
+        <mark key="^" line="20" column="7" />
       </file>
       <file name="/fragment.java" timestamp="1494422429233">
         <mark key="[" line="0" column="0" />
@@ -224,10 +233,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>mp3</text>
+        <text>fileInputStream</text>
       </register>
       <register name="-" type="4">
-        <text>mp3</text>
+        <text>fileInputStream</text>
       </register>
       <register name="/" type="4">
         <text>index</text>
@@ -236,34 +245,34 @@
         <text>[i]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmcgY29udGV4dFBhdGggPSB0aGlzLmdldFNlcnZsZXRDb250ZXh0KCkuZ2V0UmVhbFBhdGgoIi91cGxvYWQiKTsK</text>
+        <text encoding="base64">ICAgICAgICBrCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBJbnB1dFN0cmVhbSBpbnB1dFN0cmVhbSA9IG5ldyBJbnB1dFN0cmVhbSgpIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">CiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QGphdmF4LnNlcnZsZXQuYW5ub3RhdGlvbi5XZWJTZXJ2bGV0KG5hbWUgPSAiZG93bmxvYWRTZXJ2bGV0IikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzb3UgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmcgY29udGV4dFBhdGggPSB0aGlzLmdldFNlcnZsZXRDb250ZXh0KCkuZ2V0UmVhbFBhdGgoIi91cGxvYWQiKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>qa</text>
+        <text>wqa</text>
       </register>
     </registers>
     <search>
@@ -281,6 +290,7 @@
       <history-cmd>
         <entry>set paste</entry>
         <entry>qa</entry>
+        <entry>wqa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
