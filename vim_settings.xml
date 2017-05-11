@@ -109,7 +109,6 @@
         <mark key="." line="30" column="8" />
         <mark key="^" line="27" column="207" />
       </file>
-      <file name="/usr/share/software/jdk1.8.0_121/src.zip!/java/lang/String.java" timestamp="1494417799177" />
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/bookstore_stage4/web/WEB-INF/include/header.jsp" timestamp="1494226635925">
         <mark key="[" line="16" column="13" />
         <mark key="]" line="16" column="13" />
@@ -139,10 +138,11 @@
         <mark key="." line="20" column="23" />
         <mark key="^" line="18" column="43" />
       </file>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/test1/src/uploadServlet.java" timestamp="1494422838286">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/test1/src/uploadServlet.java" timestamp="1494464882910">
+        <mark key="[" line="50" column="80" />
+        <mark key="]" line="51" column="27" />
+        <mark key="^" line="51" column="27" />
+        <mark key="." line="51" column="27" />
       </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/bookstore_stage4/src/com/atguigu/bookstore/Dao/imp/OrderDaoImpl.java" timestamp="1494295339345">
         <mark key="[" line="16" column="0" />
@@ -226,10 +226,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>Optio</text>
+        <text>request</text>
       </register>
       <register name="/" type="4">
         <text>index</text>
@@ -238,31 +238,34 @@
         <text>[i]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFNvY2tldCBzbyA9IG5ldyBTb2NrZXQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG5ldyBTb2NrZXQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgYWxlcnQoZGF0YS5xcSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgYWxlcnQoIj8/Pz8iKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgYWxlcnQoIiR7cmVxdWVzdFNjb3BlLmVycm9yfSIgKyJhYWFhYWFhYWEiKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwb25zZS5nZXRXcml0ZXIoKS53cml0ZSgpOwo=</text>
+        <text encoding="base64">ICAgIFNvY2tldCBzbyA9IG5ldyBTb2NrZXQoKTsK</text>
+      </register>
+      <register name=":" type="4">
+        <text>qa</text>
       </register>
     </registers>
     <search>
@@ -279,6 +282,7 @@
       </history-search>
       <history-cmd>
         <entry>set paste</entry>
+        <entry>qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
