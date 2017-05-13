@@ -228,10 +228,10 @@
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/bookstore_stage4/src/com/atguigu/bookstore/service/OrderService.java" timestamp="1494209441115">
         <mark key="[" line="10" column="31" />
       </file>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/third/src/srping.xml" timestamp="1494636066859">
-        <mark key="[" line="65" column="17" />
-        <mark key="]" line="65" column="16" />
-        <mark key="." line="65" column="16" />
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/third/src/srping.xml" timestamp="1494638363371">
+        <mark key="[" line="55" column="16" />
+        <mark key="]" line="55" column="16" />
+        <mark key="." line="55" column="16" />
         <mark key="^" line="65" column="16" />
       </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/test1/web/WEB-INF/web.xml" timestamp="1494466206798">
@@ -307,10 +307,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Object</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>Object</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>index</text>
