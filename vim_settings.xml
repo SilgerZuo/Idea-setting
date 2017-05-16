@@ -413,11 +413,10 @@
         <mark key="." line="55" column="16" />
         <mark key="^" line="65" column="16" />
       </file>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/GI/src/com/atguigu/service/OrderServiceTest.java" timestamp="1494842501463">
-        <mark key="[" line="17" column="31" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="18" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/GI/src/com/atguigu/service/OrderServiceTest.java" timestamp="1494942994127">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/transaction/src/com/atguigu/dao/BaseDao.java" timestamp="1494920049459">
         <mark key="[" line="5" column="26" />
@@ -525,10 +524,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>isolation</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGlzdC5hZGQoIjEwMCIpOwogICAgICAgICAgICBsaXN0LmFkZCgiMjAwIik7CiAgICAgICAgICAgIGxpc3QuYWRkKCIzMDAiKTsKICAgICAgICAgICAgbGlzdC5hZGQoIjQwMCIpOwogICAgICAgICAgICBsaXN0LmFkZCgiNTAwIik7CiAgICAgICAgICAgIGxpc3QuYWRkKCI2MDAiKTs=</text>
       </register>
       <register name="-" type="4">
-        <text>isolation</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>index</text>
@@ -536,20 +535,20 @@
       <register name="0" type="4">
         <text>transactionManager</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgbGlzdC5hZGQoIjEwMCIpOwogICAgICAgICAgICBsaXN0LmFkZCgiMjAwIik7CiAgICAgICAgICAgIGxpc3QuYWRkKCIzMDAiKTsKICAgICAgICAgICAgbGlzdC5hZGQoIjQwMCIpOwogICAgICAgICAgICBsaXN0LmFkZCgiNTAwIik7CiAgICAgICAgICAgIGxpc3QuYWRkKCI2MDAiKTs=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGlzdC5hZGQoIjQwMCIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0IGRlbW8gPSBuZXcgQXJyYXlMaXN0KCk7Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgbGlzdC5hZGQoMzAwKTsKICAgICAgICAgICAgbGlzdC5hZGQoNDAwKTsKICAgICAgICAgICAgbGlzdC5hZGQoNTAwKTsKICAgICAgICAgICAgbGlzdC5hZGQoNjAwKTs=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -561,7 +560,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIEpkYmNUZW1wbGF0ZSBiZWFuID0gaW9jLmdldEJlYW4oSmRiY1RlbXBsYXRlLmNsYXNzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>qa</text>
