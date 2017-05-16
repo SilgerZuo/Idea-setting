@@ -18,11 +18,11 @@
       <file name="/a.dummy" timestamp="1494922620828">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/transaction/src/com/atguigu/service/BookServiceImpl.java" timestamp="1494925332288">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/transaction/src/com/atguigu/service/BookServiceImpl.java" timestamp="1494927106423">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
         <mark key="^" line="19" column="4" />
-        <mark key="." line="25" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/testSql/src/Spring.xml" timestamp="1494654747011">
         <mark key="[" line="10" column="0" />
@@ -54,10 +54,11 @@
         <mark key="]" line="42" column="39" />
         <mark key="." line="42" column="39" />
       </file>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/transaction/src/bean.xml" timestamp="1494924858994">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/transaction/src/bean.xml" timestamp="1494927127158">
+        <mark key="[" line="26" column="107" />
+        <mark key="]" line="28" column="10" />
+        <mark key="." line="28" column="10" />
+        <mark key="^" line="28" column="10" />
       </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/SpringTest1/src/com/atguigu/beans/ioc.xml" timestamp="1494252524724">
         <mark key="[" line="6" column="25" />
@@ -118,10 +119,10 @@
         <mark key="^" line="6" column="27" />
         <mark key="." line="6" column="27" />
       </file>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/transaction/src/test.java" timestamp="1494925171023">
-        <mark key="[" line="17" column="58" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/transaction/src/test.java" timestamp="1494927194120">
+        <mark key="[" line="16" column="51" />
+        <mark key="]" line="16" column="51" />
+        <mark key="." line="16" column="51" />
       </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/bookstore_stage4/src/com/atguigu/bookstore/beans/Order.java" timestamp="1494226530693">
         <mark key="[" line="15" column="34" />
@@ -387,7 +388,7 @@
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/transaction/src/com/atguigu/service/BookService.java" timestamp="1494922031552">
         <mark key="[" line="5" column="30" />
       </file>
-      <file name="/dummy.sql" timestamp="1494924710008">
+      <file name="/dummy.sql" timestamp="1494927101428">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/bookstore_stage4/src/com/atguigu/bookstore/beans/Book.java" timestamp="1494210130653">
@@ -512,11 +513,11 @@
       <jump line="110" column="0" filename="$USER_HOME$/workspaces/IdeaProjects/javaframework/JdbcTemplete/src/test.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDwhLS08Y29udGV4dDpjb21wb25lbnQtc2NhbiBiYXNlLXBhY2thZ2U9Ii8iLz4tLT4K</text>
+      <register name="&quot;" type="4">
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>index</text>
@@ -525,31 +526,33 @@
         <text>transactionManager</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDwhLS08Y29udGV4dDpjb21wb25lbnQtc2NhbiBiYXNlLXBhY2thZ2U9Ii8iLz4tLT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICIvPi0tPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">PCEtLTxiZWFuICBpZD0idHJhbnNhY3Rpb25NYW5hZ2VyIiBjbGFzcz0ib3JnLnNwcmluZ2ZyYW1ld29yay5qZGJjLmRhdGFzb3VyY2UuRGF0YVNvdXJjZVRyYW5zYWN0aW9uTWFuYWdlciI+LS0+CiAgICAgICAgPCEtLTxwcm9wZXJ0eSBuYW1lPSJkYXRhU291cmNlIiByZWY9ImRhdGFTb3VyY2UiPjwvcHJvcGVydHk+LS0+CiAgICA8IS0tPC9iZWFuPi0tPgoKICAgIDwhLS0mbHQ7ISZuZGFzaDsg5byA5ZCv5Z+65LqO5rOo6Kej55qE5aOw5piO5byP5LqL5Yqh77yaQFRyYW5zYWN0aW9uYWwtLT4KICAgICAgICA8IS0tdHJhbnNhY3Rpb24tbWFuYWdlcj0idHJhbnNhY3Rpb25NYW5hZ2VyIiDpu5jorqTlgLzvvIzpu5jorqTphY3nva4tLT4KICAgICA8IS0tJm5kYXNoOyZndDstLT4KICAgIDwhLS08dHg6YW5ub3RhdGlvbi1kcml2ZW4gdHJhbnNhY3Rpb24tbWFuYWdlcj0idHJhbnNhY3Rpb25NYW5hZ2Vy</text>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8gICAgICAgIEpkYmNUZW1wbGF0ZSBiZWFuID0gaW9jLmdldEJlYW4oSmRiY1RlbXBsYXRlLmNsYXNzKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">QFRyYW5zYWN0aW9uYWwoKQo=</text>
+      <register name="5" type="4">
+        <text>//        bean.purchase(&quot;Jerry&quot;, &quot;ISBN-003&quot;);
+//        BookDaoImpl bean = ioc.getBean(BookDaoImpl.class);
+//        UserDaoImpl bean1 = ioc.getBean(UserDaoImpl.class);</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QFRyYW5zYWN0aW9uYWwoInRyYW5zYWN0aW9uTWFuYWdlciIpCg==</text>
+        <text encoding="base64">ICAgIDwhLS08Y29udGV4dDpjb21wb25lbnQtc2NhbiBiYXNlLXBhY2thZ2U9Ii8iLz4tLT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsCg==</text>
+        <text encoding="base64">ICAgICIvPi0tPgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">PCEtLTxiZWFuICBpZD0idHJhbnNhY3Rpb25NYW5hZ2VyIiBjbGFzcz0ib3JnLnNwcmluZ2ZyYW1ld29yay5qZGJjLmRhdGFzb3VyY2UuRGF0YVNvdXJjZVRyYW5zYWN0aW9uTWFuYWdlciI+LS0+CiAgICAgICAgPCEtLTxwcm9wZXJ0eSBuYW1lPSJkYXRhU291cmNlIiByZWY9ImRhdGFTb3VyY2UiPjwvcHJvcGVydHk+LS0+CiAgICA8IS0tPC9iZWFuPi0tPgoKICAgIDwhLS0mbHQ7ISZuZGFzaDsg5byA5ZCv5Z+65LqO5rOo6Kej55qE5aOw5piO5byP5LqL5Yqh77yaQFRyYW5zYWN0aW9uYWwtLT4KICAgICAgICA8IS0tdHJhbnNhY3Rpb24tbWFuYWdlcj0idHJhbnNhY3Rpb25NYW5hZ2VyIiDpu5jorqTlgLzvvIzpu5jorqTphY3nva4tLT4KICAgICA8IS0tJm5kYXNoOyZndDstLT4KICAgIDwhLS08dHg6YW5ub3RhdGlvbi1kcml2ZW4gdHJhbnNhY3Rpb24tbWFuYWdlcj0idHJhbnNhY3Rpb25NYW5hZ2Vy</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QFNlcnZpY2UK</text>
+        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsCg==</text>
       </register>
       <register name=":" type="4">
         <text>qa</text>
