@@ -15,6 +15,12 @@
         <mark key="^" line="32" column="49" />
         <mark key="." line="31" column="8" />
       </file>
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/newTest/src/com/atguigu/test/HelloWorld.java" timestamp="1495003208508">
+        <mark key="[" line="13" column="28" />
+        <mark key="]" line="13" column="28" />
+        <mark key="^" line="9" column="10" />
+        <mark key="." line="13" column="28" />
+      </file>
       <file name="/a.dummy" timestamp="1494922620828">
         <mark key="[" line="0" column="0" />
       </file>
@@ -65,6 +71,11 @@
         <mark key="]" line="6" column="24" />
         <mark key="^" line="6" column="24" />
         <mark key="." line="6" column="24" />
+      </file>
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/newTest/web/WEB-INF/HelloWorldHandler.java" timestamp="1495002714408">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/bookstore_stage4/src/com/atguigu/bookstore/beans/OrderItem.java" timestamp="1494301213792">
         <mark key="[" line="16" column="2" />
@@ -175,6 +186,9 @@
       <file name="/HTML File.txt.ft" timestamp="1494935285757">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/newTest/web/WEB-INF/root-context.xml" timestamp="1495002283440">
+        <mark key="[" line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/bookstore_stage4/src/com/atguigu/bookstore/servlet/OrderServlet.java" timestamp="1494212074268">
         <mark key="[" line="26" column="47" />
         <mark key="]" line="25" column="21" />
@@ -220,13 +234,6 @@
         <mark key="]" line="55" column="16" />
         <mark key="." line="55" column="16" />
         <mark key="^" line="65" column="16" />
-      </file>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/JdbcTemplete/src/test.java" timestamp="1494930755098">
-        <mark key="'" line="124" column="0" />
-        <mark key="[" line="71" column="32" />
-        <mark key="]" line="119" column="54" />
-        <mark key="." line="119" column="54" />
-        <mark key="^" line="119" column="54" />
       </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/test1/web/WEB-INF/web.xml" timestamp="1494466206798">
         <mark key="[" line="31" column="21" />
@@ -302,6 +309,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/newTest/web/WEB-INF/applicationContext.xml" timestamp="1495002135577">
+        <mark key="[" line="5" column="8" />
+        <mark key="]" line="4" column="3" />
+        <mark key="." line="4" column="3" />
+        <mark key="^" line="4" column="3" />
+      </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/transaction/src/com/atguigu/dao/UserDaoImpl.java" timestamp="1494935006138">
         <mark key="[" line="15" column="14" />
         <mark key="]" line="21" column="0" />
@@ -347,6 +360,12 @@
         <mark key="^" line="14" column="7" />
         <mark key="." line="14" column="7" />
       </file>
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/newTest/src/springmvc-servlet.xml" timestamp="1495003405893">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/bookstore_stage4/src/com/atguigu/bookstore/Dao/itf/OrderDao.java" timestamp="1494295309649">
         <mark key="[" line="20" column="47" />
       </file>
@@ -370,6 +389,9 @@
         <mark key="]" line="35" column="0" />
         <mark key="^" line="35" column="0" />
         <mark key="." line="35" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/newTest/web/WEB-INF/web.xml" timestamp="1495002541116">
+        <mark key="[" line="4" column="23" />
       </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/JdbcTemplete/src/test.xml" timestamp="1494914004344">
         <mark key="[" line="16" column="55" />
@@ -399,6 +421,11 @@
         <mark key="]" line="19" column="7" />
         <mark key="^" line="19" column="7" />
         <mark key="." line="19" column="7" />
+      </file>
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/newTest/web/WEB-INF/dispatcher-servlet.xml" timestamp="1495003040914">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/AOP/src/test/com/atguigu/logic/newSpring.xml" timestamp="1494828342591">
         <mark key="[" line="4" column="7" />
@@ -555,11 +582,11 @@
       <jump line="110" column="0" filename="$USER_HOME$/workspaces/IdeaProjects/javaframework/JdbcTemplete/src/test.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLnNlcnZsZXQuRGlzcGF0Y2hlclNlcnZsZXQ7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>springmvc</text>
       </register>
       <register name="-" type="4">
-        <text>WEB-INF/views/</text>
+        <text>springmvc</text>
       </register>
       <register name="/" type="4">
         <text>index</text>
@@ -568,31 +595,31 @@
         <text>transactionManager</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLnNlcnZsZXQuRGlzcGF0Y2hlclNlcnZsZXQ7Cg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLndlYi5zZXJ2bGV0LkRpc3BhdGNoZXJTZXJ2bGV0Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBEaXNwYXRjaGVyU2VydmxldCBkcyA9IG5ldyBEaXNwYXRjaGVyU2VydmxldCgpOwo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLnNlcnZsZXQuRGlzcGF0Y2hlclNlcnZsZXQ7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDwK</text>
+        <text encoding="base64">ICAgICAgICBEaXNwYXRjaGVyU2VydmxldCBkcyA9IG5ldyBEaXNwYXRjaGVyU2VydmxldCgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIDwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxzZXIK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxjb250ZXh0LXBhcmFtPgogICAgICAgIDxwYXJhbS1uYW1lPmNvbnRleHRDb25maWdMb2NhdGlvbjwvcGFyYW0tbmFtZT4KICAgICAgICA8cGFyYW0tdmFsdWU+L1dFQi1JTkYvPC9wYXJhbS12YWx1ZT5EREtKRCA8L2NvbnRleHQtcGFyYW0+Cg==</text>
+        <text encoding="base64">ICAgIDxzZXIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAkRU5EJAo=</text>
+        <text encoding="base64">ICAgIDxjb250ZXh0LXBhcmFtPgogICAgICAgIDxwYXJhbS1uYW1lPmNvbnRleHRDb25maWdMb2NhdGlvbjwvcGFyYW0tbmFtZT4KICAgICAgICA8cGFyYW0tdmFsdWU+L1dFQi1JTkYvPC9wYXJhbS12YWx1ZT5EREtKRCA8L2NvbnRleHQtcGFyYW0+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAkRU5EJAo=</text>
       </register>
       <register name=":" type="4">
         <text>qa</text>
