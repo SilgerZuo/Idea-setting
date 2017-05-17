@@ -262,6 +262,12 @@
         <mark key="." line="17" column="37" />
         <mark key="^" line="17" column="28" />
       </file>
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/springmvcdemo/pom.xml" timestamp="1495003988930">
+        <mark key="[" line="15" column="17" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="27" column="0" />
+      </file>
       <file name="/XML Fragment (ssss.xml:353).xml" timestamp="1494829298571">
         <mark key="[" line="0" column="0" />
       </file>
@@ -582,8 +588,8 @@
       <jump line="110" column="0" filename="$USER_HOME$/workspaces/IdeaProjects/javaframework/JdbcTemplete/src/test.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>springmvc</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDwhLS0gaHR0cHM6Ly9tdm5yZXBvc2l0b3J5LmNvbS9hcnRpZmFjdC9vcmcuc3ByaW5nZnJhbWV3b3JrL3NwcmluZy1jb3JlIC0tPgo=</text>
       </register>
       <register name="-" type="4">
         <text>springmvc</text>
@@ -595,31 +601,31 @@
         <text>transactionManager</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLndlYi5zZXJ2bGV0LkRpc3BhdGNoZXJTZXJ2bGV0Owo=</text>
+        <text encoding="base64">ICAgIDwhLS0gaHR0cHM6Ly9tdm5yZXBvc2l0b3J5LmNvbS9hcnRpZmFjdC9vcmcuc3ByaW5nZnJhbWV3b3JrL3NwcmluZy1jb3JlIC0tPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLnNlcnZsZXQuRGlzcGF0Y2hlclNlcnZsZXQ7Cg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLndlYi5zZXJ2bGV0LkRpc3BhdGNoZXJTZXJ2bGV0Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBEaXNwYXRjaGVyU2VydmxldCBkcyA9IG5ldyBEaXNwYXRjaGVyU2VydmxldCgpOwo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLnNlcnZsZXQuRGlzcGF0Y2hlclNlcnZsZXQ7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDwK</text>
+        <text encoding="base64">ICAgICAgICBEaXNwYXRjaGVyU2VydmxldCBkcyA9IG5ldyBEaXNwYXRjaGVyU2VydmxldCgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIDwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxzZXIK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxjb250ZXh0LXBhcmFtPgogICAgICAgIDxwYXJhbS1uYW1lPmNvbnRleHRDb25maWdMb2NhdGlvbjwvcGFyYW0tbmFtZT4KICAgICAgICA8cGFyYW0tdmFsdWU+L1dFQi1JTkYvPC9wYXJhbS12YWx1ZT5EREtKRCA8L2NvbnRleHQtcGFyYW0+Cg==</text>
+        <text encoding="base64">ICAgIDxzZXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAkRU5EJAo=</text>
+        <text encoding="base64">ICAgIDxjb250ZXh0LXBhcmFtPgogICAgICAgIDxwYXJhbS1uYW1lPmNvbnRleHRDb25maWdMb2NhdGlvbjwvcGFyYW0tbmFtZT4KICAgICAgICA8cGFyYW0tdmFsdWU+L1dFQi1JTkYvPC9wYXJhbS12YWx1ZT5EREtKRCA8L2NvbnRleHQtcGFyYW0+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>qa</text>
