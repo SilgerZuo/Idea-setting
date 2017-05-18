@@ -131,6 +131,12 @@
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/bookstore_stage4/src/c3p0-config.xml" timestamp="1494294863428">
         <mark key="[" line="23" column="70" />
       </file>
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/transaction/src/beans.xml" timestamp="1495076556716">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="30" column="22" />
+      </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/third/src/com/atguigu/myfactory/MyFactory.java" timestamp="1494582197433">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -636,10 +642,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHR4Om1ldGhvZCBuYW1lPSIiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>hiddenMethodHttpFilter</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>index</text>
@@ -648,31 +654,31 @@
         <text>transactionManager</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHR4Om1ldGhvZCBuYW1lPSIiCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIDwvYW9wOmFkdmljZT4K</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxhb3A6YWR2aWNlPgo=</text>
+        <text encoding="base64">ICAgIDx0eDoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PCVAcGFnZSBleHRlbmRzPSJvLmEuai5ydW50aW1lLkFueU1ldGhvZEh0dHBKc3BCYXNlIiAlPgo=</text>
+        <text encoding="base64">ICAgIDwvYmVhbj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxpbnB1dCB0eXBlPSJoaWRkZW4iIG5hbWU9Il9tZXRob2QiIHZhbHVlPSJkZWxldGUiPgo=</text>
+        <text encoding="base64">ICAgIDxiZWFuIG5hbWU9ImRpc3BhdGNoZXIiIGNsYXNzPSIqLlNwcmluZyouRGlzcGF0Q2hlciI+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PGEgPjwvYT4K</text>
+        <text encoding="base64">ICAgICAgICA8Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICA8YSBocmVmPSIvdGVzdC9oZWxsb3dvcmxkIiBtZXRob2RzPSJQT1NUIj50ZXN0PC9hPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHR4Om1ldGhvZCBuYW1lPSIiCg==</text>
       </register>
       <register name=":" type="4">
         <text>qa</text>
