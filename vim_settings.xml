@@ -131,11 +131,11 @@
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/bookstore_stage4/src/c3p0-config.xml" timestamp="1494294863428">
         <mark key="[" line="23" column="70" />
       </file>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/transaction/src/beans.xml" timestamp="1495076556716">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-        <mark key="^" line="30" column="22" />
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/transaction/src/beans.xml" timestamp="1495076738729">
+        <mark key="[" line="26" column="22" />
+        <mark key="]" line="26" column="21" />
+        <mark key="." line="26" column="21" />
+        <mark key="^" line="26" column="21" />
       </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/third/src/com/atguigu/myfactory/MyFactory.java" timestamp="1494582197433">
         <mark key="[" line="19" column="0" />
