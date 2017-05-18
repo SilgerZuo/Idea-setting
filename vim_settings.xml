@@ -131,11 +131,10 @@
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/bookstore_stage4/src/c3p0-config.xml" timestamp="1494294863428">
         <mark key="[" line="23" column="70" />
       </file>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/transaction/src/beans.xml" timestamp="1495076990844">
-        <mark key="[" line="30" column="27" />
-        <mark key="]" line="30" column="28" />
-        <mark key="." line="30" column="28" />
-        <mark key="^" line="30" column="28" />
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/transaction/src/beans.xml" timestamp="1495078727101">
+        <mark key="[" line="93" column="1" />
+        <mark key="]" line="94" column="0" />
+        <mark key="." line="94" column="0" />
       </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/third/src/com/atguigu/myfactory/MyFactory.java" timestamp="1494582197433">
         <mark key="[" line="19" column="0" />
@@ -641,44 +640,44 @@
       <jump line="26" column="27" filename="$USER_HOME$/workspaces/IdeaProjects/javaframework/spsppp/src/com/my/HelloWorld.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>t</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGtjCg==</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>v</text>
       </register>
       <register name="/" type="4">
         <text>index</text>
       </register>
       <register name="0" type="4">
-        <text>transactionManager</text>
+        <text>avdice</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDx0eDphZHZpY2UgaWQ9ImFkdmljZSIgdHJhbnNhY3Rpb24tbWFuYWdlcj0idHJhbnNhY3Rpb25NYW5hZ2VyIj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGtjCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDx0eDphZHZpY2UgaWQ9ImFkdmljZSIgdHJhbnNhY3Rpb24tbWFuYWdlcj0idHJhbnNhY3Rpb25NYW5hZ2VyIj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDx0eDoK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDwvYmVhbj4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxiZWFuIG5hbWU9ImRpc3BhdGNoZXIiIGNsYXNzPSIqLlNwcmluZyouRGlzcGF0Q2hlciI+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>qa</text>
