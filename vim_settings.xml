@@ -24,11 +24,10 @@
       <file name="/a.dummy" timestamp="1494922620828">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/newDao/web/WEB-INF/views/list.jsp" timestamp="1495187577361">
-        <mark key="[" line="34" column="46" />
-        <mark key="]" line="36" column="11" />
-        <mark key="." line="36" column="11" />
-        <mark key="^" line="36" column="11" />
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/newDao/web/WEB-INF/views/list.jsp" timestamp="1495189549904">
+        <mark key="[" line="37" column="12" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/transaction/src/com/atguigu/service/BookServiceImpl.java" timestamp="1495026264991">
         <mark key="[" line="26" column="35" />
@@ -103,11 +102,11 @@
         <mark key="^" line="15" column="27" />
         <mark key="." line="16" column="2" />
       </file>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/newDao/web/WEB-INF/views/add.jsp" timestamp="1495180106275">
-        <mark key="[" line="23" column="6" />
-        <mark key="]" line="22" column="45" />
-        <mark key="." line="22" column="45" />
-        <mark key="^" line="22" column="45" />
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/newDao/web/WEB-INF/views/add.jsp" timestamp="1495189569938">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/bookstore_stage4/web/WEB-INF/include/header.jsp" timestamp="1494226635925">
         <mark key="[" line="16" column="13" />
@@ -376,11 +375,11 @@
       <file name="/XML Fragment (ssss.xml:353).xml" timestamp="1494829298571">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/newDao/src/com/atguigu/handler/EmployeeHandler.java" timestamp="1495181972838">
-        <mark key="[" line="28" column="37" />
-        <mark key="]" line="29" column="19" />
-        <mark key="." line="29" column="19" />
-        <mark key="^" line="29" column="19" />
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/newDao/src/com/atguigu/handler/EmployeeHandler.java" timestamp="1495189563006">
+        <mark key="[" line="35" column="16" />
+        <mark key="]" line="35" column="16" />
+        <mark key="." line="35" column="16" />
+        <mark key="^" line="34" column="16" />
       </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/GI/src/bean.xml" timestamp="1494659007801">
         <mark key="[" line="6" column="42" />
@@ -648,6 +647,12 @@
         <mark key="^" line="64" column="60" />
         <mark key="." line="64" column="60" />
       </file>
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/newDao/web/WEB-INF/views/add2.jsp" timestamp="1495189412268">
+        <mark key="[" line="15" column="75" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/GI/src/com/atguigu/service/OrderServiceTest.java" timestamp="1494942994127">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="49" column="0" />
@@ -756,11 +761,11 @@
       <jump line="13" column="0" filename="$USER_HOME$/workspaces/IdeaProjects/javaframework/newDao/web/index.jsp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>add</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>add</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw+XD4=</text>
@@ -769,31 +774,31 @@
         <text encoding="base64">ICA8YSBocmVmPSIke3BhZ2VDb250ZXh0LnJlcXVlc3QuY29udGV4dFBhdGh9L2hlbGxvd29ybGQ/bmFtZT0xMDAiPnJlYWQgcGFyYW1ldGVyPC9hPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">PCVAIHBhZ2UgaW1wb3J0PSJqYXZhLnV0aWwuTWFwIiAlPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxmb3JtOmJ1dHRvbgo=</text>
+        <text encoding="base64">PCVAIHBhZ2UgaW1wb3J0PSJqYXZhLnV0aWwuSGFzaE1hcCIgJT48JS0tCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZD5EZWxldGU8L3RkPgo=</text>
+        <text encoding="base64">PGZvcm06aW5wdXQgcGF0aD0iIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgZGVwYXJ0bWVudHMgPSBkZXBhcnRtZW50RGFvLmdldERlcGFydG1lbnRzKCk7Cg==</text>
+        <text encoding="base64">PGZvcm06aW5wdXQgcGF0aD0iIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxmb3JtOmlucHV0IHBhdGg9ImVtYWlsIi8+CjwvZm9ybTpmb3JtPgo=</text>
+        <text encoding="base64">ICAgICAgPGZvcm06c2VsZWN0ICogZnJvbSBhOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRka2pkZAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>qa</text>
