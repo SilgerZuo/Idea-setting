@@ -120,7 +120,6 @@
         <mark key="^" line="16" column="24" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/newSpring/web/WEB-INF/views/success.jsp" timestamp="1495089903812" />
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/bookstore_stage4/src/com/atguigu/bookstore/Dao/itf/BookDao.java" timestamp="1494296027818">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="0" />
@@ -257,11 +256,11 @@
         <mark key="." line="38" column="18" />
         <mark key="^" line="38" column="18" />
       </file>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/newSpring/src/com/atguigu/disptacher/HelloWorld.java" timestamp="1495099317234">
-        <mark key="[" line="53" column="27" />
-        <mark key="]" line="53" column="27" />
-        <mark key="^" line="52" column="66" />
-        <mark key="." line="53" column="27" />
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/newSpring/src/com/atguigu/disptacher/HelloWorld.java" timestamp="1495155243200">
+        <mark key="[" line="37" column="25" />
+        <mark key="]" line="37" column="15" />
+        <mark key="^" line="37" column="15" />
+        <mark key="." line="37" column="15" />
       </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/bookstore_stage4/src/com/atguigu/bookstore/utils/JDBCUtils.java" timestamp="1494473744682">
         <mark key="[" line="31" column="31" />
