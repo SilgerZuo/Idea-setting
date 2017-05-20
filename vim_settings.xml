@@ -66,7 +66,6 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/newDao/web/WEB-INF/lib/spring-webmvc-4.0.0.RELEASE.jar!/org/springframework/web/servlet/FrameworkServlet.class" timestamp="1495246550860" />
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/test1/src/i18n_zh_CN.properties" timestamp="1494485950941">
         <mark key="[" line="0" column="9" />
         <mark key="]" line="0" column="9" />
@@ -77,7 +76,6 @@
         <mark key="]" line="42" column="39" />
         <mark key="." line="42" column="39" />
       </file>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/newDao/web/WEB-INF/lib/spring-webmvc-4.0.0.RELEASE.jar!/org/springframework/web/servlet/view/InternalResourceViewResolver.class" timestamp="1495249566216" />
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/transaction/src/bean.xml" timestamp="1495026345116">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
@@ -189,11 +187,11 @@
         <mark key="^" line="6" column="27" />
         <mark key="." line="6" column="27" />
       </file>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/newDao/src/spring.xml" timestamp="1495249798144">
-        <mark key="[" line="15" column="27" />
-        <mark key="]" line="15" column="27" />
-        <mark key="^" line="14" column="54" />
-        <mark key="." line="15" column="27" />
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/newDao/src/spring.xml" timestamp="1495260031673">
+        <mark key="[" line="11" column="56" />
+        <mark key="]" line="11" column="56" />
+        <mark key="^" line="11" column="56" />
+        <mark key="." line="11" column="56" />
       </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/transaction/src/test.java" timestamp="1494927194120">
         <mark key="[" line="16" column="51" />
@@ -375,10 +373,11 @@
       <file name="/XML Fragment (ssss.xml:353).xml" timestamp="1494829298571">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/newDao/src/com/atguigu/handler/EmployeeHandler.java" timestamp="1495234895099">
-        <mark key="[" line="50" column="48" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/newDao/src/com/atguigu/handler/EmployeeHandler.java" timestamp="1495260365156">
+        <mark key="[" line="72" column="35" />
+        <mark key="]" line="48" column="4" />
+        <mark key="." line="48" column="4" />
+        <mark key="^" line="48" column="4" />
       </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/GI/src/bean.xml" timestamp="1494659007801">
         <mark key="[" line="6" column="42" />
@@ -533,7 +532,6 @@
         <mark key="." line="6" column="25" />
         <mark key="^" line="6" column="25" />
       </file>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/newDao/src/com/atguigu/beans/Employee.java" timestamp="1495246634994" />
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/springmvc02_springmvc/web/WEB-INF/views/add.jsp" timestamp="1495205455427">
         <mark key="[" line="16" column="76" />
         <mark key="]" line="16" column="47" />
@@ -635,7 +633,7 @@
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/bookstore_stage4/src/com/atguigu/bookstore/beans/Book.java" timestamp="1494210130653">
         <mark key="[" line="87" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1494920545705">
+      <file name="/Dummy.txt" timestamp="1495260087534">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/AOP/src/ss.xml" timestamp="1494834447425">
@@ -828,7 +826,7 @@
         <text encoding="base64">ICAgIDxiZWFuPgo=</text>
       </register>
       <register name=":" type="4">
-        <text>qa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -849,6 +847,7 @@
         <entry>set paste</entry>
         <entry>wqa</entry>
         <entry>qa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -916,6 +915,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
