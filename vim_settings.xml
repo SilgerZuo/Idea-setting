@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day01/src/com/atguigu/mappers/CustomerMapper.xml" timestamp="1495550315512">
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day01/src/com/atguigu/mappers/CustomerMapper.xml" timestamp="1495581689218">
         <mark key="'" line="43" column="3" />
         <mark key="[" line="10" column="7" />
         <mark key="]" line="10" column="6" />
@@ -34,7 +34,6 @@
         <mark key="^" line="9" column="10" />
         <mark key="." line="13" column="28" />
       </file>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/springmvc02_springmvc/web/WEB-INF/lib/spring-webmvc-4.3.8.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class" timestamp="1495552786175" />
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/newDao/web/WEB-INF/views/list.jsp" timestamp="1495234892628">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="49" column="41" />
@@ -396,7 +395,7 @@
         <mark key="^" line="0" column="30" />
         <mark key="." line="0" column="30" />
       </file>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day01/src/com/atguigu/mappers/CustomerMapper.java" timestamp="1495538014653">
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day01/src/com/atguigu/mappers/CustomerMapper.java" timestamp="1495581438784">
         <mark key="'" line="39" column="25" />
         <mark key="[" line="39" column="24" />
         <mark key="]" line="39" column="24" />
@@ -484,7 +483,7 @@
         <mark key="." line="50" column="37" />
         <mark key="^" line="58" column="26" />
       </file>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day01/src/test/test.java" timestamp="1495538689331">
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day01/src/test/test.java" timestamp="1495581382314">
         <mark key="a" line="128" column="8" />
         <mark key="'" line="250" column="0" />
         <mark key="[" line="246" column="27" />
@@ -548,7 +547,6 @@
       <file name="/Dummy.txt" timestamp="1495525535601">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/depences/spring-full/spring-webmvc-4.3.8.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java" timestamp="1495553068748" />
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/newDao/src/com/atguigu/MyHandler/FirstHandlerInterceptor.java" timestamp="1495458965886">
         <mark key="[" line="13" column="1" />
         <mark key="]" line="13" column="1" />
