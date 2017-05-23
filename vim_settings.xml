@@ -3,10 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day01/src/com/atguigu/mappers/CustomerMapper.xml" timestamp="1495525641611">
-        <mark key="[" line="30" column="131" />
-        <mark key="]" line="30" column="131" />
-        <mark key="." line="30" column="131" />
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day01/src/com/atguigu/mappers/CustomerMapper.xml" timestamp="1495526704941">
+        <mark key="[" line="34" column="11" />
+        <mark key="]" line="33" column="104" />
+        <mark key="." line="33" column="104" />
+        <mark key="^" line="33" column="104" />
       </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/transaction/src/com/atguigu/dao/userDao.java" timestamp="1494920175422">
         <mark key="[" line="5" column="22" />
@@ -394,10 +395,10 @@
         <mark key="." line="0" column="30" />
       </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day01/src/com/atguigu/mappers/CustomerMapper.java" timestamp="1495525559226">
-        <mark key="[" line="16" column="51" />
-        <mark key="]" line="16" column="50" />
-        <mark key="^" line="16" column="50" />
-        <mark key="." line="16" column="50" />
+        <mark key="[" line="17" column="51" />
+        <mark key="]" line="17" column="50" />
+        <mark key="^" line="17" column="50" />
+        <mark key="." line="17" column="50" />
       </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/bookstore_stage4/src/com/atguigu/bookstore/Dao/imp/OrderDaoImpl.java" timestamp="1494295339345">
         <mark key="[" line="16" column="0" />
@@ -480,12 +481,12 @@
         <mark key="." line="50" column="37" />
         <mark key="^" line="58" column="26" />
       </file>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day01/src/test/test.java" timestamp="1495525502098">
-        <mark key="a" line="139" column="8" />
-        <mark key="[" line="175" column="43" />
-        <mark key="]" line="178" column="41" />
-        <mark key="." line="178" column="41" />
-        <mark key="^" line="178" column="41" />
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day01/src/test/test.java" timestamp="1495526522960">
+        <mark key="a" line="135" column="8" />
+        <mark key="[" line="93" column="5" />
+        <mark key="]" line="93" column="5" />
+        <mark key="." line="93" column="5" />
+        <mark key="^" line="174" column="41" />
       </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/JdbcTemplete/src/test.xml" timestamp="1494914004344">
         <mark key="[" line="16" column="55" />
@@ -696,7 +697,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>maxAge</text>
+        <text encoding="base64">5a6e6aqMNe+8muafpeivokxpc3Q8Q3VzdG9tZXI+77yM5p+l6K+i5p2h5Lu25pivICjku6Xlrp7kvZPnsbvlr7nosaHlvaLlvI/lsIHoo4Xmn6Xor6LmnaHku7YpCiAgICAgY3VzdF9uYW1l5YyF5ZCrJ2EnCiAgICAgY3VzdF9hZ2XlpKfkuo4yMA==</text>
       </register>
       <register name="-" type="4">
         <text>maxAge</text>
@@ -707,17 +708,17 @@
       <register name="0" type="4">
         <text>org.springframework.stereotype.Controller</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">5a6e6aqMNe+8muafpeivokxpc3Q8Q3VzdG9tZXI+77yM5p+l6K+i5p2h5Lu25pivICjku6Xlrp7kvZPnsbvlr7nosaHlvaLlvI/lsIHoo4Xmn6Xor6LmnaHku7YpCiAgICAgY3VzdF9uYW1l5YyF5ZCrJ2EnCiAgICAgY3VzdF9hZ2XlpKfkuo4yMA==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRpZHNkYWRzCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGRpZHNkYWRzCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -729,10 +730,10 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICDlrp7pqowz77ya5p+l6K+iY3VzdF9pZOS4ujEy55qEQ3VzdG9tZXIK</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigpCg==</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
