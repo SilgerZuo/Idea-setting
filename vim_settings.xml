@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day01/src/com/atguigu/mappers/CustomerMapper.xml" timestamp="1495508603284">
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day01/src/com/atguigu/mappers/CustomerMapper.xml" timestamp="1495509434901">
         <mark key="[" line="11" column="16" />
         <mark key="]" line="11" column="16" />
         <mark key="." line="11" column="16" />
@@ -449,7 +449,7 @@
         <mark key="." line="16" column="47" />
         <mark key="^" line="16" column="47" />
       </file>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day01/web/WEB-INF/web.xml" timestamp="1495508229189">
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day01/web/WEB-INF/web.xml" timestamp="1495508827824">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
@@ -476,10 +476,11 @@
         <mark key="." line="50" column="37" />
         <mark key="^" line="58" column="26" />
       </file>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day01/src/test/test.java" timestamp="1495508463067">
-        <mark key="[" line="59" column="50" />
-        <mark key="]" line="59" column="50" />
-        <mark key="." line="59" column="50" />
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day01/src/test/test.java" timestamp="1495509238192">
+        <mark key="[" line="73" column="22" />
+        <mark key="]" line="73" column="21" />
+        <mark key="." line="73" column="21" />
+        <mark key="^" line="73" column="21" />
       </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/JdbcTemplete/src/test.xml" timestamp="1494914004344">
         <mark key="[" line="16" column="55" />
@@ -529,10 +530,10 @@
         <mark key="." line="21" column="29" />
         <mark key="^" line="21" column="29" />
       </file>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day01/src/mybatis-config.xml" timestamp="1495508578799">
-        <mark key="[" line="24" column="46" />
-        <mark key="]" line="24" column="46" />
-        <mark key="." line="24" column="46" />
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day01/src/mybatis-config.xml" timestamp="1495509777339">
+        <mark key="[" line="3" column="54" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/newDao/src/com/atguigu/MyHandler/FirstHandlerInterceptor.java" timestamp="1495458965886">
         <mark key="[" line="13" column="1" />
@@ -681,11 +682,11 @@
       <jump line="567" column="0" filename="$USER_HOME$/workspaces/IdeaProjects/javaframework/newDao/web/WEB-INF/lib/spring-webmvc-4.3.8.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>CustomerMapper</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>CustomerMapper</text>
+        <text encoding="base64">ZWVlZWVlaGUg</text>
       </register>
       <register name="/" type="4">
         <text>^d</text>
@@ -699,14 +700,14 @@
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIDxzZXJ2bGV0PgogICAgICAgIDxzZXJ2bGV0LW5hbWU+U2VydmxldDwvc2VydmxldC1uYW1lPgogICAgICAgIDxzZXJ2bGV0LWNsYXNzPmNvbS5hdGd1aWd1LlNlcnZsZXQ8L3NlcnZsZXQtY2xhc3M+CiAgICA8L3NlcnZsZXQ+</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgIDxzZXJ2bGV0PgogICAgICAgIDxzZXJ2bGV0LW5hbWU+U2VydmxldDwvc2VydmxldC1uYW1lPgogICAgICAgIDxzZXJ2bGV0LWNsYXNzPmNvbS5hdGd1aWd1LlNlcnZsZXQ8L3NlcnZsZXQtY2xhc3M+CiAgICA8L3NlcnZsZXQ+</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
