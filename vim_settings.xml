@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day01/src/com/atguigu/mappers/CustomerMapper.xml" timestamp="1495528580198">
-        <mark key="[" line="34" column="67" />
-        <mark key="]" line="32" column="95" />
-        <mark key="." line="32" column="95" />
-        <mark key="^" line="32" column="95" />
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day01/src/com/atguigu/mappers/CustomerMapper.xml" timestamp="1495533765210">
+        <mark key="'" line="36" column="51" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="36" column="0" />
       </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/transaction/src/com/atguigu/dao/userDao.java" timestamp="1494920175422">
         <mark key="[" line="5" column="22" />
@@ -394,11 +395,12 @@
         <mark key="^" line="0" column="30" />
         <mark key="." line="0" column="30" />
       </file>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day01/src/com/atguigu/mappers/CustomerMapper.java" timestamp="1495525559226">
-        <mark key="[" line="17" column="51" />
-        <mark key="]" line="17" column="50" />
-        <mark key="^" line="17" column="50" />
-        <mark key="." line="17" column="50" />
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day01/src/com/atguigu/mappers/CustomerMapper.java" timestamp="1495533666820">
+        <mark key="'" line="18" column="50" />
+        <mark key="[" line="24" column="66" />
+        <mark key="]" line="18" column="50" />
+        <mark key="^" line="18" column="50" />
+        <mark key="." line="18" column="50" />
       </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaweb/bookstore_stage4/src/com/atguigu/bookstore/Dao/imp/OrderDaoImpl.java" timestamp="1494295339345">
         <mark key="[" line="16" column="0" />
@@ -481,12 +483,12 @@
         <mark key="." line="50" column="37" />
         <mark key="^" line="58" column="26" />
       </file>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day01/src/test/test.java" timestamp="1495527173268">
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day01/src/test/test.java" timestamp="1495533654161">
         <mark key="a" line="137" column="8" />
-        <mark key="[" line="190" column="80" />
-        <mark key="]" line="190" column="79" />
-        <mark key="." line="190" column="79" />
-        <mark key="^" line="190" column="79" />
+        <mark key="[" line="194" column="80" />
+        <mark key="]" line="194" column="79" />
+        <mark key="." line="194" column="79" />
+        <mark key="^" line="194" column="79" />
       </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/JdbcTemplete/src/test.xml" timestamp="1494914004344">
         <mark key="[" line="16" column="55" />
@@ -694,13 +696,15 @@
       <jump line="567" column="0" filename="$USER_HOME$/workspaces/IdeaProjects/javaframework/newDao/web/WEB-INF/lib/spring-webmvc-4.3.8.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java" />
       <jump line="5" column="13" filename="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day01/src/com/atguigu/beans/Customer.java" />
       <jump line="46" column="0" filename="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day01/src/com/atguigu/beans/Customer.java" />
+      <jump line="17" column="50" filename="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day01/src/com/atguigu/mappers/CustomerMapper.java" />
+      <jump line="36" column="51" filename="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day01/src/com/atguigu/mappers/CustomerMapper.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>^d</text>
