@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/springmvc02_springmvc/src/com/atguigu/handler/MyHandler.java" timestamp="1495592581136">
-        <mark key="[" line="50" column="37" />
-        <mark key="]" line="50" column="37" />
-        <mark key="." line="50" column="37" />
-        <mark key="^" line="58" column="26" />
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/springmvc02_springmvc/src/com/atguigu/handler/MyHandler.java" timestamp="1495637882519">
+        <mark key="[" line="70" column="57" />
+        <mark key="]" line="67" column="42" />
+        <mark key="." line="67" column="42" />
+        <mark key="^" line="67" column="42" />
       </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day02/src/test/test.java" timestamp="1495632479669">
         <mark key="'" line="140" column="0" />
@@ -131,7 +131,7 @@
         <mark key="." line="144" column="36" />
         <mark key="^" line="144" column="36" />
       </file>
-      <file name="/fragment.java" timestamp="1495588133760">
+      <file name="/fragment.java" timestamp="1495637981660">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -238,11 +238,11 @@
       <jump line="14" column="0" filename="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day03/src/com/atguigu/beans/Customer.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tPHR5cGVBbGlhcyBhbGktLT4K</text>
+      <register name="&quot;" type="4">
+        <text>addAllAttribute</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>addAllAttribute</text>
       </register>
       <register name="/" type="4">
         <text>Before</text>
