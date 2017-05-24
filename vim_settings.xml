@@ -3,70 +3,34 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day01/src/com/atguigu/mappers/CustomerMapper.xml" timestamp="1495581689218">
-        <mark key="'" line="43" column="3" />
-        <mark key="[" line="10" column="7" />
-        <mark key="]" line="10" column="6" />
-        <mark key="." line="10" column="6" />
-        <mark key="^" line="10" column="6" />
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/springmvc02_springmvc/src/com/atguigu/handler/MyHandler.java" timestamp="1495592581136">
+        <mark key="[" line="50" column="37" />
+        <mark key="]" line="50" column="37" />
+        <mark key="." line="50" column="37" />
+        <mark key="^" line="58" column="26" />
       </file>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/springmvc02_springmvc/web/WEB-INF/lib/spring-webmvc-4.3.8.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class" timestamp="1495586018102" />
       <file name="/a.dummy" timestamp="1495610203951">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/springmvc02_springmvc/web/WEB-INF/lib/spring-web-4.3.8.RELEASE.jar!/org/springframework/web/context/ContextLoaderListener.class" timestamp="1495592932083" />
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day03/src/com/atguigu/mappers/CustomerMapper.java" timestamp="1495611392383">
-        <mark key="[" line="18" column="26" />
-        <mark key="]" line="18" column="3" />
-        <mark key="^" line="18" column="3" />
-        <mark key="." line="18" column="3" />
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day03/src/test/test.java" timestamp="1495623814430">
+        <mark key="[" line="131" column="37" />
+        <mark key="]" line="137" column="0" />
+        <mark key="." line="137" column="0" />
+        <mark key="^" line="137" column="0" />
       </file>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day03/src/com/atguigu/mappers/CustomerMapper.xml" timestamp="1495611610526">
-        <mark key="[" line="44" column="48" />
-        <mark key="]" line="44" column="48" />
-        <mark key="." line="44" column="48" />
-        <mark key="^" line="43" column="20" />
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day03_delay/src/com/atguigu/mappers/CustomerMapper.java" timestamp="1495626952725">
+        <mark key="[" line="18" column="44" />
+        <mark key="]" line="18" column="44" />
+        <mark key="." line="18" column="44" />
       </file>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/newDao/src/spring.xml" timestamp="1495458845833">
-        <mark key="'" line="43" column="0" />
-        <mark key="[" line="38" column="4" />
-        <mark key="]" line="40" column="61" />
-        <mark key="." line="40" column="61" />
-        <mark key="^" line="40" column="61" />
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day03_delay/src/com/atguigu/mappers/CustomerMapper.xml" timestamp="1495626942183">
+        <mark key="[" line="15" column="51" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="15" column="52" />
+        <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/depences/spring-full/spring-webmvc-4.3.8.RELEASE-sources.jar!/org/springframework/web/servlet/handler/AbstractHandlerMethodMapping.java" timestamp="1495586650600" />
       <file name="/a.sql" timestamp="1495589421431">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day03/src/com/atguigu/beans/Order.java" timestamp="1495610050045">
-        <mark key="'" line="19" column="32" />
-        <mark key="[" line="41" column="5" />
-        <mark key="]" line="19" column="32" />
-        <mark key="." line="19" column="32" />
-        <mark key="^" line="19" column="32" />
-      </file>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day02/src/com/atguigu/mappers/CustomerMapper.java" timestamp="1495596441344">
-        <mark key="[" line="18" column="4" />
-        <mark key="]" line="18" column="4" />
-        <mark key="." line="18" column="4" />
-        <mark key="^" line="17" column="18" />
-      </file>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day03/src/com/atguigu/mappers/OrderMapper.java" timestamp="1495611420131">
-        <mark key="[" line="7" column="30" />
-      </file>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day02/src/test/test.java" timestamp="1495596170240">
-        <mark key="'" line="134" column="0" />
-        <mark key="[" line="127" column="55" />
-        <mark key="]" line="128" column="33" />
-        <mark key="." line="128" column="33" />
-        <mark key="^" line="128" column="33" />
-      </file>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day01/src/com/atguigu/beans/Customer.java" timestamp="1495524890576">
-        <mark key="'" line="46" column="0" />
-        <mark key="[" line="45" column="5" />
-        <mark key="]" line="43" column="7" />
-        <mark key="^" line="43" column="7" />
-        <mark key="." line="43" column="7" />
       </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day02/src/com/atguigu/mappers/CustomerMapper.xml" timestamp="1495596598097">
         <mark key="[" line="35" column="50" />
@@ -74,42 +38,82 @@
         <mark key="." line="35" column="47" />
         <mark key="^" line="35" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/depences/spring-full/spring-context-4.3.8.RELEASE-sources.jar!/org/springframework/context/event/GenericApplicationListenerAdapter.java" timestamp="1495587678453" />
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day01/src/com/atguigu/mappers/CustomerMapper.java" timestamp="1495581438784">
-        <mark key="'" line="39" column="25" />
-        <mark key="[" line="39" column="24" />
-        <mark key="]" line="39" column="24" />
-        <mark key="^" line="38" column="6" />
-        <mark key="." line="39" column="24" />
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day03/src/com/atguigu/mappers/CustomerMapper.java" timestamp="1495624201516">
+        <mark key="[" line="18" column="40" />
+        <mark key="]" line="18" column="40" />
+        <mark key="^" line="18" column="3" />
+        <mark key="." line="18" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/depences/spring-full/spring-webmvc-4.3.8.RELEASE-sources.jar!/org/springframework/web/servlet/FrameworkServlet.java" timestamp="1495588630493" />
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/springmvc02_springmvc/src/com/atguigu/handler/MyHandler.java" timestamp="1495592581136">
-        <mark key="[" line="50" column="37" />
-        <mark key="]" line="50" column="37" />
-        <mark key="." line="50" column="37" />
-        <mark key="^" line="58" column="26" />
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day03/src/mybatis-config.xml" timestamp="1495623567099">
+        <mark key="[" line="8" column="44" />
       </file>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day03/src/test/test.java" timestamp="1495610551522">
-        <mark key="[" line="128" column="48" />
-        <mark key="]" line="128" column="48" />
-        <mark key="." line="128" column="48" />
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day03/src/com/atguigu/mappers/OrderMapper.xml" timestamp="1495623386555">
+        <mark key="[" line="12" column="30" />
+        <mark key="]" line="12" column="30" />
+        <mark key="." line="12" column="30" />
+      </file>
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day03_delay/src/com/atguigu/beans/Customer.java" timestamp="1495627589256" />
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day03/src/com/atguigu/mappers/CustomerMapper.xml" timestamp="1495627732796">
+        <mark key="[" line="44" column="36" />
+        <mark key="]" line="44" column="35" />
+        <mark key="^" line="44" column="35" />
+        <mark key="." line="44" column="35" />
       </file>
       <file name="/Dummy.txt" timestamp="1495589407906">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/depences/spring-full/spring-webmvc-4.3.8.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java" timestamp="1495593068759" />
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/springmvc02_springmvc/web/WEB-INF/lib/spring-web-4.3.8.RELEASE.jar!/org/springframework/web/filter/OncePerRequestFilter.class" timestamp="1495586813833" />
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day03_delay/src/com/atguigu/mappers/OrderMapper.xml" timestamp="1495627275091">
+        <mark key="[" line="17" column="15" />
+        <mark key="]" line="17" column="15" />
+        <mark key="." line="17" column="15" />
+        <mark key="^" line="17" column="52" />
+      </file>
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day03/src/com/atguigu/beans/Order.java" timestamp="1495622248117">
+        <mark key="'" line="19" column="32" />
+        <mark key="[" line="7" column="12" />
+        <mark key="]" line="7" column="17" />
+        <mark key="." line="7" column="17" />
+        <mark key="^" line="7" column="17" />
+      </file>
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day03_delay/src/com/atguigu/beans/Order.java" timestamp="1495627403258">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+      </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day03/src/com/atguigu/mappers/OrderMapper.xml.fxml" timestamp="1495611064457">
         <mark key="[" line="5" column="39" />
         <mark key="]" line="5" column="39" />
         <mark key="." line="5" column="39" />
       </file>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day03/src/com/atguigu/beans/Customer.java" timestamp="1495610921268">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="18" column="53" />
-        <mark key="]" line="18" column="53" />
-        <mark key="^" line="67" column="3" />
-        <mark key="." line="18" column="53" />
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day03_delay/src/com/atguigu/mappers/OrderMapper.java" timestamp="1495626217571">
+        <mark key="[" line="11" column="16" />
+        <mark key="]" line="11" column="16" />
+        <mark key="." line="11" column="16" />
+      </file>
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day03/src/com/atguigu/beans/Customer.java" timestamp="1495623202281">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="68" column="3" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day03_delay/src/mybatis-config.xml" timestamp="1495627017584" />
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day02/src/com/atguigu/mappers/CustomerMapper.java" timestamp="1495596441344">
+        <mark key="[" line="18" column="4" />
+        <mark key="]" line="18" column="4" />
+        <mark key="." line="18" column="4" />
+        <mark key="^" line="17" column="18" />
+      </file>
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day03/src/com/atguigu/mappers/OrderMapper.java" timestamp="1495623215021">
+        <mark key="[" line="11" column="11" />
+        <mark key="]" line="11" column="11" />
+        <mark key="." line="11" column="11" />
+      </file>
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day03_delay/src/test/test.java" timestamp="1495627336356">
+        <mark key="[" line="144" column="36" />
+        <mark key="]" line="144" column="36" />
+        <mark key="." line="144" column="36" />
+        <mark key="^" line="144" column="36" />
       </file>
       <file name="/fragment.java" timestamp="1495588133760">
         <mark key="[" line="0" column="0" />
@@ -219,10 +223,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>CustomerMapper</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFN0cmluZyB0b1N0cmluZygpIHsKICAgICAgICByZXR1cm4gIk9yZGVyeyIgKwogICAgICAgICAgICAgICAgIm9yZGVySWQ9IiArIG9yZGVySWQgKwogICAgICAgICAgICAgICAgIiwgb3JkZXJOYW1lPSciICsgb3JkZXJOYW1lICsgJ1wnJyArCiAgICAgICAgICAgICAgICAiLCBvcmRlckFtb3VudD0iICsgb3JkZXJBbW91bnQgKwogICAgICAgICAgICAgICAgJ30nOwogICAgfQ==</text>
       </register>
       <register name="-" type="4">
-        <text>CustomerMapper</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>Before</text>
@@ -230,32 +234,32 @@
       <register name="0" type="4">
         <text>queryValuesToMapsList</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxjb2xsZWN0aW9uPjwvY29sbGVjdGlvbj4K</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFN0cmluZyB0b1N0cmluZygpIHsKICAgICAgICByZXR1cm4gIk9yZGVyeyIgKwogICAgICAgICAgICAgICAgIm9yZGVySWQ9IiArIG9yZGVySWQgKwogICAgICAgICAgICAgICAgIiwgb3JkZXJOYW1lPSciICsgb3JkZXJOYW1lICsgJ1wnJyArCiAgICAgICAgICAgICAgICAiLCBvcmRlckFtb3VudD0iICsgb3JkZXJBbW91bnQgKwogICAgICAgICAgICAgICAgJ30nOwogICAgfQ==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvc2V0Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICA8cmVzdWx0IGNvbHVtbj0ib3JkZXJfaWQiIHByb3BlcnR5PSJvcmRlck5hbWUiIC8+Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxzZXQ+Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICA8IS0tPGFzc29jaWF0aW9uIHByb3BlcnR5PSJvcmRlclNldCI+LS0+CiAgICAgICAgICAgIDwhLS08aS0tPgogICAgICAgIDwhLS08L2Fzc29jaWF0aW9uPi0tPg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgIDxzZWxlY3QgaWQ9ImdldEN1c3RvbWVyIiByZXN1bHRUeXBlPSJjb20uYXRndWlndS5iZWFucy5DdXN0b21lciI+Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIDwK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgIDwhLS0g5L+d5a2YCiAgICBpZDrmjIflrprmjqXlj6PnmoTmlrnms5XlkI3np7AKICAgIHBhcmFtZXRlclR5cGUgOiDmjIflrprmlrnms5Xlj4LmlbDnmoTnsbvlnosKICAgICN7feihqOekuuiOt+WPluivt+axguWPguaVsCznu5lTUUzor63lj6XnmoQ/5Y+35Lyg6YCS5Y+C5pWwCiAgICAtLT4KCgoKCiAgICA8IS0tPHVwZGF0ZSBpZD0ic2F2ZUN1c3RvbWVyIiBwYXJhbWV0ZXJNYXA9ImNvbS5hdGd1aWd1LmJlYW5zLkN1c3RvbWVyIj4tLT4KICAgIDwhLS1JTlNFUlQgSU5UTyB0YmxfY3VzdC0tPgogICAgPCEtLTwvdXBkYXRlPi0tPgogICAgPCEtLTxzZWxlY3QgaWQ9ImdldExpc3RCeU1pbk1heEFnZSIgcmVzdWx0VHlwZT0iQ3VzdG9tZXIiPi0tPgogICAgPCEtLVNFTEVDVCBjdXN0X2lkIGN1c3RJZCxjdXN0X25hbWUgY3VzdE5hbWUsY3VzdF9hZ2UgY3VzdEFnZSBGUk9NIHRibF9jdXN0LS0+CiAgICA8IS0tV0hFUkUgMT0xLS0+CiAgICA8IS0tPGlmIHRlc3Q9Im1pbkFnZSE9bnVsbCI+LS0+CiAgICA8IS0tQU5EIGN1c3RfYWdlID4gJHttaW5BZ2V9LS0+CiAgICA8IS0tPC9pZj4tLT4KICAgIDwhLS08aWYgdGVzdD0ibWluQWdlIT1udWxsIj4tLT4KICAgIDwhLS1BTkQgY3VzdF9hZ2UgJmx0OyAke21heEFnZX0tLT4KICAgIDwhLS08L2lmPi0tPgogICAgPCEtLTwvc2VsZWN0PiAgICAtLT4KICAgIDwhLS08c2VsZWN0IGlkPSJnZXRMaXN0QnlNaW5NYXhBZ2UiIHJlc3VsdFR5cGU9IkN1c3RvbWVyIj4tLT4KICAgIDwhLS1TRUxFQ1QgY3VzdF9pZCBjdXN0SWQsY3VzdF9uYW1lIGN1c3ROYW1lLGN1c3RfYWdlIGN1c3RBZ2UgRlJPTSB0YmxfY3VzdC0tPgogICAgPCEtLTx3aGVyZT4tLT4KICAgIDwhLS08aWYgdGVzdD0ibWluQWdlIT1udWxsIj4tLT4KICAgIDwhLS1BTkQgY3VzdF9hZ2U+JHttaW5BZ2V9LS0+CiAgICA8IS0tPC9pZj4tLT4KICAgIDwhLS08aWYgdGVzdD0ibWF4QWdlIT1udWxsIj4tLT4KICAgIDwhLS1BTkQgPCFbQ0RBVEFbY3VzdF9hZ2U8JHttYXhBZ2V9XV0+LS0+CiAgICA8IS0tPC9pZj4tLT4KICAgIDwhLS08L3doZXJlPi0tPgogICAgPCEtLTwvc2VsZWN0Pi0tPg==</text>
-      </register>
       <register name="7" type="4">
-        <text encoding="base64">ICAgIDxyZXN1bHRNYXAgaWQ9InJlc3VsdG1hcCIgdHlwZT0iY29tLmF0Z3VpZ3UuYmVhbnMuQ3VzdG9tZXIiPgogICAgICAgIDxpZCBjb2x1bW49ImN1c3RfaWQiIHByb3BlcnR5PSJjdXN0SWQiLz4KICAgICAgICA8cmVzdWx0IGNvbHVtbj0iY3VzdF9uYW1lIiBwcm9wZXJ0eT0iY3VzdE5hbWUiLz4KICAgICAgICA8cmVzdWx0IGNvbHVtbj0iY3VzdF9hZ2UiIHByb3BlcnR5PSJjdXN0QWdlIi8+CiAgICA8L3Jlc3VsdE1hcD4KICAgIDxzZWxlY3QgaWQ9ImdldEN1c3RvbWVyIiByZXN1bHRUeXBlPSJjb20uYXRndWlndS5iZWFucy5DdXN0b21lciIgcmVzdWx0TWFwPSJyZXN1bHRtYXAiPgogICAgICAgIFNFTEVDVCBjdXN0X2lkLGN1c3RfbmFtZSxjdXN0X2FnZSBGUk9NIHRibF9jdXN0IFdIRVJFIGN1c3RfaWQ9ODsKICAgIDwvc2VsZWN0Pg==</text>
+        <text encoding="base64">cmVzdWx0TWFwIGlkPSJPcmRlclJlc3VsdE1hcCIgdHlwZT0iY29tLmF0Z3VpZ3UuYmVhbnMuT3JkZXIiPgogICAgICAgIDxpZCBjb2x1bW49Im9yZGVyX2lkIiBwcm9wZXJ0eT0ib3JkZXJJZCIvPgogICAgICAgIDxpZCBjb2x1bW49Im9yZGVyX25hbWUiIHByb3BlcnR5PSJvcmRlck5hbWUiLz4KICAgICAgICA8aWQgY29sdW1uPSJvcmRlcl9hbW91bnQiIHByb3BlcnR5PSJvcmRlckFtb3VudCIvPgogICAgPC9yZXN1bHRNYXA+CiAgICA8c2VsZWN0IGlkPSJnZXRPcmRlckJ5SWQiIHJlc3VsdE1hcD0iT3JkZXJSZXN1bHRNYXAiPgogICAgICAgIDwhLS1TRUxFQ1QgKiBGUk9NIHRibF9vcmRlcjstLT4KICAgICAgICBTRUxFQ1Qgby5vcmRlcl9pZCxvLm9yZGVyX25hbWUsby5vcmRlcl9hbW91bnQsby5jdXN0X2lkCiAgICAgICAgRlJPTSB0Ymxfb3JkZXIgbwogICAgICAgIFdIRVJFIG8uY3VzdF9pZD0je2N1c3RJZH0KICAgIDwvc2VsZWN0Pg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgZ2V0Q3VzdEFnZSgpIHsK</text>
+      <register name="9" type="4">
+        <text encoding="base64">IDwhLS0g5L+d5a2YCiAgICBpZDrmjIflrprmjqXlj6PnmoTmlrnms5XlkI3np7AKICAgIHBhcmFtZXRlclR5cGUgOiDmjIflrprmlrnms5Xlj4LmlbDnmoTnsbvlnosKICAgICN7feihqOekuuiOt+WPluivt+axguWPguaVsCznu5lTUUzor63lj6XnmoQ/5Y+35Lyg6YCS5Y+C5pWwCiAgICAtLT4KCgoKCiAgICA8IS0tPHVwZGF0ZSBpZD0ic2F2ZUN1c3RvbWVyIiBwYXJhbWV0ZXJNYXA9ImNvbS5hdGd1aWd1LmJlYW5zLkN1c3RvbWVyIj4tLT4KICAgICAgICA8IS0tSU5TRVJUIElOVE8gdGJsX2N1c3QtLT4KICAgIDwhLS08L3VwZGF0ZT4tLT4KICAgIDwhLS08c2VsZWN0IGlkPSJnZXRMaXN0QnlNaW5NYXhBZ2UiIHJlc3VsdFR5cGU9IkN1c3RvbWVyIj4tLT4KICAgICAgICA8IS0tU0VMRUNUIGN1c3RfaWQgY3VzdElkLGN1c3RfbmFtZSBjdXN0TmFtZSxjdXN0X2FnZSBjdXN0QWdlIEZST00gdGJsX2N1c3QtLT4KICAgICAgICA8IS0tV0hFUkUgMT0xLS0+CiAgICAgICAgPCEtLTxpZiB0ZXN0PSJtaW5BZ2UhPW51bGwiPi0tPgogICAgICAgICAgICA8IS0tQU5EIGN1c3RfYWdlID4gJHttaW5BZ2V9LS0+CiAgICAgICAgPCEtLTwvaWY+LS0+CiAgICAgICAgPCEtLTxpZiB0ZXN0PSJtaW5BZ2UhPW51bGwiPi0tPgogICAgICAgICAgICA8IS0tQU5EIGN1c3RfYWdlICZsdDsgJHttYXhBZ2V9LS0+CiAgICAgICAgPCEtLTwvaWY+LS0+CiAgICA8IS0tPC9zZWxlY3Q+ICAgIC0tPgogICAgPCEtLTxzZWxlY3QgaWQ9ImdldExpc3RCeU1pbk1heEFnZSIgcmVzdWx0VHlwZT0iQ3VzdG9tZXIiPi0tPgogICAgICAgIDwhLS1TRUxFQ1QgY3VzdF9pZCBjdXN0SWQsY3VzdF9uYW1lIGN1c3ROYW1lLGN1c3RfYWdlIGN1c3RBZ2UgRlJPTSB0YmxfY3VzdC0tPgogICAgICAgIDwhLS08d2hlcmU+LS0+CiAgICAgICAgICAgIDwhLS08aWYgdGVzdD0ibWluQWdlIT1udWxsIj4tLT4KICAgICAgICAgICAgICAgIDwhLS1BTkQgY3VzdF9hZ2U+JHttaW5BZ2V9LS0+CiAgICAgICAgICAgIDwhLS08L2lmPi0tPgogICAgICAgICAgICA8IS0tPGlmIHRlc3Q9Im1heEFnZSE9bnVsbCI+LS0+CiAgICAgICAgICAgICAgICA8IS0tQU5EIDwhW0NEQVRBW2N1c3RfYWdlPCR7bWF4QWdlfV1dPi0tPgogICAgICAgICAgICA8IS0tPC9pZj4tLT4KICAgICAgICA8IS0tPC93aGVyZT4tLT4KICAgIDwhLS08L3NlbGVjdD4tLT4KICAgIDxyZXN1bHRNYXAgaWQ9InJlc3VsdE1hcCIgdHlwZT0iY29tLmF0Z3VpZ3UuYmVhbnMuQ3VzdG9tZXIiPgogICAgICAgIDxpZCBjb2x1bW49ImN1c3RfaWQiIHByb3BlcnR5PSJjdXN0SWQiLz4KICAgICAgICA8cmVzdWx0IGNvbHVtbj0iY3VzdF9uYW1lIiBwcm9wZXJ0eT0iY3VzdE5hbWUiLz4KICAgICAgICA8cmVzdWx0IGNvbHVtbj0iY3VzdF9hZ2UiIHByb3BlcnR5PSJjdXN0QWdlIi8+CiAgICAgICAgPGNvbGxlY3Rpb24gcHJvcGVydHk9Im9yZGVyU2V0IiBvZlR5cGU9ImNvbS5hdGd1aWd1LmJlYW5zLk9yZGVyIgogICAgICAgICAgICAgICAgICAgIGNvbHVtbj0iY3VzdF9pZCIKICAgICAgICAgICAgICAgICAgICBzZWxlY3Q9ImNvbS5hdGd1aWd1Lm1hcHBlcnMuT3JkZXJNYXBwZXIuZ2V0T3JkZXJCeUlkIj4KCiAgICAgICAgICAgIDwhLS08aWQgY29sdW1uPSJvcmRlcl9pZCIgcHJvcGVydHk9Im9yZGVySWQiLz4tLT4KICAgICAgICAgICAgPCEtLTxyZXN1bHQgY29sdW1uPSJvcmRlcl9uYW1lIiBwcm9wZXJ0eT0ib3JkZXJOYW1lIi8+LS0+CiAgICAgICAgICAgIDwhLS08cmVzdWx0IGNvbHVtbj0ib3JkZXJfYW1vdW50IiBwcm9wZXJ0eT0ib3JkZXJBbW91bnQiLz4tLT4KCiAgICAgICAgPC9jb2xsZWN0aW9uPgogICAgPC9yZXN1bHRNYXA+CgogICAgPHNlbGVjdCBpZD0iZ2V0Q3VzdG9tZXIiIHJlc3VsdFR5cGU9ImNvbS5hdGd1aWd1LmJlYW5zLkN1c3RvbWVyIiByZXN1bHRNYXA9InJlc3VsdE1hcCIgID4KICAgICAgICAgPCEtLVNFTEVDVCBvLm9yZGVyX2lkLG8ub3JkZXJfYW1vdW50LG8ub3JkZXJfbmFtZSxjLmN1c3RfaWQsYy5jdXN0X25hbWUsYy5jdXN0X2FnZS0tPgogICAgICAgIDwhLS0gRlJPTSB0YmxfY3VzdCBjIExFRlQgSk9JTiB0Ymxfb3JkZXIgby0tPgogICAgICAgIDwhLS0gb24gby5vcmRlcl9pZD1jLmN1c3RfaWQgV0hFUkUgIGMuY3VzdF9pZD0je2N1c3RpZH0tLT4KICAgICAgICBzZWxlY3QgKiBmcm9tIHRibF9jdXN0IFdIRVJFIGN1c3RfaWQ9I3tjdXN0aWR9OwogICAgPC9zZWxlY3Q+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
