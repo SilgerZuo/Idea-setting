@@ -134,11 +134,10 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="35" column="78" />
       </file>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/spring_with_mvc/src/springmvc.xml" timestamp="1495801675019">
-        <mark key="[" line="10" column="43" />
-        <mark key="]" line="10" column="22" />
-        <mark key="." line="10" column="22" />
-        <mark key="^" line="10" column="22" />
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/spring_with_mvc/src/springmvc.xml" timestamp="1495801983840">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybatis_with_spring/src/test/test.java" timestamp="1495785820798">
         <mark key="[" line="38" column="22" />
@@ -265,8 +264,8 @@
       <jump line="101" column="0" filename="$USER_HOME$/workspaces/IdeaProjects/javaframework/spring_with_mvc/src/com/atguigu/mybatis/bean/Customer.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8Y29udGV4dDpleGNsdWRlLWZpbHRlciB0eXBlPSJhbm5vdGF0aW9uIiBleHByZXNzaW9uPSJDb250cm9sbGVyIgo=</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
@@ -278,31 +277,31 @@
         <text>queryValuesToMapsList</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICciJyIK</text>
+        <text encoding="base64">ICAgICAgICA8Y29udGV4dDpleGNsdWRlLWZpbHRlciB0eXBlPSJhbm5vdGF0aW9uIiBleHByZXNzaW9uPSJDb250cm9sbGVyIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICciJyIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxiZWFuIGlkPSIiIGNsYXNzPSIiCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29tLmF0Z3VpZ3UubXliYXRpcy5tYXBwZXIK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG15YmF0aXMtY29uZmlnLnhtbAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIDxiZWFuIGlkPSIiIGNsYXNzPSIiCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29tLmF0Z3VpZ3UubXliYXRpcy5tYXBwZXIK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG15YmF0aXMtY29uZmlnLnhtbAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdAo=</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHR4Om1ldGhvZCBuYW1lPSJzZWxlY3QqIiBwcm9wYWdhdGlvbj0iUkVRVUlSRUQiIGlzb2xhdGlvbj0iREVGQVVMVCIgcm9sbGJhY2stZm9yPSJFeGNlcHRpb24iIC8+Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdAo=</text>
       </register>
       <register name=":" type="4">
         <text>qa</text>
