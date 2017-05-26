@@ -9,6 +9,7 @@
         <mark key="." line="67" column="42" />
         <mark key="^" line="67" column="42" />
       </file>
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybatis_day05/src/TestMBG.java" timestamp="1495766748839" />
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day02/src/test/test.java" timestamp="1495632479669">
         <mark key="'" line="140" column="0" />
         <mark key="[" line="133" column="69" />
@@ -24,11 +25,13 @@
       <file name="/a.dummy" timestamp="1495610203951">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybatis_day05/src/mybatis-config.xml" timestamp="1495766525622" />
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day03_delay/src/com/atguigu/mappers/CustomerMapper.java" timestamp="1495626952725">
         <mark key="[" line="18" column="44" />
         <mark key="]" line="18" column="44" />
         <mark key="." line="18" column="44" />
       </file>
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybatis_day05/web/MBG.xml" timestamp="1495766318449" />
       <file name="/a.sql" timestamp="1495589421431">
         <mark key="[" line="0" column="0" />
       </file>
@@ -50,7 +53,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day03/src/com/atguigu/mappers/CustomerMapper.xml" timestamp="1495759231368" />
-      <file name="/Dummy.txt" timestamp="1495589407906">
+      <file name="/Dummy.txt" timestamp="1495767192916">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day03_delay/src/com/atguigu/beans/Order.java" timestamp="1495627403258">
@@ -66,6 +69,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybatis_day05/src/MBG.xml" timestamp="1495766990829">
+        <mark key="[" line="28" column="26" />
+        <mark key="]" line="28" column="26" />
+        <mark key="." line="28" column="26" />
+      </file>
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybatis_day05/src/test.java" timestamp="1495766572594" />
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day03/src/com/atguigu/mappers/OrderMapper.xml.fxml" timestamp="1495611064457">
         <mark key="[" line="5" column="39" />
         <mark key="]" line="5" column="39" />
@@ -86,6 +95,9 @@
       <file name="/JavaScript File.txt.ft" timestamp="1495632363969">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybatis_day05/src/com/atguigu/mybatis/mapper/CustomerMapper.xml" timestamp="1495767195829">
+        <mark key="'" line="14" column="6" />
+      </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day03/src/com/atguigu/mappers/OrderMapper.java" timestamp="1495623215021">
         <mark key="[" line="11" column="11" />
         <mark key="]" line="11" column="11" />
@@ -99,7 +111,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="4" filename="$USER_HOME$/workspaces/IdeaProjects/javaframework/newDao/web/WEB-INF/views/update.jsp" />
       <jump line="4" column="25" filename="$USER_HOME$/workspaces/IdeaProjects/javaframework/newDao/src/spring.xml" />
       <jump line="7" column="0" filename="$USER_HOME$/workspaces/IdeaProjects/javaframework/newDao/src/spring.xml" />
       <jump line="9" column="0" filename="$USER_HOME$/workspaces/IdeaProjects/javaframework/newDao/src/spring.xml" />
@@ -199,13 +210,14 @@
       <jump line="871" column="25" filename="$USER_HOME$/Documents/depences/spring-full/spring-webmvc-4.3.8.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java" />
       <jump line="856" column="4" filename="$USER_HOME$/Documents/depences/spring-full/spring-webmvc-4.3.8.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java" />
       <jump line="18" column="0" filename="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day02/src/com/atguigu/mappers/CustomerMapper.xml" />
+      <jump line="14" column="6" filename="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybatis_day05/src/com/atguigu/mybatis/mapper/CustomerMapper.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>addAllAttribute</text>
+        <text>root</text>
       </register>
       <register name="-" type="4">
-        <text>addAllAttribute</text>
+        <text>root</text>
       </register>
       <register name="/" type="4">
         <text>init</text>
