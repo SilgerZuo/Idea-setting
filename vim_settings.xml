@@ -29,11 +29,11 @@
         <mark key="]" line="18" column="44" />
         <mark key="." line="18" column="44" />
       </file>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybatis_day05/src/com/atguigu/mybatis/bean/Customer.java" timestamp="1495770319758">
-        <mark key="[" line="26" column="23" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="24" column="0" />
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybatis_day05/src/com/atguigu/mybatis/bean/Customer.java" timestamp="1495780004081">
+        <mark key="[" line="26" column="15" />
+        <mark key="]" line="26" column="14" />
+        <mark key="." line="26" column="14" />
+        <mark key="^" line="26" column="14" />
       </file>
       <file name="/a.sql" timestamp="1495589421431">
         <mark key="[" line="0" column="0" />
@@ -214,10 +214,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>custAge</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>custAge</text>
       </register>
       <register name="/" type="4">
         <text>init</text>
