@@ -32,7 +32,9 @@
       <file name="/a.sql" timestamp="1495589421431">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day02/src/com/atguigu/mappers/CustomerMapper.xml" timestamp="1495763376683" />
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day02/src/com/atguigu/mappers/CustomerMapper.xml" timestamp="1495764031547">
+        <mark key="'" line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day03/src/mybatis-config.xml" timestamp="1495623567099">
         <mark key="[" line="8" column="44" />
       </file>
@@ -97,7 +99,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="0" filename="$USER_HOME$/workspaces/IdeaProjects/javaframework/newDao/web/index.jsp" />
       <jump line="19" column="4" filename="$USER_HOME$/workspaces/IdeaProjects/javaframework/newDao/web/WEB-INF/views/update.jsp" />
       <jump line="4" column="25" filename="$USER_HOME$/workspaces/IdeaProjects/javaframework/newDao/src/spring.xml" />
       <jump line="7" column="0" filename="$USER_HOME$/workspaces/IdeaProjects/javaframework/newDao/src/spring.xml" />
@@ -197,6 +198,7 @@
       <jump line="494" column="12" filename="$USER_HOME$/Documents/depences/spring-full/spring-webmvc-4.3.8.RELEASE-sources.jar!/org/springframework/web/servlet/FrameworkServlet.java" />
       <jump line="871" column="25" filename="$USER_HOME$/Documents/depences/spring-full/spring-webmvc-4.3.8.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java" />
       <jump line="856" column="4" filename="$USER_HOME$/Documents/depences/spring-full/spring-webmvc-4.3.8.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java" />
+      <jump line="18" column="0" filename="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day02/src/com/atguigu/mappers/CustomerMapper.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
