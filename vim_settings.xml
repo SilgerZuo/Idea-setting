@@ -9,7 +9,6 @@
         <mark key="." line="67" column="42" />
         <mark key="^" line="67" column="42" />
       </file>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybatis_day05/src/TestMBG.java" timestamp="1495766748839" />
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day02/src/test/test.java" timestamp="1495632479669">
         <mark key="'" line="140" column="0" />
         <mark key="[" line="133" column="69" />
@@ -25,14 +24,17 @@
       <file name="/a.dummy" timestamp="1495610203951">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybatis_day05/src/mybatis-config.xml" timestamp="1495766525622" />
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day03_delay/src/com/atguigu/mappers/CustomerMapper.java" timestamp="1495626952725">
         <mark key="[" line="18" column="44" />
         <mark key="]" line="18" column="44" />
         <mark key="." line="18" column="44" />
       </file>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybatis_day05/src/log4j.properties" timestamp="1495769867617" />
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybatis_day05/web/MBG.xml" timestamp="1495766318449" />
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybatis_day05/src/com/atguigu/mybatis/bean/Customer.java" timestamp="1495770136795">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="24" column="0" />
+      </file>
       <file name="/a.sql" timestamp="1495589421431">
         <mark key="[" line="0" column="0" />
       </file>
@@ -53,7 +55,6 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1495632361945">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day03/src/com/atguigu/mappers/CustomerMapper.xml" timestamp="1495759231368" />
       <file name="/Dummy.txt" timestamp="1495767192916">
         <mark key="[" line="0" column="0" />
       </file>
@@ -75,7 +76,6 @@
         <mark key="]" line="28" column="26" />
         <mark key="." line="28" column="26" />
       </file>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybatis_day05/src/test.java" timestamp="1495766572594" />
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day03/src/com/atguigu/mappers/OrderMapper.xml.fxml" timestamp="1495611064457">
         <mark key="[" line="5" column="39" />
         <mark key="]" line="5" column="39" />
@@ -89,7 +89,6 @@
       <file name="/ColdFusion File.txt.ft" timestamp="1495632364365">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day03_delay/src/mybatis-config.xml" timestamp="1495759119331" />
       <file name="/Arquillian Deployment Method.txt.ft" timestamp="1495632362520">
         <mark key="[" line="0" column="0" />
       </file>
@@ -215,10 +214,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>root</text>
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>root</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>init</text>
@@ -254,7 +253,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qa</text>
       </register>
     </registers>
     <search>
@@ -281,11 +280,11 @@
         <entry>set paste</entry>
         <entry>wqa</entry>
         <entry>split</entry>
-        <entry>qa</entry>
         <entry>vs</entry>
         <entry>q</entry>
         <entry>sp</entry>
         <entry>w</entry>
+        <entry>qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
