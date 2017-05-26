@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1495783897650">
+      <file name="/a.dummy" timestamp="1495797017747">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybatis_with_spring/src/jdbc.properties" timestamp="1495783101113">
@@ -16,6 +16,18 @@
         <mark key="]" line="26" column="14" />
         <mark key="." line="26" column="14" />
         <mark key="^" line="26" column="14" />
+      </file>
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/spring_with_mvc/src/com/atguigu/mybatis/service/CustomerServiceImpl.java" timestamp="1495798055418">
+        <mark key="[" line="9" column="3" />
+        <mark key="]" line="14" column="10" />
+        <mark key="." line="14" column="10" />
+        <mark key="^" line="14" column="10" />
+      </file>
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/spring_with_mvc/src/mybatis-config.xml" timestamp="1495795684712">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="8" column="18" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybatis_with_spring/src/com/atguigu/mybatis/service/CustomerService.java" timestamp="1495783916709">
         <mark key="[" line="8" column="16" />
@@ -33,6 +45,12 @@
         <mark key="]" line="28" column="26" />
         <mark key="." line="28" column="26" />
         <mark key="^" line="3" column="7" />
+      </file>
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/spring_with_mvc/src/com/atguigu/mybatis/service/CustomerService.java" timestamp="1495797149292">
+        <mark key="[" line="7" column="34" />
+      </file>
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/spring_with_mvc/src/jdbc.properties" timestamp="1495793235988">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day03/src/mybatis-config.xml" timestamp="1495623567099">
         <mark key="[" line="8" column="44" />
@@ -55,6 +73,12 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1495632361945">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/spring_with_mvc/src/com/atguigu/junitTest/test.java" timestamp="1495798115324">
+        <mark key="[" line="49" column="43" />
+        <mark key="]" line="49" column="43" />
+        <mark key="." line="49" column="43" />
+        <mark key="^" line="52" column="7" />
+      </file>
       <file name="/Dummy.txt" timestamp="1495767192916">
         <mark key="[" line="0" column="0" />
       </file>
@@ -69,6 +93,9 @@
       </file>
       <file name="$USER_HOME$/Documents/depences/spring-full/spring-webmvc-4.3.8.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java" timestamp="1495706645858">
         <mark key="'" line="856" column="4" />
+      </file>
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/spring_with_mvc/src/com/atguigu/mybatis/bean/Customer.java" timestamp="1495796735229">
+        <mark key="'" line="110" column="0" />
       </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybatis_with_spring/src/com/atguigu/mybatis/service/OrderService.java" timestamp="1495783555848">
         <mark key="[" line="5" column="31" />
@@ -85,11 +112,30 @@
       <file name="/JavaScript File.txt.ft" timestamp="1495632363969">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/spring_with_mvc/src/log4j.properties" timestamp="1495793269079">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybatis_with_spring/src/mybatis-config.xml" timestamp="1495791644965">
         <mark key="[" line="3" column="52" />
       </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybatis_day05/src/com/atguigu/mybatis/mapper/CustomerMapper.xml" timestamp="1495767195829">
         <mark key="'" line="14" column="6" />
+      </file>
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/spring_with_mvc/src/mybatis-generate.xml" timestamp="1495797402718">
+        <mark key="[" line="25" column="63" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/spring_with_mvc/src/beans.xml" timestamp="1495798667147">
+        <mark key="'" line="44" column="0" />
+        <mark key="[" line="18" column="11" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="33" column="78" />
+      </file>
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/spring_with_mvc/src/springmvc.xml" timestamp="1495798693546">
+        <mark key="[" line="5" column="0" />
       </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybatis_with_spring/src/test/test.java" timestamp="1495785820798">
         <mark key="[" line="38" column="22" />
@@ -114,10 +160,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="25" filename="$USER_HOME$/workspaces/IdeaProjects/javaframework/newDao/src/spring.xml" />
-      <jump line="7" column="0" filename="$USER_HOME$/workspaces/IdeaProjects/javaframework/newDao/src/spring.xml" />
-      <jump line="9" column="0" filename="$USER_HOME$/workspaces/IdeaProjects/javaframework/newDao/src/spring.xml" />
-      <jump line="14" column="0" filename="$USER_HOME$/workspaces/IdeaProjects/javaframework/newDao/src/spring.xml" />
       <jump line="200" column="8" filename="$USER_HOME$/workspaces/IdeaProjects/javaframework/newDao/web/WEB-INF/lib/spring-webmvc-4.0.0.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class" />
       <jump line="307" column="41" filename="$USER_HOME$/workspaces/IdeaProjects/javaframework/newDao/web/WEB-INF/lib/spring-webmvc-4.3.8.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java" />
       <jump line="156" column="13" filename="$USER_HOME$/workspaces/IdeaProjects/javaframework/newDao/web/WEB-INF/lib/spring-webmvc-4.3.8.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java" />
@@ -214,13 +256,17 @@
       <jump line="856" column="4" filename="$USER_HOME$/Documents/depences/spring-full/spring-webmvc-4.3.8.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java" />
       <jump line="18" column="0" filename="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day02/src/com/atguigu/mappers/CustomerMapper.xml" />
       <jump line="14" column="6" filename="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybatis_day05/src/com/atguigu/mybatis/mapper/CustomerMapper.xml" />
+      <jump line="30" column="7" filename="$USER_HOME$/workspaces/IdeaProjects/javaframework/spring_with_mvc/src/beans.xml" />
+      <jump line="32" column="0" filename="$USER_HOME$/workspaces/IdeaProjects/javaframework/spring_with_mvc/src/beans.xml" />
+      <jump line="4" column="5" filename="$USER_HOME$/workspaces/IdeaProjects/javaframework/spring_with_mvc/src/com/atguigu/mybatis/bean/Customer.java" />
+      <jump line="101" column="0" filename="$USER_HOME$/workspaces/IdeaProjects/javaframework/spring_with_mvc/src/com/atguigu/mybatis/bean/Customer.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>sqlSessionTemplateBeanName</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29tLmF0Z3VpZ3UubXliYXRpcy5tYXBwZXIK</text>
       </register>
       <register name="-" type="4">
-        <text>sqlSessionTemplateBeanName</text>
+        <text>CustomerService</text>
       </register>
       <register name="/" type="4">
         <text>init</text>
@@ -228,32 +274,32 @@
       <register name="0" type="4">
         <text>queryValuesToMapsList</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICA8cHJvcGVydHkgbmFtZT0ibWFwcGVyTG9jYXRpb25zIj4KICAgICAgICAgICAgPGxpc3Q+CiAgICAgICAgICAgICAgICA8dmFsdWU+Y2xhc3NwYXRoKjpjb25maWcvbXliYXRpcy8qLnhtbDwvdmFsdWU+CiAgICAgICAgICAgIDwvbGlzdD4KICAgICAgICA8L3Byb3BlcnR5Pg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29tLmF0Z3VpZ3UubXliYXRpcy5tYXBwZXIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx2YWx1ZT5jbGFzc3BhdGgqOmNvbmZpZy9teWJhdGlzL0N1c3RvbWVyTWFwcGVyLnhtbDwvdmFsdWU+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG15YmF0aXMtY29uZmlnLnhtbAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDwhLS08YmVhbiBpZD0ic3FsU2Vzc2lvbkZhY3RvcnlCZWFuIiBjbGFzcz0ib3JnLm15YmF0aXMuc3ByaW5nLlNxbFNlc3Npb25GYWN0b3J5QmVhbiI+LS0+CiAgICA8YmVhbiBpZD0ic3FsU2Vzc2lvbkZhY3RvcnlCZWFuIiBjbGFzcz0ib3JnLm15YmF0aXMuc3ByaW5nLlNxbFNlc3Npb25GYWN0b3J5QmVhbiI+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDwhLS0g5rWc5ayq5aef57ug77yE5oKK6Y2j77+9OumNkuWbrOa9sOe7q++/vSAtLT4K</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDwhLS0g55KB5Ymn55aG6Y617oKj5by/TWFwcGVy6Y6644Ol5b2b6Y2Z5amD5qen54GP5Yuv5Y6k57yD77+9IC0tPgo=</text>
+        <text encoding="base64">ICAgIHByaXZhdAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBDdXN0b21lciBjdXN0b21lcilDdXN0b21lciBjdXN0b21lcikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHR4Om1ldGhvZCBuYW1lPSJzZWxlY3QqIiBwcm9wYWdhdGlvbj0iUkVRVUlSRUQiIGlzb2xhdGlvbj0iREVGQVVMVCIgcm9sbGJhY2stZm9yPSJFeGNlcHRpb24iIC8+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBDdXN0b21lciBjdXN0b21lcikgCg==</text>
+        <text encoding="base64">ICAgIDx0eDphZHZpY2UK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDx0eDphZHZpY2UK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8YW9wOmFkdmlzb3IgYWR2aWNlLXJlZj0iIi8+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>qa</text>
