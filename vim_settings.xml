@@ -61,7 +61,7 @@
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybatis_with_spring/src/com/atguigu/mybatis/mapper/CustomerMapper.java" timestamp="1495783679807">
         <mark key="[" line="5" column="33" />
       </file>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybatis_with_spring/src/com/atguigu/mybatis/service/CustomerServiceImpl.java" timestamp="1495787175110">
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybatis_with_spring/src/com/atguigu/mybatis/service/CustomerServiceImpl.java" timestamp="1495788470507">
         <mark key="[" line="14" column="41" />
         <mark key="]" line="14" column="13" />
         <mark key="." line="14" column="13" />
@@ -85,6 +85,7 @@
       <file name="/JavaScript File.txt.ft" timestamp="1495632363969">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybatis_with_spring/src/mybatis-config.xml" timestamp="1495788843426" />
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybatis_day05/src/com/atguigu/mybatis/mapper/CustomerMapper.xml" timestamp="1495767195829">
         <mark key="'" line="14" column="6" />
       </file>
