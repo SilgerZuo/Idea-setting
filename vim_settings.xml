@@ -88,6 +88,12 @@
       <file name="/Dummy.txt" timestamp="1495803788961">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspaces/TMP/MyBatis_08_Spring_Merge/src/beans.xml" timestamp="1495875164788">
+        <mark key="[" line="58" column="51" />
+        <mark key="]" line="58" column="50" />
+        <mark key="." line="58" column="50" />
+        <mark key="^" line="58" column="50" />
+      </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybatis_with_spring/src/com/atguigu/mybatis/mapper/CustomerMapper.java" timestamp="1495783679807">
         <mark key="[" line="5" column="33" />
       </file>
@@ -125,6 +131,12 @@
       </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/spring_with_mvc/src/log4j.properties" timestamp="1495793269079">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspaces/TMP/MyBatis_08_Spring_Merge/WebContent/WEB-INF/web.xml" timestamp="1495875134937">
+        <mark key="[" line="11" column="10" />
+        <mark key="]" line="11" column="9" />
+        <mark key="^" line="11" column="9" />
+        <mark key="." line="11" column="9" />
       </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybatis_with_spring/src/mybatis-config.xml" timestamp="1495791644965">
         <mark key="[" line="3" column="52" />
@@ -276,11 +288,11 @@
       <jump line="101" column="0" filename="$USER_HOME$/workspaces/IdeaProjects/javaframework/spring_with_mvc/src/com/atguigu/mybatis/bean/Customer.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICA8bXZjOmludGVyY2VwdG9ycz4K</text>
+      <register name="&quot;" type="4">
+        <text>REQUIRED</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>REQUIRED</text>
       </register>
       <register name="/" type="4">
         <text>init</text>
