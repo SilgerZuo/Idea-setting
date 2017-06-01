@@ -6,7 +6,7 @@
       <file name="/a.dummy" timestamp="1495797017747">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/spring_with_mvc/web/WEB-INF/web.xml" timestamp="1495846938539">
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/spring_with_mvc/web/WEB-INF/web.xml" timestamp="1496304631858">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="52" column="36" />
         <mark key="." line="52" column="36" />
@@ -23,11 +23,10 @@
         <mark key="." line="26" column="14" />
         <mark key="^" line="26" column="14" />
       </file>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/spring_with_mvc/src/com/atguigu/mybatis/service/CustomerServiceImpl.java" timestamp="1495806972192">
-        <mark key="[" line="9" column="3" />
-        <mark key="]" line="14" column="10" />
-        <mark key="." line="14" column="10" />
-        <mark key="^" line="14" column="10" />
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/spring_with_mvc/src/com/atguigu/mybatis/service/CustomerServiceImpl.java" timestamp="1496303354507">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/spring_with_mvc/src/mybatis-config.xml" timestamp="1495795684712">
         <mark key="[" line="9" column="0" />
@@ -150,18 +149,18 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/spring_with_mvc/src/beans.xml" timestamp="1495847506091">
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/spring_with_mvc/src/beans.xml" timestamp="1496303401672">
         <mark key="'" line="54" column="0" />
-        <mark key="[" line="28" column="0" />
+        <mark key="[" line="42" column="48" />
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
         <mark key="^" line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/spring_with_mvc/src/springmvc.xml" timestamp="1495864942479">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-        <mark key="^" line="40" column="40" />
+      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/spring_with_mvc/src/springmvc.xml" timestamp="1496304857765">
+        <mark key="[" line="26" column="60" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="19" column="0" />
       </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybatis_with_spring/src/test/test.java" timestamp="1495785820798">
         <mark key="[" line="38" column="22" />
@@ -288,8 +287,8 @@
       <jump line="101" column="0" filename="$USER_HOME$/workspaces/IdeaProjects/javaframework/spring_with_mvc/src/com/atguigu/mybatis/bean/Customer.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>REQUIRED</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgZ29nbyhDdXN0b21lciBjdXN0b21lcikgewogICAgICAgIAogICAgfQo=</text>
       </register>
       <register name="-" type="4">
         <text>REQUIRED</text>
@@ -301,31 +300,31 @@
         <text>queryValuesToMapsList</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICA8bXZjOmludGVyY2VwdG9ycz4K</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgZ29nbyhDdXN0b21lciBjdXN0b21lcikgewogICAgICAgIAogICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8Y29udGV4dDpleGNsdWRlLWZpbHRlciB0eXBlPSJhbm5vdGF0aW9uIiBleHByZXNzaW9uPSJramRka2oiCg==</text>
+        <text encoding="base64">CiAgICA8bXZjOmludGVyY2VwdG9ycz4K</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICA8Y29udGV4dDpleGNsdWRlLWZpbHRlciB0eXBlPSJhbm5vdGF0aW9uIiBleHByZXNzaW9uPSJramRka2oiCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Y3VzdG9tZXJTZXJ2aWNlLgo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CmltcG9ydCBjb20uYXRndWlndS5teWJhdGlzLmJlYW4uQ3VzdG9tZXI7CmltcG9ydCBjb20uYXRndWlndS5teWJhdGlzLnNlcnZpY2UuQ3VzdG9tZXJTZXJ2aWNlOwppbXBvcnQgY29tLmF0Z3VpZ3UubXliYXRpcy5zZXJ2aWNlLkN1c3RvbWVyU2VydmljZUltcGw7CmltcG9ydCBvcmcuanVuaXQuVGVzdDsKaW1wb3J0IG9yZy5teWJhdGlzLmdlbmVyYXRvci5hcGkuTXlCYXRpc0dlbmVyYXRvcjsKaW1wb3J0IG9yZy5teWJhdGlzLmdlbmVyYXRvci5jb25maWcuQ29uZmlndXJhdGlvbjsKaW1wb3J0IG9yZy5teWJhdGlzLmdlbmVyYXRvci5jb25maWcueG1sLkNvbmZpZ3VyYXRpb25QYXJzZXI7CmltcG9ydCBvcmcubXliYXRpcy5nZW5lcmF0b3IuZXhjZXB0aW9uLkludmFsaWRDb25maWd1cmF0aW9uRXhjZXB0aW9uOwppbXBvcnQgb3JnLm15YmF0aXMuZ2VuZXJhdG9yLmV4Y2VwdGlvbi5YTUxQYXJzZXJFeGNlcHRpb247CmltcG9ydCBvcmcubXliYXRpcy5nZW5lcmF0b3IuaW50ZXJuYWwuRGVmYXVsdFNoZWxsQ2FsbGJhY2s7CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLmNvbnRleHQuQXBwbGljYXRpb25Db250ZXh0OwppbXBvcnQgb3JnLnNwcmluZ2ZyYW1ld29yay5jb250ZXh0LnN1cHBvcnQuQ2xhc3NQYXRoWG1sQXBwbGljYXRpb25Db250ZXh0OwppbXBvcnQgb3JnLnNwcmluZ2ZyYW1ld29yay50ZXN0LmNvbnRleHQuVGVzdEV4ZWN1dGlvbkxpc3RlbmVyczsKCmltcG9ydCBqYXZheC5zb3VuZC5taWRpLlNvdW5kYmFua1Jlc291cmNlOwppbXBvcnQgamF2YXguc3FsLkRhdGFTb3VyY2U7CmltcG9ydCBqYXZhLmlvLkZpbGU7CmltcG9ydCBqYXZhLmlvLklPRXhjZXB0aW9uOwppbXBvcnQgamF2YS5zcWwuQ29ubmVjdGlvbjsKaW1wb3J0IGphdmEuc3FsLlNRTEV4Y2VwdGlvbjsKaW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7CmltcG9ydCBqYXZhLnV0aWwuTGlzdDsKCmltcG9ydCBvcmcubXliYXRpcy5nZW5lcmF0b3IuYXBpLk15QmF0aXNHZW5lcmF0b3I7CmltcG9ydCBvcmcubXliYXRpcy5nZW5lcmF0b3IuY29uZmlnLkNvbmZpZ3VyYXRpb247CmltcG9ydCBvcmcubXliYXRpcy5nZW5lcmF0b3IuY29uZmlnLnhtbC5Db25maWd1cmF0aW9uUGFyc2VyOwppbXBvcnQgb3JnLm15YmF0aXMuZ2VuZXJhdG9yLmV4Y2VwdGlvbi5JbnZhbGlkQ29uZmlndXJhdGlvbkV4Y2VwdGlvbjsKaW1wb3J0IG9yZy5teWJhdGlzLmdlbmVyYXRvci5leGNlcHRpb24uWE1MUGFyc2VyRXhjZXB0aW9uOwppbXBvcnQgb3JnLm15YmF0aXMuZ2VuZXJhdG9yLmludGVybmFsLkRlZmF1bHRTaGVsbENhbGxiYWNrOwoKaW1wb3J0IGphdmEuaW8uRmlsZTsKaW1wb3J0IGphdmEuaW8uSU9FeGNlcHRpb247CmltcG9ydCBqYXZhLnNxbC5TUUxFeGNlcHRpb247CmltcG9ydCBqYXZhLnV0aWwuQXJyYXlMaXN0OwppbXBvcnQgamF2YS51dGlsLkxpc3Q7</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Ly9pbXBvcnQgY29tLmF0Z3VpZ3UubXliYXRpcy5iZWFuLkN1c3RvbWVyOwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIDwvYmVhbj4K</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIDxiZWFuIGlkPSJoaWRkZW5IdHRwTWV0aG9kRmlsdGVyIiBjbGFzcz0ib3JnLnNwcmluZ2ZyYW1ld29yay53ZWIuZmlsdGVyLkhpZGRlbkh0dHBNZXRob2RGaWx0ZXIiPgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8cHJvcGVydHkgbmFtZT0iYmVhbk5hbWUiIHZhbHVlPSIiCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIuS9oOWPkeeOsOS6huaIke+8jOWNtOaKk+S4jeWIsOaIkSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICA8cHJvcGVydHkgbmFtZT0iYmVhbk5hbWUiIHZhbHVlPSIiCg==</text>
       </register>
       <register name=":" type="4">
         <text>qa</text>
