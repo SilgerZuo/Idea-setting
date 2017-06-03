@@ -23,10 +23,10 @@
         <mark key="]" line="1" column="14" />
         <mark key="." line="1" column="14" />
       </file>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/java_4th/day_01_maven_01/pom.xml" timestamp="1496473740274">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/workspaces/IdeaProjects/java_4th/day_01_maven_01/pom.xml" timestamp="1496475810155">
+        <mark key="[" line="13" column="15" />
+        <mark key="]" line="13" column="15" />
+        <mark key="." line="13" column="15" />
       </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybatis_day05/src/com/atguigu/mybatis/bean/Customer.java" timestamp="1495780004081">
         <mark key="[" line="26" column="15" />
@@ -297,11 +297,11 @@
       <jump line="101" column="0" filename="$USER_HOME$/workspaces/IdeaProjects/javaframework/spring_with_mvc/src/com/atguigu/mybatis/bean/Customer.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDwvZGVwZW5kZW5jeT4K</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>REQUIRED</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>init</text>
