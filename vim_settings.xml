@@ -23,10 +23,10 @@
         <mark key="]" line="1" column="14" />
         <mark key="." line="1" column="14" />
       </file>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/java_4th/day_01_maven_01/pom.xml" timestamp="1496630171309">
-        <mark key="[" line="8" column="36" />
-        <mark key="]" line="14" column="15" />
-        <mark key="." line="14" column="15" />
+      <file name="$USER_HOME$/workspaces/IdeaProjects/java_4th/day_01_maven_01/pom.xml" timestamp="1496632202794">
+        <mark key="[" line="5" column="13" />
+        <mark key="]" line="5" column="13" />
+        <mark key="." line="5" column="13" />
       </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybatis_day05/src/com/atguigu/mybatis/bean/Customer.java" timestamp="1495780004081">
         <mark key="[" line="26" column="15" />
@@ -298,10 +298,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>jar</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>jar</text>
       </register>
       <register name="/" type="4">
         <text>init</text>
