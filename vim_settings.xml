@@ -35,9 +35,6 @@
         <mark key="^" line="8" column="18" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybaties_day02/src/com/atguigu/mappers/CustomerMapper.xml" timestamp="1495764031547">
-        <mark key="'" line="18" column="0" />
-      </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/spring_with_mvc/src/com/atguigu/mybatis/service/CustomerService.java" timestamp="1495797149292">
         <mark key="[" line="7" column="34" />
       </file>
@@ -103,9 +100,6 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/depences/spring-full/spring-webmvc-4.3.8.RELEASE-sources.jar!/org/springframework/web/servlet/FrameworkServlet.java" timestamp="1495706472929">
-        <mark key="'" line="494" column="12" />
-      </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/java_4th/toto/toto2/pom.xml" timestamp="1496642772575">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -162,12 +156,6 @@
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybatis_with_spring/src/com/atguigu/mybatis/mapper/CustomerMapper.java" timestamp="1495783679807">
         <mark key="[" line="5" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/depences/spring-full/spring-webmvc-4.3.8.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java" timestamp="1495706645858">
-        <mark key="'" line="856" column="4" />
-      </file>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/spring_with_mvc/src/com/atguigu/mybatis/bean/Customer.java" timestamp="1495807150068">
-        <mark key="'" line="119" column="0" />
-      </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/spring_with_mvc/src/com/atguigu/ssm/handler/CustomerHandler.java" timestamp="1496316825584">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -189,9 +177,6 @@
         <mark key="]" line="11" column="9" />
         <mark key="^" line="11" column="9" />
         <mark key="." line="11" column="9" />
-      </file>
-      <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/mybatis_day05/src/com/atguigu/mybatis/mapper/CustomerMapper.xml" timestamp="1495767195829">
-        <mark key="'" line="14" column="6" />
       </file>
       <file name="$USER_HOME$/workspaces/IdeaProjects/javaframework/spring_with_mvc/src/springmvc.xml" timestamp="1496367035655">
         <mark key="[" line="47" column="0" />
