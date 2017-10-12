@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="com.mvcc.entity.driver.CarOwner.CarOwner(carOwnerId,personId,identityCard,licensePic,carInfo)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
