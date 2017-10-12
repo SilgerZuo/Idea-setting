@@ -18,18 +18,11 @@
         <mark key="." line="73" column="0" />
         <mark key="^" line="59" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/pom.xml" timestamp="1507786977881">
-        <mark key="'" line="49" column="8" />
-        <mark key="[" line="144" column="21" />
-        <mark key="]" line="54" column="67" />
-        <mark key="^" line="54" column="67" />
-        <mark key="." line="54" column="67" />
-      </file>
-      <file name="$USER_HOME$/workspace/ideaProject/learn/bootdemo/src/main/java/com/verne/learnboot/bootdemo/Controller/BootController.java" timestamp="1507812131552">
+      <file name="$USER_HOME$/workspace/ideaProject/learn/bootdemo/src/main/java/com/verne/learnboot/bootdemo/Controller/BootController.java" timestamp="1507813717140">
         <mark key="[" line="21" column="8" />
-        <mark key="]" line="19" column="26" />
-        <mark key="^" line="19" column="26" />
-        <mark key="." line="19" column="26" />
+        <mark key="]" line="20" column="17" />
+        <mark key="^" line="20" column="17" />
+        <mark key="." line="20" column="17" />
       </file>
       <file name="$USER_HOME$/tmp/dajia-spring-boot-demo/trunk/dajia-springboot-demo-provider/src/test/java/com/dajia/springboot/demo/test/MQTest.java" timestamp="1507721779775">
         <mark key="[" line="202" column="56" />
@@ -58,6 +51,9 @@
         <mark key="." line="42" column="28" />
         <mark key="^" line="93" column="47" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.7.RELEASE/spring-boot-autoconfigure-1.5.7.RELEASE.jar!/org/springframework/boot/autoconfigure/jdbc/DataSourceAutoConfiguration.class" timestamp="1507814709116">
+        <mark key="'" line="47" column="4" />
+      </file>
       <file name="$USER_HOME$/workspace/ideaProject/learn/bootdemo/src/test/java/com/verne/learnboot/bootdemo/CustomeApplicationTests.java" timestamp="1507810380625">
         <mark key="[" line="12" column="15" />
         <mark key="]" line="12" column="15" />
@@ -79,6 +75,7 @@
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/person/PersonController.java" timestamp="1507626783250">
         <mark key="[" line="180" column="30" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/4.2.3.RELEASE/spring-security-config-4.2.3.RELEASE.jar!/org/springframework/security/config/annotation/web/configuration/WebSecurityConfigurerAdapter.class" timestamp="1507815303059" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/spring/spring-jdbc.xml" timestamp="1507689182511">
         <mark key="[" line="53" column="53" />
         <mark key="]" line="53" column="52" />
@@ -126,6 +123,12 @@
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/framework/filter/LoginStatusFilter.java" timestamp="1507689988945">
         <mark key="[" line="51" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/ideaProject/learn/bootdemo/src/main/java/com/verne/learnboot/bootdemo/ustomerCondition/CustomerCondition.java" timestamp="1507814088166">
+        <mark key="[" line="26" column="44" />
+        <mark key="]" line="26" column="43" />
+        <mark key="^" line="26" column="43" />
+        <mark key="." line="26" column="43" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/portal/Notification.java" timestamp="1507797346551">
         <mark key="[" line="70" column="15" />
@@ -216,22 +219,8 @@
         <mark key="^" line="34" column="22" />
         <mark key="." line="19" column="61" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/testMq/MQController.java" timestamp="1507725894062">
-        <mark key="'" line="26" column="13" />
-        <mark key="[" line="25" column="35" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="20" column="0" />
-      </file>
       <file name="/ColdFusion File.txt.ft" timestamp="1506075493034">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/repository/portal/NotificationMapper.java" timestamp="1507796127255">
-        <mark key="'" line="35" column="0" />
-        <mark key="[" line="62" column="24" />
-        <mark key="]" line="70" column="6" />
-        <mark key="." line="70" column="6" />
-        <mark key="^" line="70" column="6" />
       </file>
       <file name="/module-info.txt.ft" timestamp="1506075491690">
         <mark key="[" line="0" column="0" />
@@ -253,18 +242,20 @@
       <file name="$USER_HOME$/IdeaProjects/LearnMQ/src/Consumer.java" timestamp="1505733699209">
         <mark key="[" line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/portal/notification-mapper.xml" timestamp="1507798230819">
-        <mark key="'" line="135" column="0" />
-        <mark key="[" line="103" column="66" />
-        <mark key="]" line="103" column="66" />
-        <mark key="." line="103" column="66" />
-        <mark key="^" line="87" column="33" />
-      </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/framework/filter/CorsSourceFilter.java" timestamp="1506738853734">
         <mark key="[" line="38" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1507811084720">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/ideaProject/learn/bootdemo/pom.xml" timestamp="1507814977990">
+        <mark key="[" line="50" column="21" />
+      </file>
+      <file name="$USER_HOME$/workspace/ideaProject/learn/bootdemo/src/main/java/com/verne/learnboot/security/SecurityConfig.java" timestamp="1507815578633">
+        <mark key="[" line="32" column="61" />
+        <mark key="]" line="41" column="4" />
+        <mark key="^" line="41" column="4" />
+        <mark key="." line="41" column="4" />
       </file>
     </filemarks>
     <jumps>
@@ -329,26 +320,61 @@
       <jump line="113" column="12" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/portal/notification-mapper.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/portal/notification-mapper.xml" />
       <jump line="133" column="0" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/portal/notification-mapper.xml" />
+      <jump line="47" column="4" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.7.RELEASE/spring-boot-autoconfigure-1.5.7.RELEASE.jar!/org/springframework/boot/autoconfigure/jdbc/DataSourceAutoConfiguration.class" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>spring:
-    datasource:
-        url=jdbc:mysql://localhost/mydb
-        username=root
-        password=zxc
-        driver-class-name=com.mysql.jdbc.Driver</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>mq</text>
+        <text>Jdbc</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGludCB1cGRhdGVUb1NpbmdsZVJlYWQoU3RyaW5nIHBlcnNvbklkLFN0cmluZyBub3RpZmljYXRpb25JZCkgdGhyb3dzIEJhc2VFeGNlcHRpb24gewo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LmxvY2tzLkNvbmRpdGlvbjsK</text>
+      </register>
+      <register name="2" type="4">
+        <text>@Override
+    public void await() throws InterruptedException {
+        
+    }
+
+    @Override
+    public void awaitUninterruptibly() {
+
+    }
+
+    @Override
+    public long awaitNanos(long nanosTimeout) throws InterruptedException {
+        return 0;
+    }
+
+    @Override
+    public boolean await(long time, TimeUnit unit) throws InterruptedException {
+        return false;
+    }
+
+    @Override
+    public boolean awaitUntil(Date deadline) throws InterruptedException {
+        return false;
+    }
+
+    @Override
+    public void signal() {
+
+    }
+
+    @Override
+    public void signalAll() {
+
+    }</text>
+      </register>
+      <register name="3" type="4">
         <text>spring:
     datasource:
         url=jdbc:mysql://localhost/mydb
@@ -356,38 +382,32 @@
         password=zxc
         driver-class-name=com.mysql.jdbc.Driver</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">QEVudGl0eQo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">QFNwcmluZ0Jvb3RBcHBsaWNhdGlvbkMK</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IGphdmF4LnN3aW5nLio7Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">QFNwcmluZ0Jvb3RUZXN0Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">QFJ1bldpdGgoU3ByaW5nUnVubmVyLmNsYXNzKQo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text encoding="base64">PGVsLWNvbCA6c3Bhbj0iOCI+PGVsLWJ1dHRvbiB0eXBlPSJ0ZXh0IiA6ZGlzYWJsZWQ9InRydWUiPueUqOaIt+WQjTwvZWwtYnV0dG9uPgogICAgICA8L2VsLWNvbD4=</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">PGVsLWNvbCA6c3Bhbj0iOCI+PGVsLWJ1dHRvbiB0eXBlPSJ0ZXh0IiA6ZGlzYWJsZWQ9InRydWUiPueUqOaIt+WQjTwvZWwtYnV0dG9uPgogICAgICA8L2VsLWNvbD4=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvZWwtaW5wdXQ+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>mq</last-search>
+      <last-search>Jdbc</last-search>
       <last-offset />
-      <last-pattern>mq</last-pattern>
+      <last-pattern>Jdbc</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -398,6 +418,7 @@
         <entry encoding="base64">XDxERUZBVUxUX1VTRVJcPg==</entry>
         <entry>s</entry>
         <entry>mq</entry>
+        <entry>Jdbc</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
