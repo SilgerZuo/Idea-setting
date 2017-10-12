@@ -175,6 +175,12 @@
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-utils/src/main/java/com/mvcc/util/tsetNotificationConsume.java" timestamp="1507715328311">
         <mark key="[" line="11" column="3" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/generatorConfig.xml" timestamp="1507818644650">
+        <mark key="[" line="20" column="52" />
+        <mark key="]" line="20" column="52" />
+        <mark key="." line="20" column="52" />
+        <mark key="^" line="20" column="54" />
+      </file>
       <file name="$USER_HOME$/tmp/dajia-spring-boot-demo/trunk/dajia-springboot-demo-provider/src/main/java/com/dajia/springboot/demo/dao/impl/ServiceFormDaoImpl.java" timestamp="1507719836986">
         <mark key="[" line="21" column="52" />
       </file>
@@ -187,7 +193,7 @@
       <file name="/HTML File.txt.ft" timestamp="1507512884048">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1507788728831">
+      <file name="/dummy.sql" timestamp="1507817441170">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1507811084693">
@@ -324,16 +330,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>Jdbc</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGludCB1cGRhdGVUb1NpbmdsZVJlYWQoU3RyaW5nIHBlcnNvbklkLFN0cmluZyBub3RpZmljYXRpb25JZCkgdGhyb3dzIEJhc2VFeGNlcHRpb24gewo=</text>
+      <register name="0" type="4">
+        <text>com.mvcc.repository.nice</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LmxvY2tzLkNvbmRpdGlvbjsK</text>
