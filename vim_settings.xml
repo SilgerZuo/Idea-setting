@@ -18,11 +18,11 @@
       <file name="/a.dummy" timestamp="1507724036528">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/test/java/com/mvcc/service/impl/portal/NotificationServiceImpl.java" timestamp="1507798644115">
-        <mark key="[" line="34" column="50" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
-        <mark key="^" line="59" column="18" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/test/java/com/mvcc/service/impl/portal/NotificationServiceImpl.java" timestamp="1507888464012">
+        <mark key="[" line="20" column="24" />
+        <mark key="]" line="20" column="1" />
+        <mark key="." line="20" column="1" />
+        <mark key="^" line="60" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/learn/bootdemo/src/main/java/com/verne/learnboot/bootdemo/Controller/BootController.java" timestamp="1507813717140">
         <mark key="[" line="21" column="8" />
@@ -52,10 +52,10 @@
         <mark key="[" line="20" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/test/java/com/mvcc/service/impl/portal/NotificationServiceImplTest.java" timestamp="1507798962762">
-        <mark key="[" line="42" column="28" />
-        <mark key="]" line="42" column="28" />
-        <mark key="." line="42" column="28" />
-        <mark key="^" line="93" column="47" />
+        <mark key="[" line="43" column="28" />
+        <mark key="]" line="43" column="28" />
+        <mark key="." line="43" column="28" />
+        <mark key="^" line="94" column="47" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/learn/bootdemo/src/test/java/com/verne/learnboot/bootdemo/CustomeApplicationTests.java" timestamp="1507810380625">
         <mark key="[" line="12" column="15" />
@@ -154,14 +154,18 @@
         <mark key="." line="12" column="14" />
         <mark key="^" line="12" column="14" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/car/CarOwnerServiceImpl.java" timestamp="1507862438364">
+        <mark key="[" line="31" column="1" />
+        <mark key="]" line="31" column="1" />
+        <mark key="." line="31" column="1" />
+      </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/framework/filter/LoginStatusFilter.java" timestamp="1507689988945">
         <mark key="[" line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/spring/spring-hsf-service.xml" timestamp="1507884754694">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-        <mark key="^" line="41" column="72" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/spring/spring-hsf-service.xml" timestamp="1507889210709">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/learn/bootdemo/src/main/java/com/verne/learnboot/bootdemo/ustomerCondition/CustomerCondition.java" timestamp="1507814088166">
         <mark key="[" line="26" column="44" />
@@ -178,11 +182,12 @@
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/driver/Car.java" timestamp="1507605043870">
         <mark key="[" line="53" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/resources/spring/spring-hsf-reference.xml" timestamp="1507884787616">
-        <mark key="[" line="61" column="54" />
-        <mark key="]" line="61" column="54" />
-        <mark key="." line="61" column="54" />
-        <mark key="^" line="61" column="53" />
+      <file name="/spring-hsf-reference.xml" timestamp="1507888588021" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/resources/spring/spring-hsf-reference.xml" timestamp="1507889161751">
+        <mark key="[" line="62" column="54" />
+        <mark key="]" line="62" column="54" />
+        <mark key="." line="62" column="54" />
+        <mark key="^" line="62" column="72" />
       </file>
       <file name="/XML Properties File.txt.ft" timestamp="1506075492181">
         <mark key="[" line="0" column="0" />
@@ -241,7 +246,7 @@
       <file name="/HTML File.txt.ft" timestamp="1507512884048">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1507886397788">
+      <file name="/dummy.sql" timestamp="1507889111066">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/test/java/com/mvcc/service/impl/nice/NiceServiceImplTest.java" timestamp="1507864424656">
@@ -250,8 +255,8 @@
         <mark key="^" line="29" column="47" />
         <mark key="." line="29" column="47" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507886340284">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1507889420698">
+        <mark key="[" line="0" column="2" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
@@ -297,11 +302,11 @@
       <file name="/module-info.txt.ft" timestamp="1506075491690">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/80c1f88a-a932-446e-a5fa-6f50c5c31cfe/console.sql" timestamp="1507860276729">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="0" column="87" />
-        <mark key="." line="0" column="87" />
-        <mark key="^" line="0" column="87" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/80c1f88a-a932-446e-a5fa-6f50c5c31cfe/console.sql" timestamp="1507887766982">
+        <mark key="[" line="2" column="24" />
+        <mark key="]" line="2" column="24" />
+        <mark key="." line="2" column="24" />
+        <mark key="^" line="2" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/privilege/personRoleSub-mapper.xml" timestamp="1506677207077">
         <mark key="[" line="8" column="18" />
@@ -312,6 +317,11 @@
         <mark key="." line="51" column="17" />
         <mark key="^" line="51" column="17" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/learn/bootdemo/src/test/java/com/verne/learnboot/bootdemo/BootdemoApplicationTests.java" timestamp="1507810436824">
+        <mark key="[" line="10" column="15" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/api/account.js" timestamp="1507875162605" />
       <file name="$USER_HOME$/IdeaProjects/LearnMQ/src/Consumer.java" timestamp="1505733699209">
         <mark key="[" line="0" column="23" />
@@ -321,6 +331,12 @@
         <mark key="]" line="28" column="4" />
         <mark key="." line="28" column="4" />
         <mark key="^" line="34" column="3" />
+      </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/portal/notification-mapper.xml" timestamp="1507889033473">
+        <mark key="[" line="63" column="33" />
+        <mark key="]" line="63" column="0" />
+        <mark key="^" line="38" column="25" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/framework/filter/CorsSourceFilter.java" timestamp="1506738853734">
         <mark key="[" line="38" column="0" />
@@ -407,10 +423,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>实现了页面展示,调整编辑的功能</text>
+        <text>增加NotificationService的在hsf文件的注册</text>
       </register>
       <register name="-" type="4">
-        <text>实现了页面展示,调整编辑的功能</text>
+        <text>增加NotificationService的在hsf文件的注册</text>
       </register>
       <register name="/" type="4">
         <text>Jdbc</text>
@@ -419,39 +435,31 @@
         <text>com.mvcc.service.nice.NiceService</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhbGVydChyb3cuc2Vhc29uQ291bnQpCg==</text>
+        <text encoding="base64">ICAgIGNvbS5tdmNjLnNlcnZpY2UucG9ydGFsLk5vdGlmaWNhdGlvblNlcnZpY2UK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmZvcm0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICN7Y3JlYXRlVGltZSxqZGJjVHlwZT1CSUdJTlR9LAo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgbmljZUNvZGVILAogICAgICBuaWNlQ29kZUwsCiAgICAgIGNsaUxldkNvdW50LAogICAgICBzZWFzb25Db3VudA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGlmIHRlc3Q9IiAhPSBudWxsIj4K</text>
       </register>
-      <register name="4" type="4">
-        <text>editDetail(row) {
-        this.dialogFormVisible = true
-        this.form.cliCodeH = row.niceCodeH
-        this.form.cliCodeL = row.niceCodeL
-        this.form.cliLevCount = row.levelCount
-        this.form.cliSeasonCount = row.seasonCount
-      },</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPC9pZj4K</text>
       </register>
-      <register name="5" type="4">
-        <text>this.dialogFormVisible + &quot;&quot; +this.form.cliCodeH  + &quot;&quot; +
-          this.form.cliCodeL</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPC9pZj4K</text>
       </register>
-      <register name="6" type="4">
-        <text>this.dialogFormVisible + &quot;&quot; +this.form.cliCodeH  + &quot;&quot; +
-          this.form.cliCodeL)</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGlmIHRlc3Q9IiA9IG51bGwiPgo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICAgIG5hbWU6ICcnLAogICAgICAgICAgcmVnaW9uOiAnJywKICAgICAgICAgIGRhdGUxOiAnJywKICAgICAgICAgIGRhdGUyOiAnJywKICAgICAgICAgIGRlbGl2ZXJ5OiBmYWxzZSwKICAgICAgICAgIHR5cGU6IFtdLAogICAgICAgICAgcmVzb3VyY2U6ICcnLAogICAgICAgICAgZGVzYzogJyc=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPC9pZj4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnMTIzMTIzJyArIHJvdy5uaWNlQ29kZUwpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNyZWF0ZVRpbWUsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXNwb25zZS5wYWdlLmxpc3QpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGlmIHRlc3Q9ImNyZWF0ZVRpbWUgPSBudWxsIj4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
