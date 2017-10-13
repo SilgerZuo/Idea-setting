@@ -1,0 +1,11 @@
+<application>
+  <component name="MyBatisCodeHelper">
+    <option name="profile">
+      <Profile>
+        <option name="generateMethodInServiceInterface" value="true" />
+        <option name="generateWithIfTest" value="true" />
+        <option name="mapperPrefix" value="Mapper" />
+      </Profile>
+    </option>
+  </component>
+</application>
