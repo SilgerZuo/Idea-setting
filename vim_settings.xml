@@ -65,11 +65,10 @@
       <file name="$USER_HOME$/workspace/ideaProject/demo/src/main/java/com/example/demo/DemoApplication.java" timestamp="1506391414876">
         <mark key="[" line="7" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/router/index.js" timestamp="1507865940909">
-        <mark key="[" line="74" column="35" />
-        <mark key="]" line="74" column="35" />
-        <mark key="^" line="69" column="18" />
-        <mark key="." line="74" column="35" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/router/index.js" timestamp="1507866657654">
+        <mark key="[" line="75" column="15" />
+        <mark key="]" line="75" column="15" />
+        <mark key="." line="75" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shartTrip/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/listener/ApplicationFailedListener.java" timestamp="1506068410879">
         <mark key="[" line="41" column="36" />
@@ -287,10 +286,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>carOwnerDetail</text>
+        <text>车主资料详情_zuozuo</text>
       </register>
       <register name="-" type="4">
-        <text>carOwnerDetail</text>
+        <text>车主资料详情_zuozuo</text>
       </register>
       <register name="/" type="4">
         <text>Jdbc</text>
@@ -299,21 +298,24 @@
         <text>com.mvcc.repository.nice</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8qKiDliJflh7rnlKjmiLfnmoTmiYDmnIlOaWNl5L+h5oGvCiAgICAgKiBAcmV0dXJuCiAgICAgKi8K</text>
+        <text encoding="base64">ICAgICAgICBoaWRkZW46IHRydWUsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBvYmplY3RPYmplY3RIYXNoTWFwLnB1dCgpCg==</text>
+        <text encoding="base64">ICAgIC8qKiDliJflh7rnlKjmiLfnmoTmiYDmnIlOaWNl5L+h5oGvCiAgICAgKiBAcmV0dXJuCiAgICAgKi8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBvYmplY3RPYmplY3RIYXNoTWFwLnB1dCgpCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IGQgewogICAgICAgIHRoaXMuY291bnQgPSBjb3VudDsKICAgIH0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
+        <text encoding="base64">IGQgewogICAgICAgIHRoaXMuY291bnQgPSBjb3VudDsKICAgIH0=</text>
+      </register>
+      <register name="7" type="4">
         <text>public String getNiceid() {
         return niceid;
     }
@@ -472,14 +474,11 @@
      */
     public void setcount(String count)</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">QFNlcnZpY2UoIm5pY2VTZXJ2aWNlIikK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgZ3JvdXA9IiR7c3ByaW5nLmhzZi5ncm91cH0iIHZlcnNpb249IiR7c3ByaW5nLmhzZi52ZXJzaW9ufSIgY2xpZW50VGltZW91dD0iMzAwMDAwIi8+CiAgICA8aHNmOnByb3ZpZGVyIGlkPSJuaWNlU2VydmljZUhTRiIgaW50ZXJmYWNlPSJjb20ubXZjYy5zZXJ2aWNlLmNhY2hlZC5Ub2tlbkNhY2hlZFNlcnZpY2UiCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgZ3JvdXA9IiR7c3ByaW5nLmhzZi5ncm91cH0iIHZlcnNpb249IiR7c3ByaW5nLmhzZi52ZXJzaW9ufSIgY2xpZW50VGltZW91dD0iMzAwMDAwIi8+CiAgICA8aHNmOnByb3ZpZGVyIGlkPSJuaWNlU2VydmljZUhTRiIgaW50ZXJmYWNlPSJjb20ubXZjYy5zZXJ2aWNlLmNhY2hlZC5Ub2tlbkNhY2hlZFNlcnZpY2UiCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
