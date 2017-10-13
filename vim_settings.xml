@@ -53,6 +53,9 @@
       <file name="$USER_HOME$/IdeaProjects/LearnMQ/src/Comsumer.java" timestamp="1505815772625">
         <mark key="[" line="20" column="44" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/nice/Nice.java" timestamp="1507864783429">
+        <mark key="[" line="66" column="7" />
+      </file>
       <file name="$USER_HOME$/workspace/ideaProject/demo/src/main/java/com/example/demo/DemoApplication.java" timestamp="1506391414876">
         <mark key="[" line="7" column="22" />
       </file>
@@ -96,7 +99,7 @@
         <mark key="." line="62" column="54" />
         <mark key="^" line="62" column="72" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/app/authentication/PlatformAuthenticationAppController.java" timestamp="1507890543650">
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/app/authentication/PlatformAuthenticationAppController.java" timestamp="1507892976044">
         <mark key="[" line="27" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/authentication/PlatformAuthenticationServiceImpl.java" timestamp="1507863177085">
