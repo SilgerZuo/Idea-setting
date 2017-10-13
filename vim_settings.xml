@@ -9,32 +9,13 @@
       <file name="/File Header.txt.ft" timestamp="1506075488873">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1507860203319">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1507724036528">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/test/java/com/mvcc/service/impl/portal/NotificationServiceImpl.java" timestamp="1507798644115">
-        <mark key="[" line="34" column="50" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
-        <mark key="^" line="59" column="18" />
-      </file>
-      <file name="$USER_HOME$/workspace/ideaProject/learn/bootdemo/src/main/java/com/verne/learnboot/bootdemo/Controller/BootController.java" timestamp="1507813717140">
-        <mark key="[" line="21" column="8" />
-        <mark key="]" line="20" column="17" />
-        <mark key="^" line="20" column="17" />
-        <mark key="." line="20" column="17" />
-      </file>
-      <file name="$USER_HOME$/tmp/dajia-spring-boot-demo/trunk/dajia-springboot-demo-provider/src/test/java/com/dajia/springboot/demo/test/MQTest.java" timestamp="1507721779775">
-        <mark key="[" line="202" column="56" />
-        <mark key="]" line="202" column="55" />
-        <mark key="^" line="202" column="55" />
-        <mark key="." line="202" column="55" />
-      </file>
-      <file name="$USER_HOME$/workspace/ideaProject/learn/bootdemo/src/main/resources/application.properties" timestamp="1507812048123">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/LearnMQ/src/com/im/activityMQ/jndi.properties" timestamp="1505731285353">
         <mark key="[" line="0" column="0" />
@@ -45,27 +26,6 @@
       <file name="$USER_HOME$/IdeaProjects/LearnMQ/src/com/im/activityMQ/PureJMSProducer.java" timestamp="1505731488500">
         <mark key="[" line="20" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/test/java/com/mvcc/service/impl/portal/NotificationServiceImplTest.java" timestamp="1507798962762">
-        <mark key="[" line="42" column="28" />
-        <mark key="]" line="42" column="28" />
-        <mark key="." line="42" column="28" />
-        <mark key="^" line="93" column="47" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.7.RELEASE/spring-boot-autoconfigure-1.5.7.RELEASE.jar!/org/springframework/boot/autoconfigure/jdbc/DataSourceAutoConfiguration.class" timestamp="1507814709116">
-        <mark key="'" line="47" column="4" />
-      </file>
-      <file name="$USER_HOME$/workspace/ideaProject/learn/bootdemo/src/test/java/com/verne/learnboot/bootdemo/CustomeApplicationTests.java" timestamp="1507810380625">
-        <mark key="[" line="12" column="15" />
-        <mark key="]" line="12" column="15" />
-        <mark key="." line="12" column="15" />
-        <mark key="^" line="10" column="27" />
-      </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/account/detail.vue" timestamp="1507809454471">
-        <mark key="[" line="20" column="48" />
-        <mark key="]" line="29" column="30" />
-        <mark key="." line="29" column="30" />
-        <mark key="^" line="29" column="30" />
-      </file>
       <file name="/ActionScript File Header.txt.ft" timestamp="1506685354327">
         <mark key="[" line="0" column="0" />
       </file>
@@ -75,30 +35,41 @@
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/person/PersonController.java" timestamp="1507626783250">
         <mark key="[" line="180" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/spring/spring-jdbc.xml" timestamp="1507689182511">
-        <mark key="[" line="53" column="53" />
-        <mark key="]" line="53" column="52" />
-        <mark key="^" line="53" column="52" />
-        <mark key="." line="53" column="52" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/repository/nice/NiceMapper.java" timestamp="1507864004031">
+        <mark key="[" line="36" column="66" />
+        <mark key="]" line="36" column="64" />
+        <mark key="^" line="36" column="64" />
+        <mark key="." line="36" column="64" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/nice/NiceExample.java" timestamp="1507857597803" />
       <file name="$USER_HOME$/IdeaProjects/LearnMQ/src/Comsumer.java" timestamp="1505815772625">
         <mark key="[" line="20" column="44" />
+      </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/nice/NiceServiceImpl.java" timestamp="1507865018318">
+        <mark key="[" line="31" column="57" />
+        <mark key="]" line="31" column="57" />
+        <mark key="." line="31" column="57" />
+        <mark key="^" line="29" column="78" />
+      </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/nice/Nice.java" timestamp="1507864783429">
+        <mark key="[" line="66" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/privilege/Resource.java" timestamp="1506342136558">
         <mark key="[" line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/nice/NiceMapper.xml" timestamp="1507857629892">
-        <mark key="[" line="102" column="11" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/nice/NiceMapper.xml" timestamp="1507862241493">
+        <mark key="'" line="253" column="0" />
+        <mark key="[" line="253" column="0" />
+        <mark key="]" line="253" column="0" />
+        <mark key="." line="253" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/demo/src/main/java/com/example/demo/DemoApplication.java" timestamp="1506391414876">
         <mark key="[" line="7" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/router/index.js" timestamp="1507800131790">
-        <mark key="[" line="51" column="42" />
-        <mark key="]" line="60" column="21" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/router/index.js" timestamp="1507865940909">
+        <mark key="[" line="74" column="35" />
+        <mark key="]" line="74" column="35" />
         <mark key="^" line="69" column="18" />
-        <mark key="." line="60" column="21" />
+        <mark key="." line="74" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shartTrip/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/listener/ApplicationFailedListener.java" timestamp="1506068410879">
         <mark key="[" line="41" column="36" />
@@ -112,32 +83,31 @@
       <file name="$USER_HOME$/workspace/ideaProject/learn/bootdemo/src/main/resources/application.yml" timestamp="1507811805494">
         <mark key="[" line="2" column="39" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/nice/nice-mapper.xml" timestamp="1507864947781">
+        <mark key="[" line="167" column="55" />
+        <mark key="]" line="167" column="55" />
+        <mark key="." line="167" column="55" />
+        <mark key="^" line="253" column="77" />
+      </file>
       <file name="$USER_HOME$/workspace/ideaProject/Documents2/tsetjava" timestamp="1505889155840">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/test/java/com/mvcc/service/impl/person/PersonServiceImplTest.java" timestamp="1506403861918">
         <mark key="[" line="17" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/testMq/MQXontroller.java" timestamp="1507724027783">
-        <mark key="[" line="12" column="15" />
-        <mark key="]" line="12" column="14" />
-        <mark key="." line="12" column="14" />
-        <mark key="^" line="12" column="14" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/car/CarOwnerServiceImpl.java" timestamp="1507862438364">
+        <mark key="[" line="31" column="1" />
+        <mark key="]" line="31" column="1" />
+        <mark key="." line="31" column="1" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/framework/filter/LoginStatusFilter.java" timestamp="1507689988945">
         <mark key="[" line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/learn/bootdemo/src/main/java/com/verne/learnboot/bootdemo/ustomerCondition/CustomerCondition.java" timestamp="1507814088166">
-        <mark key="[" line="26" column="44" />
-        <mark key="]" line="26" column="43" />
-        <mark key="^" line="26" column="43" />
-        <mark key="." line="26" column="43" />
-      </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/portal/Notification.java" timestamp="1507797346551">
-        <mark key="[" line="70" column="15" />
-        <mark key="]" line="70" column="15" />
-        <mark key="." line="70" column="15" />
-        <mark key="^" line="70" column="15" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/spring/spring-hsf-service.xml" timestamp="1507864666044">
+        <mark key="[" line="30" column="23" />
+        <mark key="]" line="30" column="23" />
+        <mark key="." line="30" column="23" />
+        <mark key="^" line="29" column="69" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/driver/Car.java" timestamp="1507605043870">
         <mark key="[" line="53" column="35" />
@@ -148,25 +118,12 @@
       <file name="$USER_HOME$/workspace/ideaProject/shartTrip/shareTrip/shareTrip-provider/src/main/java/com/mvcc/listener/ApplicationReadyListener.java" timestamp="1506068723920">
         <mark key="[" line="17" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/notification/UserMapper.xml" timestamp="1507790498445">
-        <mark key="[" line="87" column="46" />
-        <mark key="]" line="97" column="68" />
-        <mark key="." line="97" column="68" />
-        <mark key="^" line="97" column="68" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/authentication/PlatformAuthenticationServiceImpl.java" timestamp="1507863177085">
+        <mark key="[" line="29" column="1" />
+        <mark key="]" line="29" column="1" />
+        <mark key="." line="29" column="1" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/learn/bootdemo/src/main/java/com/verne/learnboot/bootdemo/Entities/BootEntity.java" timestamp="1507811435053">
-        <mark key="[" line="16" column="26" />
-        <mark key="]" line="16" column="25" />
-        <mark key="." line="16" column="25" />
-        <mark key="^" line="16" column="25" />
-      </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/test/java/com/mvcc/service/impl/portal/tsetNotificationConsume.java" timestamp="1507773540425">
-        <mark key="[" line="21" column="37" />
-        <mark key="]" line="21" column="37" />
-        <mark key="^" line="22" column="37" />
-        <mark key="." line="21" column="37" />
-      </file>
-      <file name="/a.sql" timestamp="1507545576544">
+      <file name="/a.sql" timestamp="1507861847759">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/repository/driver/CarMapper.java" timestamp="1507604605269">
@@ -175,37 +132,35 @@
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-utils/src/main/java/com/mvcc/util/tsetNotificationConsume.java" timestamp="1507715328311">
         <mark key="[" line="11" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/generatorConfig.xml" timestamp="1507856784932">
-        <mark key="[" line="12" column="56" />
-        <mark key="]" line="12" column="59" />
-        <mark key="." line="12" column="59" />
-        <mark key="^" line="12" column="59" />
-      </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/api/person.js" timestamp="1507865390625" />
       <file name="$USER_HOME$/tmp/dajia-spring-boot-demo/trunk/dajia-springboot-demo-provider/src/main/java/com/dajia/springboot/demo/dao/impl/ServiceFormDaoImpl.java" timestamp="1507719836986">
         <mark key="[" line="21" column="52" />
-      </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/portal/NotificationService.java" timestamp="1507798702744">
-        <mark key="[" line="39" column="7" />
-        <mark key="]" line="91" column="4" />
-        <mark key="^" line="91" column="4" />
-        <mark key="." line="91" column="4" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1507512884048">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1507817441170">
+      <file name="/dummy.sql" timestamp="1507862019155">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507811084693">
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/test/java/com/mvcc/service/impl/nice/NiceServiceImplTest.java" timestamp="1507864424656">
+        <mark key="[" line="31" column="8" />
+        <mark key="]" line="29" column="47" />
+        <mark key="^" line="29" column="47" />
+        <mark key="." line="29" column="47" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1507865612397">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="3" />
-        <mark key="." line="0" column="3" />
+        <mark key="]" line="1" column="8" />
+        <mark key="." line="1" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/person/PersonService.java" timestamp="1507624633704">
         <mark key="[" line="55" column="57" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/LearnMQ/src/com/im/activityMQ/ActivityMQClient.java" timestamp="1505731200070">
         <mark key="[" line="14" column="31" />
+      </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/api/nice.js" timestamp="1507865394012">
+        <mark key="[" line="0" column="33" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/LearnMQ/src/Producer.java" timestamp="1505731934638">
         <mark key="[" line="0" column="23" />
@@ -219,26 +174,26 @@
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/person/PersonServiceImpl.java" timestamp="1507630984613">
         <mark key="[" line="61" column="26" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/LearnMQ/src/TestMq.java" timestamp="1507779694705">
-        <mark key="[" line="19" column="61" />
-        <mark key="]" line="19" column="61" />
-        <mark key="^" line="34" column="22" />
-        <mark key="." line="19" column="61" />
-      </file>
       <file name="/ColdFusion File.txt.ft" timestamp="1506075493034">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/nice/NiceController.java" timestamp="1507865684892">
+        <mark key="[" line="36" column="49" />
+        <mark key="]" line="36" column="49" />
+        <mark key="." line="36" column="49" />
+        <mark key="^" line="35" column="56" />
       </file>
       <file name="/module-info.txt.ft" timestamp="1506075491690">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/80c1f88a-a932-446e-a5fa-6f50c5c31cfe/console.sql" timestamp="1507860276729">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="0" column="87" />
+        <mark key="." line="0" column="87" />
+        <mark key="^" line="0" column="87" />
+      </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/privilege/personRoleSub-mapper.xml" timestamp="1506677207077">
         <mark key="[" line="8" column="18" />
-      </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/driver/carOwnerDetail.vue" timestamp="1507808905068">
-        <mark key="[" line="51" column="20" />
-        <mark key="]" line="51" column="17" />
-        <mark key="." line="51" column="17" />
-        <mark key="^" line="51" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/learn/bootdemo/src/test/java/com/verne/learnboot/bootdemo/BootdemoApplicationTests.java" timestamp="1507810436824">
         <mark key="[" line="10" column="15" />
@@ -248,20 +203,20 @@
       <file name="$USER_HOME$/IdeaProjects/LearnMQ/src/Consumer.java" timestamp="1505733699209">
         <mark key="[" line="0" column="23" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/nice/NiceService.java" timestamp="1507864028229">
+        <mark key="[" line="21" column="21" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/framework/filter/CorsSourceFilter.java" timestamp="1506738853734">
         <mark key="[" line="38" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1507811084720">
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/account/index.vue" timestamp="1507865817258" />
+      <file name="/fragment.java" timestamp="1507865110245">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/learn/bootdemo/pom.xml" timestamp="1507814977990">
         <mark key="[" line="50" column="21" />
-      </file>
-      <file name="$USER_HOME$/workspace/ideaProject/learn/bootdemo/src/main/java/com/verne/learnboot/security/SecurityConfig.java" timestamp="1507815578633">
-        <mark key="[" line="32" column="61" />
-        <mark key="]" line="41" column="4" />
-        <mark key="^" line="41" column="4" />
-        <mark key="." line="41" column="4" />
       </file>
     </filemarks>
     <jumps>
@@ -327,13 +282,15 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/portal/notification-mapper.xml" />
       <jump line="133" column="0" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/portal/notification-mapper.xml" />
       <jump line="47" column="4" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.7.RELEASE/spring-boot-autoconfigure-1.5.7.RELEASE.jar!/org/springframework/boot/autoconfigure/jdbc/DataSourceAutoConfiguration.class" />
+      <jump line="87" column="54" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/nice/NiceMapper.xml" />
+      <jump line="255" column="0" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/nice/NiceMapper.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>carOwnerDetail</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>carOwnerDetail</text>
       </register>
       <register name="/" type="4">
         <text>Jdbc</text>
@@ -341,70 +298,188 @@
       <register name="0" type="4">
         <text>com.mvcc.repository.nice</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">PCEtLQogICAgICBXQVJOSU5HIC0gQG1iZ2dlbmVyYXRlZAogICAgICBUaGlzIGVsZW1lbnQgaXMgYXV0b21hdGljYWxseSBnZW5lcmF0ZWQgYnkgTXlCYXRpcyBHZW5lcmF0b3IsIGRvIG5vdCBtb2RpZnkuCiAgICAgIFRoaXMgZWxlbWVudCB3YXMgZ2VuZXJhdGVkIG9uIFRodSBPY3QgMTIgMjI6MzA6MjMgQ1NUIDIwMTcuCiAgICAtLT4=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIC8qKiDliJflh7rnlKjmiLfnmoTmiYDmnIlOaWNl5L+h5oGvCiAgICAgKiBAcmV0dXJuCiAgICAgKi8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LmxvY2tzLkNvbmRpdGlvbjsK</text>
+        <text encoding="base64">ICAgICAgICBvYmplY3RPYmplY3RIYXNoTWFwLnB1dCgpCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>@Override
-    public void await() throws InterruptedException {
-        
-    }
-
-    @Override
-    public void awaitUninterruptibly() {
-
-    }
-
-    @Override
-    public long awaitNanos(long nanosTimeout) throws InterruptedException {
-        return 0;
-    }
-
-    @Override
-    public boolean await(long time, TimeUnit unit) throws InterruptedException {
-        return false;
-    }
-
-    @Override
-    public boolean awaitUntil(Date deadline) throws InterruptedException {
-        return false;
-    }
-
-    @Override
-    public void signal() {
-
-    }
-
-    @Override
-    public void signalAll() {
-
-    }</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>spring:
-    datasource:
-        url=jdbc:mysql://localhost/mydb
-        username=root
-        password=zxc
-        driver-class-name=com.mysql.jdbc.Driver</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">QEVudGl0eQo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">IGQgewogICAgICAgIHRoaXMuY291bnQgPSBjb3VudDsKICAgIH0=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">QFNwcmluZ0Jvb3RBcHBsaWNhdGlvbkMK</text>
+      <register name="6" type="4">
+        <text>public String getNiceid() {
+        return niceid;
+    }
+
+    /**
+     * This method was generated by MyBatis Generator.
+     * This method sets the value of the database column nice.niceId
+     *
+     * @param niceid the value for nice.niceId
+     *
+     * @mbggenerated Thu Oct 12 22:30:23 CST 2017
+     */
+    public void setNiceid(String niceid) {
+        this.niceid = niceid;
+    }
+
+    /**
+     * This method was generated by MyBatis Generator.
+     * This method returns the value of the database column nice.niceCodeH
+     *
+     * @return the value of nice.niceCodeH
+     *
+     * @mbggenerated Thu Oct 12 22:30:23 CST 2017
+     */
+    public String getNicecodeh() {
+        return nicecodeh;
+    }
+
+    /**
+     * This method was generated by MyBatis Generator.
+     * This method sets the value of the database column nice.niceCodeH
+     *
+     * @param nicecodeh the value for nice.niceCodeH
+     *
+     * @mbggenerated Thu Oct 12 22:30:23 CST 2017
+     */
+    public void setNicecodeh(String nicecodeh) {
+        this.nicecodeh = nicecodeh;
+    }
+
+    /**
+     * This method was generated by MyBatis Generator.
+     * This method returns the value of the database column nice.niceCodeL
+     *
+     * @return the value of nice.niceCodeL
+     *
+     * @mbggenerated Thu Oct 12 22:30:23 CST 2017
+     */
+    public String getNicecodel() {
+        return nicecodel;
+    }
+
+    /**
+     * This method was generated by MyBatis Generator.
+     * This method sets the value of the database column nice.niceCodeL
+     *
+     * @param nicecodel the value for nice.niceCodeL
+     *
+     * @mbggenerated Thu Oct 12 22:30:23 CST 2017
+     */
+    public void setNicecodel(String nicecodel) {
+        this.nicecodel = nicecodel;
+    }
+
+    /**
+     * This method was generated by MyBatis Generator.
+     * This method returns the value of the database column nice.seasonCount
+     *
+     * @return the value of nice.seasonCount
+     *
+     * @mbggenerated Thu Oct 12 22:30:23 CST 2017
+     */
+    public Integer getSeasoncount() {
+        return seasoncount;
+    }
+
+    /**
+     * This method was generated by MyBatis Generator.
+     * This method sets the value of the database column nice.seasonCount
+     *
+     * @param seasoncount the value for nice.seasonCount
+     *
+     * @mbggenerated Thu Oct 12 22:30:23 CST 2017
+     */
+    public void setSeasoncount(Integer seasoncount) {
+        this.seasoncount = seasoncount;
+    }
+
+    /**
+     * This method was generated by MyBatis Generator.
+     * This method returns the value of the database column nice.levelCount
+     *
+     * @return the value of nice.levelCount
+     *
+     * @mbggenerated Thu Oct 12 22:30:23 CST 2017
+     */
+    public Integer getLevelcount() {
+        return levelcount;
+    }
+
+    /**
+     * This method was generated by MyBatis Generator.
+     * This method sets the value of the database column nice.levelCount
+     *
+     * @param levelcount the value for nice.levelCount
+     *
+     * @mbggenerated Thu Oct 12 22:30:23 CST 2017
+     */
+    public void setLevelcount(Integer levelcount) {
+        this.levelcount = levelcount;
+    }
+
+    /**
+     * This method was generated by MyBatis Generator.
+     * This method returns the value of the database column nice.personId
+     *
+     * @return the value of nice.personId
+     *
+     * @mbggenerated Thu Oct 12 22:30:23 CST 2017
+     */
+    public String getPersonid() {
+        return personid;
+    }
+
+    /**
+     * This method was generated by MyBatis Generator.
+     * This method sets the value of the database column nice.personId
+     *
+     * @param personid the value for nice.personId
+     *
+     * @mbggenerated Thu Oct 12 22:30:23 CST 2017
+     */
+    public void setPersonid(String personid) {
+        this.personid = personid;
+    }
+
+    /**
+     * This method was generated by MyBatis Generator.
+     * This method returns the value of the database column nice.count
+     *
+     * @return the value of nice.count
+     *
+     * @mbggenerated Thu Oct 12 22:30:23 CST 2017
+     */
+    public String getcount() {
+        return count;
+    }
+
+    /**
+     * This method was generated by MyBatis Generator.
+     * This method sets the value of the database column nice.count
+     *
+     * @param count the value for nice.count
+     *
+     * @mbggenerated Thu Oct 12 22:30:23 CST 2017
+     */
+    public void setcount(String count)</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnN3aW5nLio7Cg==</text>
+        <text encoding="base64">QFNlcnZpY2UoIm5pY2VTZXJ2aWNlIikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QFNwcmluZ0Jvb3RUZXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgZ3JvdXA9IiR7c3ByaW5nLmhzZi5ncm91cH0iIHZlcnNpb249IiR7c3ByaW5nLmhzZi52ZXJzaW9ufSIgY2xpZW50VGltZW91dD0iMzAwMDAwIi8+CiAgICA8aHNmOnByb3ZpZGVyIGlkPSJuaWNlU2VydmljZUhTRiIgaW50ZXJmYWNlPSJjb20ubXZjYy5zZXJ2aWNlLmNhY2hlZC5Ub2tlbkNhY2hlZFNlcnZpY2UiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QFJ1bldpdGgoU3ByaW5nUnVubmVyLmNsYXNzKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
