@@ -81,17 +81,15 @@
         <mark key="^" line="53" column="52" />
         <mark key="." line="53" column="52" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/nice/NiceExample.java" timestamp="1507856928170" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/nice/NiceExample.java" timestamp="1507857597803" />
       <file name="$USER_HOME$/IdeaProjects/LearnMQ/src/Comsumer.java" timestamp="1505815772625">
         <mark key="[" line="20" column="44" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/privilege/Resource.java" timestamp="1506342136558">
         <mark key="[" line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/nice/NiceMapper.xml" timestamp="1507856751120">
-        <mark key="[" line="18" column="4" />
-        <mark key="]" line="18" column="4" />
-        <mark key="." line="18" column="4" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/nice/NiceMapper.xml" timestamp="1507857629892">
+        <mark key="[" line="102" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/demo/src/main/java/com/example/demo/DemoApplication.java" timestamp="1506391414876">
         <mark key="[" line="7" column="22" />
