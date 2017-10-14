@@ -47,6 +47,7 @@
       <file name="$USER_HOME$/workspace/ideaProject/shartTrip/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/listener/ApplicationFailedListener.java" timestamp="1506068410879">
         <mark key="[" line="41" column="36" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dajia/dajia-utils/2.0-SNAPSHOT/dajia-utils-2.0-20171014.084513-3.jar!/com/dajia/util/poi/Excel2007Util.class" timestamp="1507974186935" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/nice/index_back.vue" timestamp="1507875140555">
         <mark key="[" line="134" column="0" />
         <mark key="]" line="134" column="0" />
@@ -173,11 +174,11 @@
       <file name="$USER_HOME$/workspace/ideaProject/learn/bootdemo/src/main/resources/application.yml" timestamp="1507811805494">
         <mark key="[" line="2" column="39" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/portal/NotificationController.java" timestamp="1507972242354">
-        <mark key="[" line="42" column="17" />
-        <mark key="]" line="42" column="17" />
-        <mark key="." line="42" column="17" />
-        <mark key="^" line="42" column="21" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/portal/NotificationController.java" timestamp="1507974161226">
+        <mark key="[" line="44" column="17" />
+        <mark key="]" line="44" column="17" />
+        <mark key="." line="44" column="17" />
+        <mark key="^" line="44" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/test/java/com/mvcc/service/impl/person/PersonServiceImplTest.java" timestamp="1506403861918">
         <mark key="[" line="17" column="35" />
@@ -204,7 +205,7 @@
       <file name="/dummy.sql" timestamp="1507972956428">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507972894013">
+      <file name="/Dummy.txt" timestamp="1507973880896">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -325,9 +326,9 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>增加vue格式化工具
-2.增加查找未读消息的接口
-3.前段页面可以展示未读消息</text>
+        <text>页面未读消息优化
+2.页面头可以进行点击和展示消息
+3.添加了定时轮训</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -339,34 +340,36 @@
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXNwb25zZS5jb3VudCkK</text>
       </register>
       <register name="1" type="4">
+        <text>页面未读消息优化
+2.页面头可以进行点击和展示消息
+3.添加了定时轮训</text>
+      </register>
+      <register name="2" type="4">
         <text>增加vue格式化工具
 2.增加查找未读消息的接口
 3.前段页面可以展示未读消息</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICBkYXRlVG8gPSBkYXRlVG8gKiAxMDAwCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhwaWQpCg==</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgcGlkID0gCiAgICAgIGxpc3ROb3RpZmljYXRpb25CeVBlcnNvbklkKHRoaXMuY3VycmVudFBhZ2UsdGhpcy5wZXJQYWdlU2l6ZSxnZXRQSWQoKSkudGhlbihyZXNwb25zZSA9PiB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhwaWQpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgY29uc3QgcGlkID0gCiAgICAgIGxpc3ROb3RpZmljYXRpb25CeVBlcnNvbklkKHRoaXMuY3VycmVudFBhZ2UsdGhpcy5wZXJQYWdlU2l6ZSxnZXRQSWQoKSkudGhlbihyZXNwb25zZSA9PiB7Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgY29uc3QgcGlkID0gCiAgICAgIGxpc3ROb3RpZmljYXRpb25CeVBlcnNvbklkKHRoaXMuY3VycmVudFBhZ2UsdGhpcy5wZXJQYWdlU2l6ZSxnZXRQSWQoKSkudGhlbihyZXNwb25zZSA9PiB7Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>//        this.currentPage = 3
 //        this.currentPage = response.page.currentPageNumber</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHRoaXMuY3VycmVudFBhZ2UgPSAzCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHRoaXMuY3VycmVudFBhZ2UgPSByZXNwb25zZS5wYWdlLmN1cnJlbnRQYWdlTnVtYmVyCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHRoaXMuY3VycmVudFBhZ2UgPSAzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
