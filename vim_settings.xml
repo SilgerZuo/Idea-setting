@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mybatis-config.xml" timestamp="1508126324775">
@@ -12,7 +12,7 @@
         <mark key="." line="8" column="14" />
         <mark key="^" line="8" column="14" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1508125527212">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1508143354062">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
@@ -61,7 +61,7 @@
         <mark key="." line="69" column="83" />
         <mark key="^" line="69" column="83" />
       </file>
-      <file name="/dummy.sql" timestamp="1508138354566">
+      <file name="/dummy.sql" timestamp="1508143338312">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1508138654557">
@@ -145,12 +145,6 @@
         <mark key="]" line="56" column="52" />
         <mark key="." line="56" column="52" />
         <mark key="^" line="56" column="51" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/80c1f88a-a932-446e-a5fa-6f50c5c31cfe/console.sql" timestamp="1508125630711">
-        <mark key="[" line="16" column="110" />
-        <mark key="]" line="17" column="15" />
-        <mark key="." line="17" column="15" />
-        <mark key="^" line="17" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/api/notification.js" timestamp="1507972123425">
         <mark key="[" line="16" column="17" />
