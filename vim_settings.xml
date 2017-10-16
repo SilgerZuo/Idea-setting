@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mybatis-config.xml" timestamp="1506735568844">
@@ -211,7 +211,7 @@
       <file name="/ColdFusion File.txt.ft" timestamp="1506075493034">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dajia/dajia-framework-mq/2.0.0-SNAPSHOT/dajia-framework-mq-2.0.0-20171016.004534-531.jar!/com/dajia/mq/enums/MQBusinessEnum.class" timestamp="1508118779843" />
+      <file name="$MAVEN_REPOSITORY$/com/dajia/dajia-framework-mq/2.0.0-SNAPSHOT/dajia-framework-mq-2.0.0-20171016.004534-531.jar!/com/dajia/mq/enums/MQBusinessEnum.class" timestamp="1508119282256" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/80c1f88a-a932-446e-a5fa-6f50c5c31cfe/console.sql" timestamp="1507967839064">
         <mark key="[" line="1" column="44" />
         <mark key="]" line="1" column="45" />
