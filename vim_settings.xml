@@ -61,7 +61,7 @@
         <mark key="." line="69" column="83" />
         <mark key="^" line="69" column="83" />
       </file>
-      <file name="/dummy.sql" timestamp="1508143338312">
+      <file name="/dummy.sql" timestamp="1508222957229">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1508138654557">
@@ -84,16 +84,18 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/spring/spring-jdbc.xml" timestamp="1508222630472" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/driver/CarOwnerService.java" timestamp="1508133041032">
         <mark key="[" line="66" column="87" />
         <mark key="]" line="6" column="0" />
         <mark key="^" line="2" column="6" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/nice/NiceServiceImpl.java" timestamp="1507895518693">
-        <mark key="[" line="43" column="53" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/nice/NiceServiceImpl.java" timestamp="1508222745053">
+        <mark key="[" line="50" column="5" />
+        <mark key="]" line="55" column="7" />
+        <mark key="." line="55" column="7" />
+        <mark key="^" line="55" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/portal/index.vue" timestamp="1507972650746">
         <mark key="[" line="19" column="67" />
@@ -127,6 +129,11 @@
         <mark key="]" line="26" column="0" />
         <mark key="^" line="26" column="0" />
         <mark key="." line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/nice/NiceController.java" timestamp="1508222286877">
+        <mark key="[" line="45" column="38" />
+        <mark key="]" line="45" column="38" />
+        <mark key="." line="45" column="38" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/repository/driver/CarOwnerMapper.java" timestamp="1508132943598">
         <mark key="[" line="5" column="0" />
@@ -175,6 +182,11 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/nice/nice-mapper.xml" timestamp="1508223071091">
+        <mark key="[" line="103" column="20" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="106" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/nice/index_back.vue" timestamp="1507875140555">
         <mark key="[" line="134" column="0" />
         <mark key="]" line="134" column="0" />
@@ -202,6 +214,12 @@
         <mark key="]" line="120" column="11" />
         <mark key="^" line="120" column="11" />
         <mark key="." line="120" column="11" />
+      </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/nice/NiceService.java" timestamp="1508222362207">
+        <mark key="[" line="33" column="7" />
+        <mark key="]" line="29" column="24" />
+        <mark key="." line="29" column="24" />
+        <mark key="^" line="29" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/account/index.vue" timestamp="1508136889641">
         <mark key="[" line="204" column="21" />
@@ -284,13 +302,14 @@
       <jump line="57" column="66" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/repository/portal/NotificationMapper.java" />
       <jump line="5" column="37" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/layout/Navbar.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/layout/Navbar.vue" />
+      <jump line="190" column="4" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/nice/nice-mapper.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text encoding="base64">ICAgIDxkZWxldGUgaWQ9ImRlbGV0ZUJ5RXhhbXBsZSIgcGFyYW1ldGVyVHlwZT0iY29tLm12Y2MuZW50aXR5Lm5pY2UuTmljZUV4YW1wbGUiPgogICAgICAgIGRlbGV0ZSBmcm9tIG5pY2UKICAgICAgICA8aWYgdGVzdD0iX3BhcmFtZXRlciAhPSBudWxsIj4KICAgICAgICAgICAgPGluY2x1ZGUgcmVmaWQ9IkV4YW1wbGVfV2hlcmVfQ2xhdXNlIi8+CiAgICAgICAgPC9pZj4KICAgIDwvZGVsZXRlPgog</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>Jdbc</text>
@@ -298,37 +317,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXNwb25zZS5jb3VudCkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBGaWxlIGZpbGUgPSBuZXcgRmlsZShFeHBvcnRDb25zdGFudHMuRVhQT1JUX2RyaXZlcl9ERUZBVUxUX0FERFJFQVNTKTsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIDxkZWxldGUgaWQ9ImRlbGV0ZUJ5RXhhbXBsZSIgcGFyYW1ldGVyVHlwZT0iY29tLm12Y2MuZW50aXR5Lm5pY2UuTmljZUV4YW1wbGUiPgogICAgICAgIGRlbGV0ZSBmcm9tIG5pY2UKICAgICAgICA8aWYgdGVzdD0iX3BhcmFtZXRlciAhPSBudWxsIj4KICAgICAgICAgICAgPGluY2x1ZGUgcmVmaWQ9IkV4YW1wbGVfV2hlcmVfQ2xhdXNlIi8+CiAgICAgICAgPC9pZj4KICAgIDwvZGVsZXRlPgog</text>
       </register>
       <register name="2" type="4">
-        <text>1.更改账号导出图标
-2.删除nice导出图标</text>
+        <text encoding="base64">PGRlbGV0ZSBpZD0iZGVsZXRlQnlFeGFtcGxlIiBwYXJhbWV0ZXJUeXBlPSJjb20ubXZjYy5lbnRpdHkubmljZS5OaWNlRXhhbXBsZSI+CiAgICAgICAgZGVsZXRlIGZyb20gbmljZQogICAgICAgIDxpZiB0ZXN0PSJfcGFyYW1ldGVyICE9IG51bGwiPgogICAgICAgICAgICA8aW5jbHVkZSByZWZpZD0iRXhhbXBsZV9XaGVyZV9DbGF1c2UiLz4KICAgICAgICA8L2lmPgogICAgPC9kZWxldGU=</text>
       </register>
       <register name="3" type="4">
-        <text>1.开通(账号和carOwner)查找出要导出数据的借口
-2.增加TagIdCVonstant,用于保存消息的TagId
-3.增加MQ导出借口
-4.前段增加导出按钮逻辑
-5.myabtis配置文件增加:没有出具,map也可以查出key</text>
+        <text encoding="base64">PGluc2VydCBpZD0iaW5zZXJ0IiBwYXJhbWV0ZXJUeXBlPSJjb20ubXZjYy5lbnRpdHkubmljZS5OaWNlTW9kdWxlIj4KICAgIGluc2VydCBpbnRvIG5pY2UgKG5pY2VJZCwgbmljZUNvZGVILCBuaWNlQ29kZUwsIAogICAgICBzZWFzb25Db3VudCwgbGV2ZWxDb3VudCwgcGVyc29uSWQsIAogICAgICAiY291bnQiKQogICAgdmFsdWVzICgje25pY2VJZCxqZGJjVHlwZT1WQVJDSEFSfSwgI3tuaWNlQ29kZUgsamRiY1R5cGU9VkFSQ0hBUn0sICN7bmljZUNvZGVMLGpkYmNUeXBlPVZBUkNIQVJ9LCAKICAgICAgI3tzZWFzb25Db3VudCxqZGJjVHlwZT1JTlRFR0VSfSwgI3tsZXZlbENvdW50LGpkYmNUeXBlPUlOVEVHRVJ9LCAje3BlcnNvbklkLGpkYmNUeXBlPVZBUkNIQVJ9LCAKICAgICAgI3tjb3VudCxqZGJjVHlwZT1WQVJDSEFSfSkKICA8L2luc2VydD4=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY2VsbE51bQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgYWNjdElkLAogICAgICB1c2VyTmFtZSwK</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgIDxpZiB0ZXN0PSJuaWNlQ29kZUggIT0gbnVsbCI+CiAgICAgICAgICAgICAgICAje25pY2VDb2RlSCxqZGJjVHlwZT1WQVJDSEFSfSwKICAgICAgICAgICAgPC9pZj4KICAgICAgICAgICAgPGlmIHRlc3Q9Im5pY2VDb2RlTCAhPSBudWxsIj4KICAgICAgICAgICAgICAgICN7bmljZUNvZGVMLGpkYmNUeXBlPVZBUkNIQVJ9LAogICAgICAgICAgICA8L2lmPg==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ICAgICAgPGVsLWNvbCA6c3Bhbj0iNiI+CiAgICAgICAgPGRpdiBjbGFzcz0iZ3JpZC1jb250ZW50Ij4KICAgICAgICAgIDxlbC1idXR0b24gdHlwZT0icHJpbWFyeSI+5a+85Ye6PC9lbC1idXR0b24+CiAgICAgICAgPC9kaXY+CiAgICAgIDwvZWwtY29sPg==</text>
+        <text encoding="base64">ICAgIDxpZiB0ZXN0PSJuaWNlQ29kZUggIT0gbnVsbCI+CiAgICAgICAgICAgICAgICBuaWNlQ29kZUgsCiAgICAgICAgICAgIDwvaWY+CiAgICAgICAgICAgIDxpZiB0ZXN0PSJuaWNlQ29kZUwgIT0gbnVsbCI+CiAgICAgICAgICAgICAgICBuaWNlQ29kZUwsCiAgICAgICAgICAgIDwvaWY+</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">QE1RQ29uc3VtZXJDb25maWd1cmF0aW9uKGJ1c2luZXNzVHlwZSA9IE1RQnVzaW5lc3NFbnVtLlNlcnZpY2UsIHRhZ0lEID0gImV4cG9ydENhck93bmVyVG9FeGNlbCIsIGNvbnN1bWVyVHlwZSA9IE1RQ29uc3VtZXJUeXBlLk9yZGVyKQo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">PGluc2VydCBpZD0iaW5zZXJ0U2VsZWN0aXZlIiBwYXJhbWV0ZXJUeXBlPSJjb20ubXZjYy5lbnRpdHkubmljZS5OaWNlTW9kdWxlIj4KICAgICAgICBpbnNlcnQgaW50byBuaWNlCiAgICAgICAgPHRyaW0gcHJlZml4PSIoIiBzdWZmaXg9IikiIHN1ZmZpeE92ZXJyaWRlcz0iLCI+CiAgICAgICAgICAgIDxpZiB0ZXN0PSJuaWNlSWQgIT0gbnVsbCI+CiAgICAgICAgICAgICAgICBuaWNlSWQsCiAgICAgICAgICAgIDwvaWY+CiAgICAgICAgICAgIDxpZiB0ZXN0PSJuaWNlQ29kZUggIT0gbnVsbCI+CiAgICAgICAgICAgICAgICBuaWNlQ29kZUgsCiAgICAgICAgICAgIDwvaWY+CiAgICAgICAgICAgIDxpZiB0ZXN0PSJuaWNlQ29kZUwgIT0gbnVsbCI+CiAgICAgICAgICAgICAgICBuaWNlQ29kZUwsCiAgICAgICAgICAgIDwvaWY+CiAgICAgICAgICAgIDxpZiB0ZXN0PSJzZWFzb25Db3VudCAhPSBudWxsIj4KICAgICAgICAgICAgICAgIHNlYXNvbkNvdW50LAogICAgICAgICAgICA8L2lmPgogICAgICAgICAgICA8aWYgdGVzdD0ibGV2ZWxDb3VudCAhPSBudWxsIj4KICAgICAgICAgICAgICAgIGxldmVsQ291bnQsCiAgICAgICAgICAgIDwvaWY+CiAgICAgICAgICAgIDxpZiB0ZXN0PSJwZXJzb25JZCAhPSBudWxsIj4KICAgICAgICAgICAgICAgIHBlcnNvbklkLAogICAgICAgICAgICA8L2lmPgogICAgICAgICAgICA8aWYgdGVzdD0iY291bnQgIT0gbnVsbCI+CiAgICAgICAgICAgICAgICBjb3VudCwKICAgICAgICAgICAgPC9pZj4KICAgICAgICA8L3RyaW0+CiAgICAgICAgPHRyaW0gcHJlZml4PSJ2YWx1ZXMgKCIgc3VmZml4PSIpIiBzdWZmaXhPdmVycmlkZXM9IiwiPgogICAgICAgICAgICA8aWYgdGVzdD0ibmljZUlkICE9IG51bGwiPgogICAgICAgICAgICAgICAgI3tuaWNlSWQsamRiY1R5cGU9VkFSQ0hBUn0sCiAgICAgICAgICAgIDwvaWY+CiAgICAgICAgICAgIDxpZiB0ZXN0PSJuaWNlQ29kZUggIT0gbnVsbCI+CiAgICAgICAgICAgICAgICAje25pY2VDb2RlSCxqZGJjVHlwZT1WQVJDSEFSfSwKICAgICAgICAgICAgPC9pZj4KICAgICAgICAgICAgPGlmIHRlc3Q9Im5pY2VDb2RlTCAhPSBudWxsIj4KICAgICAgICAgICAgICAgICN7bmljZUNvZGVMLGpkYmNUeXBlPVZBUkNIQVJ9LAogICAgICAgICAgICA8L2lmPgogICAgICAgICAgICA8aWYgdGVzdD0ic2Vhc29uQ291bnQgIT0gbnVsbCI+CiAgICAgICAgICAgICAgICAje3NlYXNvbkNvdW50LGpkYmNUeXBlPUlOVEVHRVJ9LAogICAgICAgICAgICA8L2lmPgogICAgICAgICAgICA8aWYgdGVzdD0ibGV2ZWxDb3VudCAhPSBudWxsIj4KICAgICAgICAgICAgICAgICN7bGV2ZWxDb3VudCxqZGJjVHlwZT1JTlRFR0VSfSwKICAgICAgICAgICAgPC9pZj4KICAgICAgICAgICAgPGlmIHRlc3Q9InBlcnNvbklkICE9IG51bGwiPgogICAgICAgICAgICAgICAgI3twZXJzb25JZCxqZGJjVHlwZT1WQVJDSEFSfSwKICAgICAgICAgICAgPC9pZj4KICAgICAgICAgICAgPGlmIHRlc3Q9ImNvdW50ICE9IG51bGwiPgogICAgICAgICAgICAgICAgI3tjb3VudCxqZGJjVHlwZT1WQVJDSEFSfSwKICAgICAgICAgICAgPC9pZj4KICAgICAgICA8L3RyaW0+CiAgICA8L2luc2VydA==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tdmNjLnV0aWxzLkV4cG9ydENvbnN0YW50czsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgIDxzZWxlY3QgaWQ9ImNvdW50QnlFeGFtcGxlIiBwYXJhbWV0ZXJUeXBlPSJjb20ubXZjYy5lbnRpdHkubmljZS5OaWNlRXhhbXBsZSIgcmVzdWx0VHlwZT0iaW50Ij4KICAgICAgICBzZWxlY3QgY291bnQoKikgZnJvbSBuaWNlCiAgICAgICAgPGlmIHRlc3Q9Il9wYXJhbWV0ZXIgIT0gbnVsbCI+CiAgICAgICAgICAgIDxpbmNsdWRlIHJlZmlkPSJFeGFtcGxlX1doZXJlX0NsYXVzZSIvPgogICAgICAgIDwvaWY+CiAgICA8L3NlbGVjdD4=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tdmNjLnV0aWxzLkV4cG9ydENvbnN0YW50czsK</text>
+        <text encoding="base64">ICAgIDx1cGRhdGUgaWQ9InVwZGF0ZUJ5RXhhbXBsZVNlbGVjdGl2ZSIgcGFyYW1ldGVyVHlwZT0ibWFwIj4KICAgICAgICB1cGRhdGUgbmljZQogICAgICAgIDxzZXQ+CiAgICAgICAgICAgIDxpZiB0ZXN0PSJyZWNvcmQubmljZUlkICE9IG51bGwiPgogICAgICAgICAgICAgICAgbmljZUlkID0gI3tyZWNvcmQubmljZUlkLGpkYmNUeXBlPVZBUkNIQVJ9LAogICAgICAgICAgICA8L2lmPgogICAgICAgICAgICA8aWYgdGVzdD0icmVjb3JkLm5pY2VDb2RlSCAhPSBudWxsIj4KICAgICAgICAgICAgICAgIG5pY2VDb2RlSCA9ICN7cmVjb3JkLm5pY2VDb2RlSCxqZGJjVHlwZT1WQVJDSEFSfSwKICAgICAgICAgICAgPC9pZj4KICAgICAgICAgICAgPGlmIHRlc3Q9InJlY29yZC5uaWNlQ29kZUwgIT0gbnVsbCI+CiAgICAgICAgICAgICAgICBuaWNlQ29kZUwgPSAje3JlY29yZC5uaWNlQ29kZUwsamRiY1R5cGU9VkFSQ0hBUn0sCiAgICAgICAgICAgIDwvaWY+CiAgICAgICAgICAgIDxpZiB0ZXN0PSJyZWNvcmQuc2Vhc29uQ291bnQgIT0gbnVsbCI+CiAgICAgICAgICAgICAgICBzZWFzb25Db3VudCA9ICN7cmVjb3JkLnNlYXNvbkNvdW50LGpkYmNUeXBlPUlOVEVHRVJ9LAogICAgICAgICAgICA8L2lmPgogICAgICAgICAgICA8aWYgdGVzdD0icmVjb3JkLmxldmVsQ291bnQgIT0gbnVsbCI+CiAgICAgICAgICAgICAgICBsZXZlbENvdW50ID0gI3tyZWNvcmQubGV2ZWxDb3VudCxqZGJjVHlwZT1JTlRFR0VSfSwKICAgICAgICAgICAgPC9pZj4KICAgICAgICAgICAgPGlmIHRlc3Q9InJlY29yZC5wZXJzb25JZCAhPSBudWxsIj4KICAgICAgICAgICAgICAgIHBlcnNvbklkID0gI3tyZWNvcmQucGVyc29uSWQsamRiY1R5cGU9VkFSQ0hBUn0sCiAgICAgICAgICAgIDwvaWY+CiAgICAgICAgICAgIDxpZiB0ZXN0PSJyZWNvcmQuY291bnQgIT0gbnVsbCI+CiAgICAgICAgICAgICAgICBjb3VudCA9ICN7cmVjb3JkLmNvdW50LGpkYmNUeXBlPVZBUkNIQVJ9LAogICAgICAgICAgICA8L2lmPgogICAgICAgIDwvc2V0PgogICAgICAgIDxpZiB0ZXN0PSJfcGFyYW1ldGVyICE9IG51bGwiPgogICAgICAgICAgICA8aW5jbHVkZSByZWZpZD0iVXBkYXRlX0J5X0V4YW1wbGVfV2hlcmVfQ2xhdXNlIi8+CiAgICAgICAgPC9pZj4KICAgIDwvdXBkYXRlPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
