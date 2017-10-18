@@ -6,77 +6,52 @@
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mybatis-config.xml" timestamp="1508126324775">
         <mark key="[" line="5" column="51" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1508309994887">
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/demand/demand-mapper.xml" timestamp="1508320160045">
+        <mark key="[" line="35" column="14" />
+        <mark key="]" line="62" column="78" />
+        <mark key="^" line="62" column="78" />
+        <mark key="." line="62" column="78" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1508320833945">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
-      </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/app/nice/NiceAppController.java" timestamp="1508233205283">
-        <mark key="[" line="47" column="17" />
-        <mark key="]" line="47" column="17" />
-        <mark key="^" line="55" column="18" />
-        <mark key="." line="47" column="17" />
       </file>
       <file name="/a.dummy" timestamp="1508308284402">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/taxifare/TaxiFareMapper.xml" timestamp="1508308362444" />
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/test/java/com/mvcc/service/impl/portal/NotificationServiceImplTest.java" timestamp="1507971163067">
-        <mark key="[" line="43" column="28" />
-        <mark key="]" line="43" column="28" />
-        <mark key="." line="43" column="28" />
-        <mark key="^" line="94" column="47" />
-      </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/driver/index.vue" timestamp="1508136511672">
         <mark key="[" line="17" column="20" />
-      </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/car/carOwnerSub-mapper.xml" timestamp="1508293866587">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-        <mark key="^" line="37" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/utils/TagIdConstant.java" timestamp="1508137483653">
         <mark key="[" line="15" column="15" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/demand/DemandPoolController.java" timestamp="1508320763231">
+        <mark key="[" line="24" column="17" />
+        <mark key="]" line="41" column="58" />
+        <mark key="^" line="41" column="63" />
+        <mark key="." line="41" column="58" />
+      </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/taxifare/TaxiFare.java" timestamp="1508308025694">
         <mark key="^" line="18" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/repository/nice/NiceMapper.java" timestamp="1508233703361">
-        <mark key="[" line="22" column="4" />
-        <mark key="]" line="22" column="13" />
-        <mark key="." line="22" column="13" />
-        <mark key="^" line="22" column="13" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/demand/DemandPoolServiceImpl.java" timestamp="1508319921582">
+        <mark key="'" line="50" column="8" />
+        <mark key="[" line="51" column="34" />
+        <mark key="]" line="51" column="15" />
+        <mark key="." line="51" column="15" />
+        <mark key="^" line="51" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/driver/CarOwnerService.java" timestamp="1508133041032">
-        <mark key="[" line="66" column="87" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="2" column="6" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/utils/tagIdConst.java" timestamp="1508118815355">
-        <mark key="[" line="34" column="25" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/demand/DemandPool.java" timestamp="1508320332997" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/demand/DemandPoolService.java" timestamp="1508319186692">
+        <mark key="[" line="41" column="123" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/test/java/com/mvcc/service/impl/finance/PassengerFinanceServiceImplTest.java" timestamp="1508309382194">
         <mark key="[" line="27" column="94" />
         <mark key="]" line="27" column="93" />
         <mark key="^" line="27" column="93" />
         <mark key="." line="27" column="93" />
-      </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/MQMessage/portal/exportCarOwnerToExcel.java" timestamp="1508138433813">
-        <mark key="[" line="56" column="52" />
-        <mark key="]" line="56" column="52" />
-        <mark key="." line="56" column="52" />
-        <mark key="^" line="56" column="51" />
-      </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/car/carOwner-mapper.xml" timestamp="1508293439917">
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
-        <mark key="^" line="70" column="55" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/finance/PassengerFinanceServiceImpl.java" timestamp="1508309953700">
         <mark key="[" line="59" column="121" />
@@ -90,29 +65,14 @@
         <mark key="^" line="118" column="39" />
         <mark key="." line="125" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/MQMessage/portal/exportPlatToExcel.java" timestamp="1508138060200">
-        <mark key="[" line="57" column="73" />
-        <mark key="]" line="57" column="73" />
-        <mark key="." line="57" column="73" />
-        <mark key="^" line="57" column="72" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/repository/demand/DemandPoolMapper.java" timestamp="1508319628874">
+        <mark key="[" line="44" column="14" />
+        <mark key="]" line="44" column="14" />
+        <mark key="^" line="46" column="51" />
+        <mark key="." line="44" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/car/CarOwnerServiceImpl.java" timestamp="1508133035832">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="107" column="32" />
-      </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/portal/Notification.java" timestamp="1507960691280">
-        <mark key="[" line="8" column="13" />
-        <mark key="]" line="8" column="14" />
-        <mark key="." line="8" column="14" />
-        <mark key="^" line="8" column="14" />
-      </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/repository/taxifare/taxifareMapper.java" timestamp="1508307727181">
-        <mark key="[" line="12" column="33" />
-        <mark key="]" line="12" column="15" />
-        <mark key="^" line="12" column="15" />
-        <mark key="." line="12" column="15" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/test/java/com/mvcc/service/impl/demand/DemandPoolServiceImplTest.java" timestamp="1508320583179">
+        <mark key="[" line="19" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/nice/NiceModule.java" timestamp="1508308118385">
         <mark key="'" line="20" column="0" />
@@ -129,56 +89,16 @@
       <file name="/a.sql" timestamp="1508295627075">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/authentication/PlatformAuthenticationService.java" timestamp="1508125259552">
-        <mark key="[" line="69" column="84" />
-        <mark key="]" line="69" column="83" />
-        <mark key="." line="69" column="83" />
-        <mark key="^" line="69" column="83" />
-      </file>
-      <file name="/dummy.sql" timestamp="1508309958075">
+      <file name="/dummy.sql" timestamp="1508320822532">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/repository/authentication/PlatformAuthenticationMapper.java" timestamp="1508131840621">
-        <mark key="[" line="39" column="28" />
-        <mark key="]" line="39" column="25" />
-        <mark key="^" line="39" column="25" />
-        <mark key="." line="39" column="25" />
-      </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/authentication/PlatformAuthenticationController.java" timestamp="1508137670297">
-        <mark key="[" line="149" column="104" />
-        <mark key="]" line="149" column="102" />
-        <mark key="." line="149" column="102" />
-        <mark key="^" line="149" column="102" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/finance/PassengerFinanceService.java" timestamp="1508308976605">
         <mark key="[" line="22" column="21" />
         <mark key="]" line="22" column="21" />
         <mark key="^" line="27" column="93" />
         <mark key="." line="22" column="21" />
-      </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/nice/NiceController.java" timestamp="1508294337431">
-        <mark key="]" line="35" column="17" />
-        <mark key="." line="35" column="17" />
-      </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/repository/driver/CarOwnerMapper.java" timestamp="1508132943598">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="54" column="33" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/constant/ExportConstants.java" timestamp="1508138044903">
-        <mark key="[" line="13" column="86" />
-        <mark key="]" line="13" column="86" />
-        <mark key="." line="13" column="86" />
-        <mark key="^" line="13" column="64" />
-      </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/api/notification.js" timestamp="1507972123425">
-        <mark key="[" line="16" column="17" />
-        <mark key="]" line="16" column="17" />
-        <mark key="^" line="14" column="40" />
-        <mark key="." line="16" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/taxifare/taxifare-mapper.xml" timestamp="1508307712330">
         <mark key="[" line="3" column="19" />
@@ -192,43 +112,7 @@
         <mark key="^" line="20" column="3" />
         <mark key="." line="19" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/authentication/platformAuthentication-mapper.xml" timestamp="1508126213078">
-        <mark key="[" line="164" column="71" />
-        <mark key="]" line="164" column="71" />
-        <mark key="^" line="164" column="23" />
-        <mark key="." line="164" column="71" />
-      </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/driver/carOwnerDetail.vue" timestamp="1507952230112">
-        <mark key="[" line="51" column="20" />
-        <mark key="]" line="51" column="17" />
-        <mark key="." line="51" column="17" />
-        <mark key="^" line="51" column="17" />
-      </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/portal/notification-mapper.xml" timestamp="1507972745274">
-        <mark key="[" line="11" column="14" />
-        <mark key="]" line="120" column="11" />
-        <mark key="^" line="120" column="11" />
-        <mark key="." line="120" column="11" />
-      </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/nice/NiceService.java" timestamp="1508234826206">
-        <mark key="[" line="38" column="51" />
-        <mark key="]" line="29" column="24" />
-        <mark key="." line="29" column="24" />
-        <mark key="^" line="29" column="24" />
-      </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/account/index.vue" timestamp="1508136889641">
-        <mark key="[" line="204" column="21" />
-        <mark key="]" line="204" column="21" />
-        <mark key="^" line="213" column="29" />
-        <mark key="." line="204" column="21" />
-      </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/notification/NotificationServiceImpl.java" timestamp="1508306447648">
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
-        <mark key="^" line="67" column="52" />
-      </file>
-      <file name="/fragment.java" timestamp="1508309944304">
+      <file name="/fragment.java" timestamp="1508320410469">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -302,34 +186,36 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/layout/Navbar.vue" />
       <jump line="190" column="4" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/nice/nice-mapper.xml" />
       <jump line="17" column="0" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/nice/NiceModule.java" />
+      <jump line="48" column="82" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/demand/DemandPoolServiceImpl.java" />
+      <jump line="47" column="8" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/demand/DemandPoolServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>order</text>
+        <text>value=&quot;keyWord&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>order</text>
+        <text>value=&quot;keyWord&quot;</text>
       </register>
       <register name="/" type="4">
         <text>Jdbc</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXNwb25zZS5jb3VudCkK</text>
+      <register name="0" type="4">
+        <text>@RequestParam(&quot;pageNum&quot;) int pageNum, @RequestParam(&quot;pageSize&quot;) int pageSize</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBuZXcgUGFnZUhlbHBlcigpCg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgIFRheAo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">ICAgcHVibGljIGZsb2F0IGdldFByaWNlRmxvYXQoKSB7CiAgICAgICAgcmV0dXJuIHByaWNlRmxvYXQ7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0UHJpY2VGbG9hdChmbG9hdCBwcmljZUZsb2F0KSB7CiAgICAgICAgdGhpcy5wcmljZUZsb2F0ID0gcHJpY2VGbG9hdDsKICAgIH0KCiAgICBwdWJsaWMgZmxvYXQgZ2V0UGFzc2VuZ2VyRmxvYXQoKSB7CiAgICAgICAgcmV0dXJuIHBhc3NlbmdlckZsb2F0OwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldFBhc3NlbmdlckZsb2F0KGZsb2F0IHBhc3NlbmdlckZsb2F0KSB7CiAgICAgICAgdGhpcy5wYXNzZW5nZXJGbG9hdCA9IHBhc3NlbmdlckZsb2F0OwogICAgfQ==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBmbG9hdCBwcmljZUZsb2F0ID0gZHJpdmVyTmljZURldGFpbC5nZXRQcmljZUZsb2F0KCk7Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAgIHB1YmxpYyBmbG9hdCBnZXRTdGFydGluZ1ByaWNlKCkgewogICAgICAgIHJldHVybiBzdGFydGluZ1ByaWNlOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldFN0YXJ0aW5nUHJpY2UoZmxvYXQgc3RhcnRpbmdQcmljZSkgewogICAgICAgIHRoaXMuc3RhcnRpbmdQcmljZSA9IHN0YXJ0aW5nUHJpY2U7CiAgICB9CgogICAgcHVibGljIGZsb2F0IGdldEZhcmVQZXJLTSgpIHsKICAgICAgICByZXR1cm4gZmFyZVBlcktNOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldEZhcmVQZXJLTShmbG9hdCBmYXJlUGVyS00pIHsKICAgICAgICB0aGlzLmZhcmVQZXJLTSA9IGZhcmVQZXJLTTsKICAgIH0=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -338,10 +224,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">PHNxbCBpZD0ic3RhdGlvbl9jb2x1bW5fc3FsIj4KICAgICAgICBzdGF0aW9uSWQsCiAgICAgICAgc3RhdGlvbk5hbWUsCiAgICAgICAgbGd0LAogICAgICAgIGxhdCwKICAgICAgICBpc1ZhbGlkCiAgICA8L3NxbD4KCiAgICA8c2VsZWN0IGlkPSJsaXN0U3RhdGlvbiIgcmVzdWx0VHlwZT0iY29tLm12Y2MuZW50aXR5LnN0YXRpb24uU3RhdGlvbiI+CiAgICAgICAgc2VsZWN0IDxpbmNsdWRlIHJlZmlkPSJzdGF0aW9uX2NvbHVtbl9zcWwiLz4gZnJvbSBzdGF0aW9uIHdoZXJlIGlzVmFsaWQgPSAje2lzVmFsaWR9CiAgICA8L3NlbGVjdD4KCiAgICA8aW5zZXJ0IGlkPSJpbnNlcnRTdGF0aW9uQnlFbnRpdHkiIHBhcmFtZXRlclR5cGU9ImNvbS5tdmNjLmVudGl0eS5zdGF0aW9uLlN0YXRpb24iPgogICAgICAgIGluc2VydCBpbnRvIHN0YXRpb24gKAogICAgICAgIDxpbmNsdWRlIHJlZmlkPSJzdGF0aW9uX2NvbHVtbl9zcWwiLz4KICAgICAgICApIHZhbHVlcyAoCiAgICAgICAgI3tzdGF0aW9uSWR9LAogICAgICAgICN7c3RhdGlvbk5hbWV9LAogICAgICAgICN7bGd0fSwKICAgICAgICAje2xhdH0KICAgICAgICApCiAgICA8L2luc2VydD4=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
