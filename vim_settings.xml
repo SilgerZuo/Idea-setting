@@ -1,12 +1,12 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mybatis-config.xml" timestamp="1508126324775">
         <mark key="[" line="5" column="51" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1508234908286">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1508295674131">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
@@ -39,6 +39,12 @@
         <mark key="[" line="49" column="11" />
         <mark key="]" line="49" column="11" />
         <mark key="." line="49" column="11" />
+      </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/taxifare/TaxiFare.java" timestamp="1508295340809">
+        <mark key="[" line="16" column="28" />
+        <mark key="]" line="16" column="18" />
+        <mark key="^" line="16" column="17" />
+        <mark key="." line="16" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/MQMessage/portal/exportNiceToExcel.java" timestamp="1508135765931">
         <mark key="[" line="14" column="0" />
@@ -146,7 +152,7 @@
         <mark key="^" line="88" column="46" />
         <mark key="." line="88" column="46" />
       </file>
-      <file name="/a.sql" timestamp="1508229172958">
+      <file name="/a.sql" timestamp="1508295627075">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/car/CarOwnerController.java" timestamp="1508137580886">
@@ -165,8 +171,10 @@
         <mark key="." line="69" column="83" />
         <mark key="^" line="69" column="83" />
       </file>
-      <file name="/dummy.sql" timestamp="1508293635091">
+      <file name="/dummy.sql" timestamp="1508295648505">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1508294153917">
         <mark key="[" line="0" column="0" />
@@ -327,10 +335,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ice搜索出的从map转成对象</text>
+        <text>int</text>
       </register>
       <register name="-" type="4">
-        <text>ice搜索出的从map转成对象</text>
+        <text>int</text>
       </register>
       <register name="/" type="4">
         <text>Jdbc</text>
