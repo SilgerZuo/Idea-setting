@@ -56,17 +56,18 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/demand/DemandPoolController.java" timestamp="1508327042868">
-        <mark key="[" line="47" column="8" />
-        <mark key="]" line="41" column="13" />
-        <mark key="." line="41" column="13" />
-        <mark key="^" line="41" column="13" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/demand/DemandPoolController.java" timestamp="1508385487874">
+        <mark key="[" line="54" column="31" />
+        <mark key="]" line="55" column="47" />
+        <mark key="." line="55" column="47" />
+        <mark key="^" line="55" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/demand/index.vue" timestamp="1508379585093">
-        <mark key="'" line="406" column="46" />
-        <mark key="[" line="333" column="10" />
-        <mark key="]" line="334" column="0" />
-        <mark key="." line="334" column="0" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/demand/index.vue" timestamp="1508385583388">
+        <mark key="'" line="346" column="47" />
+        <mark key="[" line="457" column="22" />
+        <mark key="]" line="346" column="48" />
+        <mark key="^" line="346" column="34" />
+        <mark key="." line="346" column="35" />
       </file>
       <file name="/Dummy.txt" timestamp="1508379773060">
         <mark key="[" line="0" column="0" />
@@ -91,18 +92,27 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/authentication/PlatformAuthenticationController.java" timestamp="1508385379334">
+        <mark key="'" line="34" column="13" />
+      </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/router/index.js" timestamp="1508385015444">
+        <mark key="[" line="104" column="15" />
+        <mark key="]" line="104" column="19" />
+        <mark key="." line="104" column="19" />
+        <mark key="^" line="104" column="19" />
+      </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/finance/PassengerFinanceService.java" timestamp="1508308976605">
         <mark key="[" line="22" column="21" />
         <mark key="]" line="22" column="21" />
         <mark key="^" line="27" column="93" />
         <mark key="." line="22" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/api/demand.js" timestamp="1508327045930">
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/api/demand.js" timestamp="1508385642212">
         <mark key="'" line="9" column="15" />
-        <mark key="[" line="7" column="6" />
-        <mark key="]" line="7" column="13" />
-        <mark key="^" line="7" column="13" />
-        <mark key="." line="7" column="13" />
+        <mark key="[" line="15" column="16" />
+        <mark key="]" line="14" column="28" />
+        <mark key="^" line="16" column="11" />
+        <mark key="." line="16" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/demand/DemandPoolService.java" timestamp="1508324887774">
         <mark key="[" line="41" column="99" />
@@ -131,17 +141,20 @@
         <mark key="." line="24" column="10" />
         <mark key="^" line="24" column="10" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/utils/auth.js" timestamp="1508385631808" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/nice/nice-mapper.xml" timestamp="1508309340973">
         <mark key="[" line="125" column="11" />
         <mark key="]" line="125" column="11" />
         <mark key="^" line="118" column="39" />
         <mark key="." line="125" column="11" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/api/account.js" timestamp="1508385229171" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/orders/orderDetail.vue" timestamp="1508334400942">
         <mark key="'" line="204" column="39" />
         <mark key="[" line="193" column="86" />
       </file>
-      <file name="/fragment.java" timestamp="1508331476497">
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/account/index.vue" timestamp="1508385078812" />
+      <file name="/fragment.java" timestamp="1508384826963">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -238,55 +251,57 @@
       <jump line="75" column="30" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/portal/index.vue" />
       <jump line="204" column="39" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/orders/orderDetail.vue" />
       <jump line="407" column="46" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/demand/index.vue" />
+      <jump line="34" column="13" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/authentication/PlatformAuthenticationController.java" />
+      <jump line="346" column="47" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/demand/index.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>exportToExcel</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>reutrn</text>
       </register>
       <register name="/" type="4">
-        <text>driverData</text>
+        <text>export</text>
       </register>
       <register name="0" type="4">
-        <text>pageMaxSize</text>
+        <text>exportToExcel</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnYXNkZicpCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLyAgaW1wb3J0IHsgZm9ybWF0RGF0ZSB9IGZyb20gJ0AvdXRpbHMvZGF0ZScK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gQ29sbGVjdGlvbnMuZW1wdHlNYXAoKTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpbXBvcnQgeyBmb3JtYXREYXRlIH0gZnJvbSAnQC91dGlscy9kYXRlJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZm9ybWF0RGF0ZSh0aW1lLCAneXl5eS1NTS1kZCBoaCA6IG1tJykK</text>
+        <text encoding="base64">ICAvLyAgaW1wb3J0IHsgZm9ybWF0RGF0ZSB9IGZyb20gJ0AvdXRpbHMvZGF0ZScK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPC9lbC1jb2w+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPGVsLWNvbCA6c3Bhbj0iNiI+Cg==</text>
+        <text encoding="base64">ICBpbXBvcnQgeyBmb3JtYXREYXRlIH0gZnJvbSAnQC91dGlscy9kYXRlJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMudG90YWxEYXRhID0gcmVzcG9uc2UucGFnZS5saXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZm9ybWF0RGF0ZSh0aW1lLCAneXl5eS1NTS1kZCBoaCA6IG1tJykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>driverData</last-search>
+      <last-search>export</last-search>
       <last-offset />
-      <last-pattern>driverData</last-pattern>
+      <last-pattern>export</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -300,6 +315,8 @@
         <entry>Jdbc</entry>
         <entry>java</entry>
         <entry>driverData</entry>
+        <entry>需求吃</entry>
+        <entry>export</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
