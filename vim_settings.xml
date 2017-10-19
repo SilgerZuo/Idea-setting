@@ -73,13 +73,14 @@
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/demand/DemandPoolServiceImpl.java" timestamp="1508327229523">
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/demand/DemandPoolServiceImpl.java" timestamp="1508381858991">
         <mark key="'" line="50" column="8" />
-        <mark key="[" line="52" column="39" />
-        <mark key="]" line="48" column="117" />
-        <mark key="." line="48" column="117" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
         <mark key="^" line="48" column="117" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/cdn/CDNController.java" timestamp="1508382395520" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/portal/index.vue" timestamp="1508379531161">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
@@ -135,7 +136,6 @@
         <mark key="'" line="204" column="39" />
         <mark key="[" line="193" column="86" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/account/index.vue" timestamp="1508378912378" />
       <file name="/fragment.java" timestamp="1508331476497">
         <mark key="[" line="0" column="0" />
       </file>
@@ -235,11 +235,11 @@
       <jump line="407" column="46" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/demand/index.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>缓存管理增加搜索,优化时间插件</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>缓存管理增加搜索,优化时间插件</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>driverData</text>
@@ -248,28 +248,28 @@
         <text>pageMaxSize</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyAgaW1wb3J0IHsgZm9ybWF0RGF0ZSB9IGZyb20gJ0AvdXRpbHMvZGF0ZScK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpbXBvcnQgeyBmb3JtYXREYXRlIH0gZnJvbSAnQC91dGlscy9kYXRlJwo=</text>
+        <text encoding="base64">ICAvLyAgaW1wb3J0IHsgZm9ybWF0RGF0ZSB9IGZyb20gJ0AvdXRpbHMvZGF0ZScK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZm9ybWF0RGF0ZSh0aW1lLCAneXl5eS1NTS1kZCBoaCA6IG1tJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPC9lbC1jb2w+Cg==</text>
+        <text encoding="base64">ICBpbXBvcnQgeyBmb3JtYXREYXRlIH0gZnJvbSAnQC91dGlscy9kYXRlJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPGVsLWNvbCA6c3Bhbj0iNiI+Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZm9ybWF0RGF0ZSh0aW1lLCAneXl5eS1NTS1kZCBoaCA6IG1tJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMudG90YWxEYXRhID0gcmVzcG9uc2UucGFnZS5saXN0Cg==</text>
+        <text encoding="base64">ICAgICAgPC9lbC1jb2w+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMudG90YWxEYXRhID0gcmVzcG9uc2UucGFnZS5saXN0Cg==</text>
+        <text encoding="base64">ICAgICAgPGVsLWNvbCA6c3Bhbj0iNiI+Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgIHRoaXMudG90YWxEYXRhID0gcmVzcG9uc2UucGFnZS5saXN0Cg==</text>
