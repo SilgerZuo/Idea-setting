@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mybatis-config.xml" timestamp="1508126324775">
@@ -12,7 +12,7 @@
         <mark key="^" line="67" column="79" />
         <mark key="." line="67" column="53" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1508327690457">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1508410265174">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
@@ -20,17 +20,17 @@
       <file name="/a.dummy" timestamp="1508308284402">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/MQMessage/demand/exportDemandToExcel.java" timestamp="1508396906867">
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/MQMessage/demand/exportDemandToExcel.java" timestamp="1508411639797">
+        <mark key="[" line="52" column="30" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/repository/demand/DemandPoolMapper.java" timestamp="1508396652387">
         <mark key="[" line="50" column="12" />
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1508295627075">
+      <file name="/a.sql" timestamp="1508410004920">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dajia/dajia-utils/2.0-SNAPSHOT/dajia-utils-2.0-20171019.024514-73.jar!/com/dajia/util/poi/Excel2007Util.class" timestamp="1508393342753" />
@@ -40,18 +40,18 @@
       <file name="/HTML File.txt.ft" timestamp="1508380852492">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1508406448725">
+      <file name="/dummy.sql" timestamp="1508410488034">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/demand/DemandPoolController.java" timestamp="1508407643089">
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/demand/DemandPoolController.java" timestamp="1508411770456">
         <mark key="[" line="68" column="42" />
         <mark key="]" line="71" column="34" />
         <mark key="." line="71" column="34" />
         <mark key="^" line="71" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/demand/index.vue" timestamp="1508406038827">
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/demand/index.vue" timestamp="1508410634429">
         <mark key="'" line="520" column="38" />
         <mark key="[" line="529" column="63" />
         <mark key="]" line="529" column="63" />
@@ -63,6 +63,7 @@
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dajia/dajia-framework-mq/2.0.0-SNAPSHOT/dajia-framework-mq-2.0.0-20171019.024533-579.jar!/com/dajia/mq/api/MQproducerService.class" timestamp="1508411816522" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/demand/DemandPoolServiceImpl.java" timestamp="1508396775907">
         <mark key="'" line="57" column="8" />
         <mark key="[" line="67" column="140" />
@@ -87,6 +88,7 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/car/car-mapper.xml" timestamp="1508410815825" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/api/demand.js" timestamp="1508403376350">
         <mark key="'" line="9" column="15" />
         <mark key="[" line="14" column="59" />
@@ -107,6 +109,12 @@
         <mark key="." line="48" column="42" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/MQMessage/portal/exportCarOwnerToExcel.java" timestamp="1508396575365" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/80c1f88a-a932-446e-a5fa-6f50c5c31cfe/console.sql" timestamp="1508409833395">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="0" column="21" />
+        <mark key="." line="0" column="21" />
+        <mark key="^" line="0" column="28" />
+      </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/car/carOwner-mapper.xml" timestamp="1508392551640">
         <mark key="[" line="59" column="15" />
         <mark key="]" line="60" column="0" />
@@ -124,6 +132,7 @@
       <file name="/fragment.java" timestamp="1508394636630">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/aliyun/openservices/ons-client/1.2.7.Final/ons-client-1.2.7.Final.jar!/com/aliyun/openservices/shade/com/alibaba/rocketmq/client/impl/consumer/ConsumeMessageOrderlyService.class" timestamp="1508411490477" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/constant/TagIdConstant.java" timestamp="1508391866192">
         <mark key="[" line="17" column="31" />
         <mark key="]" line="17" column="31" />
@@ -233,10 +242,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>BIGINT()</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>BIGINT()</text>
       </register>
       <register name="/" type="4">
         <text>export</text>
@@ -244,32 +253,34 @@
       <register name="0" type="4">
         <text>new Date(this.exportStartTime).getHours()</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGNvbnNvbGUubG9nKG5ldyBEYXRlKHRoaXMuZXhwb3J0U3RhcnRUaW1lKS5nZXREYXRlKCkpCg==</text>
+      <register name="1" type="4">
+        <text>pdate personNiceSub pns,nice
+set pns.niceId = nice.niceId
+WHERE nice.niceCodeH = 'A' and nice.niceCodeL='1</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGNvbnNvbGUubG9nKG5ldyBEYXRlKHRoaXMuZXhwb3J0U3RhcnREYXRlKS5nZXRUaW1lKCkpCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGNvbnNvbGUubG9nKG5ldyBEYXRlKHRoaXMuZXhwb3J0U3RhcnRUaW1lKS5nZXREYXRlKCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGNvbnNvbGUubG9nKGVuZCkK</text>
+        <text encoding="base64">Ly8gICAgICAgIGNvbnNvbGUubG9nKG5ldyBEYXRlKHRoaXMuZXhwb3J0U3RhcnREYXRlKS5nZXRUaW1lKCkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGNvbnNvbGUubG9nKHN0YXJ0KQo=</text>
+        <text encoding="base64">Ly8gICAgICAgIGNvbnNvbGUubG9nKGVuZCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBlbmQgPSBuZXcgRGF0ZSh0aGlzLmV4cG9ydEVuZFRpbWUgKyB0aGlzLmV4cG9ydEVuZERhdGUpLmdldE1pbGxpc2Vjb25kcygpCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGNvbnNvbGUubG9nKHN0YXJ0KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBzdGFydCA9IG5ldyBEYXRlKHRoaXMuZXhwb3J0U3RhcnRUaW1lICsgdGhpcy5leHBvcnRTdGFydERhdGUpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBlbmQgPSBuZXcgRGF0ZSh0aGlzLmV4cG9ydEVuZFRpbWUgKyB0aGlzLmV4cG9ydEVuZERhdGUpLmdldE1pbGxpc2Vjb25kcygpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmV4cG9ydFN0YXJ0RGF0ZSkK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBzdGFydCA9IG5ldyBEYXRlKHRoaXMuZXhwb3J0U3RhcnRUaW1lICsgdGhpcy5leHBvcnRTdGFydERhdGUpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmV4cG9ydFN0YXJ0VGltZSApCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmV4cG9ydFN0YXJ0RGF0ZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgRGF0ZSgpLgo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmV4cG9ydFN0YXJ0VGltZSApCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
