@@ -40,23 +40,23 @@
       <file name="/HTML File.txt.ft" timestamp="1508380852492">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1508398108839">
+      <file name="/dummy.sql" timestamp="1508400565691">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/demand/DemandPoolController.java" timestamp="1508395665261">
-        <mark key="[" line="67" column="95" />
-        <mark key="]" line="67" column="95" />
-        <mark key="." line="67" column="95" />
-        <mark key="^" line="66" column="7" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/demand/DemandPoolController.java" timestamp="1508406289180">
+        <mark key="[" line="68" column="42" />
+        <mark key="]" line="71" column="34" />
+        <mark key="." line="71" column="34" />
+        <mark key="^" line="71" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/demand/index.vue" timestamp="1508391598247">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="457" column="44" />
-        <mark key="]" line="458" column="34" />
-        <mark key="^" line="458" column="34" />
-        <mark key="." line="458" column="34" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/demand/index.vue" timestamp="1508406038827">
+        <mark key="'" line="520" column="38" />
+        <mark key="[" line="529" column="63" />
+        <mark key="]" line="529" column="63" />
+        <mark key="^" line="526" column="48" />
+        <mark key="." line="529" column="63" />
       </file>
       <file name="/Dummy.txt" timestamp="1508397173467">
         <mark key="[" line="0" column="3" />
@@ -87,12 +87,9 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/authentication/PlatformAuthenticationController.java" timestamp="1508391782980">
-        <mark key="'" line="34" column="13" />
-      </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/api/demand.js" timestamp="1508391653220">
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/api/demand.js" timestamp="1508403376350">
         <mark key="'" line="9" column="15" />
-        <mark key="[" line="16" column="10" />
+        <mark key="[" line="14" column="59" />
         <mark key="]" line="16" column="19" />
         <mark key="^" line="16" column="19" />
         <mark key="." line="16" column="19" />
@@ -230,46 +227,49 @@
       <jump line="346" column="47" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/demand/index.vue" />
       <jump line="351" column="11" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/demand/index.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/demand/index.vue" />
+      <jump line="359" column="10" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/demand/index.vue" />
+      <jump line="503" column="41" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/demand/index.vue" />
+      <jump line="522" column="38" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/demand/index.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>除时间dateUtil,改用moment</text>
+        <text>start</text>
       </register>
       <register name="-" type="4">
-        <text>除时间dateUtil,改用moment</text>
+        <text>start</text>
       </register>
       <register name="/" type="4">
         <text>export</text>
       </register>
       <register name="0" type="4">
-        <text>demand_column_sql</text>
+        <text>new Date(this.exportStartTime).getHours()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLzg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGNvbnNvbGUubG9nKG5ldyBEYXRlKHRoaXMuZXhwb3J0U3RhcnRUaW1lKS5nZXREYXRlKCkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGxvZy5pbmZvKCJMb2dpblN0YXR1c0ZpbHRlciA9PT09PT09IHBlcnNvbklkIDogIiArIHBlcnNvbklkKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgIGNvbnNvbGUubG9nKG5ldyBEYXRlKHRoaXMuZXhwb3J0U3RhcnREYXRlKS5nZXRUaW1lKCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLzg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGNvbnNvbGUubG9nKGVuZCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGNvbnNvbGUubG9nKHN0YXJ0KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBlbmQgPSBuZXcgRGF0ZSh0aGlzLmV4cG9ydEVuZFRpbWUgKyB0aGlzLmV4cG9ydEVuZERhdGUpLmdldE1pbGxpc2Vjb25kcygpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFN0cmluZyBrZXlXb3JkID0gcGFyYW1NYXAuZ2V0KCJrZXlXb3JkIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBzdGFydCA9IG5ldyBEYXRlKHRoaXMuZXhwb3J0U3RhcnRUaW1lICsgdGhpcy5leHBvcnRTdGFydERhdGUpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmV4cG9ydFN0YXJ0RGF0ZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmV4cG9ydFN0YXJ0VGltZSApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9IAo=</text>
+        <text encoding="base64">ICAgICAgICBuZXcgRGF0ZSgpLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
