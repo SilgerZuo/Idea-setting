@@ -80,7 +80,12 @@
         <mark key="." line="57" column="0" />
         <mark key="^" line="48" column="117" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/cdn/CDNController.java" timestamp="1508382395520" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/cdn/CDNController.java" timestamp="1508383252672">
+        <mark key="[" line="34" column="66" />
+        <mark key="]" line="34" column="80" />
+        <mark key="." line="34" column="80" />
+        <mark key="^" line="34" column="80" />
+      </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/portal/index.vue" timestamp="1508379531161">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
@@ -235,11 +240,11 @@
       <jump line="407" column="46" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/demand/index.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>driverData</text>
