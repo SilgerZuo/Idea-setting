@@ -1,1 +1,5 @@
-<keymap version="1" name="Default for GNOME copy" parent="Default for GNOME" />
+<keymap version="1" name="Default for GNOME copy" parent="Default for GNOME">
+  <action id="XDebugger.MuteBreakpoints">
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
+</keymap>
