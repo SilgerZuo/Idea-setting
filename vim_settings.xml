@@ -9,9 +9,31 @@
         <mark key="^" line="27" column="19" />
         <mark key="." line="27" column="19" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/growup/bestrong/src/main/resources/application.properties" timestamp="1508666670634">
+        <mark key="[" line="3" column="57" />
+        <mark key="]" line="3" column="57" />
+        <mark key="^" line="3" column="61" />
+        <mark key="." line="3" column="57" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/growup/bestrong/src/main/java/com/learn/bestrong/web/controller/TestController.java" timestamp="1508666013833">
+        <mark key="[" line="1" column="0" />
+      </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="1" type="4">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>dfa sdf s是打发斯蒂芬ergf 是打发阿斯蒂芬按时送达费爱大是大非</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">c3ByaW50LmJvb3Quc3FsCg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>dfa sdf s是打发斯蒂芬ergf 是打发阿斯蒂芬按时送达费爱大是大非</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
@@ -25,6 +47,12 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
