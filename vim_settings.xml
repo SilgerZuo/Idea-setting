@@ -3,42 +3,53 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/growup/bestrong/pom.xml" timestamp="1508665902358">
-        <mark key="[" line="27" column="20" />
-        <mark key="]" line="27" column="19" />
-        <mark key="^" line="27" column="19" />
-        <mark key="." line="27" column="19" />
+      <file name="$USER_HOME$/IdeaProjects/growup/bestrong/src/main/resources/application.properties" timestamp="1508671300568">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/growup/bestrong/src/main/resources/application.properties" timestamp="1508666670634">
-        <mark key="[" line="3" column="57" />
-        <mark key="]" line="3" column="57" />
-        <mark key="^" line="3" column="61" />
-        <mark key="." line="3" column="57" />
+      <file name="/Dummy.txt" timestamp="1508670818076">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/growup/bestrong/src/main/resources/application.yml" timestamp="1508671227440">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/growup/bestrong/src/main/java/com/learn/bestrong/BestrongApplication.java" timestamp="1508669768601" />
+      <file name="$USER_HOME$/IdeaProjects/growup/pom.xml" timestamp="1508671555055">
+        <mark key="[" line="54" column="21" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/growup/bestrong/src/main/java/com/learn/bestrong/web/controller/TestController.java" timestamp="1508667659532">
         <mark key="[" line="21" column="16" />
         <mark key="]" line="21" column="16" />
         <mark key="." line="21" column="16" />
         <mark key="^" line="20" column="17" />
       </file>
+      <file name="/fragment.java" timestamp="1508670822964">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwb25zZS5nZXRXcml0ZXIoKS53cml0ZSgic2RmYXNkZiIpOwo=</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>tsetHtml</text>
-      </register>
-      <register name="2" type="4">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICByZXNwb25zZS5nZXRXcml0ZXIoKS53cml0ZSgic2RmYXNkZiIpOwo=</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">c3ByaW50LmJvb3Quc3FsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>tsetHtml</text>
+        <text encoding="base64">CQ==</text>
       </register>
     </registers>
     <search>
@@ -60,6 +71,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
