@@ -3,53 +3,84 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/growup/bestrong/src/main/resources/application.properties" timestamp="1508671300568">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1508670818076">
+      <file name="/Dummy.txt" timestamp="1508680498311">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/growup/bestrong/src/main/resources/application.yml" timestamp="1508671227440">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/growup/bestrong/src/test/java/com/learn/bestrong/BestrongApplicationTests.java" timestamp="1508680671018" />
+      <file name="$USER_HOME$/IdeaProjects/growup/bestrong/src/main/resources/templates/error.html" timestamp="1508679310598">
+        <mark key="[" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/growup/bestrong/src/main/java/com/learn/bestrong/BestrongApplication.java" timestamp="1508669768601" />
+      <file name="$USER_HOME$/IdeaProjects/growup/bestrong/src/main/resources/application.yml" timestamp="1508678974952">
+        <mark key="[" line="2" column="32" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/growup/pom.xml" timestamp="1508671566356">
         <mark key="[" line="54" column="21" />
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/growup/bestrong/src/main/java/com/learn/bestrong/web/controller/TestController.java" timestamp="1508676751870">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="23" column="16" />
-        <mark key="." line="23" column="16" />
-        <mark key="^" line="22" column="17" />
+      <file name="$USER_HOME$/IdeaProjects/growup/bestrong/src/main/resources/application.properties" timestamp="1508678496060">
+        <mark key="[" line="3" column="57" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1508670822964">
+      <file name="$USER_HOME$/IdeaProjects/growup/bestrong/src/main/java/com/learn/bestrong/web/bean/EBooks.java" timestamp="1508678672506">
+        <mark key="[" line="8" column="19" />
+        <mark key="]" line="8" column="19" />
+        <mark key="." line="8" column="19" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/growup/bestrong/src/main/java/com/learn/bestrong/BestrongApplication.java" timestamp="1508669768601" />
+      <file name="$USER_HOME$/IdeaProjects/growup/bestrong/src/main/java/com/learn/bestrong/web/bean/Error.java" timestamp="1508679566441">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/growup/bestrong/src/main/java/com/learn/bestrong/web/controller/TestController.java" timestamp="1508680597313">
+        <mark key="[" line="31" column="72" />
+        <mark key="]" line="27" column="11" />
+        <mark key="^" line="27" column="11" />
+        <mark key="." line="27" column="11" />
+      </file>
+      <file name="/fragment.java" timestamp="1508680498328">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXAK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXAK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwb25zZS5nZXRXcml0ZXIoKS53cml0ZSgic2RmYXNkZiIpOwo=</text>
+      <register name="2" type="4">
+        <text>ublic String getAmazonCode() {
+		return amazonCode;
+	}</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICByZXNwb25zZS5nZXRXcml0ZXIoKS53cml0ZSgienVvcHdlb2ljaGVuIik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c3ByaW50LmJvb3Quc3FsCg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZUJvb2tzLmdldEFtYXpvbkNvZGUoKSk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBFQm9va3MgZUJvb2tzID0gbmV3IEVCb29rcygpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">QEF1dG9Db25maWd1cmVUZXN0RGF0YWJhc2UK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">QFNwcmluZ0Jvb3RUZXN0Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">QENvbmZpZ3VyYXRpb24oQmVzdHJvbmdBcHBsaWNhdGlvbi5jbGFzcykK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>SpringRunner.class</text>
       </register>
     </registers>
     <search>
@@ -74,6 +105,24 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
