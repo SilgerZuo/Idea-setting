@@ -6,7 +6,11 @@
       <file name="/Dummy.txt" timestamp="1508680498311">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/growup/bestrong/src/test/java/com/learn/bestrong/BestrongApplicationTests.java" timestamp="1508680671018" />
+      <file name="$USER_HOME$/IdeaProjects/growup/bestrong/src/test/java/com/learn/bestrong/BestrongApplicationTests.java" timestamp="1508683475803">
+        <mark key="[" line="19" column="43" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/growup/bestrong/src/main/resources/templates/error.html" timestamp="1508679310598">
         <mark key="[" line="7" column="0" />
       </file>
@@ -48,36 +52,36 @@
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">CXAK</text>
+        <text encoding="base64">QFdlYkluaXRQYXJhbSgpCg==</text>
       </register>
       <register name="&quot;" type="2">
+        <text encoding="base64">QFdlYkluaXRQYXJhbSgpCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">QFNwcmluZ0Jvb3RBcHBsaWNhdGlvbgo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">CXAK</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>ublic String getAmazonCode() {
 		return amazonCode;
 	}</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICByZXNwb25zZS5nZXRXcml0ZXIoKS53cml0ZSgienVvcHdlb2ljaGVuIik7Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZUJvb2tzLmdldEFtYXpvbkNvZGUoKSk7Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBFQm9va3MgZUJvb2tzID0gbmV3IEVCb29rcygpOwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">QEF1dG9Db25maWd1cmVUZXN0RGF0YWJhc2UK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">QFNwcmluZ0Jvb3RUZXN0Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">QENvbmZpZ3VyYXRpb24oQmVzdHJvbmdBcHBsaWNhdGlvbi5jbGFzcykK</text>
+        <text encoding="base64">QEF1dG9Db25maWd1cmVUZXN0RGF0YWJhc2UK</text>
       </register>
       <register name="-" type="4">
         <text>SpringRunner.class</text>
