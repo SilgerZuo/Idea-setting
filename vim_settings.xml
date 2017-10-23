@@ -55,11 +55,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="10" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/authentication/PlatformAuthenticationServiceImpl.java" timestamp="1508749347518">
-        <mark key="[" line="178" column="48" />
-        <mark key="]" line="178" column="48" />
-        <mark key="." line="178" column="48" />
-        <mark key="^" line="178" column="47" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/authentication/PlatformAuthenticationServiceImpl.java" timestamp="1508761614794">
+        <mark key="[" line="168" column="34" />
+        <mark key="]" line="168" column="34" />
+        <mark key="." line="168" column="34" />
+        <mark key="^" line="167" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/repository/driver/CarOwnerAppMapper.java" timestamp="1508488060551">
         <mark key="[" line="29" column="14" />
@@ -73,11 +73,11 @@
         <mark key="." line="70" column="0" />
         <mark key="^" line="29" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/glossary/ResultInfoEnum.java" timestamp="1508759066788">
-        <mark key="[" line="15" column="10" />
-        <mark key="]" line="15" column="10" />
-        <mark key="." line="15" column="10" />
-        <mark key="^" line="15" column="10" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/glossary/ResultInfoEnum.java" timestamp="1508761586815">
+        <mark key="[" line="24" column="26" />
+        <mark key="]" line="24" column="26" />
+        <mark key="." line="24" column="26" />
+        <mark key="^" line="24" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/authentication/platformAuthenticationApp-mapper.xml" timestamp="1508757104865">
         <mark key="^" line="17" column="10" />
@@ -122,12 +122,12 @@
         <mark key="." line="62" column="27" />
         <mark key="^" line="62" column="21" />
       </file>
-      <file name="/dummy.sql" timestamp="1508759267150">
+      <file name="/dummy.sql" timestamp="1508761520081">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/authentication/PlatformAuthenticationService.java" timestamp="1508746277836">
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/authentication/PlatformAuthenticationService.java" timestamp="1508759449481">
         <mark key="[" line="82" column="4" />
         <mark key="]" line="82" column="4" />
         <mark key="^" line="82" column="3" />
@@ -139,7 +139,7 @@
         <mark key="." line="65" column="0" />
         <mark key="^" line="71" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508749325314">
+      <file name="/Dummy.txt" timestamp="1508761466335">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -367,10 +367,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>phoneNum</text>
+        <text>NOT_FOUND_SIGNED</text>
       </register>
       <register name="-" type="4">
-        <text>phoneNum</text>
+        <text>NOT_FOUND_SIGNED</text>
       </register>
       <register name="/" type="4">
         <text>log</text>
