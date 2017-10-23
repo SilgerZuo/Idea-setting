@@ -42,7 +42,7 @@
         <mark key="^" line="49" column="37" />
         <mark key="." line="49" column="37" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/app/authentication/PlatformAuthenticationAppController.java" timestamp="1508759405395">
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/app/authentication/PlatformAuthenticationAppController.java" timestamp="1508762476627">
         <mark key="'" line="200" column="0" />
         <mark key="[" line="158" column="19" />
         <mark key="]" line="158" column="20" />
@@ -55,11 +55,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="10" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/authentication/PlatformAuthenticationServiceImpl.java" timestamp="1508761614794">
-        <mark key="[" line="168" column="34" />
-        <mark key="]" line="168" column="34" />
-        <mark key="." line="168" column="34" />
-        <mark key="^" line="167" column="27" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/authentication/PlatformAuthenticationServiceImpl.java" timestamp="1508765299018">
+        <mark key="[" line="159" column="31" />
+        <mark key="]" line="180" column="27" />
+        <mark key="." line="180" column="27" />
+        <mark key="^" line="180" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/repository/driver/CarOwnerAppMapper.java" timestamp="1508488060551">
         <mark key="[" line="29" column="14" />
@@ -79,8 +79,11 @@
         <mark key="." line="24" column="26" />
         <mark key="^" line="24" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/authentication/platformAuthenticationApp-mapper.xml" timestamp="1508757104865">
-        <mark key="^" line="17" column="10" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/authentication/platformAuthenticationApp-mapper.xml" timestamp="1508764927643">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="18" column="62" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/driver/index.vue" timestamp="1508740233725">
         <mark key="[" line="46" column="53" />
@@ -122,7 +125,7 @@
         <mark key="." line="62" column="27" />
         <mark key="^" line="62" column="21" />
       </file>
-      <file name="/dummy.sql" timestamp="1508761520081">
+      <file name="/dummy.sql" timestamp="1508765985653">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -139,7 +142,7 @@
         <mark key="." line="65" column="0" />
         <mark key="^" line="71" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508761466335">
+      <file name="/Dummy.txt" timestamp="1508765842001">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -195,11 +198,11 @@
         <mark key="^" line="49" column="57" />
         <mark key="." line="49" column="57" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/80c1f88a-a932-446e-a5fa-6f50c5c31cfe/console.sql" timestamp="1508745492677">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="11" column="5" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/80c1f88a-a932-446e-a5fa-6f50c5c31cfe/console.sql" timestamp="1508765120921">
+        <mark key="[" line="2" column="61" />
+        <mark key="]" line="2" column="62" />
+        <mark key="^" line="2" column="64" />
+        <mark key="." line="2" column="62" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/nice/niceApp-mapper.xml" timestamp="1508480088887">
         <mark key="[" line="18" column="0" />
@@ -219,11 +222,11 @@
         <mark key="^" line="70" column="89" />
         <mark key="." line="70" column="82" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/authentication/cellNumChangeApp-mapper.xml" timestamp="1508731230438">
-        <mark key="[" line="8" column="57" />
-        <mark key="]" line="9" column="8" />
-        <mark key="^" line="9" column="8" />
-        <mark key="." line="9" column="8" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/authentication/cellNumChangeApp-mapper.xml" timestamp="1508765153906">
+        <mark key="[" line="14" column="115" />
+        <mark key="]" line="8" column="42" />
+        <mark key="^" line="8" column="42" />
+        <mark key="." line="8" column="42" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/driver/carOwnerDetail.vue" timestamp="1508741218158">
         <mark key="[" line="156" column="26" />
@@ -367,10 +370,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>NOT_FOUND_SIGNED</text>
+        <text>1.增加app借口如下
+(1)根据用户id查找nice
+(2)车主审核状态查询
+(3)申请审核图片
+(4)接受手机号验证码
+(5)验证手机号验证码
+(6)跟新密码</text>
       </register>
       <register name="-" type="4">
-        <text>NOT_FOUND_SIGNED</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text>log</text>
@@ -378,32 +387,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjYXJPd25lci5zZXRJc1ZhbGlkKCIxIik7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHRJbmZvLnNldENvbnRlbnQoY29kZSk7Cg==</text>
+      <register name="1" type="4">
+        <text>1.增加app借口如下
+(1)根据用户id查找nice
+(2)车主审核状态查询
+(3)申请审核图片
+(4)接受手机号验证码
+(5)验证手机号验证码
+(6)跟新密码</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDwvaW5zZXJ0Pgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxpbnNlcnQgaWQ9Imluc2VydFdpdGhDZWxsTnVtIiBwYXJhbWV0ZXJUeXBlPSJtYXAiID4K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICA8dXBkYXRlIGlkPSJ1cGRhdGVXaXRoQ2VsbE51bSIgcGFyYW1ldGVyVHlwZT0ibWFwIiA+CiAgICAgICAgVVBEQVRFIHBsYXRmb3JtYXV0aGVudGljYXRpb24gU0VUIHVzZXJOYW1lID0gI3tuZXdDZQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHRJbmZvLnNldENvbnRlbnQoY29kZSk7Cg==</text>
+        <text encoding="base64">I3twZXJzb25JZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHRJbmZvLnNldENvbnRlbnQoY29kZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYXAucHV0KCJwZXJzb25JZCIsIGRhdGVNYXApOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiAxNy0xMC0yMyDliY3mrrUg6aG16Z2i5re75Yqg5a6h5qC45LiN6YCa6L+HCg==</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHRJbmZvLnNldENvbnRlbnQoY29kZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLy8vIFRPRE86IDE3LTEwLTIzIOeuoeeQhuerr+WuoeaguOmAmui/h+WQjizmm7TmlrDnnJ/mmK/lp5PlkI0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
