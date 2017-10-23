@@ -159,10 +159,11 @@
         <mark key="^" line="29" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/constant/CommConstant.java" timestamp="1508744665704" />
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/authentication/platformAuthenticationApp-mapper.xml" timestamp="1508753070841">
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="16" column="0" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/authentication/platformAuthenticationApp-mapper.xml" timestamp="1508754575479">
+        <mark key="[" line="9" column="90" />
+        <mark key="]" line="9" column="90" />
+        <mark key="." line="9" column="90" />
+        <mark key="^" line="17" column="10" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/constant/DemandTypeConstant.java" timestamp="1508468253674">
         <mark key="[" line="15" column="55" />
@@ -367,10 +368,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">VElNRSA=</text>
+        <text>and</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">VElNRSA=</text>
+        <text>and</text>
       </register>
       <register name="/" type="4">
         <text>log</text>
