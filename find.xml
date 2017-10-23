@@ -15,14 +15,14 @@
       <mask>*.mxml</mask>
       <mask>*.</mask>
       <mask>*x.</mask>
-      <mask>*xm.</mask>
       <mask>*xml.</mask>
-      <mask>*xml</mask>
-      <mask>*xm</mask>
       <mask>*x</mask>
       <mask>*</mask>
       <mask>*jav</mask>
       <mask>*java</mask>
+      <mask>*xm.</mask>
+      <mask>*xm</mask>
+      <mask>*xml</mask>
     </recentFileMasks>
   </component>
 </application>
