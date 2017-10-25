@@ -39,24 +39,13 @@
         <mark key="^" line="49" column="37" />
         <mark key="." line="49" column="37" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/repository/driver/CarOwnerAppMapper.java" timestamp="1508847890169">
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/repository/driver/CarOwnerAppMapper.java" timestamp="1508933629966">
         <mark key="[" line="33" column="17" />
         <mark key="]" line="29" column="14" />
         <mark key="." line="29" column="14" />
         <mark key="^" line="38" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/glossary/ResultInfoEnum.java" timestamp="1508761586815">
-        <mark key="[" line="24" column="26" />
-        <mark key="]" line="24" column="26" />
-        <mark key="." line="24" column="26" />
-        <mark key="^" line="24" column="17" />
-      </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/driver/index.vue" timestamp="1508901264078">
-        <mark key="'" line="127" column="0" />
-        <mark key="[" line="98" column="18" />
-        <mark key="]" line="98" column="18" />
-        <mark key="." line="98" column="18" />
-      </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/glossary/ResultInfoEnum.java" timestamp="1508933703412" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/layout/Navbar.vue" timestamp="1508828602711">
         <mark key="[" line="71" column="46" />
         <mark key="]" line="71" column="46" />
@@ -68,12 +57,6 @@
         <mark key="]" line="38" column="41" />
         <mark key="^" line="38" column="41" />
         <mark key="." line="38" column="41" />
-      </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/account/detail.vue" timestamp="1508899683847">
-        <mark key="'" line="67" column="0" />
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/demand/DemandPoolController.java" timestamp="1508840405660">
         <mark key="[" line="76" column="22" />
@@ -160,11 +143,12 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/framework/filter/LoginStatusFilter.java" timestamp="1508903492981">
-        <mark key="'" line="112" column="0" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/car/CarOwnerServiceImpl.java" timestamp="1508933618645">
+        <mark key="'" line="95" column="0" />
+        <mark key="[" line="132" column="0" />
+        <mark key="]" line="132" column="0" />
+        <mark key="^" line="120" column="31" />
+        <mark key="." line="132" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/constant/TagIdConstant.java" timestamp="1508391866192">
         <mark key="[" line="17" column="31" />
@@ -219,10 +203,11 @@
         <mark key="." line="15" column="51" />
         <mark key="^" line="15" column="51" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/app/driver/CarOwnerAppController.java" timestamp="1508839982725">
-        <mark key="[" line="55" column="25" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/app/driver/CarOwnerAppController.java" timestamp="1508934404750">
+        <mark key="[" line="67" column="60" />
+        <mark key="]" line="67" column="60" />
+        <mark key="." line="67" column="60" />
+        <mark key="^" line="67" column="65" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/car/CarOwnerController.java" timestamp="1508840114541">
         <mark key="[" line="100" column="21" />
@@ -267,6 +252,7 @@
         <mark key="]" line="104" column="0" />
         <mark key="." line="104" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/car/CarOwnerApp-Mapper.xml" timestamp="1508933636852" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/authentication/PlatformAuthenticationController.java" timestamp="1508932366592">
         <mark key="'" line="247" column="0" />
         <mark key="[" line="243" column="81" />
@@ -332,10 +318,11 @@
         <mark key="." line="15" column="34" />
         <mark key="^" line="15" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/app/portal/LoginAppController.java" timestamp="1508932508668">
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/app/portal/LoginAppController.java" timestamp="1508933272935">
         <mark key="[" line="111" column="29" />
-        <mark key="]" line="86" column="0" />
-        <mark key="." line="86" column="0" />
+        <mark key="]" line="132" column="4" />
+        <mark key="." line="132" column="4" />
+        <mark key="^" line="132" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/authentication/platformAuthentication-mapper.xml" timestamp="1508928082937">
         <mark key="'" line="172" column="0" />
@@ -482,10 +469,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>修改上传oss命名规则</text>
+        <text>(),&quot;&quot;);</text>
       </register>
       <register name="-" type="4">
-        <text>修改上传oss命名规则</text>
+        <text>(),&quot;&quot;);</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
@@ -494,31 +481,31 @@
         <text>10101100</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwbGF0Zm9ybUF1dGhlbnRpY2F0aW9uQXBwTWFwcGVyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZWRpc0NsaWVuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZWRpc0NsaWVudC5oCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZWRpc0NsaWVudC5oCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZWRpc0NsaWVudC5zCg==</text>
+        <text encoding="base64">ICAgICAgICBwbGF0Zm9ybUF1dGhlbnRpY2F0aW9uQXBwTWFwcGVyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZWRpc0NsaWVudC4K</text>
+        <text encoding="base64">ICAgICAgICByZWRpc0NsaWVuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZWRpc0NsaWVudC4K</text>
+        <text encoding="base64">ICAgICAgICByZWRpc0NsaWVudC5oCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFJlc2Rpc0NsaWVudCByZXNkaXNDbGllbnQgPSBuZXcgUmVhZGFibGUoCg==</text>
+        <text encoding="base64">ICAgICAgICByZWRpc0NsaWVudC5oCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIDpmaXQ9ImZpdCIK</text>
+        <text encoding="base64">ICAgICAgICByZWRpc0NsaWVudC5zCg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
