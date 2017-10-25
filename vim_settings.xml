@@ -317,9 +317,9 @@
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/app/portal/LoginAppController.java" timestamp="1508937713995">
         <mark key="[" line="111" column="29" />
-        <mark key="]" line="136" column="4" />
-        <mark key="." line="136" column="4" />
-        <mark key="^" line="136" column="4" />
+        <mark key="]" line="134" column="4" />
+        <mark key="." line="134" column="4" />
+        <mark key="^" line="134" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/authentication/platformAuthentication-mapper.xml" timestamp="1508940588161">
         <mark key="'" line="170" column="0" />
