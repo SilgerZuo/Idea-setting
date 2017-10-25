@@ -21,7 +21,6 @@
         <mark key="^" line="31" column="10" />
         <mark key="." line="31" column="10" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1508899205699" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/repository/authentication/PlatformAuthenticationAppMapper.java" timestamp="1508847750056">
         <mark key="[" line="28" column="18" />
         <mark key="]" line="19" column="6" />
@@ -259,7 +258,7 @@
         <mark key="^" line="75" column="3" />
         <mark key="." line="71" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508901973435">
+      <file name="/Dummy.txt" timestamp="1508910130415">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
@@ -328,6 +327,11 @@
         <mark key="." line="15" column="34" />
         <mark key="^" line="15" column="34" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/app/portal/LoginAppController.java" timestamp="1508910143392">
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/authentication/platformAuthentication-mapper.xml" timestamp="1508837401768">
         <mark key="[" line="151" column="46" />
         <mark key="]" line="151" column="46" />
@@ -353,7 +357,6 @@
         <mark key="^" line="41" column="23" />
         <mark key="." line="41" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/portal/notification-mapper.xml" timestamp="1508899471156" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/account/index.vue" timestamp="1508901241390">
         <mark key="[" line="98" column="21" />
         <mark key="]" line="207" column="18" />
@@ -477,7 +480,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZWRpc0NsaWVudC5oCg==</text>
+        <text encoding="base64">ICAgICAgICByZWRpc0NsaWVuCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IiA=</text>
@@ -489,31 +492,31 @@
         <text encoding="base64">ICAgICAgICBMaXN0PE1hcDxTdHJpbmcsIE9iamVjdD4+IGRhdGFMaXN0ID0gbnVsbDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZWRpc0NsaWVudC5oCg==</text>
+        <text encoding="base64">ICAgICAgICByZWRpc0NsaWVuCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICByZWRpc0NsaWVudC5oCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZWRpc0NsaWVudC5zCg==</text>
+        <text encoding="base64">ICAgICAgICByZWRpc0NsaWVudC5oCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZWRpc0NsaWVudC4K</text>
+        <text encoding="base64">ICAgICAgICByZWRpc0NsaWVudC5zCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICByZWRpc0NsaWVudC4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFJlc2Rpc0NsaWVudCByZXNkaXNDbGllbnQgPSBuZXcgUmVhZGFibGUoCg==</text>
+        <text encoding="base64">ICAgICAgICByZWRpc0NsaWVudC4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIDpmaXQ9ImZpdCIK</text>
+        <text encoding="base64">ICAgIFJlc2Rpc0NsaWVudCByZXNkaXNDbGllbnQgPSBuZXcgUmVhZGFibGUoCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHN0cmlwZQo=</text>
+        <text encoding="base64">ICAgICAgICAgIDpmaXQ9ImZpdCIK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICB0aGlzLiRhbGVydCgn5q2j5Zyo5Li65oKo5a+85Ye6LOivt+azqOaEj+a2iOaBrycsICflr7zlh7rmj5DnpLonLCB7CiAgICAgICAgICBjb25maXJtQnV0dG9uVGV4dDogJ+ehruWumicKLy8gICAgICAgICAgY2FsbGJhY2s6IGFjdGlvbiA9PiB7Ci8vICAgICAgICAgICAgdGhpcy4kbWVzc2FnZSh7Ci8vICAgICAgICAgICAgICB0eXBlOiAnaW5mbycsCi8vICAgICAgICAgICAgICBtZXNzYWdlOiBgYWN0aW9uOiAkeyBhY3Rpb24gfWAKLy8gICAgICAgICAgICB9KTsKLy8gICAgICAgICAgfQogICAgICAgIH0p</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgIHN0cmlwZQo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
