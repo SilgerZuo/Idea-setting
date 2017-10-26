@@ -118,7 +118,7 @@
         <mark key="." line="39" column="26" />
         <mark key="^" line="39" column="26" />
       </file>
-      <file name="/opt/software/jdk1.8.0_144/src.zip!/java/lang/Object.java" timestamp="1508998991780" />
+      <file name="/opt/software/jdk1.8.0_144/src.zip!/java/lang/Object.java" timestamp="1509001799083" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/demand/DemandPoolService.java" timestamp="1508415192816">
         <mark key="[" line="48" column="99" />
         <mark key="]" line="49" column="57" />
@@ -183,9 +183,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="10" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/app/authentication/PlatformAuthenticationAppController.java" timestamp="1508999801468">
-        <mark key="]" line="107" column="0" />
-        <mark key="." line="107" column="0" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/app/authentication/PlatformAuthenticationAppController.java" timestamp="1509001000125">
+        <mark key="[" line="154" column="54" />
+        <mark key="]" line="154" column="54" />
+        <mark key="." line="154" column="54" />
+        <mark key="^" line="90" column="63" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/authentication/PlatformAuthenticationServiceImpl.java" timestamp="1508981028102">
         <mark key="[" line="165" column="61" />
@@ -246,7 +248,7 @@
         <mark key="^" line="95" column="35" />
         <mark key="." line="95" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508998055311">
+      <file name="/Dummy.txt" timestamp="1509001023607">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -499,11 +501,11 @@
       <jump line="170" column="0" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/authentication/platformAuthentication-mapper.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBNYXAgbWFwID0gbmV3IEhhc2hNYXAoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>6</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>6</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
