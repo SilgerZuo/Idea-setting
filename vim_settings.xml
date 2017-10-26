@@ -182,11 +182,10 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="10" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/app/authentication/PlatformAuthenticationAppController.java" timestamp="1508986061789">
-        <mark key="[" line="207" column="80" />
-        <mark key="]" line="207" column="58" />
-        <mark key="." line="207" column="58" />
-        <mark key="^" line="207" column="58" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/app/authentication/PlatformAuthenticationAppController.java" timestamp="1508989182320">
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="0" />
+        <mark key="." line="107" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/authentication/PlatformAuthenticationServiceImpl.java" timestamp="1508981028102">
         <mark key="[" line="165" column="61" />
@@ -246,7 +245,7 @@
         <mark key="^" line="95" column="35" />
         <mark key="." line="95" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508986821344">
+      <file name="/Dummy.txt" timestamp="1508987723895">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -499,8 +498,8 @@
       <jump line="170" column="0" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/authentication/platformAuthentication-mapper.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>d</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBNYXAgbWFwID0gbmV3IEhhc2hNYXAoKTsK</text>
       </register>
       <register name="-" type="4">
         <text>d</text>
@@ -512,13 +511,13 @@
         <text>10101100</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBNUXByb2R1Y2VyU2VydmljZS5nZXRJbnN0YW5jZSgpLnNlbmRPcmRlck1lc3NhZ2UoTVFCdXNpbmVzc0VudW0uU2VydmljZSwgVGFnSWRDb25zdGFudC5leHBvcnRDYXJPd25lclRvRXhjZWwsCg==</text>
+        <text encoding="base64">ICAgICAgICBNYXAgbWFwID0gbmV3IEhhc2hNYXAoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGxhdGZvcm1BdXRoZW50aWNhdGlvblNlcnZpY2UuaW5zZXIK</text>
+        <text encoding="base64">ICAgICAgICBNUXByb2R1Y2VyU2VydmljZS5nZXRJbnN0YW5jZSgpLnNlbmRPcmRlck1lc3NhZ2UoTVFCdXNpbmVzc0VudW0uU2VydmljZSwgVGFnSWRDb25zdGFudC5leHBvcnRDYXJPd25lclRvRXhjZWwsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgTklDRV8gPSAiIjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGxhdGZvcm1BdXRoZW50aWNhdGlvblNlcnZpY2UuaW5zZXIK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgTklDRV8gPSAiIjsK</text>
