@@ -129,6 +129,7 @@
         <mark key="." line="39" column="26" />
         <mark key="^" line="39" column="26" />
       </file>
+      <file name="/opt/software/jdk1.8.0_144/src.zip!/java/lang/String.java" timestamp="1509096344515" />
       <file name="/opt/software/jdk1.8.0_144/src.zip!/java/lang/Object.java" timestamp="1509007393709">
         <mark key="'" line="150" column="0" />
       </file>
@@ -240,6 +241,7 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar!/org/apache/commons/lang3/StringUtils.class" timestamp="1509096389948" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/car/CarOwnerAppMapper.xml" timestamp="1508487877663">
         <mark key="[" line="62" column="27" />
         <mark key="]" line="62" column="27" />
@@ -257,7 +259,7 @@
         <mark key="^" line="95" column="35" />
         <mark key="." line="109" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509095935326">
+      <file name="/Dummy.txt" timestamp="1509096564534">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -350,11 +352,11 @@
         <mark key="." line="15" column="34" />
         <mark key="^" line="15" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/app/portal/LoginAppController.java" timestamp="1509093598636">
-        <mark key="[" line="111" column="12" />
-        <mark key="]" line="111" column="56" />
-        <mark key="^" line="111" column="56" />
-        <mark key="." line="111" column="56" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/app/portal/LoginAppController.java" timestamp="1509096163369">
+        <mark key="[" line="150" column="7" />
+        <mark key="]" line="151" column="6" />
+        <mark key="^" line="151" column="6" />
+        <mark key="." line="151" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/authentication/platformAuthentication-mapper.xml" timestamp="1509086376078">
         <mark key="'" line="176" column="0" />
@@ -509,8 +511,8 @@
       <jump line="150" column="0" filename="/opt/software/jdk1.8.0_144/src.zip!/java/lang/Object.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1.修复快捷登录注册bug返回500;原因:注册后没有返回plat,获取token为null</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
       <register name="-" type="4">
         <text>1.修复快捷登录注册bug返回500;原因:注册后没有返回plat,获取token为null</text>
@@ -522,31 +524,31 @@
         <text>10101100</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAqIOeZu+WHugo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text encoding="base64">ICAgIDwhLS08c3FsIGlkPSJwbGF0Zm9ybUF1dGhlbnRpY2F0aW9uX2NvbHVtbl9zcWwiPi0tPgogICAgICAgIDwhLS1wbGF0Zm9ybUF1dGhlbnRpY2F0aW9uSWQsLS0+CiAgICAgICAgPCEtLXBlcnNvbklkLC0tPgogICAgICAgIDwhLS11c2VyTmFtZSwtLT4KICAgICAgICA8IS0tcGFzc3dvcmQsLS0+CiAgICAgICAgPCEtLWlzVmFsaWQsLS0+CiAgICAgICAgPCEtLWNyZWF0ZVRpbWUsLS0+CiAgICAgICAgPCEtLW1vZGlmeVRpbWUsLS0+CiAgICAgICAgPCEtLXBsYXRmb3JtQXV0aGVudGljYXRpb25UeXBlLS0+CiAgICA8IS0tPC9zcWw+LS0+</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAgIDxpbnNlcnQgaWQ9Imluc2VydCIgcGFyYW1ldGVyVHlwZT0iY29tLm12Y2MuZW50aXR5LmF1dGhlbnRpY2F0aW9uLlBsYXRmb3JtQXV0aGVudGljYXRpb24iPgogICAgICAgIGluc2VydCBJTlRPIHBsYXRmb3JtYXV0aGVudGljYXRpb24oPGluY2x1ZGUgcmVmaWQ9InBsYXRmb3JtQXV0aGVudGljYXRpb25fY29sdW1uX3NxbCI+PC9pbmNsdWRlPikgVkFMVUVTKAogICAgICAgICN7cGxhdGZvcm1BdXRoZW50aWNhdGlvbklkfSwKICAgICAgICAje3BlcnNvbklkfSwKICAgICAgICAje3VzZXJOYW19LAogICAgICAgICN7cGFzc3dvcn0sCiAgICAgICAgI3tpc1ZhbGlkfSwKICAgICAgICAje2NyZWF0ZVRpbWV9LAogICAgICAgICN7bW9kaWZ5VGltZX0sCiAgICAgICAgI3twbGF0Zm9ybUF1dGhlbnRpY2F0aW9uVHlwZX0KICAgICAgICApCiAgICA8L2luc2VydD4=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIDwvc2VsZWN0Pgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxzZWxlY3QgaWQ9Imluc2VydE5ld1BsYXRmb3JtQXV0aGVudGljYXRpb24iIHJlc3VsdFR5cGU9ImludCI+Cg==</text>
+        <text encoding="base64">ICAgIDwvc2VsZWN0Pgo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICAgIDxzZWxlY3QgaWQ9Imluc2VydE5ld1BsYXRmb3JtQXV0aGVudGljYXRpb24iIHJlc3VsdFR5cGU9ImludCI+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
