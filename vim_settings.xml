@@ -129,7 +129,6 @@
         <mark key="." line="39" column="26" />
         <mark key="^" line="39" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/MQMessage/judge/ExportJudgesByJudgePersonMobileToExcel.java" timestamp="1509087111385" />
       <file name="/opt/software/jdk1.8.0_144/src.zip!/java/lang/Object.java" timestamp="1509007393709">
         <mark key="'" line="150" column="0" />
       </file>
@@ -351,7 +350,7 @@
         <mark key="." line="15" column="34" />
         <mark key="^" line="15" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/app/portal/LoginAppController.java" timestamp="1509089722717">
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/app/portal/LoginAppController.java" timestamp="1509093598636">
         <mark key="[" line="111" column="12" />
         <mark key="]" line="111" column="56" />
         <mark key="^" line="111" column="56" />
@@ -661,6 +660,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Y</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
