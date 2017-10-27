@@ -129,7 +129,6 @@
         <mark key="." line="39" column="26" />
         <mark key="^" line="39" column="26" />
       </file>
-      <file name="/opt/software/jdk1.8.0_144/src.zip!/java/lang/String.java" timestamp="1509096344515" />
       <file name="/opt/software/jdk1.8.0_144/src.zip!/java/lang/Object.java" timestamp="1509007393709">
         <mark key="'" line="150" column="0" />
       </file>
@@ -241,7 +240,6 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar!/org/apache/commons/lang3/StringUtils.class" timestamp="1509096389948" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/car/CarOwnerAppMapper.xml" timestamp="1508487877663">
         <mark key="[" line="62" column="27" />
         <mark key="]" line="62" column="27" />
@@ -353,10 +351,10 @@
         <mark key="^" line="15" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/app/portal/LoginAppController.java" timestamp="1509096163369">
-        <mark key="[" line="150" column="7" />
-        <mark key="]" line="151" column="6" />
-        <mark key="^" line="151" column="6" />
-        <mark key="." line="151" column="6" />
+        <mark key="[" line="187" column="7" />
+        <mark key="]" line="188" column="6" />
+        <mark key="^" line="188" column="6" />
+        <mark key="." line="188" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/authentication/platformAuthentication-mapper.xml" timestamp="1509086376078">
         <mark key="'" line="176" column="0" />
