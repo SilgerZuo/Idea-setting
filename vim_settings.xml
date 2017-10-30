@@ -15,10 +15,11 @@
         <mark key="^" line="119" column="22" />
         <mark key="." line="119" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/redisCache/RedisCacheServiceImpl.java" timestamp="1509352434775">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/redisCache/RedisCacheServiceImpl.java" timestamp="1509354223403">
+        <mark key="[" line="49" column="32" />
+        <mark key="]" line="49" column="31" />
+        <mark key="." line="49" column="31" />
+        <mark key="^" line="49" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-utils/src/main/java/com/mvcc/util/ExportUtil.java" timestamp="1508823338799">
         <mark key="[" line="35" column="0" />
@@ -91,6 +92,7 @@
         <mark key="]" line="19" column="34" />
         <mark key="." line="19" column="34" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dajia/dajia-framework-support-cache/2.0.0-SNAPSHOT/dajia-framework-support-cache-2.0.0-20171028.024554-714.jar!/com/seeyon/framework/cache/impl/RedisClient.class" timestamp="1509354187672" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/driver/CarOwnerService.java" timestamp="1508846977628">
         <mark key="[" line="91" column="0" />
         <mark key="]" line="91" column="0" />
@@ -284,11 +286,11 @@
       <jump line="83" column="6" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/app/portal/LoginAppController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZWRpc0NsaWVudC4K</text>
+      <register name="&quot;" type="4">
+        <text>sete</text>
       </register>
       <register name="-" type="4">
-        <text>12312311111111</text>
+        <text>sete</text>
       </register>
       <register name="/" type="4">
         <text>deep</text>
@@ -297,31 +299,31 @@
         <text>redisCacheService</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZWRpc0NsaWVudC4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZWRpc0NsaWVudC5waXBlRGVsKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZWRpc0NsaWVudC5waXBlCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgamVkaXMuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgSmVkaXMgamVkaXMgPSBqZWRpc1Bvb2wuZ2V0UmVzb3VyY2UoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBSZXN1bHRJbmZvKFJlc3VsdEluZm9FbnVtLlNVQ0NFU1MuZ2V0Q29kZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgSmVkaXNQb29sIGplZGlzUG9vbCA9IG5ldyBKZWRpc1Bvb2woKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZWRpc0NsaWVudC4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICByZWRpc0NsaWVudC5waXBlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
