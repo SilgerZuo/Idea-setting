@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="/a.dummy" timestamp="1509436417381">
@@ -113,12 +113,12 @@
         <mark key="^" line="124" column="43" />
         <mark key="." line="124" column="57" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dajia/dajia-utils/2.0-SNAPSHOT/dajia-utils-2.0-20171031.064602-257.jar!/com/dajia/util/http/HttpClientUtil.class" timestamp="1509435943204" />
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/portal/PushMessage2IOSService.java" timestamp="1509436598514">
-        <mark key="[" line="15" column="11" />
-        <mark key="]" line="15" column="17" />
+      <file name="$MAVEN_REPOSITORY$/com/dajia/dajia-utils/2.0-SNAPSHOT/dajia-utils-2.0-20171031.064602-257.jar!/com/dajia/util/http/HttpClientUtil.class" timestamp="1509441350107" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/portal/PushMessage2IOSService.java" timestamp="1509441506977">
+        <mark key="[" line="13" column="4" />
+        <mark key="]" line="13" column="4" />
         <mark key="^" line="15" column="17" />
-        <mark key="." line="15" column="17" />
+        <mark key="." line="13" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-utils/src/main/java/com/mvcc/util/ExportUtil.java" timestamp="1508823338799">
         <mark key="[" line="35" column="0" />
@@ -174,11 +174,11 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/notification/pushMessage2IOSServiceImpl.java" timestamp="1509439532841">
-        <mark key="[" line="64" column="71" />
-        <mark key="]" line="64" column="69" />
-        <mark key="." line="64" column="69" />
-        <mark key="^" line="64" column="69" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/notification/pushMessage2IOSServiceImpl.java" timestamp="1509441493751">
+        <mark key="[" line="47" column="45" />
+        <mark key="]" line="45" column="25" />
+        <mark key="." line="45" column="25" />
+        <mark key="^" line="45" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/application.properties" timestamp="1509433243164">
         <mark key="]" line="9" column="0" />
@@ -337,10 +337,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">e30iKQogICAgICAgICAgICAgICAgCiAgICAgICAg</text>
+        <text encoding="base64">cHVibGljIA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">U3RyaW5nIA==</text>
+        <text encoding="base64">cHVibGljIA==</text>
       </register>
       <register name="/" type="4">
         <text>deep</text>
@@ -348,32 +348,32 @@
       <register name="0" type="4">
         <text>redisCacheService</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">e30iKQogICAgICAgICAgICAgICAgCiAgICAgICAg</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBIdHRwQ2xpZW50VXRpbC4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBIdHRwQ2xpZW50IGh0dHBDbGllbnQgPSBuZXcgRGVmYXVsdEh0dHBDbGllbnQoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBodHRwQ2xpZW50Lgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBIdHRwQ2xpZW50VXRpbC5kb0pzb25Qb3N0KCk7ZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBIdHRwQ2xpZW50IGh0dHBDbGllbnQgPSBuZXcgSAo=</text>
+        <text encoding="base64">Ly8gICAgICAgIENsb3NlYWJsZUh0dHBSZXNwb25zZSByZXNwb25zZSA9IGNsaWVudC5leGVjdXRlKGh0dHBQb3N0KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBIdHRwQ2xpZW50VXRpbC4K</text>
+        <text encoding="base64">Ly8gICAgICAgIGh0dHBQb3N0LnNldEhlYWRlcigiVXNlci1BZ2VudCIsICJNb3ppbGxhLzQuMCAoY29tcGF0aWJsZTsgTVNJRSA1LjA7IFdpbmRvd3MgTlQ7IERpZ0V4dCkiKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBIdHRwQ2xpZW50VXRpbCBodHRwQ2xpZW50VXRpbCA9IG5ldyBIdHRwQ2xpZW50VXRpbCgpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIGh0dHBQb3N0LnNldEhlYWRlcigiQ29udGVudC10eXBlIiwgImFwcGxpY2F0aW9uL3gtd3d3LWZvcm0tdXJsZW5jb2RlZCIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBIdHRwQ2xpZW50VXRpbC5jbG9zZSgpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIGh0dHBQb3N0LnNldEVudGl0eShuZXcgVXJsRW5jb2RlZEZvcm1FbnRpdHkobnZwcywgIlVURi04IikpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
