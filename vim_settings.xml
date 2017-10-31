@@ -6,7 +6,6 @@
       <file name="/a.dummy" timestamp="1509436417381">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/app/person/PersonAPPController.java" timestamp="1509428689823" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/notification/PushMessageToIOS.java" timestamp="1509436303536">
         <mark key="[" line="28" column="30" />
         <mark key="]" line="26" column="24" />
@@ -25,7 +24,6 @@
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/aliAms/push.properties" timestamp="1509433099008">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/pom.xml" timestamp="1509430960690" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/glossary/ResultInfoEnum.java" timestamp="1509181611535">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -113,7 +111,6 @@
         <mark key="^" line="124" column="43" />
         <mark key="." line="124" column="57" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dajia/dajia-utils/2.0-SNAPSHOT/dajia-utils-2.0-20171031.064602-257.jar!/com/dajia/util/http/HttpClientUtil.class" timestamp="1509441350107" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/portal/PushMessage2IOSService.java" timestamp="1509441506977">
         <mark key="[" line="13" column="4" />
         <mark key="]" line="13" column="4" />
@@ -174,18 +171,17 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/notification/pushMessage2IOSServiceImpl.java" timestamp="1509441493751">
-        <mark key="[" line="47" column="45" />
-        <mark key="]" line="45" column="25" />
-        <mark key="." line="45" column="25" />
-        <mark key="^" line="45" column="25" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/notification/pushMessage2IOSServiceImpl.java" timestamp="1509442189987">
+        <mark key="[" line="40" column="35" />
+        <mark key="]" line="40" column="34" />
+        <mark key="." line="40" column="34" />
+        <mark key="^" line="40" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/application.properties" timestamp="1509433243164">
         <mark key="]" line="9" column="0" />
         <mark key="^" line="10" column="21" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/aliyun/aliyun-java-sdk-push/3.8.0/aliyun-java-sdk-push-3.8.0.jar!/com/aliyuncs/push/model/v20160801/PushMessageToiOSRequest.class" timestamp="1509431984358" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/constant/ExportConstants.java" timestamp="1508824338848">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
