@@ -24,6 +24,7 @@
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/aliAms/push.properties" timestamp="1509433099008">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/aliyun/aliyun-java-sdk-core/3.2.5/aliyun-java-sdk-core-3.2.5.jar!/com/aliyuncs/http/HttpResponse.class" timestamp="1509526126785" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/glossary/ResultInfoEnum.java" timestamp="1509181611535">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -36,6 +37,7 @@
         <mark key="^" line="169" column="48" />
         <mark key="." line="169" column="48" />
       </file>
+      <file name="$USER_HOME$/workspace/aliyun/alicloud-ams-demo/OpenApi2.0/push-openapi-java-demo/src/test/resources/push.properties.template" timestamp="1509526739231" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/portal/AppMessagePush.java" timestamp="1509444397725">
         <mark key="[" line="65" column="16" />
         <mark key="]" line="52" column="42" />
@@ -96,7 +98,8 @@
         <mark key="^" line="64" column="6" />
         <mark key="." line="64" column="6" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/test/TestController.java" timestamp="1509438578330">
+      <file name="$MAVEN_REPOSITORY$/com/aliyun/aliyun-java-sdk-core/3.2.5/aliyun-java-sdk-core-3.2.5.jar!/com/aliyuncs/DefaultAcsClient.class" timestamp="1509525912716" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/test/TestController.java" timestamp="1509524601045">
         <mark key="[" line="26" column="11" />
         <mark key="]" line="26" column="11" />
         <mark key="^" line="31" column="0" />
@@ -112,15 +115,9 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/aliyun/aliyun-java-sdk-core/3.2.5/aliyun-java-sdk-core-3.2.5.jar!/com/aliyuncs/profile/DefaultProfile.class" timestamp="1509526661910" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/redisCache/redisCacheServiceImpl.java" timestamp="1509168819290">
         <mark key="[" line="12" column="35" />
-      </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/spring/spring-hsf-service.xml" timestamp="1509437408372">
-        <mark key="'" line="77" column="44" />
-        <mark key="[" line="78" column="45" />
-        <mark key="]" line="78" column="45" />
-        <mark key="^" line="78" column="45" />
-        <mark key="." line="78" column="45" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/constant/TagIdConstant.java" timestamp="1508981553259">
         <mark key="[" line="45" column="0" />
@@ -129,6 +126,12 @@
       </file>
       <file name="/Kotlin File.txt.ft" timestamp="1509160863139">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/push/PushRequestForAli.java" timestamp="1509525569339">
+        <mark key="[" line="16" column="50" />
+        <mark key="]" line="20" column="3" />
+        <mark key="^" line="20" column="3" />
+        <mark key="." line="20" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/resources/spring/spring-hsf-reference.xml" timestamp="1509437394679">
         <mark key="[" line="124" column="57" />
@@ -175,6 +178,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/aliyun/aliyun-java-sdk-push/3.8.0/aliyun-java-sdk-push-3.8.0.jar!/com/aliyuncs/push/model/v20160801/PushRequest.class" timestamp="1509524883545" />
       <file name="/Dummy.txt" timestamp="1509502389178">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -206,11 +210,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/notification/pushNotice2IOSServiceImpl.java" timestamp="1509508812248">
-        <mark key="[" line="68" column="94" />
-        <mark key="]" line="85" column="41" />
-        <mark key="." line="85" column="41" />
-        <mark key="^" line="85" column="41" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/notification/pushNotice2IOSServiceImpl.java" timestamp="1509526957459">
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
+        <mark key="^" line="98" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/constant/ExportConstants.java" timestamp="1508824338848">
         <mark key="[" line="31" column="0" />
@@ -244,13 +248,18 @@
         <mark key="]" line="30" column="86" />
         <mark key="." line="30" column="86" />
       </file>
+      <file name="$USER_HOME$/workspace/aliyun/alicloud-ams-demo/OpenApi2.0/push-openapi-java-demo/src/test/java/com/aliyun/push/demoTest/PushTest.java" timestamp="1509527239105">
+        <mark key="[" line="132" column="31" />
+        <mark key="]" line="132" column="31" />
+        <mark key="." line="132" column="31" />
+      </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/config/dev.env.js" timestamp="1509179945942">
         <mark key="[" line="5" column="31" />
         <mark key="]" line="5" column="31" />
         <mark key="." line="5" column="31" />
         <mark key="^" line="5" column="33" />
       </file>
-      <file name="/fragment.java" timestamp="1509502552717">
+      <file name="/fragment.java" timestamp="1509526087086">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/notification/NotificationServiceImpl.java" timestamp="1509432139204">
@@ -363,10 +372,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>accessKeySecret</text>
+        <text>DEVICE</text>
       </register>
       <register name="-" type="4">
-        <text>accessKeySecret</text>
+        <text>DEVICE</text>
       </register>
       <register name="/" type="4">
         <text>deep</text>
@@ -375,31 +384,31 @@
         <text>redisCacheService</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzOwo=</text>
+        <text encoding="base64">ICAgICAgICBwdXNoUmVxdWVzdAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwdXNoUmVzcG9uc2UuZ2V0UmVxdWVzdElkKCkK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hbGl5dW5jcy5wdXNoLm1vZGVsLnYyMDE2MDgwMS5QZHUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
+        <text encoding="base64">ICAgICAgICBwdXNoUmVxdWVzdC5zZXRJT1NBcG5zRW52KCJERVYiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwdXNoUmVxdWVzdC5zZXRJT1NFeHRQYXJhbWV0ZXJzKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdXNoUmVxdWVzdC5zZXRTaWcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwdXNoUmVxdWVzdC5zZXRBcHBLZXkoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwdXNoUmVxdWVzdC5zZXQK</text>
+        <text encoding="base64">ICAgICAgICBwdXNoUmVxdWVzdC5zZXRpT1NOb3RpZmljYXRpb25DYXRlZ29yeSgiaU9TMTAgTm90aWZpY2F0aW9uIENhdGVnb3J5Iik7Ly/mjIflrpppT1MxMOmAmuefpUNhdGVnb3J5Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwdXNoUmVxdWVzdC5zZXQK</text>
+        <text encoding="base64">ICAgICAgICBwdXNoUmVxdWVzdC5zZXRpT1NNdXNpYygiZGVmYXVsdCIpOyAvLyBpT1PpgJrnn6Xlo7Dpn7MK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwdXNoUmVxdWVzdC5zZXRJT1NFeHRQYXJhbWV0ZXJzKCIiKTsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">cHVzaFJlcXVlc3Quc2V0SU9TQXBuc0VudigiREVWIik7CiAgICAgICAgcHVzaFJlcXVlc3Quc2V0QWNjZXB0Rm9ybWF0KEZvcm1hdFR5cGUuSlNPTik7CiAgICAgICAgcHVzaFJlcXVlc3Quc2V0UmVnaW9uSWQoImNuLWhhbmd6aG91Iik7CiAgICAgICAgcHVzaFJlcXVlc3Quc2V0VmVyc2lvbigiMjAxNi0wOC0wMSIpOwogICAgICAgIHB1c2hSZXF1ZXN0LnNldEFjdGlvbk5hbWUoIlB1c2hOb3RpY2VUb2lPUyIpOwogICAgICAgIAogICAgICAgIAogICAgICAgIHB1c2hSZXF1ZXN0LnNldElPU0JhZGdlKDUpOyAvLyBpT1PlupTnlKjlm77moIflj7PkuIrop5Lop5LmoIcKICAgICAgICBwdXNoUmVxdWVzdC5zZXRpT1NTaWxlbnROb3RpZmljYXRpb24oZmFsc2UpOy8v5byA5ZCv6Z2Z6buY6YCa55+lCiAgICAgICAgcHVzaFJlcXVlc3Quc2V0aU9TTXVzaWMoImRlZmF1bHQiKTsgLy8gaU9T6YCa55+l5aOw6Z+zCiAgICAgICAgcHVzaFJlcXVlc3Quc2V0aU9TU3VidGl0bGUoImlPUzEwIHN1YnRpdGxlIik7Ly9pT1MxMOmAmuefpeWJr+agh+mimOeahOWGheWuuQogICAgICAgIHB1c2hSZXF1ZXN0LnNldGlPU05vdGlmaWNhdGlvbkNhdGVnb3J5KCJpT1MxMCBOb3RpZmljYXRpb24gQ2F0ZWdvcnkiKTsvL+aMh+WummlPUzEw6YCa55+lQ2F0ZWdvcnkKICAgICAgICBwdXNoUmVxdWVzdC5zZXRpT1NNdXRhYmxlQ29udGVudCh0cnVlKTsvL+aYr+WQpuWFgeiuuOaJqeWxlWlPU+mAmuefpeWGheWuuQogICAgICAgIHB1c2hSZXF1ZXN0LnNldGlPU0FwbnNFbnYoIkRFViIpOy8vaU9T55qE6YCa55+l5piv6YCa6L+HQVBOc+S4reW/g+adpeWPkemAgeeahO+8jOmcgOimgeWhq+WGmeWvueW6lOeahOeOr+Wig+S/oeaBr+OAgiJERVYiIDog6KGo56S65byA5Y+R546v5aKDICJQUk9EVUNUIiA6IOihqOekuueUn+S6p+eOr+WigwogICAgICAgIHB1c2hSZXF1ZXN0LnNldGlPU1JlbWluZCh0cnVlKTsgLy8g5raI5oGv5o6o6YCB5pe26K6+5aSH5LiN5Zyo57q/77yI5pei5LiO56e75Yqo5o6o6YCB55qE5pyN5Yqh56uv55qE6ZW/6L+e5o6l6YCa6YGT5LiN6YCa77yJ77yM5YiZ6L+Z5p2h5o6o6YCB5Lya5YGa5Li66YCa55+l77yM6YCa6L+H6Iu55p6c55qEQVBOc+mAmumBk+mAgei+vuS4gOasoeOAguazqOaEj++8muemu+e6v+a2iOaBr+i9rOmAmuefpeS7hemAgueUqOS6jueUn+S6p+eOr+WigwogICAgICAgIHB1c2hSZXF1ZXN0LnNldGlPU1JlbWluZEJvZHkoImlPU1JlbWluZEJvZHkiKTsvL2lPU+a2iOaBr+i9rOmAmuefpeaXtuS9v+eUqOeahGlPU+mAmuefpeWGheWuue+8jOS7heW9k2lPU0FwbnNFbnY9UFJPRFVDVCAmJiBpT1NSZW1pbmTkuLp0cnVl5pe25pyJ5pWICiAgICAgICAgcHVzaFJlcXVlc3Quc2V0aU9TRXh0UGFyYW1ldGVycygie1wiX0VOVl9cIjpcIkRFVlwiLFwiazJcIjpcInYyXCJ9Iik7IC8v6YCa55+l55qE5omp5bGV5bGe5oCnKOazqOaEjyA6IOivpeWPguaVsOimgeS7pWpzb24gbWFw55qE5qC85byP5Lyg5YWlLOWQpuWImeS8muino+aekOWHuumUmSk=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiAxNy0xMS0xIOWumuS5iSAK</text>
+        <text encoding="base64">ICAgICAgICBwdXNoUmVxdWVzdC5zZXRJT1NCYWRnZSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
