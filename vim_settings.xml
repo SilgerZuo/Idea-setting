@@ -30,7 +30,7 @@
         <mark key="^" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/entity/AppMessagePushOffLine.java" timestamp="1509505353002">
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/entity/AppMessagePushOffLine.java" timestamp="1509507312612">
         <mark key="[" line="169" column="49" />
         <mark key="]" line="169" column="48" />
         <mark key="^" line="169" column="48" />
@@ -206,11 +206,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/notification/pushNotice2IOSServiceImpl.java" timestamp="1509505198655">
-        <mark key="[" line="68" column="44" />
-        <mark key="]" line="68" column="44" />
-        <mark key="." line="68" column="44" />
-        <mark key="^" line="68" column="44" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/notification/pushNotice2IOSServiceImpl.java" timestamp="1509507844577">
+        <mark key="[" line="103" column="11" />
+        <mark key="]" line="68" column="103" />
+        <mark key="." line="68" column="103" />
+        <mark key="^" line="68" column="103" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/constant/ExportConstants.java" timestamp="1508824338848">
         <mark key="[" line="31" column="0" />
@@ -362,11 +362,11 @@
       <jump line="157" column="6" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/portal/AppMessagePushOffLine.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>pushRequest.setTargetValue(</text>
       </register>
       <register name="/" type="4">
         <text>deep</text>
@@ -375,31 +375,31 @@
         <text>redisCacheService</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzOwo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CmFsaToKcHVzaE1zZ0lPUzoKRm9ybWF0PWpzb24KUmVnaW9uSWQ9Y24taGFuZ3pob3UKVmVyc2lvbj0yMDE2LTA4LTAxCkFjY2Vzc0tleUlkPWIwNjViMWE0NDVhNzU5M2Q4NDVlMGExMzZkNGVkZWE1ClNpZ25hdHVyZToKU2lnbmF0dXJlTWV0aG9kPUhNQUMtU0hBMQpTaWduYXR1cmVWZXJzaW9uPTEuMApQdXNoVVJMPWNsb3VkcHVzaC5hbGl5dW5jcy5jb20=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBwdXNoUmVzcG9uc2UuZ2V0UmVxdWVzdElkKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YWxpcHVzaE1zZ0lPUy4K</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QEJlYW4K</text>
+        <text encoding="base64">ICAgICAgICBwdXNoUmVxdWVzdC5zZXRJT1NFeHRQYXJhbWV0ZXJzKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QEJlYW4oInBwTWVzc2FnZVB1c2hPZmZMaW5lIikK</text>
+        <text encoding="base64">ICAgICAgICBwdXNoUmVxdWVzdC5zZXRBcHBLZXkoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QENvbXBvbmVudAo=</text>
+        <text encoding="base64">ICAgICAgICBwdXNoUmVxdWVzdC5zZXQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBEYXRlVGltZUZvcm1hdHRlcgo=</text>
+        <text encoding="base64">ICAgICAgICBwdXNoUmVxdWVzdC5zZXQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLFN0cmluZz4gcGFyYW0gPSBuZXcgSGFzaE1hcDw+KDIpOwogICAgICAgIHBhcmFtLnB1dCgiQ29udGVudC10eXBlIiwiYXBwbGljYXRpb24veC13d3ctZm9ybS11cmxlbmNvZGVkIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdXNoUmVxdWVzdC5zZXRJT1NFeHRQYXJhbWV0ZXJzKCIiKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgczEgPSBKU09OQXJyYXkudG9KU09OU3RyaW5nKG1hcCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiAxNy0xMS0xIOWumuS5iSAK</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
