@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1509501147448">
+      <file name="/a.dummy" timestamp="1509541068601">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/notification/PushMessageToIOS.java" timestamp="1509436303536">
@@ -31,11 +31,10 @@
         <mark key="^" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/entity/AppMessagePushOffLine.java" timestamp="1509507312612">
-        <mark key="[" line="169" column="49" />
-        <mark key="]" line="169" column="48" />
-        <mark key="^" line="169" column="48" />
-        <mark key="." line="169" column="48" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/entity/AppMessagePushOffLine.java" timestamp="1509537305746">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/aliyun/alicloud-ams-demo/OpenApi2.0/push-openapi-java-demo/src/test/resources/push.properties.template" timestamp="1509526739231" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/portal/AppMessagePush.java" timestamp="1509444397725">
@@ -99,14 +98,15 @@
         <mark key="." line="64" column="6" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/aliyun/aliyun-java-sdk-core/3.2.5/aliyun-java-sdk-core-3.2.5.jar!/com/aliyuncs/DefaultAcsClient.class" timestamp="1509525912716" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/notification/pushNotice2AppServiceImpl.java" timestamp="1509541262421" />
       <file name="$USER_HOME$/workspace/aliyun/alicloud-ams-demo/OpenApi2.0/push-openapi-java-demo/src/test/resources/push.properties" timestamp="1509533742952">
         <mark key="[" line="3" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/test/TestController.java" timestamp="1509524601045">
-        <mark key="[" line="26" column="11" />
-        <mark key="]" line="26" column="11" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/test/TestController.java" timestamp="1509540337445">
+        <mark key="[" line="27" column="37" />
+        <mark key="]" line="27" column="37" />
         <mark key="^" line="31" column="0" />
-        <mark key="." line="26" column="11" />
+        <mark key="." line="27" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/nice/nice-mapper.xml" timestamp="1509184004938">
         <mark key="[" line="54" column="40" />
@@ -123,6 +123,11 @@
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/redisCache/redisCacheServiceImpl.java" timestamp="1509168819290">
         <mark key="[" line="12" column="35" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/spring/spring-hsf-service.xml" timestamp="1509541166432">
+        <mark key="[" line="77" column="43" />
+        <mark key="]" line="77" column="43" />
+        <mark key="." line="77" column="43" />
+      </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/constant/TagIdConstant.java" timestamp="1508981553259">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="26" column="0" />
@@ -131,17 +136,22 @@
       <file name="/Kotlin File.txt.ft" timestamp="1509160863139">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/push/PushRequestForAli.java" timestamp="1509534489189">
-        <mark key="[" line="16" column="50" />
-        <mark key="]" line="20" column="3" />
-        <mark key="^" line="20" column="3" />
-        <mark key="." line="20" column="3" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/push/PushRequestForAli.java" timestamp="1509537779540">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/resources/spring/spring-hsf-reference.xml" timestamp="1509437394679">
-        <mark key="[" line="124" column="57" />
-        <mark key="]" line="124" column="57" />
-        <mark key="^" line="124" column="43" />
-        <mark key="." line="124" column="57" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/portal/PushNotice2IOSService.java" timestamp="1509540435935">
+        <mark key="[" line="12" column="27" />
+        <mark key="]" line="12" column="31" />
+        <mark key="." line="12" column="31" />
+        <mark key="^" line="12" column="31" />
+      </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/resources/spring/spring-hsf-reference.xml" timestamp="1509541259982">
+        <mark key="[" line="136" column="22" />
+        <mark key="]" line="136" column="22" />
+        <mark key="^" line="136" column="22" />
+        <mark key="." line="136" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/portal/PushMessage2IOSService.java" timestamp="1509441506977">
         <mark key="[" line="13" column="4" />
@@ -183,7 +193,7 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/aliyun/aliyun-java-sdk-push/3.8.0/aliyun-java-sdk-push-3.8.0.jar!/com/aliyuncs/push/model/v20160801/PushRequest.class" timestamp="1509534376728" />
-      <file name="/Dummy.txt" timestamp="1509534517814">
+      <file name="/Dummy.txt" timestamp="1509539240100">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -215,11 +225,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/notification/pushNotice2IOSServiceImpl.java" timestamp="1509534927630">
-        <mark key="[" line="44" column="8" />
-        <mark key="]" line="44" column="8" />
-        <mark key="." line="44" column="8" />
-        <mark key="^" line="47" column="22" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/notification/pushNotice2IOSServiceImpl.java" timestamp="1509540430670">
+        <mark key="'" line="99" column="19" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="36" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/constant/ExportConstants.java" timestamp="1508824338848">
         <mark key="[" line="31" column="0" />
@@ -264,11 +275,11 @@
         <mark key="." line="5" column="31" />
         <mark key="^" line="5" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/framework/config/PushConfig.java" timestamp="1509534385154">
-        <mark key="[" line="16" column="10" />
-        <mark key="]" line="16" column="9" />
-        <mark key="^" line="16" column="9" />
-        <mark key="." line="16" column="9" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/framework/config/PushConfig.java" timestamp="1509537768636">
+        <mark key="[" line="15" column="10" />
+        <mark key="]" line="15" column="9" />
+        <mark key="^" line="15" column="9" />
+        <mark key="." line="15" column="9" />
       </file>
       <file name="/fragment.java" timestamp="1509526087086">
         <mark key="[" line="0" column="0" />
@@ -280,8 +291,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="30" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/portal/index.vue" />
-      <jump line="204" column="39" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/orders/orderDetail.vue" />
       <jump line="407" column="46" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/demand/index.vue" />
       <jump line="34" column="13" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/authentication/PlatformAuthenticationController.java" />
       <jump line="346" column="47" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/demand/index.vue" />
@@ -380,46 +389,48 @@
       <jump line="440" column="0" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/portal/AppMessagePushOffLine.java" />
       <jump line="153" column="24" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/portal/AppMessagePushOffLine.java" />
       <jump line="157" column="6" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/portal/AppMessagePushOffLine.java" />
+      <jump line="113" column="38" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/notification/pushNotice2IOSServiceImpl.java" />
+      <jump line="99" column="19" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/notification/pushNotice2IOSServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">T3NzQ29uZmlnIA==</text>
+        <text>P</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">T3NzQ29uZmlnIA==</text>
+        <text>P</text>
       </register>
       <register name="/" type="4">
         <text>deep</text>
       </register>
       <register name="0" type="4">
-        <text>redisCacheService</text>
+        <text>PushNotice2AppService</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwdXNoUmVxdWVzdC5zZXQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwdXNoUmVxdWVzdC5zZXQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwdXNoUmVxdWVzdC5zZXRBCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHB1c2hVUkw7CgogICAgcHVibGljIFN0cmluZyBnZXRQdXNoVVJMKCkgewogICAgICAgIHJldHVybiBwdXNoVVJMOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldFB1c2hVUkwoU3RyaW5nIHB1c2hVUkwpIHsKICAgICAgICB0aGlzLnB1c2hVUkwgPSBwdXNoVVJMOwogICAgfQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IC8vIOaOqOmAgemFjee9rjogQW5kcm9pZAovLyAgICAgICAgcHVzaFJlcXVlc3Quc2V0QW5kcm9pZE5vdGlmeVR5cGUoIk5PTkUiKTsvL+mAmuefpeeahOaPkOmGkuaWueW8jyAiVklCUkFURSIgOiDpnIfliqggIlNPVU5EIiA6IOWjsOmfsyAiQk9USCIgOiDlo7Dpn7PlkozpnIfliqggTk9ORSA6IOmdmemfswovLyAgICAgICAgcHVzaFJlcXVlc3Quc2V0QW5kcm9pZE5vdGlmaWNhdGlvbkJhclR5cGUoMSk7Ly/pgJrnn6XmoI/oh6rlrprkuYnmoLflvI8wLTEwMAovLyAgICAgICAgcHVzaFJlcXVlc3Quc2V0QW5kcm9pZE5vdGlmaWNhdGlvbkJhclByaW9yaXR5KDEpOy8v6YCa55+l5qCP6Ieq5a6a5LmJ5qC35byPMC0xMDAKLy8gICAgICAgIHB1c2hSZXF1ZXN0LnNldEFuZHJvaWRPcGVuVHlwZSgiVVJMIik7IC8v54K55Ye76YCa55+l5ZCO5Yqo5L2cICJBUFBMSUNBVElPTiIgOiDmiZPlvIDlupTnlKggIkFDVElWSVRZIiA6IOaJk+W8gEFuZHJvaWRBY3Rpdml0eSAiVVJMIiA6IOaJk+W8gFVSTCAiTk9ORSIgOiDml6Dot7PovawKLy8gICAgICAgIHB1c2hSZXF1ZXN0LnNldEFuZHJvaWRPcGVuVXJsKCJodHRwOi8vd3d3LmFsaXl1bi5jb20iKTsgLy9BbmRyb2lk5pS25Yiw5o6o6YCB5ZCO5omT5byA5a+55bqU55qEdXJsLOS7heW9k0FuZHJvaWRPcGVuVHlwZT0iVVJMIuacieaViAovLyAgICAgICAgcHVzaFJlcXVlc3Quc2V0QW5kcm9pZEFjdGl2aXR5KCJjb20uYWxpYmFiYS5wdXNoMi5kZW1vLlhpYW9NaVB1c2hBY3Rpdml0eSIpOyAvLyDorr7lrprpgJrnn6XmiZPlvIDnmoRhY3Rpdml0ee+8jOS7heW9k0FuZHJvaWRPcGVuVHlwZT0iQWN0aXZpdHki5pyJ5pWICi8vICAgICAgICBwdXNoUmVxdWVzdC5zZXRBbmRyb2lkTXVzaWMoImRlZmF1bHQiKTsgLy8gQW5kcm9pZOmAmuefpemfs+S5kAovLyAgICAgICAgcHVzaFJlcXVlc3Quc2V0QW5kcm9pZFhpYW9NaUFjdGl2aXR5KCJjb20uYWxpLmRlbW8uTWlBY3Rpdml0eSIpOy8v6K6+572u6K+l5Y+C5pWw5ZCO5ZCv5Yqo5bCP57Gz5omY566h5by556qX5Yqf6IO9LCDmraTlpITmjIflrprpgJrnn6Xngrnlh7vlkI7ot7PovaznmoRBY3Rpdml0ee+8iOaJmOeuoeW8ueeql+eahOWJjeaPkOadoeS7tu+8mjEuIOmbhuaIkOWwj+exs+i+heWKqemAmumBk++8mzIuIFN0b3JlT2ZmbGluZeWPguaVsOiuvuS4unRydWXvvIkKLy8gICAgICAgIHB1c2hSZXF1ZXN0LnNldEFuZHJvaWRYaWFvTWlOb3RpZnlUaXRsZSgiTWkgdGl0bGUiKTsKLy8gICAgICAgIHB1c2hSZXF1ZXN0LnNldEFuZHJvaWRYaWFvTWlOb3RpZnlCb2R5KCJNaUFjdGl2aXR5IEJvZHkiKTsKLy8gICAgICAgIHB1c2hSZXF1ZXN0LnNldEFuZHJvaWRFeHRQYXJhbWV0ZXJzKCJ7XCJrMVwiOlwiYW5kcm9pZFwiLFwiazJcIjpcInYyXCJ9Iik7IC8v6K6+5a6a6YCa55+l55qE5omp5bGV5bGe5oCn44CCKOazqOaEjyA6IOivpeWPguaVsOimgeS7pSBqc29uIG1hcCDnmoTmoLzlvI/kvKDlhaUs5ZCm5YiZ5Lya6Kej5p6Q5Ye66ZSZKQo=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIFN0cmluZyB0ZXN0KCkgdGhyb3dzIEV4Y2VwdGlvbiA7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwdXNoUmVxdWVzdC5zZXRJT1NFeHRQYXJhbWV0ZXJzKCJ7XCJfRU5WX1wiOlwiREVWXCIsXCJrMlwiOlwidjJcIn0iKTsgLy/pgJrnn6XnmoTmianlsZXlsZ7mgKco5rOo5oSPIDog6K+l5Y+C5pWw6KaB5LulanNvbiBtYXDnmoTmoLzlvI/kvKDlhaUs5ZCm5YiZ5Lya6Kej5p6Q5Ye66ZSZKQo=</text>
+        <text encoding="base64">ICAgICAgICBwdXNoUmVxdWVzdCA9IG5ldyBQdXNoQ29uZmlnKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvL+iHquWKqOazqOWFpeWFrOWFsemFjee9rgo=</text>
+        <text encoding="base64">QENvbmZpZ3VyYXRpb25Qcm9wZXJ0aWVzKCJhbGkucHVzaE1zZyIpCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgQXBwTWVzc2FnZVB1c2hPZmZMaW5lIGFwcE1lc3NhZ2VQdXNoID0gbmV3IEFwcE1lc3NhZ2VQdXNoT2ZmTGluZSgpOwogICAgICAgIFN0cmluZyBwYXR0ZXJuID0gInl5eXktTU0tZGQnVCdISDptbTpzcydaJyI7CiAgICAgICAgU3RyaW5nIGZvcm1hdCA9IERhdGVGb3JtYXRVdGlscy5mb3JtYXQobmV3IERhdGUoKSwgcGF0dGVybik7Ci8vICAgICAgICBTaW1wbGVEYXRlRm9ybWF0IHNpbXBsZURhdGVGb3JtYXQgPSBuZXcgU2ltcGxlRGF0ZUZvcm1hdCgiWVlZWS1NTS1ERCdUJ2hoOm1tOnNzWiIpOwovLyAgICAgICAgU3RyaW5nIGZvcm1hdCA9IHNpbXBsZURhdGVGb3JtYXQuZm9ybWF0KG5ldyBEYXRlKCkpOwoKICAgICAgICAvLyBUT0RPOiAxNy0xMC0zMSDnrb7lkI3mnLrmmboKCi8vICAgICAgICBhcHBNZXNzYWdlUHVzaC5zZXRUaW1lc3RhbXAoZm9ybWF0KTsKLy8gICAgICAgIGFwcE1lc3NhZ2VQdXNoLnNldFNpZ25hdHVyZU5vbmNlKFVVSURVdGlsLmdldFVVSUQoKSk7Ci8vCi8vICAgICAgICBhcHBNZXNzYWdlUHVzaC5zZXRBY3Rpb24oInB1c2giKTsKLy8gICAgICAgIGFwcE1lc3NhZ2VQdXNoLnNldEFwcEtleShuZXcgTG9uZygyNDY3NzYzMSkpOwovLyAgICAgICAgYXBwTWVzc2FnZVB1c2guc2V0VGFyZ2V0KCJBTEwiKTsKLy8gICAgICAgIGFwcE1lc3NhZ2VQdXNoLnNldFRhcmdldFZhbHVlKCJBTEwiKTsKLy8gICAgICAgIGFwcE1lc3NhZ2VQdXNoLnNldFRpdGxlKCJ0aXRsZSIpOwovLyAgICAgICAgYXBwTWVzc2FnZVB1c2guc2V0Qm9keSgidGhpcyBpcyBib2R5Iik7Ci8vICAgICAgICBhcHBNZXNzYWdlUHVzaC5zZXRNZXNzYWdlSWQoImZpcnN0Iik7CgogICAgICAgIC8vIFRPRE86IDE3LTExLTEg5a6a5LmJ5oiQ55yf5piv55qEaWQKICAgICAgICBJQ2xpZW50UHJvZmlsZSBwcm9maWxlID0gRGVmYXVsdFByb2ZpbGUuZ2V0UHJvZmlsZSgiY24taGFuZ3pob3UiLCAiTFRBSXZLQXVzTnIxVWdRNSIsICJhUW1VbGlSNjVQYkdKNnE1WkpzM0ZRZVE4OWMxQ1IiKTsKICAgICAgICBEZWZhdWx0QWNzQ2xpZW50IGNsaWVudCA9IG5ldyBEZWZhdWx0QWNzQ2xpZW50KHByb2ZpbGUpOwogICAgICAgIFB1c2hSZXF1ZXN0Rm9yQWxpIHB1c2hSZXF1ZXN0ID0gbmV3IFB1c2hSZXF1ZXN0Rm9yQWxpKCk7CgoKICAgICAgICAvLyoqKioqKioqKioq5YWs5YWx5Y+C5pWwCiAgICAgICAgcHVzaFJlcXVlc3Quc2V0UHJvdG9jb2woUHJvdG9jb2xUeXBlLkhUVFBTKTsKICAgICAgICBwdXNoUmVxdWVzdC5zZXRNZXRob2QoTWV0aG9kVHlwZS5QT1NUKTsKCiAgICAgICAgcHVzaFJlcXVlc3Quc2V0QXBwS2V5KDI0Njc3NjMxTCk7CiAgICAgICAgcHVzaFJlcXVlc3Quc2V0VGFyZ2V0KCJBTEwiKTsgLy/mjqjpgIHnm67moIc6IERFVklDRTrmjInorr7lpIfmjqjpgIEgQUxJQVMgOiDmjInliKvlkI3mjqjpgIEgQUNDT1VOVDrmjInluJDlj7fmjqjpgIEgIFRBRzrmjInmoIfnrb7mjqjpgIE7IEFMTDog5bm/5pKt5o6o6YCBCiAgICAgICAgcHVzaFJlcXVlc3Quc2V0VGFyZ2V0VmFsdWUoIkFMTCIpOwogICAgICAgIHB1c2hSZXF1ZXN0LnNldFB1c2hUeXBlKCJOT1RJQ0UiKTsKICAgICAgICBwdXNoUmVxdWVzdC5zZXREZXZpY2VUeXBlKCJBTEwiKTsKICAgICAgICBwdXNoUmVxdWVzdC5zZXRUaXRsZSgiaW9zdGl0bGUiKTsKICAgICAgICBwdXNoUmVxdWVzdC5zZXRCb2R5KCJib2R5Ym9keSIpOwoKICAgICAgICBwdXNoUmVxdWVzdC5zZXRJT1NBcG5zRW52KCJERVYiKTsKICAgICAgICBwdXNoUmVxdWVzdC5zZXRBY2NlcHRGb3JtYXQoRm9ybWF0VHlwZS5KU09OKTsKICAgICAgICBwdXNoUmVxdWVzdC5zZXRSZWdpb25JZCgiY24taGFuZ3pob3UiKTsKICAgICAgICBwdXNoUmVxdWVzdC5zZXRWZXJzaW9uKCIyMDE2LTA4LTAxIik7CiAgICAgICAgcHVzaFJlcXVlc3Quc2V0QWN0aW9uTmFtZSgiUHVzaE5vdGljZVRvaU9TIik7CgoKICAgICAgICBwdXNoUmVxdWVzdC5zZXRJT1NCYWRnZSg1KTsgLy8gaU9T5bqU55So5Zu+5qCH5Y+z5LiK6KeS6KeS5qCHCiAgICAgICAgcHVzaFJlcXVlc3Quc2V0SU9TU2lsZW50Tm90aWZpY2F0aW9uKGZhbHNlKTsvL+W8gOWQr+mdmem7mOmAmuefpQogICAgICAgIHB1c2hSZXF1ZXN0LnNldElPU011c2ljKCJkZWZhdWx0Iik7IC8vIGlPU+mAmuefpeWjsOmfswogICAgICAgIHB1c2hSZXF1ZXN0LnNldElPU1N1YnRpdGxlKCJpT1MxMCBzdWJ0aXRsZSIpOy8vaU9TMTDpgJrnn6Xlia/moIfpopjnmoTlhoXlrrkKICAgICAgICBwdXNoUmVxdWVzdC5zZXRJT1NOb3RpZmljYXRpb25DYXRlZ29yeSgiaU9TMTAgTm90aWZpY2F0aW9uIENhdGVnb3J5Iik7Ly/mjIflrpppT1MxMOmAmuefpUNhdGVnb3J5CiAgICAgICAgcHVzaFJlcXVlc3Quc2V0SU9TTXV0YWJsZUNvbnRlbnQodHJ1ZSk7Ly/mmK/lkKblhYHorrjmianlsZVpT1PpgJrnn6XlhoXlrrkKICAgICAgICBwdXNoUmVxdWVzdC5zZXRJT1NBcG5zRW52KCJERVYiKTsvL2lPU+eahOmAmuefpeaYr+mAmui/h0FQTnPkuK3lv4PmnaXlj5HpgIHnmoTvvIzpnIDopoHloavlhpnlr7nlupTnmoTnjq/looPkv6Hmga/jgIIiREVWIiA6IOihqOekuuW8gOWPkeeOr+WigyAiUFJPRFVDVCIgOiDooajnpLrnlJ/kuqfnjq/looMKICAgICAgICBwdXNoUmVxdWVzdC5zZXRJT1NSZW1pbmQodHJ1ZSk7IC8vIOa2iOaBr+aOqOmAgeaXtuiuvuWkh+S4jeWcqOe6v++8iOaXouS4juenu+WKqOaOqOmAgeeahOacjeWKoeerr+eahOmVv+i/nuaOpemAmumBk+S4jemAmu+8ie+8jOWImei/meadoeaOqOmAgeS8muWBmuS4uumAmuefpe+8jOmAmui/h+iLueaenOeahEFQTnPpgJrpgZPpgIHovr7kuIDmrKHjgILms6jmhI/vvJrnprvnur/mtojmga/ovazpgJrnn6Xku4XpgILnlKjkuo7nlJ/kuqfnjq/looMKICAgICAgICBwdXNoUmVxdWVzdC5zZXRJT1NSZW1pbmRCb2R5KCJpT1NSZW1pbmRCb2R5Iik7Ly9pT1Pmtojmga/ovazpgJrnn6Xml7bkvb/nlKjnmoRpT1PpgJrnn6XlhoXlrrnvvIzku4XlvZNpT1NBcG5zRW52PVBST0RVQ1QgJiYgaU9TUmVtaW5k5Li6dHJ1ZeaXtuacieaViAogICAgICAgIHB1c2hSZXF1ZXN0LnNldElPU0V4dFBhcmFtZXRlcnMoIntcIl9FTlZfXCI6XCJERVZcIixcImsyXCI6XCJ2MlwifSIpOyAvL+mAmuefpeeahOaJqeWxleWxnuaApyjms6jmhI8gOiDor6Xlj4LmlbDopoHku6Vqc29uIG1hcOeahOagvOW8j+S8oOWFpSzlkKbliJnkvJrop6PmnpDlh7rplJkpCgoKICAgICAgICBEYXRlIHB1c2hEYXRlID0gbmV3IERhdGUoU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkpOwogICAgICAgIFN0cmluZyBwdXNoVGltZSA9IFBhcmFtZXRlckhlbHBlci5nZXRJU084NjAxVGltZShwdXNoRGF0ZSk7CiAgICAgICAgcHVzaFJlcXVlc3Quc2V0UHVzaFRpbWUocHVzaFRpbWUpOwogICAgICAgIFN0cmluZyBleHBpcmVUaW1lID0gUGFyYW1ldGVySGVscGVyLmdldElTTzg2MDFUaW1lKG5ldyBEYXRlKFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpICsgMTIgKiAzNjAwICogMTAwMCkpOwogICAgICAgIHB1c2hSZXF1ZXN0LnNldEV4cGlyZVRpbWUoZXhwaXJlVGltZSk7CiAgICAgICAgcHVzaFJlcXVlc3Quc2V0U3RvcmVPZmZsaW5lKHRydWUpOwogICAgICAgIHB1c2hSZXF1ZXN0LnNldEFwbnNFbnYoIkRFViIpOwogICAgICAgIFB1c2hSZXNwb25zZSBwdXNoUmVzcG9uc2UgPSBjbGllbnQuZ2V0QWNzUmVzcG9uc2UocHVzaFJlcXVlc3QpOwoKLy8gICAgICAgIFN0cmluZyBzID0gSlNPTkFycmF5LnRvSlNPTlN0cmluZyhhcHBNZXNzYWdlUHVzaCk7Ci8vCi8vICAgICAgICBNYXA8U3RyaW5nLFN0cmluZz4gcGFyYW0gPSBuZXcgSGFzaE1hcDw+KDIpOwovLyAgICAgICAgcGFyYW0ucHV0KCJDb250ZW50LXR5cGUiLCJhcHBsaWNhdGlvbi94LXd3dy1mb3JtLXVybGVuY29kZWQiKTsKLy8KLy8gICAgICAgIFN0cmluZyByZXMgPSBudWxsOwovLwovLyAgICAgICAgdHJ5IHsKLy8gICAgICAgICAgICByZXMgPSBIdHRwQ2xpZW50VXRpbC5kb0pzb25Qb3N0KGFwcE1lc3NhZ2VQdXNoLmdldFB1c2hVUkwoKSwgcGFyYW0sIHMpOwovLyAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKLy8gICAgICAgICAgICByZXR1cm4gImV4Y2VwdGlvbiI7Ci8vICAgICAgICB9</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBwdXNoCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwdXNoUmVxdWVzdC5zZXRTCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
