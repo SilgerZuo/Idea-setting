@@ -15,6 +15,11 @@
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/pom.xml" timestamp="1509443413929">
         <mark key="[" line="103" column="21" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/redisCache/RedisCacheServiceImpl.java" timestamp="1509588801093">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/api/redisCache.js" timestamp="1509180778867">
         <mark key="[" line="4" column="35" />
         <mark key="]" line="4" column="33" />
@@ -192,7 +197,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509539240100">
+      <file name="/Dummy.txt" timestamp="1509588737715">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -391,8 +396,8 @@
       <jump line="99" column="19" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/notification/pushNotice2IOSServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Mi title</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZWRpc0NsaWVudC5oc2V0KCkK</text>
       </register>
       <register name="-" type="4">
         <text>Mi title</text>
@@ -404,31 +409,31 @@
         <text>PushNotice2AppService</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZWRpc0NsaWVudC5oc2V0KCkK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHB1c2hVUkw7CgogICAgcHVibGljIFN0cmluZyBnZXRQdXNoVVJMKCkgewogICAgICAgIHJldHVybiBwdXNoVVJMOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldFB1c2hVUkwoU3RyaW5nIHB1c2hVUkwpIHsKICAgICAgICB0aGlzLnB1c2hVUkwgPSBwdXNoVVJMOwogICAgfQ==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyB0ZXN0KCkgdGhyb3dzIEV4Y2VwdGlvbiA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwdXNoUmVxdWVzdCA9IG5ldyBQdXNoQ29uZmlnKCk7Cg==</text>
+        <text encoding="base64">ICAgIFN0cmluZyB0ZXN0KCkgdGhyb3dzIEV4Y2VwdGlvbiA7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QENvbmZpZ3VyYXRpb25Qcm9wZXJ0aWVzKCJhbGkucHVzaE1zZyIpCg==</text>
+        <text encoding="base64">ICAgICAgICBwdXNoUmVxdWVzdCA9IG5ldyBQdXNoQ29uZmlnKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwdXNoCg==</text>
+        <text encoding="base64">QENvbmZpZ3VyYXRpb25Qcm9wZXJ0aWVzKCJhbGkucHVzaE1zZyIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdXNoCg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
