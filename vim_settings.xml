@@ -24,7 +24,6 @@
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/aliAms/push.properties" timestamp="1509433099008">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/aliyun/aliyun-java-sdk-core/3.2.5/aliyun-java-sdk-core-3.2.5.jar!/com/aliyuncs/http/HttpResponse.class" timestamp="1509526126785" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/glossary/ResultInfoEnum.java" timestamp="1509181611535">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -36,7 +35,6 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/aliyun/alicloud-ams-demo/OpenApi2.0/push-openapi-java-demo/src/test/resources/push.properties.template" timestamp="1509526739231" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/portal/AppMessagePush.java" timestamp="1509444397725">
         <mark key="[" line="65" column="16" />
         <mark key="]" line="52" column="42" />
@@ -97,8 +95,12 @@
         <mark key="^" line="64" column="6" />
         <mark key="." line="64" column="6" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/aliyun/aliyun-java-sdk-core/3.2.5/aliyun-java-sdk-core-3.2.5.jar!/com/aliyuncs/DefaultAcsClient.class" timestamp="1509525912716" />
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/notification/pushNotice2AppServiceImpl.java" timestamp="1509541262421" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/notification/pushNotice2AppServiceImpl.java" timestamp="1509586046183">
+        <mark key="[" line="87" column="49" />
+        <mark key="]" line="87" column="55" />
+        <mark key="." line="87" column="55" />
+        <mark key="^" line="87" column="55" />
+      </file>
       <file name="$USER_HOME$/workspace/aliyun/alicloud-ams-demo/OpenApi2.0/push-openapi-java-demo/src/test/resources/push.properties" timestamp="1509533742952">
         <mark key="[" line="3" column="20" />
       </file>
@@ -113,13 +115,11 @@
         <mark key="]" line="54" column="40" />
         <mark key="." line="54" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/aliyun/alicloud-ams-demo/OpenApi2.0/push-openapi-java-demo/src/test/java/com/aliyun/push/demoTest/BaseTest.java" timestamp="1509533705915" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/portal/NotificationController.java" timestamp="1508840487559">
         <mark key="[" line="28" column="21" />
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/aliyun/aliyun-java-sdk-core/3.2.5/aliyun-java-sdk-core-3.2.5.jar!/com/aliyuncs/profile/DefaultProfile.class" timestamp="1509526661910" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/redisCache/redisCacheServiceImpl.java" timestamp="1509168819290">
         <mark key="[" line="12" column="35" />
       </file>
@@ -192,7 +192,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/aliyun/aliyun-java-sdk-push/3.8.0/aliyun-java-sdk-push-3.8.0.jar!/com/aliyuncs/push/model/v20160801/PushRequest.class" timestamp="1509534376728" />
       <file name="/Dummy.txt" timestamp="1509539240100">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -209,7 +208,6 @@
         <mark key="^" line="38" column="7" />
         <mark key="." line="38" column="7" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11.jar!/org/junit/Assert.class" timestamp="1509533595971" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/test/java/com/mvcc/MQMessage/time.java" timestamp="1508901736203">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -394,10 +392,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>P</text>
+        <text>Mi title</text>
       </register>
       <register name="-" type="4">
-        <text>P</text>
+        <text>Mi title</text>
       </register>
       <register name="/" type="4">
         <text>deep</text>
