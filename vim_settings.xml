@@ -173,11 +173,11 @@
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/repository/demand/DemandPoolMapper.java" timestamp="1509002818540">
         <mark key="[" line="50" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/redisCache/index.vue" timestamp="1509592883901">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="^" line="17" column="47" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/redisCache/index.vue" timestamp="1509593722352">
+        <mark key="[" line="21" column="34" />
+        <mark key="]" line="21" column="34" />
+        <mark key="^" line="21" column="36" />
+        <mark key="." line="21" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/message/MessageService.java" timestamp="1508491636618">
         <mark key="[" line="32" column="0" />
@@ -198,7 +198,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509592812619">
+      <file name="/Dummy.txt" timestamp="1509593730395">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -397,11 +397,12 @@
       <jump line="99" column="19" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/notification/pushNotice2IOSServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>1.更改nice入缓存逻辑
+2.增加手持app推送接口;(目前不能使用ios)</text>
       </register>
       <register name="-" type="4">
-        <text>错了哦，这是一条错误消息</text>
+        <text>稍后再试</text>
       </register>
       <register name="/" type="4">
         <text>deep</text>
@@ -409,8 +410,9 @@
       <register name="0" type="4">
         <text encoding="base64">UmVzdWx0SW5mbyByZXN1bHRJbmZvIA==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>1.更改nice入缓存逻辑
+2.增加手持app推送接口;(目前不能使用ios)</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -431,10 +433,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB0eXBlOiAnZGFuZ2VyJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSkK</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
