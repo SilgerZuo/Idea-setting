@@ -69,6 +69,7 @@
         <mark key="]" line="5" column="17" />
         <mark key="." line="5" column="17" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/person/Person.java" timestamp="1509681715161" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/demand/DemandPoolServiceImpl.java" timestamp="1509002954236">
         <mark key="[" line="70" column="0" />
         <mark key="]" line="70" column="0" />
@@ -320,7 +321,7 @@
       <file name="/vue.txt.ft" timestamp="1509162446081">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/app/portal/LoginAppController.java" timestamp="1509680719251">
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/app/portal/LoginAppController.java" timestamp="1509681442907">
         <mark key="'" line="34" column="0" />
         <mark key="[" line="206" column="9" />
         <mark key="]" line="205" column="0" />
