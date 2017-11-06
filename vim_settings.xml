@@ -3,10 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/learnSocket/src/SocketClient.java" timestamp="1509637163846">
+      <file name="$USER_HOME$/IdeaProjects/learnSocket/src/SocketClient.java" timestamp="1509983242827">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
-        <mark key="^" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1508745291115">
@@ -133,11 +132,11 @@
         <mark key="^" line="31" column="0" />
         <mark key="." line="27" column="37" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/learnSocket/src/Server.java" timestamp="1509637072387">
-        <mark key="[" line="25" column="33" />
-        <mark key="]" line="33" column="0" />
-        <mark key="^" line="87" column="23" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/learnSocket/src/Server.java" timestamp="1509983466840">
+        <mark key="[" line="37" column="12" />
+        <mark key="]" line="38" column="10" />
+        <mark key="^" line="38" column="10" />
+        <mark key="." line="38" column="10" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/car/CarOwnerServiceImpl.java" timestamp="1508749268388">
         <mark key="'" line="98" column="0" />
@@ -681,11 +680,11 @@
       <jump line="38" column="13" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/redisCache/RedisCacheServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>Runnable()</text>
       </register>
       <register name="-" type="4">
-        <text>float</text>
+        <text>Runnable()</text>
       </register>
       <register name="/" type="4">
         <text>deep</text>
@@ -694,31 +693,31 @@
         <text encoding="base64">ICAgICAgICAgICAgSXRlcmF0b3I8U2VsZWN0aW9uS2V5PiBrZXlzPSB0aGlzLnNlbGVjdG9yLnNlbGVjdGVkS2V5cygpLml0ZXJhdG9yKCk7CiAgICAgICAgICAgIHdoaWxlICguaGFzTmV4dCgpKSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBTb2NrZXRDbGllbnRFeGFtcGxlIHsK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBTb2NrZXRDbGllbnRFeGFtcGxlIHsK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IFNvY2tldENsaWVudCgpLnN0YXJ0Q2xpZW50KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">MzIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IFNvY2tldENsaWVudCgpLnN0YXJ0Q2xpZW50KCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgMzEK</text>
+        <text encoding="base64">MzIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgMzAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgMzEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDI5Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgMzAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDI4Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDI5Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
