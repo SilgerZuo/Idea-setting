@@ -20,10 +20,11 @@
         <mark key="^" line="26" column="24" />
         <mark key="." line="26" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/redisCache/RedisCacheServiceImpl.java" timestamp="1509970353165">
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/redisCache/RedisCacheServiceImpl.java" timestamp="1510020186035">
         <mark key="'" line="224" column="4" />
-        <mark key="]" line="143" column="12" />
-        <mark key="." line="143" column="12" />
+        <mark key="[" line="90" column="29" />
+        <mark key="]" line="90" column="29" />
+        <mark key="." line="90" column="29" />
         <mark key="^" line="143" column="12" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/api/redisCache.js" timestamp="1509959262801">
@@ -62,7 +63,6 @@
         <mark key="^" line="7" column="30" />
         <mark key="." line="7" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/demand/DemandPoolServiceImpl.java" timestamp="1509956537793" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/ProviderApplicationMain.java" timestamp="1509504827385">
         <mark key="[" line="10" column="7" />
         <mark key="]" line="10" column="58" />
@@ -93,12 +93,12 @@
         <mark key="^" line="24" column="30" />
         <mark key="." line="24" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/demand/DemandPool.java" timestamp="1509956806767" />
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/nice/NiceServiceImpl.java" timestamp="1509973243498">
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/nice/NiceServiceImpl.java" timestamp="1510020099142">
         <mark key="'" line="45" column="0" />
-        <mark key="[" line="149" column="0" />
-        <mark key="]" line="149" column="0" />
-        <mark key="." line="149" column="0" />
+        <mark key="[" line="80" column="56" />
+        <mark key="]" line="80" column="55" />
+        <mark key="." line="80" column="55" />
+        <mark key="^" line="80" column="55" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/router/index.js" timestamp="1509179170608">
         <mark key="[" line="171" column="15" />
@@ -108,10 +108,6 @@
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/constant/RedisKeyConstant.java" timestamp="1509970328134">
         <mark key="'" line="9" column="13" />
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="82" column="26" />
-        <mark key="^" line="82" column="26" />
-        <mark key="." line="82" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/notification/pushNotice2AppServiceImpl.java" timestamp="1509586046183">
         <mark key="[" line="87" column="49" />
@@ -273,15 +269,12 @@
         <mark key="^" line="35" column="15" />
         <mark key="." line="35" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/car/car-mapper.xml" timestamp="1509958653559" />
-      <file name="$MAVEN_REPOSITORY$/com/dajia/dajia-framework-support-cache/2.0.0-SNAPSHOT/dajia-framework-support-cache-2.0.0-20171106.024540-849.jar!/com/seeyon/framework/cache/redis/key/CacheModule.class" timestamp="1509956570195" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/nice/NiceController.java" timestamp="1509614228225">
         <mark key="[" line="33" column="18" />
         <mark key="]" line="33" column="20" />
         <mark key="." line="33" column="20" />
         <mark key="^" line="33" column="20" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dajia/dajia-framework-support-cache/2.0.0-SNAPSHOT/dajia-framework-support-cache-2.0.0-20171106.024540-849.jar!/com/seeyon/framework/cache/redis/key/CacheScope.class" timestamp="1509956585704" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/nice/niceApp-mapper.xml" timestamp="1509971797614">
         <mark key="[" line="25" column="83" />
         <mark key="]" line="23" column="31" />
@@ -292,7 +285,6 @@
         <mark key="'" line="102" column="13" />
         <mark key="^" line="185" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/authentication/platformAuthentication-mapper.xml" timestamp="1509972467277" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/redisCache/RedisCacheController.java" timestamp="1509958727616">
         <mark key="[" line="93" column="0" />
         <mark key="]" line="95" column="21" />
@@ -432,10 +424,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAg6L+U5Zue5a2X5q615aaC5LiLCiAgICAgICAgICJ1cExldmVsTmVlZCI6IDUsCiAgICAgICAgICJzZWFzb25Db3VudCI6ICIxNSIsCiAgICAgICAgICJwcmljZUZsb2F0IjogLTAuMDUsCiAgICAgICAgICJjdXJyZW50Q291bnQiOiAiMCIsCiAgICAgICAgICJuaWNlQ29kZUFsbCI6ICJFMSIsCiAgICAgICAgICJwYXNzZW5nZXJGbG9hdCI6IDAuMTUKICAgICAgICAgKi8=</text>
+        <text encoding="base64">UEVSU09OX05JQ0VfSEFTSF9DQUNIRV9DT0RFIA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">T2JqZWN0IA==</text>
+        <text encoding="base64">UEVSU09OX05JQ0VfSEFTSF9DQUNIRV9DT0RFIA==</text>
       </register>
       <register name="/" type="4">
         <text>person</text>
@@ -443,32 +435,32 @@
       <register name="0" type="4">
         <text encoding="base64">cHJpdmF0ZSBpbnQg</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAg6L+U5Zue5a2X5q615aaC5LiLCiAgICAgICAgICJ1cExldmVsTmVlZCI6IDUsCiAgICAgICAgICJzZWFzb25Db3VudCI6ICIxNSIsCiAgICAgICAgICJwcmljZUZsb2F0IjogLTAuMDUsCiAgICAgICAgICJjdXJyZW50Q291bnQiOiAiMCIsCiAgICAgICAgICJuaWNlQ29kZUFsbCI6ICJFMSIsCiAgICAgICAgICJwYXNzZW5nZXJGbG9hdCI6IDAuMTUKICAgICAgICAgKi8=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy/mn6Xmib4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5kQW5kVXBkYXRlUGVyc29uTmljZTRBcHAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIChpbnQpIGFuZFVwZGF0ZU5pY2VDYWNoZS5nZXQoIm5pY2VPcmRlciIpOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygicGVyc29uSWQ6IiArIHBlcnNvbklkKTsKICAgICAgICAvLyBUT0RPOiAxNy0xMS02IOmAu+i+ke+8muWFiOafpeivonBlcnNvblN1Yu+8jOiOt+W+l25pY2VJRO+8jOWGjeafpeivok5pY2XvvIzmnIDlkI7mi7zmjqUKICAgICAgICAvLwogICAgICAgIFN0cmluZyBjYWNoZWRLZXkgPSBLZXlLaXQuZm9ybWF0S2V5KENhY2hlTW9kdWxlLlZQRk9STSwgQ2FjaGVTY29wZS5QRVJTSVNURU5ULCBSZWRpc0tleUNvbnN0YW50CiAgICAgICAgICAgICAgICAuUEVSU09OX05JQ0VfU1VCX0NPREUgKyBwZXJzb25JZCk7CiAgICAgICAgTWFwIG5pY2VCeVBlcnNvbklkSW5EQkZvckFwcCA9IGZpbmROaWNlQnlQZXJzb25JZEluREJGb3JBcHAocGVyc29uSWQpOwoKICAgICAgICAvL+afpeivonBlcnNvbk5pY2UKICAgICAgICBTdHJpbmcgbmljZUlkID0gKFN0cmluZykgbmljZUJ5UGVyc29uSWRJbkRCRm9yQXBwLmdldChOaWNlRmllbGRzQ29uc3RlbnQuTklDRV9JRCk7CiAgICAgICAgY2FjaGVkS2V5ID0gS2V5S2l0LmZvcm1hdEtleShDYWNoZU1vZHVsZS5WUEZPUk0sIENhY2hlU2NvcGUuUEVSU0lTVEVOVCwgUmVkaXNLZXlDb25zdGFudC5OSUNFX0hBU0hfQ0FDSEVfQ09ERQogICAgICAgICAgICAgICAgKyBuaWNlSWQpOwogICAgICAgIHJlZGlzQ2xpZW50Lmhtc2V0KCk7</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTWFwIG5pY2VNYXAgPSBmaW5kQW5kVXBkYXRlTmljZTRBcHAobmljZUlkKTsKICAgICAgICAgICAgcmV0dXJuIChpbnQpIGFuZFVwZGF0ZU5pY2VDYWNoZS5nZXQoIm5pY2VPcmRlciIpOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyBNYXAgZmluZE5pY2VCeVBlcnNvbklkSW5EQkZvckFwcChTdHJpbmcgcGVyc29uSWQpIHRocm93cyBCYXNlRXhjZXB0aW9uIHsKICAgICAgICBsb2dnZXIuaW5mbygicGVyc29uSWQ6IiArIHBlcnNvbklkKTsKICAgICAgICBTdHJpbmcgY2FjaGVkS2V5ID0gS2V5S2l0LmZvcm1hdEtleShDYWNoZU1vZHVsZS5WUEZPUk0sIENhY2hlU2NvcGUuUEVSU0lTVEVOVCwgUmVkaXNLZXlDb25zdGFudAogICAgICAgICAgICAgICAgLk5JQ0VfSEFTSF9DQUNIRV9DT0RFICsgcGVyc29uSWQpOwoKICAgICAgICBTdHJpbmcgaGdldCA9IG51bGw7CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgTWFwIGdldE1hcCA9IHJlZGlzQ2xpZW50LmhnZXRBbGwoY2FjaGVkS2V5KTsKICAgICAgICAgICAgaWYoZ2V0TWFwID09IG51bGwpIHsKICAgICAgICAgICAgICAgIHJldHVybiBmaW5kQW5kVXBkYXRlTmljZUNhY2hlKHBlcnNvbklkLCBjYWNoZWRLZXkpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiBnZXRNYXA7CiAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgcmV0dXJuIGZpbmRBbmRVcGRhdGVOaWNlQ2FjaGUocGVyc29uSWQsIGNhY2hlZEtleSk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBudWxsOwogICAgfQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbmljZU1hcC5nZXQoIiIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kVXBkYQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmljZUFwcE1hcHBlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBNYXAgbWFwID0gbmV3IEhhc2hNYXAoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
