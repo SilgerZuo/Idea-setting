@@ -153,6 +153,9 @@
         <mark key="." line="32" column="42" />
         <mark key="^" line="36" column="37" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/coupon/CreateCouponEntity.java" timestamp="1510197893912">
+        <mark key="[" line="5" column="15" />
+      </file>
       <file name="$USER_HOME$/workspace/ideaProject/learn/bootdemo/src/test/java/com/verne/learnboot/bootdemo/TestJedis.java" timestamp="1509966605338">
         <mark key="[" line="17" column="68" />
         <mark key="]" line="17" column="68" />
@@ -226,11 +229,11 @@
         <mark key="." line="247" column="0" />
         <mark key="^" line="246" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/coupon/CouponEntity.java" timestamp="1510192368392">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="^" line="60" column="18" />
-        <mark key="." line="62" column="0" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/coupon/CouponEntity.java" timestamp="1510197572673">
+        <mark key="[" line="14" column="27" />
+        <mark key="]" line="14" column="26" />
+        <mark key="." line="14" column="26" />
+        <mark key="^" line="14" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/repository/driver/CarMapper.java" timestamp="1510124782684">
         <mark key="[" line="106" column="51" />
@@ -505,8 +508,8 @@
       <jump line="51" column="42" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/car/CarServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -518,31 +521,154 @@
         <text>carOwnerSubMap</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVmdW5kQ2hhcmdlcy5yCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnJlZnVuZGFibGUgPSByZWZ1bmRhYmxlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQmF0Y2hSZWZ1bmRDaGFyZ2VzCg==</text>
+        <text encoding="base64">ICAgIGVmdW5kYWJsZShib29sZWFuIHJlZnVuZGFibGUpIHsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ2hhcmdlLgo=</text>
+      <register name="4" type="4">
+        <text>/**
+     * 对应  app 对象的  id ，查看 如何获取App ID 。
+     */
+    private String APP_ID;
+    /**
+     * 优惠券模板的类型。值包括 &quot;1&quot;：现金券、&quot;2&quot;：折扣券。
+     */
+    private int type;
+    /**
+     * 优惠券模板名称，1~64 位。
+     */
+    private String name;
+    /**
+     * 折扣金额，现金券类型下必传。取值范围 1~1000000000。
+     */
+    private int amount_off;
+    /**
+     * 折扣券类型下的折扣百分比, 折扣券类型下生效。取值范围 1~100。例如值为 &quot;20&quot; 表示 8 折，值为 &quot;100&quot; 表示免费。
+
+     */
+    private int percent_off;
+    /**
+     * 订单金额大于等于该值时，优惠券有效（用于设置满减券）。取值范围 0~1000000000。默认值为 &quot;0&quot;，表示无限制。
+
+     */
+    private int amount_available;
+    /**
+     * 优惠券最大生成数量，当已生成数量达到最大值时，不能再生成优惠券。默认值为  null ，表示无限制。
+     */
+    private int max_circulation;
+    /**
+     * 详见 元数据 。
+     */
+    private Map metadata;
+    /**
+     * 通过该优惠券模板创建的优惠券有效期规则，详细请参考下方  expiration 参数说明。
+     * 可选参数：
+     *      time_start:优惠券可用的开始时间，用 Unix 时间戳表示。
+     *      time_end:优惠券可用的结束时间，用 Unix 时间戳表示。
+     *      duration:优惠券创建后的过期时间，单位为秒。不能和  time_start 、 time_end 同时使用。
+     */
+    private Map expiration;
+    /**
+     * 订单全额退款时是否退还优惠券。默认值为  true 。
+     */
+    private boolean refundable;
+
+    public String getAPP_ID() {
+        return APP_ID;
+    }
+
+    public void setAPP_ID(String APP_ID) {
+        this.APP_ID = APP_ID;
+    }
+
+    public int getType() {
+        return type;
+    }
+
+    public void setType(int type) {
+        this.type = type;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public int getAmount_off() {
+        return amount_off;
+    }
+
+    public void setAmount_off(int amount_off) {
+        this.amount_off = amount_off;
+    }
+
+    public int getPercent_off() {
+        return percent_off;
+    }
+
+    public void setPercent_off(int percent_off) {
+        this.percent_off = percent_off;
+    }
+
+    public int getAmount_available() {
+        return amount_available;
+    }
+
+    public void setAmount_available(int amount_available) {
+        this.amount_available = amount_available;
+    }
+
+    public int getMax_circulation() {
+        return max_circulation;
+    }
+
+    public void setMax_circulation(int max_circulation) {
+        this.max_circulation = max_circulation;
+    }
+
+    public Map getMetadata() {
+        return metadata;
+    }
+
+    public void setMetadata(Map metadata) {
+        this.metadata = metadata;
+    }
+
+    public Map getExpiration() {
+        return expiration;
+    }
+
+    public void setExpiration(Map expiration) {
+        this.expiration = expiration;
+    }
+
+    public boolean isRefundable() {
+        return refundable;
+    }
+
+    public void setR</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hhcmdlLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBDb3Vwb24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVmdW5kQ2hhcmdlcy5yCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBDb3Vwb24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgQmF0Y2hSZWZ1bmRDaGFyZ2VzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBDaGFyZ2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ2hhcmdlLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBDb3Vwb24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2hhcmdlLgo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
