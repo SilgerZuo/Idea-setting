@@ -38,12 +38,12 @@
         <mark key="." line="52" column="42" />
         <mark key="^" line="52" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/pingPP/OrderServiceImpl.java" timestamp="1510232176554">
-        <mark key="'" line="67" column="36" />
-        <mark key="[" line="57" column="55" />
-        <mark key="]" line="57" column="56" />
-        <mark key="^" line="57" column="14" />
-        <mark key="." line="57" column="56" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/pingPP/OrderServiceImpl.java" timestamp="1510233013670">
+        <mark key="'" line="70" column="36" />
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="^" line="70" column="43" />
+        <mark key="." line="84" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/notification/PushNotice2AppServiceImpl.java" timestamp="1510207389825">
         <mark key="[" line="93" column="0" />
@@ -482,7 +482,7 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1510231931278">
+      <file name="/fragment.java" timestamp="1510233127490">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -589,11 +589,11 @@
       <jump line="63" column="36" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/pingPP/OrderServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICItLS0tLUVORCBQUklWQVRFIEtFWS0tLS0tIjsK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>&quot;-----BEGIN PRIVATE KEY-----\n&quot; +</text>
       </register>
       <register name="/" type="4">
         <text>person</text>
@@ -602,31 +602,31 @@
         <text>carOwnerSubMap</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZXhlY3V0ZS50b1N0cmluZygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICItLS0tLUVORCBQUklWQVRFIEtFWS0tLS0tIjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJQaTRCdGZ4dEI5c1VlV3VvRDY1aGE1QUUrdGFmU1k1ZEo3bFRiM2svY3hhaFRsQ2ZMd3VEMy9MakprRFFJTmlyXG4iICsgIjVpVWdCZndveW9oWkIxQlkiOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZXhlY3V0ZS50b1N0cmluZygpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJKK2g1MmI2YW9WcCsrRXFpaThqV2FQOG1zSDdDczkwTTdId1BMVWFZUFlYaDY4MTF1cTB2RXJVQ1FRRGJmZFo5XG4iICsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJQaTRCdGZ4dEI5c1VlV3VvRDY1aGE1QUUrdGFmU1k1ZEo3bFRiM2svY3hhaFRsQ2ZMd3VEMy9MakprRFFJTmlyXG4iICsgIjVpVWdCZndveW9oWkIxQlkiOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJGYkcxWGpobTFnMlR5SUpqbGxtWWp1czdnQmNxRFFKQkFKZEpkS3BYUUtTR05jT3B4QS9vZUxmV1FUbzhZdlRvXG4iICsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJKK2g1MmI2YW9WcCsrRXFpaThqV2FQOG1zSDdDczkwTTdId1BMVWFZUFlYaDY4MTF1cTB2RXJVQ1FRRGJmZFo5XG4iICsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJEUkxscndKQVlOY2JKYVFrc1U3aU1jM3Q2ODJOOEpWMGxvbE15T3pOeFpzTWRFZHI3Zm9ZSXZNbUMxMWI5QVZ5XG4iICsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJGYkcxWGpobTFnMlR5SUpqbGxtWWp1czdnQmNxRFFKQkFKZEpkS3BYUUtTR05jT3B4QS9vZUxmV1FUbzhZdlRvXG4iICsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJURjIxblJjSkJxdnY0K284T2hPbDdjQlRlWHN5bm5DYkpzWFhhOC9yVkJaODZzVEFERkwvdjc2bHJWaU5HYUF2XG4iICsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJEUkxscndKQVlOY2JKYVFrc1U3aU1jM3Q2ODJOOEpWMGxvbE15T3pOeFpzTWRFZHI3Zm9ZSXZNbUMxMWI5QVZ5XG4iICsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJyNlppQThRT1RhRnhUZE9URU5mK25TSnZ1T2VuSEs1Vmw3YXAvbUxPVkk4RkFrRUEyOHN0T28zcVFJZWZpUXlLXG4iICsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJURjIxblJjSkJxdnY0K284T2hPbDdjQlRlWHN5bm5DYkpzWFhhOC9yVkJaODZzVEFERkwvdjc2bHJWaU5HYUF2XG4iICsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJrb1R5dm96U3lvRkc2KzN5MDJFQ1FRRGUwa0xKUkUwcUdxZEUrNHh1cHo0MHQ1UGsrMHNUeDBzSy85MmY0aGNsXG4iICsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJyNlppQThRT1RhRnhUZE9URU5mK25TSnZ1T2VuSEs1Vmw3YXAvbUxPVkk4RkFrRUEyOHN0T28zcVFJZWZpUXlLXG4iICsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICI3alhkSWNVM3FiellGWWFZcnYyRklvRlpyT2srRlZSMDBrYSsrYnhLOHhwcjl0a3V3YnhpZTFWV292T3Zmbm4rXG4iICsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJrb1R5dm96U3lvRkc2KzN5MDJFQ1FRRGUwa0xKUkUwcUdxZEUrNHh1cHo0MHQ1UGsrMHNUeDBzSy85MmY0aGNsXG4iICsK</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
