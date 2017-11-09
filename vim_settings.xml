@@ -6,7 +6,7 @@
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-match/src/main/resources/application.properties" timestamp="1509949677744">
         <mark key="[" line="5" column="23" />
       </file>
-      <file name="/a.dummy" timestamp="1509961730953">
+      <file name="/a.dummy" timestamp="1510192527710">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/notification/PushMessageToIOS.java" timestamp="1509436303536">
@@ -14,12 +14,6 @@
         <mark key="]" line="26" column="24" />
         <mark key="^" line="26" column="24" />
         <mark key="." line="26" column="24" />
-      </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/redisCache/RedisCacheServiceImpl.java" timestamp="1510122865363">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="255" column="0" />
-        <mark key="]" line="255" column="0" />
-        <mark key="." line="255" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/api/redisCache.js" timestamp="1510045741026">
         <mark key="[" line="64" column="1" />
@@ -82,11 +76,11 @@
         <mark key="^" line="24" column="30" />
         <mark key="." line="24" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/nice/NiceServiceImpl.java" timestamp="1510108195256">
-        <mark key="'" line="45" column="0" />
-        <mark key="[" line="70" column="78" />
-        <mark key="]" line="79" column="0" />
-        <mark key="." line="79" column="0" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/driver/CarOwnerService.java" timestamp="1510191707680">
+        <mark key="[" line="112" column="6" />
+        <mark key="]" line="112" column="5" />
+        <mark key="^" line="112" column="5" />
+        <mark key="." line="112" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/router/index.js" timestamp="1509179170608">
         <mark key="[" line="171" column="15" />
@@ -131,11 +125,10 @@
         <mark key="^" line="14" column="25" />
         <mark key="." line="14" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/car/CarOwnerServiceImpl.java" timestamp="1510127529017">
-        <mark key="[" line="177" column="12" />
-        <mark key="]" line="177" column="12" />
-        <mark key="." line="177" column="12" />
-        <mark key="^" line="183" column="38" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/car/CarOwnerServiceImpl.java" timestamp="1510193170641">
+        <mark key="[" line="172" column="0" />
+        <mark key="]" line="172" column="0" />
+        <mark key="." line="172" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/constant/TagIdConstant.java" timestamp="1509702417978">
         <mark key="[" line="93" column="52" />
@@ -228,6 +221,12 @@
         <mark key="." line="247" column="0" />
         <mark key="^" line="246" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/coupon/CouponEntity.java" timestamp="1510192368392">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="^" line="60" column="18" />
+        <mark key="." line="62" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/repository/driver/CarMapper.java" timestamp="1510124782684">
         <mark key="[" line="106" column="51" />
         <mark key="]" line="106" column="51" />
@@ -264,12 +263,24 @@
         <mark key="^" line="22" column="24" />
         <mark key="." line="22" column="24" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/coupon/QueryCouponListEntity.java" timestamp="1510192918654">
+        <mark key="[" line="22" column="6" />
+        <mark key="]" line="18" column="7" />
+        <mark key="^" line="18" column="4" />
+        <mark key="." line="18" column="7" />
+      </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/constant/redis/RedisCacheTimeConstant.java" timestamp="1510119801604">
         <mark key="'" line="12" column="13" />
         <mark key="[" line="52" column="25" />
         <mark key="]" line="48" column="30" />
         <mark key="^" line="48" column="30" />
         <mark key="." line="48" column="30" />
+      </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/coupon/QueryCoupon.java" timestamp="1510192437575">
+        <mark key="[" line="18" column="19" />
+        <mark key="]" line="18" column="19" />
+        <mark key="^" line="18" column="18" />
+        <mark key="." line="18" column="19" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1510043874775">
         <mark key="[" line="0" column="0" />
@@ -357,6 +368,9 @@
         <mark key="]" line="174" column="11" />
         <mark key="." line="174" column="11" />
         <mark key="^" line="174" column="11" />
+      </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/pom.xml" timestamp="1510193107680">
+        <mark key="[" line="54" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/authentication/platformAuthentication-mapper.xml" timestamp="1510131826384">
         <mark key="[" line="160" column="64" />
@@ -486,10 +500,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBDb3Vwb24K</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>person</text>
@@ -498,31 +512,109 @@
         <text>carOwnerSubMap</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBDb3Vwb24K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4K</text>
+      <register name="3" type="4">
+        <text>public String getAPP_ID() {
+        return APP_ID;
+    }
+
+    public void setAPP_ID(String APP_ID) {
+        this.APP_ID = APP_ID;
+    }
+
+    public String getType() {
+        return type;
+    }
+
+    public void setType(String type) {
+        this.type = type;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public String getAmount_off() {
+        return amount_off;
+    }
+
+    public void setAmount_off(String amount_off) {
+        this.amount_off = amount_off;
+    }
+
+    public String getPercent_off() {
+        return percent_off;
+    }
+
+    public void setPercent_off(String percent_off) {
+        this.percent_off = percent_off;
+    }
+
+    public String getAmount_available() {
+        return amount_available;
+    }
+
+    public void setAmount_available(String amount_available) {
+        this.amount_available = amount_available;
+    }
+
+    public String getMax_circulation() {
+        return max_circulation;
+    }
+
+    public void setMax_circulation(String max_circulation) {
+        this.max_circulation = max_circulation;
+    }
+
+    public String getAmounmetadatat_off() {
+        return amounmetadatat_off;
+    }
+
+    public void setAmounmetadatat_off(String amounmetadatat_off) {
+        this.amounmetadatat_off = amounmetadatat_off;
+    }
+
+    public String getExpiration() {
+        return expiration;
+    }
+
+    public void setExpiration(String expiration) {
+        this.expiration = expiration;
+    }
+
+    public String getRefundable() {
+        return refundable;
+    }
+
+    public void setRefundable(String refundable) {
+        this.refundable = refundable;
+    }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGFtb3VudF9vZmY7CiAgICBwcml2YXRlIFN0cmluZyBhbW91bnRfb2ZmOwogICAgcHJpdmF0ZSBTdHJpbmcgYW1vdW50X29mZjsKICAgIHByaXZhdGUgU3RyaW5nIGFtb3VudF9vZmY7Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
