@@ -27,6 +27,11 @@
         <mark key="^" line="33" column="11" />
         <mark key="." line="35" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/ping++/pingpp-java/example/src/main/java/com/pingxx/example/ChargeExample.java" timestamp="1510195903012">
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="87" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/portal/AppMessagePush.java" timestamp="1509444397725">
         <mark key="[" line="65" column="16" />
         <mark key="]" line="52" column="42" />
@@ -313,7 +318,7 @@
         <mark key="^" line="42" column="6" />
         <mark key="." line="42" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510129732864">
+      <file name="/Dummy.txt" timestamp="1510195773562">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/nice/PersonNiceFieldsConstent.java" timestamp="1510048591036">
@@ -501,7 +506,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBDb3Vwb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -513,109 +518,31 @@
         <text>carOwnerSubMap</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBDb3Vwb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBDb3Vwb24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVmdW5kQ2hhcmdlcy5yCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBDaGFyZ2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQmF0Y2hSZWZ1bmRDaGFyZ2VzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBDb3Vwb24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ2hhcmdlLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2hhcmdlLgo=</text>
       </register>
-      <register name="6" type="4">
-        <text>public String getAPP_ID() {
-        return APP_ID;
-    }
-
-    public void setAPP_ID(String APP_ID) {
-        this.APP_ID = APP_ID;
-    }
-
-    public String getType() {
-        return type;
-    }
-
-    public void setType(String type) {
-        this.type = type;
-    }
-
-    public String getName() {
-        return name;
-    }
-
-    public void setName(String name) {
-        this.name = name;
-    }
-
-    public String getAmount_off() {
-        return amount_off;
-    }
-
-    public void setAmount_off(String amount_off) {
-        this.amount_off = amount_off;
-    }
-
-    public String getPercent_off() {
-        return percent_off;
-    }
-
-    public void setPercent_off(String percent_off) {
-        this.percent_off = percent_off;
-    }
-
-    public String getAmount_available() {
-        return amount_available;
-    }
-
-    public void setAmount_available(String amount_available) {
-        this.amount_available = amount_available;
-    }
-
-    public String getMax_circulation() {
-        return max_circulation;
-    }
-
-    public void setMax_circulation(String max_circulation) {
-        this.max_circulation = max_circulation;
-    }
-
-    public String getAmounmetadatat_off() {
-        return amounmetadatat_off;
-    }
-
-    public void setAmounmetadatat_off(String amounmetadatat_off) {
-        this.amounmetadatat_off = amounmetadatat_off;
-    }
-
-    public String getExpiration() {
-        return expiration;
-    }
-
-    public void setExpiration(String expiration) {
-        this.expiration = expiration;
-    }
-
-    public String getRefundable() {
-        return refundable;
-    }
-
-    public void setRefundable(String refundable) {
-        this.refundable = refundable;
-    }</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBDb3Vwb24K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBDb3Vwb24K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGFtb3VudF9vZmY7CiAgICBwcml2YXRlIFN0cmluZyBhbW91bnRfb2ZmOwogICAgcHJpdmF0ZSBTdHJpbmcgYW1vdW50X29mZjsKICAgIHByaXZhdGUgU3RyaW5nIGFtb3VudF9vZmY7Cgo=</text>
+        <text encoding="base64">ICAgICAgICBDaGFyZ2UK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBDb3Vwb24K</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
