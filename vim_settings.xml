@@ -40,11 +40,10 @@
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-utils/src/main/java/com/mvcc/util/RedisUtil.java" timestamp="1510214365189">
         <mark key="[" line="22" column="50" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/ping++/pingpp-java/example/src/main/java/com/pingxx/example/ChargeExample.java" timestamp="1510292159776">
-        <mark key="[" line="140" column="0" />
-        <mark key="]" line="140" column="0" />
-        <mark key="." line="140" column="0" />
-        <mark key="^" line="140" column="7" />
+      <file name="$USER_HOME$/workspace/ideaProject/ping++/pingpp-java/example/src/main/java/com/pingxx/example/ChargeExample.java" timestamp="1510294849670">
+        <mark key="[" line="51" column="46" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/portal/AppMessagePush.java" timestamp="1509444397725">
         <mark key="[" line="65" column="16" />
@@ -150,6 +149,9 @@
         <mark key="]" line="19" column="15" />
         <mark key="." line="19" column="15" />
         <mark key="^" line="19" column="15" />
+      </file>
+      <file name="$USER_HOME$/workspace/ideaProject/ping++/pingpp-java/pom.xml" timestamp="1510294766946">
+        <mark key="[" line="28" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/constant/CarOwnerConstant.java" timestamp="1509699209695">
         <mark key="[" line="18" column="29" />
@@ -404,7 +406,6 @@
         <mark key="." line="23" column="31" />
         <mark key="^" line="23" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/pom.xml" timestamp="1510294570434" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/app/portal/LoginAppController.java" timestamp="1510107241116">
         <mark key="[" line="174" column="50" />
         <mark key="]" line="174" column="11" />
@@ -434,6 +435,11 @@
         <mark key="]" line="77" column="17" />
         <mark key="^" line="77" column="17" />
         <mark key="." line="77" column="17" />
+      </file>
+      <file name="$USER_HOME$/workspace/ideaProject/ping++/pingpp-java/example/src/main/java/com/pingxx/example/EventExample.java" timestamp="1510294694829">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/coupon/CouponsEntity.java" timestamp="1510206318130">
         <mark key="[" line="50" column="24" />
@@ -548,7 +554,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBPcmRlci5jcgo=</text>
+        <text encoding="base64">ICAgICAgICBPcmRlcgo=</text>
       </register>
       <register name="-" type="4">
         <text>c2tfdGVzdF81cVBlbkhPaTU0dTl2blRhZjUxS1M4aUg6</text>
@@ -560,74 +566,31 @@
         <text>carOwnerSubMap</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBPcmRlci5jcgo=</text>
+        <text encoding="base64">ICAgICAgICBPcmRlcgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTb2xyUXVlcnkuTwo=</text>
+        <text encoding="base64">ICAgICAgICBPcmRlcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBPcmRlcgo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBPcmRlcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFyZ2Uuc2V0Qm9keSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBPcmRlci5jcgo=</text>
       </register>
-      <register name="6" type="4">
-        <text>-----BEGIN PRIVATE KEY-----\n&quot; +
-                &quot;MIICdgIBADANBgkqhkiG9w0BAQEFAASCAmAwggJcAgEAAoGBANKrsbSlcmknGAfE\n&quot; +
-                &quot;h7cxizjUF3ZVt2P1ob3iTBfXXJ1VZVe1xCNkLcxLENUTUd3cvSvO7HnlfdfwZaD0\n&quot; +
-                &quot;sV7PTYdPnDezvp88cCA3VU+MZHMEfjprpKe8Z8KBBd/BKS9rXviCPPPui9c9v2AW\n&quot; +
-                &quot;ee+PGU/7wrH8d3bHjL9CsYPW32OdAgMBAAECgYAFcTQFA6Uh/EWNpdEPtXLwQ+Jb\n&quot; +
-                &quot;RzmWlnjYK+llUEXvNo6IpoRrmaHpPiMwLfCWd6ZXZGANghUvJ+GoN8oBNf+9rA/f\n&quot; +
-                &quot;972/b17SyVrYKN0OG3V4wuxBBND5FenyUY9FPNzEKfswX56cYpGH2wUumHEOIfeV\n&quot; +
-                &quot;XTVyzhs0uhc/g1zGbQJBAP341ZDClUiFKlMBrq2DlXZPeX/ZzSIbtIidy0n4EZa0\n&quot; +
-                &quot;/Fv7XkDIS4cJrrgRPI81YvDWkvKKdQiLoXwnXPtvUnsCQQDUWlgQRwNIGmrAPjrY\n&quot; +
-                &quot;8t0s3dKNlfBd0GEAkSyVMZnNtSuq90lYom4MnDmtfJDiAN8gvVjVLnqhhD3JkVGO\n&quot; +
-                &quot;uvLHAkEA0rxjGZccH+y/TdkbhEanAmC3xGqJWD/88U9dm6cHkTHkJL7TWpXYddiG\n&quot; +
-                &quot;7Zz/zyTRUF372N0id1DFUiunb8rTeQJAe1q3yUzXFS1zUZVUre32mTeKNgEhjf2c\n&quot; +
-                &quot;O64ZTdlwVNSnNztK+hfxAZZG0waHSyHie6xCTCQhzG17TvoBfH4QxQJAQnIU6wTD\n&quot; +
-                &quot;9p6OfAh4LOi450bQyeFZ2xKtAcOG6ejksBrv8npPXN3IY2MTEBB59ZY7hZb7TvCe\n&quot; + &quot;grM25xlq8mavgw==\n&quot; +
-                &quot;-----END PRIVATE KEY-----&quot;;</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBTb2xyUXVlcnkuTwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBk562+5ZCNCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>String requestTime = Integer.valueOf((int) (System.currentTimeMillis() / 1000)).toString(); // 请求时间
-        String requestBody = body;
-        String requestUri = uri; // 请求 URI（包括 URL 参数）
-        String data = requestBody + requestUri + requestTime; // 拼接待签名字符串
-
-        String PEMEncodedPrivateKey = &quot;-----BEGIN PRIVATE KEY-----\n&quot; +
-                &quot;MIICdgIBADANBgkqhkiG9w0BAQEFAASCAmAwggJcAgEAAoGBANKrsbSlcmknGAfE\n&quot; +
-                &quot;h7cxizjUF3ZVt2P1ob3iTBfXXJ1VZVe1xCNkLcxLENUTUd3cvSvO7HnlfdfwZaD0\n&quot; +
-                &quot;sV7PTYdPnDezvp88cCA3VU+MZHMEfjprpKe8Z8KBBd/BKS9rXviCPPPui9c9v2AW\n&quot; +
-                &quot;ee+PGU/7wrH8d3bHjL9CsYPW32OdAgMBAAECgYAFcTQFA6Uh/EWNpdEPtXLwQ+Jb\n&quot; +
-                &quot;RzmWlnjYK+llUEXvNo6IpoRrmaHpPiMwLfCWd6ZXZGANghUvJ+GoN8oBNf+9rA/f\n&quot; +
-                &quot;972/b17SyVrYKN0OG3V4wuxBBND5FenyUY9FPNzEKfswX56cYpGH2wUumHEOIfeV\n&quot; +
-                &quot;XTVyzhs0uhc/g1zGbQJBAP341ZDClUiFKlMBrq2DlXZPeX/ZzSIbtIidy0n4EZa0\n&quot; +
-                &quot;/Fv7XkDIS4cJrrgRPI81YvDWkvKKdQiLoXwnXPtvUnsCQQDUWlgQRwNIGmrAPjrY\n&quot; +
-                &quot;8t0s3dKNlfBd0GEAkSyVMZnNtSuq90lYom4MnDmtfJDiAN8gvVjVLnqhhD3JkVGO\n&quot; +
-                &quot;uvLHAkEA0rxjGZccH+y/TdkbhEanAmC3xGqJWD/88U9dm6cHkTHkJL7TWpXYddiG\n&quot; +
-                &quot;7Zz/zyTRUF372N0id1DFUiunb8rTeQJAe1q3yUzXFS1zUZVUre32mTeKNgEhjf2c\n&quot; +
-                &quot;O64ZTdlwVNSnNztK+hfxAZZG0waHSyHie6xCTCQhzG17TvoBfH4QxQJAQnIU6wTD\n&quot; +
-                &quot;9p6OfAh4LOi450bQyeFZ2xKtAcOG6ejksBrv8npPXN3IY2MTEBB59ZY7hZb7TvCe\n&quot; + &quot;grM25xlq8mavgw==\n&quot; +
-                &quot;-----END PRIVATE KEY-----&quot;;
-        PEMEncodedPrivateKey = PEMEncodedPrivateKey.replaceAll(&quot;(-+BEGIN (RSA )?PRIVATE KEY-+\\r?\\n|-+END (RSA )?PRIVATE KEY-+\\r?\\n?)&quot;, &quot;&quot;);
-        byte[] privateKeyBytes = Base64.decodeBase64(PEMEncodedPrivateKey);
-        PKCS8EncodedKeySpec keySpec = new PKCS8EncodedKeySpec(privateKeyBytes);
-        KeyFactory kf = KeyFactory.getInstance(&quot;RSA&quot;);
-        PrivateKey privateKey = kf.generatePrivate(keySpec);
-        Signature signature = Signature.getInstance(&quot;SHA256withRSA&quot;);
-        signature.initSign(privateKey);
-        signature.update(data.getBytes(&quot;UTF-8&quot;));
-        byte[] signBytes = signature.sign();
-        String signatureString = Base64.encodeBase64String(signBytes).replaceAll(&quot;\n|\r&quot;, &quot;&quot;); // 生成的</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBPcmRlcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJNSUlDWEFJQkFBS0JnUURTcTdHMHBYSnBKeGdIeEllM01ZczQxQmQyVmJkajlhRzk0a3dYMTF5ZFZXVlh0Y1FqXG4iICsKICAgICAgICAgICAgICAgICJaQzNNU3hEVkUxSGQzTDByenV4NTVYM1g4R1dnOUxGZXowMkhUNXczczc2ZlBIQWdOMVZQakdSekJINDZhNlNuXG4iICsKICAgICAgICAgICAgICAgICJ2R2ZDZ1FYZndTa3ZhMTc0Z2p6ejdvdlhQYjlnRm5udmp4bFArOEt4L0hkMng0eS9RckdEMXQ5am5RSURBUUFCXG4iICsKICAgICAgICAgICAgICAgICJBb0dBQlhFMEJRT2xJZnhGamFYUkQ3Vnk4RVBpVzBjNWxwWjQyQ3ZwWlZCRjd6YU9pS2FFYTVtaDZUNGpNQzN3XG4iICsKICAgICAgICAgICAgICAgICJsbmVtVjJSZ0RZSVZMeWZocURmS0FUWC92YXdQMy9lOXYyOWUwc2xhMkNqZERodDFlTUxzUVFUUStSWHA4bEdQXG4iICsKICAgICAgICAgICAgICAgICJSVHpjeENuN01GK2VuR0tSaDlzRkxwaHhEaUgzbFYwMWNzNGJOTG9YUDROY3htMENRUUQ5K05XUXdwVkloU3BUXG4iICsKICAgICAgICAgICAgICAgICJBYTZ0ZzVWMlQzbC8yYzBpRzdTSW5jdEorQkdXdFB4YisxNUF5RXVIQ2E2NEVUeVBOV0x3MXBMeWluVUlpNkY4XG4iICsKICAgICAgICAgICAgICAgICJKMXo3YjFKN0FrRUExRnBZRUVjRFNCcHF3RDQ2MlBMZExOM1NqWlh3WGRCaEFKRXNsVEdaemJVcnF2ZEpXS0p1XG4iICsKICAgICAgICAgICAgICAgICJESnc1clh5UTRnRGZJTDFZMVM1Nm9ZUTl5WkZSanJyeXh3SkJBTks4WXhtWEhCL3N2MDNaRzRSR3B3Smd0OFJxXG4iICsKICAgICAgICAgICAgICAgICJpVmcvL1BGUFhadW5CNUV4NUNTKzAxcVYySFhZaHUyYy84OGswVkJkKzlqZEluZFF4VklycDIvSzAza0NRSHRhXG4iICsKICAgICAgICAgICAgICAgICJ0OGxNMXhVdGMxR1ZWSzN0OXBrM2lqWUJJWTM5bkR1dUdVM1pjRlRVcHpjN1N2b1g4UUdXUnRNR2gwc2g0bnVzXG4iICsKICAgICAgICAgICAgICAgICJRa3drSWN4dGUwNzZBWHgrRU1VQ1FFSnlGT3NFdy9hZWpud0llQ3pvdU9kRzBNbmhXZHNTclFIRGh1bm81TEFhXG4iICsKICAgICAgICAgICAgICAgICI3L0o2VDF6ZHlHTmpFeEFRZWZXV080V1crMDd3bm9Lek51Y1phdkptcjRNPVxuIiArICItLS0tLUVORCBSU0EgUFJJVkFURSBLRVktLS0tLSI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjaGFyZ2Uuc2V0Qm9keSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
