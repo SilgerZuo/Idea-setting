@@ -43,7 +43,7 @@
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-utils/src/main/java/com/mvcc/util/RedisUtil.java" timestamp="1510214365189">
         <mark key="[" line="22" column="50" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/ping++/pingpp-java/example/src/main/java/com/pingxx/example/ChargeExample.java" timestamp="1510294849670">
+      <file name="$USER_HOME$/workspace/ideaProject/ping++/pingpp-java/example/src/main/java/com/pingxx/example/ChargeExample.java" timestamp="1510372630000">
         <mark key="[" line="51" column="46" />
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
@@ -356,6 +356,7 @@
         <mark key="^" line="41" column="7" />
         <mark key="." line="41" column="7" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/ping++/pingpp-java/src/main/java/com/pingplusplus/model/Charge.java" timestamp="1510372647029" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/nice/personNiceSub.java" timestamp="1509961700083">
         <mark key="[" line="25" column="26" />
         <mark key="]" line="35" column="15" />
@@ -557,7 +558,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBDb3Vwb25UZW1wbGF0ZSBvYmogPSBDb3Vwb25UZW1wbGF0ZS5jcmVhdGUocGFyYW1zKTsK</text>
+        <text encoding="base64">ICAgICAgICBDaGFyZ2UK</text>
       </register>
       <register name="-" type="4">
         <text>c2tfdGVzdF81cVBlbkhPaTU0dTl2blRhZjUxS1M4aUg6</text>
@@ -569,25 +570,25 @@
         <text>carOwnerSubMap</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBDb3Vwb25UZW1wbGF0ZSBvYmogPSBDb3Vwb25UZW1wbGF0ZS5jcmVhdGUocGFyYW1zKTsK</text>
+        <text encoding="base64">ICAgICAgICBDaGFyZ2UK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBDb3Vwb25UZW1wbGF0ZSBvYmogPSBDb3Vwb25UZW1wbGF0ZS5jcmVhdGUocGFyYW1zKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBTb3J0Lk9yZGVyCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAgIDxyZXBvc2l0b3J5PgogICAgICAgIDxzbmFwc2hvdHM+CiAgICAgICAgICAgIDxlbmFibGVkPmZhbHNlPC9lbmFibGVkPgogICAgICAgIDwvc25hcHNob3RzPgogICAgICAgIDxpZD5jZW50cmFsPC9pZD4KICAgICAgICA8bmFtZT5iaW50cmF5PC9uYW1lPgogICAgICAgIDx1cmw+aHR0cDovL2pjZW50ZXIuYmludHJheS5jb208L3VybD4KICAgIDwvcmVwb3NpdG9yeT4=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBPcmRlcmQK</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBPcmRlcmQK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
