@@ -59,10 +59,10 @@
         <mark key="]" line="3" column="14" />
         <mark key="." line="3" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/pingPP/OrderServiceImpl.java" timestamp="1510369522331">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/pingPP/OrderServiceImpl.java" timestamp="1510372348930">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/page/PlatformAuthenticationPage.java" timestamp="1509699644265">
         <mark key="[" line="32" column="7" />
@@ -339,7 +339,7 @@
         <mark key="^" line="42" column="6" />
         <mark key="." line="42" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510293923242">
+      <file name="/Dummy.txt" timestamp="1510372547521">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -421,7 +421,6 @@
         <mark key="^" line="160" column="66" />
         <mark key="." line="160" column="66" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/driver/carOwnerDetail.vue" timestamp="1510369510524" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/config/dev.env.js" timestamp="1509179945942">
         <mark key="[" line="5" column="31" />
         <mark key="]" line="5" column="31" />
@@ -558,7 +557,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBDb3Vwb25UZW1wbGF0ZSBvYmogPSBDb3Vwb25UZW1wbGF0ZS5jcmVhdGUocGFyYW1zKTsK</text>
       </register>
       <register name="-" type="4">
         <text>c2tfdGVzdF81cVBlbkhPaTU0dTl2blRhZjUxS1M4aUg6</text>
@@ -570,31 +569,31 @@
         <text>carOwnerSubMap</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBDb3Vwb25UZW1wbGF0ZSBvYmogPSBDb3Vwb25UZW1wbGF0ZS5jcmVhdGUocGFyYW1zKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTb3J0Lk9yZGVyCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIDxyZXBvc2l0b3J5PgogICAgICAgIDxzbmFwc2hvdHM+CiAgICAgICAgICAgIDxlbmFibGVkPmZhbHNlPC9lbmFibGVkPgogICAgICAgIDwvc25hcHNob3RzPgogICAgICAgIDxpZD5jZW50cmFsPC9pZD4KICAgICAgICA8bmFtZT5iaW50cmF5PC9uYW1lPgogICAgICAgIDx1cmw+aHR0cDovL2pjZW50ZXIuYmludHJheS5jb208L3VybD4KICAgIDwvcmVwb3NpdG9yeT4=</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBPcmRlcmQK</text>
+        <text encoding="base64">ICAgICAgICBTb3J0Lk9yZGVyCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgIDxyZXBvc2l0b3J5PgogICAgICAgIDxzbmFwc2hvdHM+CiAgICAgICAgICAgIDxlbmFibGVkPmZhbHNlPC9lbmFibGVkPgogICAgICAgIDwvc25hcHNob3RzPgogICAgICAgIDxpZD5jZW50cmFsPC9pZD4KICAgICAgICA8bmFtZT5iaW50cmF5PC9uYW1lPgogICAgICAgIDx1cmw+aHR0cDovL2pjZW50ZXIuYmludHJheS5jb208L3VybD4KICAgIDwvcmVwb3NpdG9yeT4=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBPcmRlcmQK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBPcmRlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBPcmRlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
