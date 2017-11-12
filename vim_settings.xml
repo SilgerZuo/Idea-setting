@@ -226,11 +226,11 @@
         <mark key="^" line="16" column="16" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/authentication/PlatformAuthenticationServiceImpl.java" timestamp="1510486762052">
-        <mark key="[" line="80" column="40" />
-        <mark key="]" line="80" column="40" />
-        <mark key="." line="80" column="40" />
-        <mark key="^" line="82" column="69" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/authentication/PlatformAuthenticationServiceImpl.java" timestamp="1510489096255">
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
+        <mark key="^" line="77" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/portal/PushNotice2AppService.java" timestamp="1509699824796">
         <mark key="[" line="16" column="18" />
@@ -338,8 +338,8 @@
         <mark key="^" line="42" column="6" />
         <mark key="." line="42" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510486920346">
-        <mark key="[" line="0" column="1" />
+      <file name="/Dummy.txt" timestamp="1510489097227">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
@@ -402,6 +402,12 @@
         <mark key="^" line="14" column="43" />
         <mark key="." line="14" column="43" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-utils/src/main/java/com/mvcc/util/List2StringUtil.java" timestamp="1510488757069">
+        <mark key="[" line="23" column="9" />
+        <mark key="]" line="21" column="48" />
+        <mark key="." line="21" column="48" />
+        <mark key="^" line="21" column="48" />
+      </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/nice/niceApp-mapper.xml" timestamp="1510212157372">
         <mark key="[" line="6" column="70" />
         <mark key="]" line="23" column="31" />
@@ -414,12 +420,13 @@
         <mark key="." line="174" column="11" />
         <mark key="^" line="174" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/authentication/platformAuthentication-mapper.xml" timestamp="1510487029399">
-        <mark key="[" line="74" column="92" />
-        <mark key="]" line="74" column="92" />
-        <mark key="^" line="74" column="91" />
-        <mark key="." line="74" column="92" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/authentication/platformAuthentication-mapper.xml" timestamp="1510489076850">
+        <mark key="[" line="152" column="68" />
+        <mark key="]" line="152" column="67" />
+        <mark key="^" line="152" column="67" />
+        <mark key="." line="152" column="67" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/MQMessage/platformAuthentication/ExportPlatToExcel.java" timestamp="1510489115319" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/config/dev.env.js" timestamp="1509179945942">
         <mark key="[" line="5" column="31" />
         <mark key="]" line="5" column="31" />
@@ -561,8 +568,8 @@
       <jump line="63" column="36" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/pingPP/OrderServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>. fix vue compile bugs for es6 check</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>. fix vue compile bugs for es6 check</text>
@@ -574,31 +581,31 @@
         <text>carOwnerSubMap</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yKE9iamVjdCByb2xlTmFtZSA6IHJvbGVOYW1lcykgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFwLnB1dCgicm9sZU5hbWUiLCIiKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgU3RyaW5nIHRtcFJvbGVOYW1lID0gbmV3IFN0cmluZygpOwogICAgICAgICAgICAgICAgICAgIG1hcC5wdXQoInJvbGVOYW1lIiwgbWFwLmdldCgicm9sZU5hbWUiKSArICIsIiArIHRtcFJvbGVOYW1lKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8cmVzdWx0IHByb3BlcnR5PSJwbGF0Zm9ybUF1dGhlbnRpY2F0aW9uSWQiIGNvbHVtbj0icGxhdGZvcm1BdXRoZW50aWNhdGlvbklkIiBqYXZhVHlwZT0ic3RyaW5nIi8+Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHRtcFJvbGVOYW1lID0gbmV3IFN0cmluZygpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTGlzdCByb2xlTmFtZXMgPSAoTGlzdCkgbWFwLmdldCgicm9sZU5hbWVzIik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
