@@ -105,11 +105,11 @@
         <mark key="^" line="112" column="5" />
         <mark key="." line="112" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/nice/NiceServiceImpl.java" timestamp="1510492305855">
-        <mark key="[" line="167" column="11" />
-        <mark key="]" line="167" column="14" />
-        <mark key="." line="167" column="14" />
-        <mark key="^" line="167" column="14" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/nice/NiceServiceImpl.java" timestamp="1510537789687">
+        <mark key="[" line="213" column="15" />
+        <mark key="]" line="213" column="14" />
+        <mark key="." line="213" column="14" />
+        <mark key="^" line="213" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/router/index.js" timestamp="1509179170608">
         <mark key="[" line="171" column="15" />
@@ -579,8 +579,8 @@
       <jump line="63" column="36" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/pingPP/OrderServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1. fix vue compile bugs for es6 check</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>1. fix vue compile bugs for es6 check</text>
@@ -592,31 +592,31 @@
         <text>carOwnerSubMap</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gIGZpbmRBbmRVcGRhdGVOaWNlNEFwcChuaWNlSWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgbmljZUlkID0gKFN0cmluZylwZXJzb25OaWNlTWFwLmdldChOaWNlRmllbGRzQ29uc3RlbnQuTklDRV9JRCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvL+eNsuW+l25pY2VJRAo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBNYXAgcGVyc29uTmljZU1hcCA9IGZpbmRBbmRVcGRhdGVQZXJzb25OaWNlNEFwcChwZXJzb25JZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gIGZpbmRBbmRVcGRhdGVOaWNlNEFwcChuaWNlSWQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBNYXAgZmluZE9ubHlOaWNlQnlQZXJzb25JZEZvckFwcChTdHJpbmcgcGVyc29uSWQpIHRocm93cyBCYXNlRXhjZXB0aW9uIHsK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgbmljZUlkID0gKFN0cmluZylwZXJzb25OaWNlTWFwLmdldChOaWNlRmllbGRzQ29uc3RlbnQuTklDRV9JRCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+        <text encoding="base64">ICAgICAgICAvL+eNsuW+l25pY2VJRAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBNYXAgcGVyc29uTmljZU1hcCA9IGZpbmRBbmRVcGRhdGVQZXJzb25OaWNlNEFwcChwZXJzb25JZCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFwLnB1dCgicm9sZU5hbWUiLCIiKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBNYXAgZmluZE9ubHlOaWNlQnlQZXJzb25JZEZvckFwcChTdHJpbmcgcGVyc29uSWQpIHRocm93cyBCYXNlRXhjZXB0aW9uIHsK</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
