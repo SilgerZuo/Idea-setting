@@ -105,12 +105,7 @@
         <mark key="^" line="112" column="5" />
         <mark key="." line="112" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/nice/NiceServiceImpl.java" timestamp="1510538083455">
-        <mark key="[" line="213" column="48" />
-        <mark key="]" line="69" column="56" />
-        <mark key="." line="69" column="56" />
-        <mark key="^" line="69" column="56" />
-      </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/nice/NiceServiceImpl.java" timestamp="1510551707536" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/router/index.js" timestamp="1509179170608">
         <mark key="[" line="171" column="15" />
         <mark key="]" line="171" column="15" />
@@ -344,7 +339,7 @@
         <mark key="^" line="42" column="6" />
         <mark key="." line="42" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510539808711">
+      <file name="/Dummy.txt" timestamp="1510551607671">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -438,7 +433,6 @@
         <mark key="^" line="56" column="111" />
         <mark key="." line="56" column="111" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/api/account.js" timestamp="1510539801784" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/config/dev.env.js" timestamp="1509179945942">
         <mark key="[" line="5" column="31" />
         <mark key="]" line="5" column="31" />
@@ -580,11 +574,11 @@
       <jump line="63" column="36" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/pingPP/OrderServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmdVdGlsLgo=</text>
+      <register name="&quot;" type="4">
+        <text>1. 增加直接redis查询niceOrder的接口</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>1. 增加直接redis查询niceOrder的接口</text>
       </register>
       <register name="/" type="4">
         <text>person</text>
