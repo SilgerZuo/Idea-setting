@@ -40,8 +40,11 @@
         <mark key="^" line="66" column="33" />
         <mark key="." line="66" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-utils/src/main/java/com/mvcc/util/RedisUtil.java" timestamp="1510214365189">
-        <mark key="[" line="22" column="50" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-utils/src/main/java/com/mvcc/util/RedisUtil.java" timestamp="1510573303388">
+        <mark key="[" line="23" column="48" />
+        <mark key="]" line="23" column="48" />
+        <mark key="^" line="23" column="69" />
+        <mark key="." line="23" column="48" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/ping++/pingpp-java/example/src/main/java/com/pingxx/example/ChargeExample.java" timestamp="1510372630000">
         <mark key="[" line="51" column="46" />
@@ -106,12 +109,12 @@
         <mark key="^" line="112" column="5" />
         <mark key="." line="112" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/nice/NiceServiceImpl.java" timestamp="1510571226410">
-        <mark key="'" line="190" column="26" />
-        <mark key="[" line="191" column="24" />
-        <mark key="]" line="190" column="56" />
-        <mark key="." line="190" column="56" />
-        <mark key="^" line="190" column="56" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/nice/NiceServiceImpl.java" timestamp="1510572803385">
+        <mark key="'" line="185" column="26" />
+        <mark key="[" line="161" column="0" />
+        <mark key="]" line="161" column="0" />
+        <mark key="^" line="197" column="12" />
+        <mark key="." line="161" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/router/index.js" timestamp="1509179170608">
         <mark key="[" line="171" column="15" />
@@ -234,7 +237,7 @@
         <mark key="^" line="16" column="16" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/authentication/PlatformAuthenticationServiceImpl.java" timestamp="1510543715981">
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/authentication/PlatformAuthenticationServiceImpl.java" timestamp="1510573426740">
         <mark key="[" line="78" column="59" />
         <mark key="]" line="81" column="0" />
         <mark key="." line="81" column="0" />
@@ -346,10 +349,10 @@
         <mark key="^" line="42" column="6" />
         <mark key="." line="42" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510551607671">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1510573509185">
+        <mark key="[" line="0" column="3" />
+        <mark key="]" line="0" column="3" />
+        <mark key="." line="0" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/nice/PersonNiceFieldsConstent.java" timestamp="1510048591036">
         <mark key="[" line="5" column="15" />
@@ -363,6 +366,7 @@
         <mark key="^" line="41" column="7" />
         <mark key="." line="41" column="7" />
       </file>
+      <file name="/NiceServiceImpl.java" timestamp="1510571470791" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/nice/personNiceSub.java" timestamp="1509961700083">
         <mark key="[" line="25" column="26" />
         <mark key="]" line="35" column="15" />
@@ -581,11 +585,11 @@
       <jump line="189" column="26" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/nice/NiceServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHRNYXAucHV0KCJ1cExldmVsTmVlZCIsbmljZU1hcC5nZXQoInVwTGV2ZWxOZWVkIikpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>增加直接redis查询niceOrder的接口</text>
       </register>
       <register name="-" type="4">
-        <text>1. 增加直接redis查询niceOrder的接口</text>
+        <text>增加直接redis查询niceOrder的接口</text>
       </register>
       <register name="/" type="4">
         <text>person</text>
@@ -594,31 +598,31 @@
         <text>carOwnerSubMap</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHRNYXAucHV0KCJ1cExldmVsTmVlZCIsbmljZU1hcC5nZXQoInVwTGV2ZWxOZWVkIikpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIHJlc3VsdE1hcC5wdXQoInBhc3NlbmdlckZsb2F0IiwgbmV3IEJpZ0RlY2ltYWwoKFN0cmluZykgbmljZU1hcC5nZXQoInBhc3NlbmdlckZsb2F0IikpLmxvbmdWYWx1ZSgpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmdVdGlsLgo=</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHRNYXAucHV0KCJuaWNlQ29kZUFsbCIsIChTdHJpbmcpbmljZU1hcC5nZXQoIm5pY2VDb2RlSCIpICsgKFN0cmluZyluaWNlTWFwLmdldCgibmljZUNvZGVMIikpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHRNYXAucHV0KCJwcmljZUZsb2F0IiwgbmljZU1hcC5nZXQoInByaWNlRmxvYXQiKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHRNYXAucHV0KCJwYXNzZW5nZXJGbG9hdCIsIG5pY2VNYXAuZ2V0KCJwYXNzZW5nZXJGbG9hdCIpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIK</text>
+        <text encoding="base64">Ly8gICAgICAgIHJlc3VsdE1hcC5wdXQoInBhc3NlbmdlckZsb2F0IiwgbmV3IEJpZ0RlY2ltYWwoKFN0cmluZykgbmljZU1hcC5nZXQoInBhc3NlbmdlckZsb2F0IikpLmxvbmdWYWx1ZSgpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHRNYXAucHV0KCJ1cExldmVsTmVlZCIsbmljZU1hcC5nZXQoInVwTGV2ZWxOZWVkIikpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gIGZpbmRBbmRVcGRhdGVOaWNlNEFwcChuaWNlSWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHRNYXAucHV0KCJ1cExldmVsTmVlZCIsbmljZU1hcC5nZXQoInVwTGV2ZWxOZWVkIikpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgbmljZUlkID0gKFN0cmluZylwZXJzb25OaWNlTWFwLmdldChOaWNlRmllbGRzQ29uc3RlbnQuTklDRV9JRCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmdVdGlsLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvL+eNsuW+l25pY2VJRAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
