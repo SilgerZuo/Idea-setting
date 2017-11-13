@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-match/src/main/java/com/mvcc/service/impl/match/MatchServiceImpl.java" timestamp="1510570401648" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-match/src/main/resources/application.properties" timestamp="1510208605200">
         <mark key="[" line="3" column="13" />
         <mark key="]" line="3" column="14" />
@@ -105,7 +106,13 @@
         <mark key="^" line="112" column="5" />
         <mark key="." line="112" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/nice/NiceServiceImpl.java" timestamp="1510551707536" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/nice/NiceServiceImpl.java" timestamp="1510571226410">
+        <mark key="'" line="190" column="26" />
+        <mark key="[" line="191" column="24" />
+        <mark key="]" line="190" column="56" />
+        <mark key="." line="190" column="56" />
+        <mark key="^" line="190" column="56" />
+      </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/router/index.js" timestamp="1509179170608">
         <mark key="[" line="171" column="15" />
         <mark key="]" line="171" column="15" />
@@ -472,7 +479,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="129" column="38" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/account/index.vue" />
       <jump line="200" column="44" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/account/index.vue" />
       <jump line="221" column="44" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/account/index.vue" />
       <jump line="222" column="44" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/account/index.vue" />
@@ -572,10 +578,11 @@
       <jump line="51" column="42" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/car/CarServiceImpl.java" />
       <jump line="28" column="5" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/redisCache/index.vue" />
       <jump line="63" column="36" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/pingPP/OrderServiceImpl.java" />
+      <jump line="189" column="26" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/nice/NiceServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1. 增加直接redis查询niceOrder的接口</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXN1bHRNYXAucHV0KCJ1cExldmVsTmVlZCIsbmljZU1hcC5nZXQoInVwTGV2ZWxOZWVkIikpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>1. 增加直接redis查询niceOrder的接口</text>
@@ -587,31 +594,31 @@
         <text>carOwnerSubMap</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmdVdGlsLgo=</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHRNYXAucHV0KCJ1cExldmVsTmVlZCIsbmljZU1hcC5nZXQoInVwTGV2ZWxOZWVkIikpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmdVdGlsLgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gIGZpbmRBbmRVcGRhdGVOaWNlNEFwcChuaWNlSWQpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgbmljZUlkID0gKFN0cmluZylwZXJzb25OaWNlTWFwLmdldChOaWNlRmllbGRzQ29uc3RlbnQuTklDRV9JRCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gIGZpbmRBbmRVcGRhdGVOaWNlNEFwcChuaWNlSWQpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvL+eNsuW+l25pY2VJRAo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgbmljZUlkID0gKFN0cmluZylwZXJzb25OaWNlTWFwLmdldChOaWNlRmllbGRzQ29uc3RlbnQuTklDRV9JRCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBNYXAgcGVyc29uTmljZU1hcCA9IGZpbmRBbmRVcGRhdGVQZXJzb25OaWNlNEFwcChwZXJzb25JZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL+eNsuW+l25pY2VJRAo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
