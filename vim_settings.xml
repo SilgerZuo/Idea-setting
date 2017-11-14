@@ -56,7 +56,13 @@
         <mark key="." line="52" column="42" />
         <mark key="^" line="52" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/account/detail.vue" timestamp="1510646075317" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/account/detail.vue" timestamp="1510647176953">
+        <mark key="'" line="47" column="2" />
+        <mark key="[" line="46" column="44" />
+        <mark key="]" line="46" column="43" />
+        <mark key="^" line="46" column="43" />
+        <mark key="." line="46" column="43" />
+      </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/resources/application.properties" timestamp="1510208611849">
         <mark key="[" line="3" column="14" />
         <mark key="]" line="3" column="14" />
@@ -351,7 +357,7 @@
         <mark key="^" line="42" column="6" />
         <mark key="." line="42" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510642868469">
+      <file name="/Dummy.txt" timestamp="1510647284021">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -468,11 +474,11 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/account/index.vue" timestamp="1510642697281">
-        <mark key="[" line="65" column="16" />
-        <mark key="]" line="64" column="25" />
-        <mark key="." line="64" column="25" />
-        <mark key="^" line="64" column="25" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/account/index.vue" timestamp="1510647233788">
+        <mark key="[" line="65" column="29" />
+        <mark key="]" line="65" column="29" />
+        <mark key="." line="65" column="29" />
+        <mark key="^" line="59" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/coupon/CouponsEntity.java" timestamp="1510206318130">
         <mark key="[" line="50" column="24" />
@@ -484,7 +490,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="200" column="44" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/account/index.vue" />
       <jump line="221" column="44" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/account/index.vue" />
       <jump line="222" column="44" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/account/index.vue" />
       <jump line="113" column="7" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/authentication/PlatformAuthenticationController.java" />
@@ -584,13 +589,14 @@
       <jump line="28" column="5" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/redisCache/index.vue" />
       <jump line="63" column="36" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/pingPP/OrderServiceImpl.java" />
       <jump line="189" column="26" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/nice/NiceServiceImpl.java" />
+      <jump line="47" column="2" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/account/detail.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>f</text>
+        <text>1. 增加直接redis查询niceOrder的接口</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>1. 增加直接redis查询niceOrder的接口</text>
       </register>
       <register name="/" type="4">
         <text>person</text>
