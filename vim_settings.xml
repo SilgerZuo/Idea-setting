@@ -45,10 +45,11 @@
         <mark key="^" line="23" column="69" />
         <mark key="." line="23" column="48" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/pay/coupon/index.vue" timestamp="1510712829720">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/pay/coupon/index.vue" timestamp="1510718394925">
+        <mark key="[" line="80" column="32" />
+        <mark key="]" line="80" column="32" />
+        <mark key="." line="80" column="32" />
+        <mark key="^" line="72" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/ping++/pingpp-java/example/src/main/java/com/pingxx/example/ChargeExample.java" timestamp="1510372630000">
         <mark key="[" line="51" column="46" />
@@ -359,7 +360,7 @@
         <mark key="^" line="42" column="6" />
         <mark key="." line="42" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510647284021">
+      <file name="/Dummy.txt" timestamp="1510714370645">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -485,6 +486,7 @@
         <mark key="." line="65" column="29" />
         <mark key="^" line="59" column="21" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/orders/orderDetail.vue" timestamp="1510714392496" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/coupon/CouponsEntity.java" timestamp="1510206318130">
         <mark key="[" line="50" column="24" />
         <mark key="]" line="58" column="0" />
@@ -597,11 +599,11 @@
       <jump line="188" column="58" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/router/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgYWFhYQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>缓存管理</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>person</text>
@@ -610,48 +612,31 @@
         <text>carOwnerSubMap</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYWFhYQo=</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="2" type="4">
-        <text>{
-    path: '/base2',
-    name: '支付系统管理',
-    component: Layout,
-    redirect: 'pay/coupon/index',
-    noDropdown: false,
-    icon: 'zujian',
-    meta: { role: ['admin'] },
-    childern: [
-      {
-        path: 'redis',
-        component: _import('pay/coupon/index'),
-        name: '优惠券管理',
-        icon: 'zujian',
-        meta: { role: ['admin'] }
-      }
-    ]
-  },</text>
+        <text encoding="base64">IDxlbC1jb2wgOnNwYW49IjEiIDpvZmZzZXQ9IjAiPjxkaXYgY2xhc3M9ImdyaWQtY29udGVudCBiZy1wdXJwbGUiPgogICAgICAgICAgPGVsLWJ1dHRvbiA+6YeN572uPC9lbC1idXR0b24+CiAgICAgICAgPC9kaXY+PC9lbC1jb2w+</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgewogICAgICAgIHRlc3QxOnsKICAgICAgICAgIHBhdGg6ICdyZWRpcycsCiAgICAgICAgICBjb21wb25lbnQ6IF9pbXBvcnQoJ3JlZGlzQ2FjaGUvaW5kZXgnKSwKICAgICAgICAgIG5hbWU6ICfnvJPlrZjnrqHnkIYnLAogICAgICAgICAgaWNvbjogJ3p1amlhbicsCiAgICAgICAgICBtZXRhOiB7IHJvbGU6IFsnYWRtaW4nXSB9CiAgICAgICAgfQogICAgICB9</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIDxlbC1idXR0b24gPum7mOiupOaMiemSrjwvZWwtYnV0dG9uPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gb3JkZXJTZXJ2aWNlLnRlc3QoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIDxwPuWIm+W7uuaXtumXtDwvcD4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIE9yZGVyU2VydmljZSBvcmRlclNlcnZpY2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxzcGFuIGNsYXNzPSJkZW1vbnN0cmF0aW9uIj7or7fpgInmi6nml7bpl7Q8L3NwYW4+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tdmNjLnNlcnZpY2UucGluZ1BQLm9yZGVyLk9yZGVyU2VydmljZTsK</text>
+        <text encoding="base64">ICAgICAgICAgIDxlbC1idXR0b24gdHlwZT0icHJpbWFyeSI+5Yib5bu65LyY5oOg5Yi4PC9lbC1idXR0b24+Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IHsKICAgICAgICBwYXRoOiAnJwogICAgICB9</text>
-      </register>
-      <register name="8" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="8" type="4">
+        <text encoding="base64">PGVsLWNvbCA6c3Bhbj0iNiIgOm9mZnNldD0iNCI+PGRpdiBjbGFzcz0iZ3JpZC1jb250ZW50IGJnLXB1cnBsZSI+CiAgICAgICAgICA8ZWwtYnV0dG9uIHR5cGU9InByaW1hcnkiPuWIm+W7uuS8mOaDoOWIuDwvZWwtYnV0dG9uPgogICAgICAgIDwvZGl2PjwvZWwtY29sPg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHAgdi1lbHNlPSIiPjwvcD4K</text>
+        <text encoding="base64">ICAgICAgPGgxPuS8mOaDoOWIuOeuoeeQhueVjOmdojwvaDE+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
