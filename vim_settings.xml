@@ -45,11 +45,12 @@
         <mark key="^" line="23" column="69" />
         <mark key="." line="23" column="48" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/pay/coupon/index.vue" timestamp="1510726246901">
-        <mark key="[" line="57" column="14" />
-        <mark key="]" line="57" column="14" />
-        <mark key="." line="57" column="14" />
-        <mark key="^" line="98" column="23" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/pay/coupon/index.vue" timestamp="1510730744608">
+        <mark key="'" line="112" column="0" />
+        <mark key="[" line="162" column="34" />
+        <mark key="]" line="161" column="41" />
+        <mark key="." line="161" column="41" />
+        <mark key="^" line="161" column="41" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/ping++/pingpp-java/example/src/main/java/com/pingxx/example/ChargeExample.java" timestamp="1510372630000">
         <mark key="[" line="51" column="46" />
@@ -497,8 +498,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="222" column="44" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/account/index.vue" />
-      <jump line="113" column="7" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/authentication/PlatformAuthenticationController.java" />
       <jump line="155" column="0" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/authentication/PlatformAuthenticationController.java" />
       <jump line="197" column="9" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/account/index.vue" />
       <jump line="102" column="0" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/driver/carOwnerDetail.vue" />
@@ -597,13 +596,15 @@
       <jump line="189" column="26" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/nice/NiceServiceImpl.java" />
       <jump line="47" column="2" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/account/detail.vue" />
       <jump line="188" column="58" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/router/index.js" />
+      <jump line="160" column="5" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/pay/coupon/index.vue" />
+      <jump line="112" column="0" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/pay/coupon/index.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>新建模板</text>
+        <text>timeLong</text>
       </register>
       <register name="-" type="4">
-        <text>新建模板</text>
+        <text>timeLong</text>
       </register>
       <register name="/" type="4">
         <text>person</text>
@@ -612,31 +613,31 @@
         <text>carOwnerSubMap</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxzcGFuIGNsYXNzPSJkZW1vbnN0cmF0aW9uIj7lrozmlbTlip/og708L3NwYW4+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxlbC10YWc+5YWDPC9lbC10YWc+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGVsLWJ1dHRvbj7lj5bmtog8L2VsLWJ1dHRvbj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxwPuWFgzwvcD4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxlbC1mb3JtLWl0ZW0gbGFiZWw9IuWIm+W7uiI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxlbC1pbnB1dCB2LW1vZGVsPSJ0ZW1wbGF0ZUZvcm0uYW1vdW50X29mZiIgcGxhY2Vob2xkZXI9IuacgOWkmuaUr+aMgeWwj+aVsOeCueWQjuS4pOS9jSI+PC9lbC1pbnB1dD4K</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">PGVsLWNvbD4KICAgICAgICAgICAgICAgIAoKICAgICAgICAgICAgICAgIDxwPuWFgzwvcD4KICAgICAgICAgICAgICA8L2VsLWNvbD4=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGVsLSB0eXBlPSJwcmltYXJ5IiBAY2xpY2s9Im9uU3VibWl0Ij7nq4vljbPliJvlu7o8L2VsLWJ1dHRvbj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxlbC1idXR0b24gdHlwZT0icHJpbWFyeSI+5pCc57SiPC9lbC1idXR0b24+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxlbC0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8cD7mqKHmnb/lkI3np7A8L3A+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxzcGFuIGNsYXNzPSJkZW1vbnN0cmF0aW9uIj7nm7TmjqXliY3lvoA8L3NwYW4+Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxzcGFuIGNsYXNzPSJkZW1vbnN0cmF0aW9uIj7lpKfkuo4gNyDpobXml7bnmoTmlYjmnpw8L3NwYW4+Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgPGVsLWNvbD4KICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgPC9lbC1jb2w+</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
