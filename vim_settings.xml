@@ -33,6 +33,14 @@
         <mark key="]" line="116" column="0" />
         <mark key="." line="116" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/pay/coupon/detail.vue" timestamp="1510738172269">
+        <mark key="[" line="81" column="38" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
+      </file>
+      <file name="/XSLT Stylesheet.txt.ft" timestamp="1510735070591">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/api/redisCache.js" timestamp="1510045741026">
         <mark key="[" line="64" column="1" />
         <mark key="]" line="66" column="33" />
@@ -45,17 +53,20 @@
         <mark key="^" line="23" column="69" />
         <mark key="." line="23" column="48" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/pay/coupon/index.vue" timestamp="1510730744608">
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/pay/coupon/index.vue" timestamp="1510738843885">
         <mark key="'" line="112" column="0" />
-        <mark key="[" line="162" column="34" />
-        <mark key="]" line="161" column="41" />
-        <mark key="." line="161" column="41" />
-        <mark key="^" line="161" column="41" />
+        <mark key="[" line="209" column="46" />
+        <mark key="]" line="209" column="46" />
+        <mark key="." line="209" column="46" />
+        <mark key="^" line="254" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/ping++/pingpp-java/example/src/main/java/com/pingxx/example/ChargeExample.java" timestamp="1510372630000">
         <mark key="[" line="51" column="46" />
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
+      </file>
+      <file name="/Unnamed.txt.ft" timestamp="1510735072663">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/portal/AppMessagePush.java" timestamp="1509444397725">
         <mark key="[" line="65" column="16" />
@@ -85,6 +96,9 @@
         <mark key="]" line="32" column="6" />
         <mark key="^" line="32" column="6" />
         <mark key="." line="32" column="6" />
+      </file>
+      <file name="/ActionScript File Header.txt.ft" timestamp="1510735109117">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/taxifare/TaxiFare.java" timestamp="1509594454327">
         <mark key="[" line="14" column="23" />
@@ -128,11 +142,11 @@
         <mark key="]" line="207" column="0" />
         <mark key="." line="207" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/router/index.js" timestamp="1510712807789">
-        <mark key="[" line="184" column="15" />
-        <mark key="]" line="184" column="19" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/router/index.js" timestamp="1510735973183">
+        <mark key="[" line="190" column="39" />
+        <mark key="]" line="190" column="39" />
         <mark key="^" line="184" column="19" />
-        <mark key="." line="184" column="19" />
+        <mark key="." line="190" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/redisCache/RedisCacheService.java" timestamp="1510048723115">
         <mark key="[" line="65" column="0" />
@@ -151,6 +165,9 @@
         <mark key="]" line="34" column="4" />
         <mark key="." line="34" column="4" />
         <mark key="^" line="29" column="16" />
+      </file>
+      <file name="/Arquillian Deployment Method.txt.ft" timestamp="1510735109862">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/notification/pushNotice2AppServiceImpl.java" timestamp="1509586046183">
         <mark key="[" line="87" column="49" />
@@ -326,7 +343,7 @@
         <mark key="^" line="18" column="18" />
         <mark key="." line="18" column="19" />
       </file>
-      <file name="/HTML File.txt.ft" timestamp="1510725301273">
+      <file name="/HTML File.txt.ft" timestamp="1510735119871">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/application.yml" timestamp="1509503784500">
@@ -365,6 +382,9 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="/Singleton.txt.ft" timestamp="1510734917582">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/nice/PersonNiceFieldsConstent.java" timestamp="1510048591036">
         <mark key="[" line="5" column="15" />
@@ -443,7 +463,7 @@
         <mark key="." line="174" column="11" />
         <mark key="^" line="174" column="11" />
       </file>
-      <file name="/vue.txt.ft" timestamp="1510712408852">
+      <file name="/vue.txt.ft" timestamp="1510735125894">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/authentication/platformAuthentication-mapper.xml" timestamp="1510489076850">
@@ -601,10 +621,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>timeLong</text>
+        <text>换</text>
       </register>
       <register name="-" type="4">
-        <text>timeLong</text>
+        <text>换</text>
       </register>
       <register name="/" type="4">
         <text>person</text>
@@ -613,31 +633,31 @@
         <text>carOwnerSubMap</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxlbC10YWc+5YWDPC9lbC10YWc+Cg==</text>
+        <text encoding="base64">ICBpbXBvcnQgRWxSb3cgZnJvbSAnZWxlbWVudC11aS9wYWNrYWdlcy9yb3cvc3JjL3JvdycKICBpbXBvcnQgRWxCdXR0b24gZnJvbSAnLi4vLi4vLi4vLi4vbm9kZV9tb2R1bGVzL2VsZW1lbnQtdWkvcGFja2FnZXMvYnV0dG9uL3NyYy9idXR0b24udnVlJwogIGltcG9ydCBFbElucHV0IGZyb20gJy4uLy4uLy4uLy4uL25vZGVfbW9kdWxlcy9lbGVtZW50LXVpL3BhY2thZ2VzL2lucHV0L3NyYy9pbnB1dC52dWUnCiAgaW1wb3J0IEVsRm9ybUl0ZW0gZnJvbSAnLi4vLi4vLi4vLi4vbm9kZV9tb2R1bGVzL2VsZW1lbnQtdWkvcGFja2FnZXMvZm9ybS9zcmMvZm9ybS1pdGVtLnZ1ZScKICBpbXBvcnQgRWxSYWRpbyBmcm9tICcuLi8uLi8uLi8uLi9ub2RlX21vZHVsZXMvZWxlbWVudC11aS9wYWNrYWdlcy9yYWRpby9zcmMvcmFkaW8udnVlJwogIGltcG9ydCBFbENvbCBmcm9tICdlbGVtZW50LXVpL3BhY2thZ2VzL2NvbC9zcmMvY29sJwogIGltcG9ydCBFbFJhZGlvR3JvdXAgZnJvbSAnLi4vLi4vLi4vLi4vbm9kZV9tb2R1bGVzL2VsZW1lbnQtdWkvcGFja2FnZXMvcmFkaW8vc3JjL3JhZGlvLWdyb3VwLnZ1ZScK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxwPuWFgzwvcD4K</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIGNvbXBvbmVudHM6IHsKICAgICAgRWxSYWRpb0dyb3VwLAogICAgICBFbENvbCwKICAgICAgRWxSYWRpbywKICAgICAgRWxGb3JtSXRlbSwKICAgICAgRWxJbnB1dCwKICAgICAgRWxCdXR0b24sCiAgICAgIEVsUm93IH0s</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxlbC1pbnB1dCB2LW1vZGVsPSJ0ZW1wbGF0ZUZvcm0uYW1vdW50X29mZiIgcGxhY2Vob2xkZXI9IuacgOWkmuaUr+aMgeWwj+aVsOeCueWQjuS4pOS9jSI+PC9lbC1pbnB1dD4K</text>
+        <text encoding="base64">ICAgICAgICAgIOWFs+iBlOiuomRk5Y2V5Y6f5Lu35oC76YeR6aKdCg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">PGVsLWNvbD4KICAgICAgICAgICAgICAgIAoKICAgICAgICAgICAgICAgIDxwPuWFgzwvcD4KICAgICAgICAgICAgICA8L2VsLWNvbD4=</text>
+        <text encoding="base64">PHN0eWxlPgogIC5lbC1yb3cgewogICAgbWFyZ2luLWJvdHRvbTogMjBweDsKICAmOmxhc3QtY2hpbGQgewogICAgIG1hcmdpbi1ib3R0b206IDA7CiAgIH0KICB9CiAgLmVsLWNvbCB7CiAgICBib3JkZXItcmFkaXVzOiA0cHg7CiAgfQogIC5iZy1wdXJwbGUtZGFyayB7CiAgICBiYWNrZ3JvdW5kOiAjOTlhOWJmOwogIH0KICAuYmctcHVycGxlIHsKICAgIGJhY2tncm91bmQ6ICNkM2RjZTY7CiAgfQogIC5iZy1wdXJwbGUtbGlnaHQgewogICAgYmFja2dyb3VuZDogI2U1ZTlmMjsKICB9CiAgLmdyaWQtY29udGVudCB7CiAgICBib3JkZXItcmFkaXVzOiA0cHg7CiAgICBtaW4taGVpZ2h0OiAzNnB4OwogIH0KICAucm93LWJnIHsKICAgIHBhZGRpbmc6IDEwcHggMDsKICAgIGJhY2tncm91bmQtY29sb3I6ICNmOWZhZmM7CiAgfQo8L3N0eWxlPg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxlbC1idXR0b24gdHlwZT0icHJpbWFyeSI+5pCc57SiPC9lbC1idXR0b24+Cg==</text>
+        <text encoding="base64">ICAgICAgPGVsLXRhYmxlPjwvZWwtdGFibGU+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGdnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPC9lbC1yb3c+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgPGVsLWNvbD4KICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgPC9lbC1jb2w+</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgPGVsLXJvdz4K</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
