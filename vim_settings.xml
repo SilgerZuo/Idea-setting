@@ -59,12 +59,12 @@
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/person/PersonController.java" timestamp="1510826249265">
-        <mark key="'" line="279" column="4" />
-        <mark key="[" line="267" column="108" />
-        <mark key="]" line="276" column="59" />
-        <mark key="." line="276" column="59" />
-        <mark key="^" line="276" column="59" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/person/PersonController.java" timestamp="1510833915273">
+        <mark key="'" line="291" column="4" />
+        <mark key="[" line="279" column="38" />
+        <mark key="]" line="279" column="38" />
+        <mark key="." line="279" column="38" />
+        <mark key="^" line="289" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/notification/PushNotice2AppServiceImpl.java" timestamp="1510207389825">
         <mark key="[" line="93" column="0" />
@@ -90,11 +90,11 @@
         <mark key="^" line="18" column="36" />
         <mark key="." line="19" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/api/pay/grant.js" timestamp="1510826262968">
-        <mark key="[" line="43" column="10" />
-        <mark key="]" line="41" column="71" />
-        <mark key="." line="41" column="71" />
-        <mark key="^" line="41" column="71" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/api/pay/grant.js" timestamp="1510833892515">
+        <mark key="[" line="54" column="37" />
+        <mark key="]" line="54" column="42" />
+        <mark key="." line="54" column="42" />
+        <mark key="^" line="54" column="42" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/notification/pushNotice2AppServiceImpl.java" timestamp="1509586046183">
         <mark key="[" line="87" column="49" />
@@ -102,7 +102,7 @@
         <mark key="." line="87" column="55" />
         <mark key="^" line="87" column="55" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/pay/coupon/grant.vue" timestamp="1510827399944">
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/pay/coupon/grant.vue" timestamp="1510833825361">
         <mark key="[" line="165" column="25" />
         <mark key="]" line="165" column="25" />
         <mark key="." line="165" column="25" />
@@ -655,10 +655,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>发放</text>
+        <text>Frequency</text>
       </register>
       <register name="-" type="4">
-        <text>发放</text>
+        <text>Frequency</text>
       </register>
       <register name="/" type="4">
         <text>person</text>
