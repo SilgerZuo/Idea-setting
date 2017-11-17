@@ -110,8 +110,8 @@
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/repository/station/StationMapper.java" timestamp="1510886746049">
         <mark key="[" line="102" column="38" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/person/PersonService.java" timestamp="1510891788380">
-        <mark key="[" line="170" column="0" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/person/PersonService.java" timestamp="1510897496574">
+        <mark key="[" line="174" column="44" />
         <mark key="]" line="170" column="0" />
         <mark key="." line="170" column="0" />
       </file>
@@ -128,10 +128,11 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/person/PersonServiceImpl.java" timestamp="1510891761390">
-        <mark key="[" line="403" column="0" />
-        <mark key="]" line="403" column="0" />
-        <mark key="." line="403" column="0" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/person/PersonServiceImpl.java" timestamp="1510897477048">
+        <mark key="[" line="414" column="51" />
+        <mark key="]" line="414" column="51" />
+        <mark key="." line="414" column="51" />
+        <mark key="^" line="408" column="84" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/application.properties" timestamp="1510836073116">
         <mark key="[" line="3" column="21" />
@@ -294,11 +295,11 @@
       <jump line="65" column="42" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/person/PersonController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vYWRkZWQgYnkgenVvd2MgZm9yIGdpdmUgYXdheSBjb25wb24K</text>
+      <register name="&quot;" type="4">
+        <text>int</text>
       </register>
       <register name="-" type="4">
-        <text>10</text>
+        <text>int</text>
       </register>
       <register name="/" type="4">
         <text>person</text>
