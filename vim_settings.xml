@@ -54,7 +54,6 @@
         <mark key="]" line="3" column="14" />
         <mark key="." line="3" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/api/station.js" timestamp="1510884830977" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/pingPP/OrderServiceImpl.java" timestamp="1510393909096">
         <mark key="[" line="59" column="0" />
         <mark key="]" line="59" column="0" />
@@ -104,11 +103,11 @@
         <mark key="]" line="18" column="7" />
         <mark key="." line="18" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/finance/PassengerFinanceServiceImpl.java" timestamp="1510909716401">
-        <mark key="[" line="66" column="8" />
-        <mark key="]" line="66" column="8" />
-        <mark key="." line="66" column="8" />
-        <mark key="^" line="55" column="48" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/finance/PassengerFinanceServiceImpl.java" timestamp="1510912054471">
+        <mark key="[" line="76" column="69" />
+        <mark key="]" line="76" column="69" />
+        <mark key="." line="76" column="69" />
+        <mark key="^" line="79" column="61" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/ping++/pingpp-java/pom.xml" timestamp="1510294766946">
         <mark key="[" line="28" column="22" />
@@ -162,7 +161,7 @@
       <file name="/HTML File.txt.ft" timestamp="1510735119871">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1510909137596">
+      <file name="/dummy.sql" timestamp="1510912113885">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/pingPP/coupon/CouponService.java" timestamp="1510906198732">
@@ -189,7 +188,6 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/person/PersonServiceImpl.java" timestamp="1510901216636" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/application.properties" timestamp="1510836073116">
         <mark key="[" line="3" column="21" />
         <mark key="]" line="3" column="18" />
@@ -216,7 +214,6 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/account/index.vue" timestamp="1510887412052" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/coupon/CouponsEntity.java" timestamp="1510206318130">
         <mark key="[" line="50" column="24" />
         <mark key="]" line="58" column="0" />
@@ -330,19 +327,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>return (startingPrice.
-                add(
-                        kmBig.multiply(farePerKM)
-                )
-                .multiply(
-                        new BigDecimal(1).add(priceFloat)
-                )
-                .subtract(derate).divide(new BigDecimal(1).subtract(passengerFloat),BigDecimal.ROUND_HALF_UP
-                )
-        );</text>
+        <text>farePerKM</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dm9pZCA=</text>
+        <text>farePerKM</text>
       </register>
       <register name="/" type="4">
         <text>person</text>
