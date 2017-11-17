@@ -104,7 +104,12 @@
         <mark key="]" line="18" column="7" />
         <mark key="." line="18" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/finance/PassengerFinanceServiceImpl.java" timestamp="1510907072846" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/finance/PassengerFinanceServiceImpl.java" timestamp="1510909716401">
+        <mark key="[" line="66" column="8" />
+        <mark key="]" line="66" column="8" />
+        <mark key="." line="66" column="8" />
+        <mark key="^" line="55" column="48" />
+      </file>
       <file name="$USER_HOME$/workspace/ideaProject/ping++/pingpp-java/pom.xml" timestamp="1510294766946">
         <mark key="[" line="28" column="22" />
       </file>
@@ -157,7 +162,7 @@
       <file name="/HTML File.txt.ft" timestamp="1510735119871">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1510906683469">
+      <file name="/dummy.sql" timestamp="1510909137596">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/pingPP/coupon/CouponService.java" timestamp="1510906198732">
@@ -325,10 +330,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>class</text>
+        <text>return (startingPrice.
+                add(
+                        kmBig.multiply(farePerKM)
+                )
+                .multiply(
+                        new BigDecimal(1).add(priceFloat)
+                )
+                .subtract(derate).divide(new BigDecimal(1).subtract(passengerFloat),BigDecimal.ROUND_HALF_UP
+                )
+        );</text>
       </register>
       <register name="-" type="4">
-        <text>class</text>
+        <text encoding="base64">dm9pZCA=</text>
       </register>
       <register name="/" type="4">
         <text>person</text>
@@ -337,6 +351,30 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFJlc3VsdEluZm8oUmVzdWx0SW5mb0VudW0uU1VDQ0VTUy5nZXRDb2RlKCksIG5ldyBQYWdlSW5mbzxNYXA+KHBlcnNvblNlcnZpY2UKICAgICAgICAgICAgICAgIC5maW5kUGVyc29uSW5mb0J5Q29tbXVuaXR5KGNvbW11bml0eU5hbWUpKSk7Cg==</text>
       </register>
       <register name="1" type="4">
+        <text>return (startingPrice.
+                add(
+                        kmBig.multiply(farePerKM)
+                )
+                .multiply(
+                        new BigDecimal(1).add(priceFloat)
+                )
+                .subtract(derate).divide(new BigDecimal(1).subtract(passengerFloat),BigDecimal.ROUND_HALF_UP
+                )
+        );</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiAxNy0xMS0xNyBub3QgZmluaXNoZWQK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB0YXhpRmFyZUJ5Q2FyUmFuay5nZXRTdGFydGluZ1ByaWNlKCk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="6" type="4">
         <text>for(Map map : personInfoByGender) {
             String personId = (String) map.get(&quot;personId&quot;);
             Station stationMaxStartCountByPersonId = stationMapper.findStationMaxStartCountByPersonId(personId);
@@ -344,29 +382,14 @@
             map.put(&quot;stationName&quot;, stationMaxStartCountByPersonId.getStationName());
         }</text>
       </register>
-      <register name="2" type="2">
+      <register name="7" type="2">
         <text encoding="base64">T1JERVIgQlkgcHNzLnN0YXJ0VXNlQ291bnQK</text>
       </register>
-      <register name="3" type="2">
+      <register name="8" type="2">
         <text encoding="base64">V0hFUkUgcGVyLm1vYmlsZSBsaWtlIGNvbmNhdCgnJScsI3ttb2JpbGV9LCclJykK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIExpc3Q8TWFwPiBsaXN0UGVyc29uSW5mb0J5U3RhdGlvbihTdHJpbmcgc3RhdGlvbklkKSB0aHJvd3MgQmFzZUV4Y2VwdGlvbjsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vYWRkZWQgYnkgenVvd2MgZm9yIGdpdmUgYXdheSBjb25wb24K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
