@@ -103,11 +103,10 @@
         <mark key="." line="20" column="42" />
         <mark key="^" line="20" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/finance/PassengerFinanceServiceImpl.java" timestamp="1511334309246">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
-        <mark key="^" line="64" column="72" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/finance/PassengerFinanceServiceImpl.java" timestamp="1511340261500">
+        <mark key="[" line="40" column="34" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/ping++/pingpp-java/pom.xml" timestamp="1510294766946">
         <mark key="[" line="28" column="22" />
@@ -182,7 +181,7 @@
       <file name="/HTML File.txt.ft" timestamp="1510735119871">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1511333525429">
+      <file name="/dummy.sql" timestamp="1511340230050">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/PingPP/coupon/CouponTemplateServiceImpl.java" timestamp="1511181956509">
@@ -329,10 +328,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAqIHBhcmFtcy4K</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>listOwnerInfo</text>
@@ -341,31 +340,31 @@
         <text>com.mvcc.service.payment.charge.ChargeService</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIHBhcmFtcy4K</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIHBhcmFtcy4K</text>
+        <text encoding="base64">ICAgICAgICBpZigiIi5lcXVhbHMoY2FyUmFuaykpIHsK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbWFwLnB1dCgiY2FyUmFuayIsIGNhclJhbmspOwo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAqIHBhcmFtcy4K</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBjcmVhdGVSb3lhbHR5U2V0dGxlbWVudDEoKSB0aHJvd3MgRXhjZXB0aW9uIHsKICAgIH0KCiAgICBAVGVzdAogICAgcHVibGljIHZvaWQgZmluZFJveWFsdHlTZXR0bGVtZW50MSgpIHRocm93cyBFeGNlcHRpb24gewogICAgfQ==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIHBhcmFtcy4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">ICAgICAqIHBhcmFtcy4K</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBjcmVhdGVSb3lhbHR5U2V0dGxlbWVudDEoKSB0aHJvd3MgRXhjZXB0aW9uIHsKICAgIH0KCiAgICBAVGVzdAogICAgcHVibGljIHZvaWQgZmluZFJveWFsdHlTZXR0bGVtZW50MSgpIHRocm93cyBFeGNlcHRpb24gewogICAgfQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBQaW5ncHBBY2NvdW50LmFwcElkID0gcGF5bWVudENvbmZpZy5nZXRBUFBfSUQoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBBdXRvQ29uZmlndXJlT3JkZXIK</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
