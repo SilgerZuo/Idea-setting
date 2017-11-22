@@ -14,8 +14,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1511256728779">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1511257334520">
+      <file name="/a.dummy" timestamp="1511320591265">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/payment/account/settleAccount.java" timestamp="1511318643408">
+        <mark key="[" line="12" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/resources/spring/spring-hsf-reference.xml" timestamp="1511249474377">
         <mark key="[" line="165" column="22" />
@@ -38,7 +41,7 @@
         <mark key="^" line="82" column="0" />
         <mark key="." line="81" column="58" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/PingPP/order/PaymentOrderServiceImpl.java" timestamp="1511255019083">
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/PingPP/order/PaymentOrderServiceImpl.java" timestamp="1511321057129">
         <mark key="[" line="208" column="5" />
         <mark key="]" line="211" column="0" />
         <mark key="." line="211" column="0" />
@@ -115,14 +118,14 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1510735109117">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511248883770">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="3" />
-        <mark key="." line="0" column="3" />
-      </file>
       <file name="/Singleton.txt.ft" timestamp="1510734917582">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/PingPP/account/SettleAccountServiceImpl.java" timestamp="1511321287577">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="74" column="11" />
+        <mark key="." line="74" column="11" />
+        <mark key="^" line="74" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/spring/spring-jdbc.xml" timestamp="1511162419303">
         <mark key="[" line="49" column="53" />
@@ -136,6 +139,8 @@
         <mark key="." line="136" column="33" />
         <mark key="^" line="136" column="33" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/payment/account/SettleAccountService.java" timestamp="1511320881668" />
+      <file name="/demand-mapper.xml" timestamp="1511317874267" />
       <file name="/Arquillian Deployment Method.txt.ft" timestamp="1510735109862">
         <mark key="[" line="0" column="0" />
       </file>
@@ -148,10 +153,16 @@
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/pom.xml" timestamp="1511147612608">
         <mark key="[" line="54" column="21" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/constant/payment/SettleAccountChannel.java" timestamp="1511320554766">
+        <mark key="[" line="24" column="31" />
+        <mark key="]" line="20" column="42" />
+        <mark key="." line="20" column="42" />
+        <mark key="^" line="20" column="42" />
+      </file>
       <file name="$USER_HOME$/workspace/ideaProject/ping++/pingpp-java/pom.xml" timestamp="1510294766946">
         <mark key="[" line="28" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/test/java/com/mvcc/service/impl/PingPP/subAccount/SubAccountServiceImplTest.java" timestamp="1511259357499">
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/test/java/com/mvcc/service/impl/PingPP/subAccount/SubAccountServiceImplTest.java" timestamp="1511318363941">
         <mark key="[" line="57" column="62" />
         <mark key="]" line="56" column="14" />
         <mark key="^" line="56" column="14" />
@@ -270,11 +281,11 @@
       <jump line="27" column="31" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/test/java/com/mvcc/service/impl/PingPP/order/PingPPOrderServiceImplTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">dm9pZCA=</text>
       </register>
       <register name="-" type="4">
-        <text>com.mvcc.repository.demand.DemandPooldidMapper</text>
+        <text encoding="base64">dm9pZCA=</text>
       </register>
       <register name="/" type="4">
         <text>listOwnerInfo</text>
@@ -282,32 +293,32 @@
       <register name="0" type="4">
         <text>com.mvcc.service.payment.charge.ChargeService</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIC8qKgogICAgICoKICAgICAqIEBwYXJhbSBwZXJzb25JZCDnlKjmiLdJRAogICAgICogQHBhcmFtIG5hbWUKICAgICAqIEBwYXJhbSB0eXBlCiAgICAgKiBAcGFyYW0gb3Blbl9iYW5rX2NvZGUKICAgICAqIEBwYXJhbSBvcGVuX2JhbmsKICAgICAqIEBwYXJhbSBjYXJkX3R5cGUKICAgICAqIEBwYXJhbSBwcm92CiAgICAgKiBAcGFyYW0gY2l0eQogICAgICogQHBhcmFtIHN1Yl9iYW5rCiAgICAgKiBAcmV0dXJuCiAgICAgKiBAdGhyb3dzIEludmFsaWRSZXF1ZXN0RXhjZXB0aW9uCiAgICAgKiBAdGhyb3dzIEFQSUV4Y2VwdGlvbgogICAgICogQHRocm93cyBDaGFubmVsRXhjZXB0aW9uCiAgICAgKiBAdGhyb3dzIFJhdGVMaW1pdEV4Y2VwdGlvbgogICAgICogQHRocm93cyBBUElDb25uZWN0aW9uRXhjZXB0aW9uCiAgICAgKiBAdGhyb3dzIEF1dGhlbnRpY2F0aW9uRXhjZXB0aW9uCiAgICAgKi8=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ywo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ2hhbm5lbEV4Y2VwdGlvbiwgUmF0ZUxpbWl0RXhjZXB0aW9uLCBBUElDb25uZWN0aW9uRXhjZXB0aW9uLCBBdXRoZW50aWNhdGlvbkV4Y2VwdGlvbjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgSW52YWxpZFJlcXVlc3RFeGNlcHRpb24sIEFQSUV4Y2VwdGlvbiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICBTdHJpbmcgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3Blbl9iYW5rLCBTdHJpbmcgY2FyZF90eXBlLCBTdHJpbmcgcHJvdiwgU3RyaW5nIGNpdHksIFN0cmluZyBzdWJfYmFuaykgdGhyb3dzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbS5tdmNjLnNlcnZpY2UucGF5bWVudC5jaGFyZ2UuQ2hhcmdlU2VydmljZQo=</text>
+        <text encoding="base64">ICAgIFNldHRsZUFjY291bnQgY3JlYXRlQmFua0FjY291bnQoU3RyaW5nIHBlcnNvbklkLCBTdHJpbmcgbmFtZSwgU3RyaW5nIHR5cGUsIFN0cmluZyBvcGVuX2JhbmtfY29kZSwgU3RyaW5nCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIHBhcmFtcy4K</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBjaGFubmVsIOe7k+eul+i0puWPt+a4oOmBk+WQjeensO+8jOebruWJjeaUr+aMgSBhbGlwYXkg44CBIHd4X3B1YiDjgIEgYmFua19hY2NvdW50IOOAggo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIHBhcmFtcy4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ2hhbm5lbEV4Y2VwdGlvbiwgUmF0ZUxpbWl0RXhjZXB0aW9uLCBBUElDb25uZWN0aW9uRXhjZXB0aW9uLCBBdXRoZW50aWNhdGlvbkV4Y2VwdGlvbjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIHBhcmFtcy4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBTdHJpbmcgYWNjb3VudF90eXBlKSB0aHJvd3MgSW52YWxpZFJlcXVlc3RFeGNlcHRpb24sIEFQSUV4Y2VwdGlvbiwK</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
