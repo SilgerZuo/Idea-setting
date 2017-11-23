@@ -194,11 +194,12 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/payment/order/PayOrderService.java" timestamp="1511431679820">
-        <mark key="[" line="79" column="54" />
-        <mark key="]" line="79" column="54" />
-        <mark key="." line="79" column="54" />
-        <mark key="^" line="79" column="57" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/payment/order/PayOrderService.java" timestamp="1511436436784">
+        <mark key="'" line="198" column="0" />
+        <mark key="[" line="173" column="49" />
+        <mark key="]" line="173" column="49" />
+        <mark key="^" line="27" column="41" />
+        <mark key="." line="173" column="49" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-match/src/main/resources/application.properties" timestamp="1510208605200">
         <mark key="[" line="3" column="13" />
@@ -275,13 +276,12 @@
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/nice/NiceEntity.java" timestamp="1511416266363">
         <mark key="'" line="87" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/order/PayOrderServiceImpl.java" timestamp="1511431969922">
-        <mark key="'" line="87" column="105" />
-        <mark key="[" line="142" column="8" />
-        <mark key="]" line="55" column="40" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/order/PayOrderServiceImpl.java" timestamp="1511436452918">
+        <mark key="[" line="151" column="40" />
         <mark key="m" line="64" column="9" />
-        <mark key="." line="55" column="40" />
-        <mark key="^" line="55" column="40" />
+        <mark key="]" line="93" column="0" />
+        <mark key="^" line="158" column="89" />
+        <mark key="." line="93" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/constant/payment/PayOrderChannelConstantEnum.java" timestamp="1511421033957">
         <mark key="[" line="15" column="12" />
@@ -290,11 +290,10 @@
         <mark key="^" line="15" column="30" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dajia/dajia-springboot-mysql/2.0-SNAPSHOT/dajia-springboot-mysql-2.0-20171123.005742-1735.jar!/com/dajia/springboot/provider/configuration/MybatisConfiguration.class" timestamp="1511417413996" />
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/account/PaySettleAccountServiceImpl.java" timestamp="1511425399363">
-        <mark key="[" line="83" column="27" />
-        <mark key="]" line="82" column="8" />
-        <mark key="." line="82" column="8" />
-        <mark key="^" line="65" column="25" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/account/PaySettleAccountServiceImpl.java" timestamp="1511434997826">
+        <mark key="[" line="118" column="0" />
+        <mark key="]" line="118" column="0" />
+        <mark key="." line="118" column="0" />
       </file>
       <file name="/Arquillian Deployment Method.txt.ft" timestamp="1510735109862">
         <mark key="[" line="0" column="0" />
@@ -419,8 +418,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="44" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/spring/spring-hsf-service.xml" />
-      <jump line="135" column="7" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/portal/AppMessagePushOffLine.java" />
       <jump line="265" column="24" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/portal/AppMessagePushOffLine.java" />
       <jump line="440" column="0" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/portal/AppMessagePushOffLine.java" />
       <jump line="153" column="24" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/portal/AppMessagePushOffLine.java" />
@@ -519,27 +516,15 @@
       <jump line="7" column="13" filename="$MAVEN_REPOSITORY$/Pingplusplus/pingpp-java/2.2.4/pingpp-java-2.2.4.jar!/com/pingplusplus/exception/InvalidRequestException.class" />
       <jump line="224" column="26" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/car/CarOwnerServiceImpl.java" />
       <jump line="226" column="0" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/car/CarOwnerServiceImpl.java" />
+      <jump line="27" column="48" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/payment/order/PayOrderService.java" />
+      <jump line="187" column="0" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/payment/order/PayOrderService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>if (params.get(&quot;channel&quot;) != null){
-            paramMap.put(&quot;channel&quot;, params.get(&quot;channel&quot;));
-        }
-        if (params.get(&quot;paid&quot;) != null){
-            paramMap.put(&quot;paid&quot;,params.get(&quot;paid&quot;) );
-        }
-        if (params.get(&quot;refunded&quot;) != null){
-            paramMap.put(&quot;refunded&quot;,params.get(&quot;refunded&quot;) );
-        }
-        if (params.get(&quot;page&quot;) != null){
-            paramMap.put(&quot;page&quot;, params.get(&quot;page&quot;));
-        }
-        if (params.get(&quot;per_page&quot;) != null){
-            paramMap.put(&quot;per_page&quot;,params.get(&quot;per_page&quot;));
-        }</text>
+        <text>选填，不用则传null ,服务方 app 对象的 id ，默认为订单应用。表示承接该交易服务的应用，由服务方和平台确定订单的层级链都能查询到该 order 对象。</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>选填，不用则传null ,服务方 app 对象的 id ，默认为订单应用。表示承接该交易服务的应用，由服务方和平台确定订单的层级链都能查询到该 order 对象。</text>
       </register>
       <register name="/" type="4">
         <text>person</text>
@@ -547,109 +532,32 @@
       <register name="0" type="4">
         <text>com.mvcc.entity.payment.account.SubAccountInfoEntity</text>
       </register>
-      <register name="1" type="4">
-        <text>if (params.get(&quot;channel&quot;) != null){
-            paramMap.put(&quot;channel&quot;, params.get(&quot;channel&quot;));
-        }
-        if (params.get(&quot;paid&quot;) != null){
-            paramMap.put(&quot;paid&quot;,params.get(&quot;paid&quot;) );
-        }
-        if (params.get(&quot;refunded&quot;) != null){
-            paramMap.put(&quot;refunded&quot;,params.get(&quot;refunded&quot;) );
-        }
-        if (params.get(&quot;page&quot;) != null){
-            paramMap.put(&quot;page&quot;, params.get(&quot;page&quot;));
-        }
-        if (params.get(&quot;per_page&quot;) != null){
-            paramMap.put(&quot;per_page&quot;,params.get(&quot;per_page&quot;));
-        }</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBjaGFyZ2Vfb3JkZXJfbm8g6YCJ5aGr77yM5LiN55So5YiZ5LygbnVsbCAsIOaUr+S7mOS9v+eUqOeahOWVhuaIt+iuouWNleWPt++8jOm7mOiupOS9v+eUqOiuouWNleWvueixoeS4reeahOWVhuaIt+iuouWNleWPt+OAguW9k+WVhuaIt+iuouWNleWPt+WcqOa4oOmBk+iiq+S9v+eUqOaXtu+8jOmcgOabtOaNouaWsOeahOWVhuaIt+iuouWNleWPt+OAggo=</text>
       </register>
-      <register name="2" type="4">
-        <text>if( params.get(&quot;uid&quot;) !=null){
-            paramMap.put(&quot;uid&quot;, params.get(&quot;uid&quot;));
-        }
-        if(params.get(&quot;receipt_app&quot;) !=null){
-            paramMap.put(&quot;receipt_app&quot;,params.get(&quot;receipt_app&quot;) );
-        }
-        if( params.get(&quot;service_app&quot;) !=null){
-            paramMap.put(&quot;service_app&quot;,params.get(&quot;service_app&quot;)  );
-        }
-        if(params.get(&quot;paid&quot;) !=null){
-            paramMap.put(&quot;paid&quot;,params.get(&quot;paid&quot;)  );
-        }
-        if(params.get(&quot;refunded&quot;) !=null){
-            paramMap.put(&quot;refunded&quot;,params.get(&quot;refunded&quot;) );
-        }
-        if( params.get(&quot;canceled&quot;) !=null){
-            paramMap.put(&quot;canceled&quot;, params.get(&quot;canceled&quot;) );
-        }
-        if(params.get(&quot;page&quot;) !=null){
-            paramMap.put(&quot;page&quot;,params.get(&quot;page&quot;) );
-        }
-        if(params.get(&quot;per_page&quot;) !=null) {
-            paramMap.put(&quot;per_page&quot;, params.get(&quot;per_page&quot;) );
-        }
-        if(params.get(&quot;created&quot;) !=null){
-            paramMap.put(&quot;created&quot;,params.get(&quot;created&quot;));
-        }</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBleHRyYSDpgInloavvvIzkuI3nlKjliJnkvKBudWxsIO+8jOeJueWumua4oOmBk+WPkei1t+S6pOaYk+aXtumcgOimgeeahOmineWkluWPguaVsO+8jOS7peWPiumDqOWIhua4oOmBk+aUr+S7mOaIkOWKn+i/lOWbnueahOmineWkluWPguaVsO+8jOivpue7huWPguiAgyDmlK/ku5jmuKDpgZMgZXh0cmEg5Y+C5pWw6K+05piOIOOAguWmgumFjee9ruivt+eCueWHu++8jGh0dHBzOi8vd3d3LnBpbmd4eC5jb20vYXBpP2xhbmd1YWdlPUphdmEjJUU2JTk0JUFGJUU0JUJCJTk4JUU2JUI4JUEwJUU5JTgxJTkzLWV4dHJhLSVFNSU4RiU4MiVFNiU5NSVCMCVFOCVBRiVCNCVFNiU5OCU4RQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>if(params.get(&quot;uid&quot;) != null) {
-            paramMap.put(&quot;uid&quot;, params.get(&quot;uid&quot;));
-        }
-        if(params.get(&quot;coupon&quot;) != null) {
-            paramMap.put(&quot;coupon&quot;, params.get(&quot;coupon&quot;));
-        }
-        if(params.get(&quot;actual_amount&quot;) != null) {
-
-            paramMap.put(&quot;actual_amount&quot;, params.get(&quot;actual_amount&quot;));
-        }
-        if(params.get(&quot;time_expire&quot;) != null) {
-
-            paramMap.put(&quot;time_expire&quot;, params.get(&quot;time_expire&quot;));
-        }
-        if(params.get(&quot;receipt_app&quot;) != null) {
-
-            paramMap.put(&quot;receipt_app&quot;, params.get(&quot;receipt_app&quot;));
-        }
-        if(params.get(&quot;service_app&quot;) != null) {
-
-            paramMap.put(&quot;service_app&quot;, params.get(&quot;service_app&quot;));
-        }
-        if(params.get(&quot;royalty_users&quot;) != null) {
-
-            paramMap.put(&quot;royalty_users&quot;, params.get(&quot;royalty_users&quot;));
-        }
-        if(params.get(&quot;royalty_template&quot;) != null) {
-
-            paramMap.put(&quot;royalty_template&quot;, params.get(&quot;royalty_template&quot;));
-        }
-        if(params.get(&quot;description&quot;) != null) {
-
-            paramMap.put(&quot;description&quot;, params.get(&quot;description&quot;) );
-        }
-        if(params.get(&quot;metadata&quot;) != null) {
-
-            paramMap.put(&quot;metadata&quot;, params.get(&quot;metadata&quot;));
-        }</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBleHRyYSDpgInloavvvIzkuI3nlKjliJnkvKBudWxsIO+8jOeJueWumua4oOmBk+WPkei1t+S6pOaYk+aXtumcgOimgeeahOmineWkluWPguaVsO+8jOS7peWPiumDqOWIhua4oOmBk+aUr+S7mOaIkOWKn+i/lOWbnueahOmineWkluWPguaVsO+8jOivpue7huWPguiAgyDmlK/ku5jmuKDpgZMgZXh0cmEg5Y+C5pWw6K+05piOIOOAguWmgumFjee9ruivt+eCueWHu++8jGh0dHBzOi8vd3d3LnBpbmd4eC5jb20vYXBpP2xhbmd1YWdlPUphdmEjJUU2JTk0JUFGJUU0JUJCJTk4JUU2JUI4JUEwJUU5JTgxJTkzLWV4dHJhLSVFNSU4RiU4MiVFNiU5NSVCMCVFOCVBRiVCNCVFNiU5OCU4RQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXJhbU1hcC5wdXQoImV4dHJhIiwgZXh0cmEpOwo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgLy/nlLPor7fmiJDkuLrovabkuLvkuYvlkI7pnIDopoHliJvlu7rogLPmnLrlrZDllYbmiLcKICAgICAgICBQZXJzb24gcGVyc29uQnlJZCA9IHBlcnNvbk1hcHBlci5maW5kUGVyc29uQnlJZChjYXJPd25lci5nZXRQZXJzb25JZCgpKTsKICAgICAgICBwYXlTdWJBY2NvdW50U2VydmljZS5jcmVhdGVTdWJBcHAoY2FyT3duZXIuZ2V0UGVyc29uSWQoKSwgcGVyc29uQnlJZC5nZXRSZWFsTmFtZSgpLCBjYXJPd25lci5nZXRDYXJPd25lcklkKCkpOw==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBNYXAgZXh0cmEsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICBNYXAgZXh0cmEsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ICAgICAgICBwYXJhbU1hcC5wdXQoImV4dHJhIiwgZXh0cmEpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFBlcnNvbk0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBNYXAgZXh0cmEsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICBNYXAgZXh0cmEsCg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
