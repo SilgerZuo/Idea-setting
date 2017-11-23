@@ -13,6 +13,11 @@
         <mark key="]" line="83" column="0" />
         <mark key="." line="83" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/royalty/PayRoyaltySettlementServiceImpl.java" timestamp="1511427756636">
+        <mark key="[" line="42" column="31" />
+        <mark key="]" line="42" column="31" />
+        <mark key="." line="42" column="31" />
+      </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/order/test.java" timestamp="1511400030730">
         <mark key="[" line="26" column="35" />
         <mark key="]" line="28" column="19" />
@@ -65,6 +70,12 @@
         <mark key="^" line="32" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/coupon/CouponTemplateServiceImpl.java" timestamp="1511401850044" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/constant/payment/payEnum/RoyaltySettlementEnum.java" timestamp="1511427375371">
+        <mark key="[" line="5" column="15" />
+        <mark key="]" line="14" column="3" />
+        <mark key="." line="14" column="3" />
+        <mark key="^" line="14" column="3" />
+      </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/test/java/com/mvcc/repository/payment/account/SubAccountInfoMapperTest.java" timestamp="1511418026513">
         <mark key="[" line="25" column="73" />
         <mark key="]" line="28" column="0" />
@@ -139,7 +150,7 @@
         <mark key="." line="25" column="11" />
         <mark key="^" line="20" column="20" />
       </file>
-      <file name="/HTML File.txt.ft" timestamp="1510735119871">
+      <file name="/HTML File.txt.ft" timestamp="1511426931022">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/station/StationService.java" timestamp="1510902446427">
@@ -232,9 +243,14 @@
         <mark key="." line="12" column="36" />
         <mark key="^" line="12" column="49" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/order/PayOrderServiceImpl.java" timestamp="1511425786059">
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/nice/NiceEntity.java" timestamp="1511416266363">
+        <mark key="'" line="87" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/order/PayOrderServiceImpl.java" timestamp="1511427090428">
+        <mark key="'" line="124" column="105" />
         <mark key="[" line="69" column="11" />
         <mark key="]" line="69" column="11" />
+        <mark key="m" line="64" column="9" />
         <mark key="." line="69" column="11" />
         <mark key="^" line="222" column="1" />
       </file>
@@ -264,6 +280,9 @@
         <mark key="[" line="18" column="7" />
         <mark key="]" line="18" column="7" />
         <mark key="." line="18" column="7" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/Pingplusplus/pingpp-java/2.2.4/pingpp-java-2.2.4.jar!/com/pingplusplus/exception/InvalidRequestException.class" timestamp="1511426969002">
+        <mark key="'" line="7" column="13" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/pingplusplus/pingpp-java-account/1.2.1/pingpp-java-account-1.2.1.jar!/com/pingplusplus/model/SettleAccount.class" timestamp="1511424415137" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/constant/payment/PayOrderChannelEnum.java" timestamp="1511421946257">
@@ -352,16 +371,13 @@
       <file name="/fragment.java" timestamp="1511425024196">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/payment/royalty/PayRoyaltySettlementService.java" timestamp="1511427772912">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="3" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/authentication/platformAuthentication-mapper.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/authentication/platformAuthentication-mapper.xml" />
-      <jump line="170" column="0" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/authentication/platformAuthentication-mapper.xml" />
-      <jump line="150" column="0" filename="/opt/software/jdk1.8.0_144/src.zip!/java/lang/Object.java" />
-      <jump line="65" column="18" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/nice/NiceModule.java" />
-      <jump line="2" column="0" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/framework/utils/ExportJudgeUtil.java" />
-      <jump line="93" column="13" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/redisCache/aaa.vue" />
-      <jump line="203" column="0" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/redisCache/aaa.vue" />
       <jump line="6" column="0" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/redisCache/redisCache-mapper.xml" />
       <jump line="83" column="6" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/app/portal/LoginAppController.java" />
       <jump line="77" column="44" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/spring/spring-hsf-service.xml" />
@@ -454,13 +470,21 @@
       <jump line="14" column="13" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/nice/NiceEntity.java" />
       <jump line="87" column="0" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/nice/NiceEntity.java" />
       <jump line="29" column="45" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/account/AccountServiceImpl.java" />
+      <jump line="95" column="0" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/order/PayOrderServiceImpl.java" />
+      <jump line="219" column="0" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/order/PayOrderServiceImpl.java" />
+      <jump line="25" column="5" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/order/PayOrderServiceImpl.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/order/PayOrderServiceImpl.java" />
+      <jump line="208" column="39" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/order/PayOrderServiceImpl.java" />
+      <jump line="125" column="53" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/order/PayOrderServiceImpl.java" />
+      <jump line="124" column="105" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/order/PayOrderServiceImpl.java" />
+      <jump line="7" column="13" filename="$MAVEN_REPOSITORY$/Pingplusplus/pingpp-java/2.2.4/pingpp-java-2.2.4.jar!/com/pingplusplus/exception/InvalidRequestException.class" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBtZXRob2Qg5YiG5ram5pa55byP44CC55uu5YmN5pSv5oyB5rig6YGT77yaIHd4X3B1YiDvvIjlvq7kv6HlhazkvJflj7fvvInjgIEgd3hfbGl0ZSDvvIjlvq7kv6HlsI/nqIvluo/vvInjgIEgYWxpcGF5IO+8iOaUr+S7mOWune+8ieOAgSB1bmlvbnBheSDvvIjpk7bogZTvvInjgIEgdW5pb25wYXlfZ3og77yI6LS15bee6ZO26IGU77yJ44CBIGFsbGlucGF5IO+8iOmAmuiBlO+8ieWSjCBqZHBheSDvvIjkuqzkuJzvvInku6Xlj4ogYmFsYW5jZSDvvIjkvZnpop3vvInjgIIK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>method</text>
       </register>
       <register name="/" type="4">
         <text>person</text>
@@ -469,31 +493,31 @@
         <text>com.mvcc.entity.payment.account.SubAccountInfoEntity</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBtZXRob2Qg5YiG5ram5pa55byP44CC55uu5YmN5pSv5oyB5rig6YGT77yaIHd4X3B1YiDvvIjlvq7kv6HlhazkvJflj7fvvInjgIEgd3hfbGl0ZSDvvIjlvq7kv6HlsI/nqIvluo/vvInjgIEgYWxpcGF5IO+8iOaUr+S7mOWune+8ieOAgSB1bmlvbnBheSDvvIjpk7bogZTvvInjgIEgdW5pb25wYXlfZ3og77yI6LS15bee6ZO26IGU77yJ44CBIGFsbGlucGF5IO+8iOmAmuiBlO+8ieWSjCBqZHBheSDvvIjkuqzkuJzvvInku6Xlj4ogYmFsYW5jZSDvvIjkvZnpop3vvInjgIIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiAxNy0xMS0yMyDkv53lrZjliJvlu7rnmoTnu5PnrpfotKblj7cK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYXlTZXR0bGVBY2NvdW50U2VydmljZS5jcmVhdGVBbGlTZXR0bGVBY2NvdW50KCJ0ZXN0XzAwMDEiLCIxMjNAcXEuY29tIiwiemhhbmdzYW4iLCJiMmMiKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICBPcmRlciBvcmRlcjEgPSBwaW5nUFBPcmRlclNlcnZpY2UucGF5T3JkZXIoIjIyMjEwMTkzMTk0MTgxNzc3MjQiLCAxMDAsICJhbGlwYXkiLCBudWxsLCAiMjIyMTAxOTMxOTQxODE3NzcyMCIsCiAgICAgICAgICAgICAgICAxNTExMjUzNjAwKTs=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIFNldHRsZUFjY291bnQK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiAxNy0xMS0yMyDkv53lrZjliJvlu7rnmoTnu5PnrpfotKblj7cK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBwYXlTZXR0bGVBY2NvdW50U2VydmljZS5jcmVhdGVBbGlTZXR0bGVBY2NvdW50KCJ0ZXN0XzAwMDEiLCIxMjNAcXEuY29tIiwiemhhbmdzYW4iLCJiMmMiKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgICBPcmRlciBvcmRlcjEgPSBwaW5nUFBPcmRlclNlcnZpY2UucGF5T3JkZXIoIjIyMjEwMTkzMTk0MTgxNzc3MjQiLCAxMDAsICJhbGlwYXkiLCBudWxsLCAiMjIyMTAxOTMxOTQxODE3NzcyMCIsCiAgICAgICAgICAgICAgICAxNTExMjUzNjAwKTs=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxpbnNlcnQgaWQ9IiIK</text>
+        <text encoding="base64">ICAgIFNldHRsZUFjY291bnQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZXR0bGVBY2NvdW50Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
@@ -617,6 +641,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
