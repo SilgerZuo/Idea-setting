@@ -20,7 +20,6 @@
       <mask>*java</mask>
       <mask>*xm.</mask>
       <mask>*xm</mask>
-      <mask>*xml</mask>
       <mask>*.java</mask>
       <mask>*.jav</mask>
       <mask>*.ja</mask>
@@ -29,6 +28,7 @@
       <mask>*.v</mask>
       <mask>*.vu</mask>
       <mask>*.vue</mask>
+      <mask>*xml</mask>
     </recentFileMasks>
   </component>
 </application>
