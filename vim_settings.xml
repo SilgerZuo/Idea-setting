@@ -142,6 +142,12 @@
       <file name="$USER_HOME$/下载/spring-boot-quartz-demo/src/main/resources/application.properties" timestamp="1511501974549">
         <mark key="[" line="9" column="24" />
       </file>
+      <file name="$USER_HOME$/下载/spring-boot-quartz-demo/src/main/java/com/kaviddiss/bootquartz/service/TestSamplerService.java" timestamp="1511508964709">
+        <mark key="[" line="17" column="63" />
+        <mark key="]" line="17" column="63" />
+        <mark key="^" line="17" column="76" />
+        <mark key="." line="17" column="63" />
+      </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/station/station-mapper.xml" timestamp="1510886815416">
         <mark key="[" line="80" column="16" />
         <mark key="]" line="80" column="16" />
@@ -206,11 +212,11 @@
         <mark key="." line="38" column="71" />
         <mark key="^" line="38" column="76" />
       </file>
-      <file name="$USER_HOME$/下载/spring-boot-quartz-demo/src/main/java/com/kaviddiss/bootquartz/service/TestSampleServiceImpl.java" timestamp="1511507852693">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="22" column="97" />
-        <mark key="^" line="22" column="97" />
-        <mark key="." line="22" column="97" />
+      <file name="$USER_HOME$/下载/spring-boot-quartz-demo/src/main/java/com/kaviddiss/bootquartz/service/TestSampleServiceImpl.java" timestamp="1511510158960">
+        <mark key="[" line="43" column="38" />
+        <mark key="]" line="22" column="74" />
+        <mark key="." line="22" column="74" />
+        <mark key="^" line="22" column="74" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d8874501-6c64-497e-9ab5-718f798f8b35/console.sql" timestamp="1510902962686">
         <mark key="[" line="14" column="18" />
@@ -292,10 +298,10 @@
         <mark key="^" line="90" column="33" />
         <mark key="." line="90" column="33" />
       </file>
-      <file name="$USER_HOME$/下载/spring-boot-quartz-demo/src/main/java/com/kaviddiss/bootquartz/TestSchedualerConfig.java" timestamp="1511507143507">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/下载/spring-boot-quartz-demo/src/main/java/com/kaviddiss/bootquartz/TestSchedualerConfig.java" timestamp="1511509775889">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/pom.xml" timestamp="1511428501810">
         <mark key="[" line="65" column="21" />
@@ -423,10 +429,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgZXhlY3V0ZUludGVybmFsKEpvYkV4ZWN1dGlvbkNvbnRleHQgam9iRXhlY3V0aW9uQ29udGV4dCkgdGhyb3dzIEpvYkV4ZWN1dGlvbkV4Y2VwdGlvbiB7CiAgICB9</text>
+        <text>Serializable</text>
       </register>
       <register name="-" type="4">
-        <text>group</text>
+        <text>Serializable</text>
       </register>
       <register name="/" type="4">
         <text>person</text>
@@ -434,32 +440,32 @@
       <register name="0" type="4">
         <text>com.mvcc.entity.payment.account.SubAccountInfoEntity</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgZXhlY3V0ZUludGVybmFsKEpvYkV4ZWN1dGlvbkNvbnRleHQgam9iRXhlY3V0aW9uQ29udGV4dCkgdGhyb3dzIEpvYkV4ZWN1dGlvbkV4Y2VwdGlvbiB7CiAgICB9</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBqb2JFeGVjdXRpb25Db250ZXh0Lgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIFRlc3RTYW1wbGVyU2VydmljZSB0ZXN0U2FtcGxlclNlcnZpY2U7</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtZXRob2RJbnZva2luZ0pvYkRldGFpbEZhY3RvcnlCZWFuLgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0cmlnZ2VyLnNldEpvYk5hbWUK</text>
-      </register>
-      <register name="8" type="2">
+      <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBDcm9uVHJpZ2dlckltCg==</text>
       </register>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICBUcmlnZ2VyS2V5IHRyaWdnZXJLZXkgPSBuZXcgVHJpZ2dlcktleSgidGVzdE5hbWUiLCAidGVzdEdyb3VwIik7CiAgICAgICAgU2ltcGxlVHJpZ2dlckltcGwgdHJpZ2dlciA9IG5ldyBTaW1wbGVUcmlnZ2VySW1wbCgpOwogICAgICAgIHRyaWdnZXIuc2V0Sm9iTmFtZShqb2JEZXRhaWwuZ2V0S2V5KCkuZ2V0TmFtZSgpKTsKICAgICAgICB0cmlnZ2VyLnNldFJlcGVhdENvdW50KDApOwogICAgICAgIHRyaWdnZXIuc2V0UmVwZWF0SW50ZXJ2YWwoMTApOw==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBzY2hlZHVsZXIuYWRkSm9iKGpvYkRldGFpbCx0cnVlKTsKICAgICAgICB9IGNhdGNoIChTY2hlZHVsZXJFeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0KICAgICAgICB0cnkgewogICAgICAgICAgICBpZiAoc2NoZWR1bGVyLmNoZWNrRXhpc3RzKHRyaWdnZXJLZXkpKSB7CiAgICAgICAgICAgICAgICBzY2hlZHVsZXIucmVzY2hlZHVsZUpvYih0cmlnZ2VyS2V5LCB0cmlnZ2VyKTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIHNjaGVkdWxlci5zY2hlZHVsZUpvYih0cmlnZ2VyKTsKICAgICAgICAgICAgfQogICAgICAgIH0gY2F0Y2ggKFNjaGVkdWxlckV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQ==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLm4gPSBuOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgZXhlY3V0ZUludGVybmFsKEpvYkV4ZWN1dGlvbkNvbnRleHQgam9iRXhlY3V0aW9uQ29udGV4dCkgdGhyb3dzIEpvYkV4ZWN1dGlvbkV4Y2VwdGlvbiB7CgogICAgfQ==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBtZXRob2RJbnZva2luZ0pvYkRldGFpbEZhY3RvcnlCZWFuLnNldAo=</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgZXhlY3V0ZUludGVybmFsKEpvYkV4ZWN1dGlvbkNvbnRleHQgam9iRXhlY3V0aW9uQ29udGV4dCkgdGhyb3dzIEpvYkV4ZWN1dGlvbkV4Y2VwdGlvbiB7CiAgICB9</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzaW1wbGVUcmlnZ2VyRmFjdG9yeUJlYW4uc2V0Cg==</text>
+        <text encoding="base64">ICAgICAgICBqb2JFeGVjdXRpb25Db250ZXh0Lgo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
