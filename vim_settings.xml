@@ -9,6 +9,7 @@
       <file name="/a.dummy" timestamp="1511421160851">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/MQMessage/platformAuthentication/CreateUserForFirstLogin.java" timestamp="1511514021261" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/order/test.java" timestamp="1511400030730">
         <mark key="[" line="26" column="35" />
         <mark key="]" line="28" column="19" />
@@ -33,7 +34,12 @@
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/coupon/couponServiceImpl.java" timestamp="1510901144891">
         <mark key="[" line="12" column="31" />
       </file>
-      <file name="$USER_HOME$/下载/spring-boot-quartz-demo/src/main/resources/db/changelog/db.changelog-master.xml" timestamp="1511512204473" />
+      <file name="$USER_HOME$/下载/spring-boot-quartz-demo/src/main/resources/db/changelog/db.changelog-master.xml" timestamp="1511515777495">
+        <mark key="[" line="7" column="55" />
+        <mark key="]" line="7" column="55" />
+        <mark key="." line="7" column="55" />
+        <mark key="^" line="11" column="38" />
+      </file>
       <file name="$USER_HOME$/下载/spring-boot-quartz-demo/src/main/java/com/kaviddiss/bootquartz/service/SampleService.java" timestamp="1511504539480" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/CouponController.java" timestamp="1511403286908">
         <mark key="[" line="5" column="0" />
@@ -107,6 +113,7 @@
         <mark key="." line="38" column="71" />
         <mark key="^" line="38" column="76" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/authentication/PlatformAuthenticationServiceImpl.java" timestamp="1511513987582" />
       <file name="/a.sql" timestamp="1511425419124">
         <mark key="[" line="0" column="0" />
       </file>
@@ -232,11 +239,12 @@
         <mark key="^" line="17" column="31" />
         <mark key="." line="17" column="31" />
       </file>
-      <file name="$USER_HOME$/下载/spring-boot-quartz-demo/src/main/resources/application.properties" timestamp="1511513376692">
-        <mark key="[" line="0" column="22" />
-        <mark key="]" line="0" column="21" />
-        <mark key="^" line="0" column="21" />
-        <mark key="." line="0" column="21" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/generatorConfig.xml" timestamp="1511514561905" />
+      <file name="$USER_HOME$/下载/spring-boot-quartz-demo/src/main/resources/application.properties" timestamp="1511514794333">
+        <mark key="[" line="3" column="60" />
+        <mark key="]" line="3" column="60" />
+        <mark key="^" line="3" column="59" />
+        <mark key="." line="3" column="60" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/constant/payment/PayOrderChannelEnum.java" timestamp="1511421946257">
         <mark key="[" line="25" column="11" />
@@ -244,11 +252,11 @@
         <mark key="." line="25" column="11" />
         <mark key="^" line="20" column="30" />
       </file>
-      <file name="$USER_HOME$/下载/spring-boot-quartz-demo/src/main/java/com/kaviddiss/bootquartz/service/TestSampleServiceImpl.java" timestamp="1511513768712">
-        <mark key="[" line="21" column="9" />
-        <mark key="]" line="22" column="74" />
-        <mark key="." line="22" column="74" />
-        <mark key="^" line="22" column="74" />
+      <file name="$USER_HOME$/下载/spring-boot-quartz-demo/src/main/java/com/kaviddiss/bootquartz/service/TestSampleServiceImpl.java" timestamp="1511515726067">
+        <mark key="[" line="38" column="72" />
+        <mark key="]" line="39" column="39" />
+        <mark key="." line="39" column="39" />
+        <mark key="^" line="39" column="39" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d8874501-6c64-497e-9ab5-718f798f8b35/console.sql" timestamp="1510902962686">
         <mark key="[" line="14" column="18" />
@@ -271,7 +279,7 @@
         <mark key="." line="43" column="60" />
         <mark key="^" line="43" column="66" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511513588260">
+      <file name="/Dummy.txt" timestamp="1511515288787">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -427,10 +435,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>test</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>person</text>
@@ -439,31 +447,31 @@
         <text>com.mvcc.entity.payment.account.SubAccountInfoEntity</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBQb3N0Cg==</text>
+        <text encoding="base64">ICAgIFNjaGVkdWxlciBzY2hlZHVsZXI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBQb3N0TQo=</text>
+        <text encoding="base64">ICAgIEBQb3N0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QENvbXBvbmVudAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBACg==</text>
+        <text encoding="base64">ICAgIEBQb3N0TQo=</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">QENvbXBvbmVudAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBACg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBDcm9uVHJpZ2dlckltCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICAgICAgICBUcmlnZ2VyS2V5IHRyaWdnZXJLZXkgPSBuZXcgVHJpZ2dlcktleSgidGVzdE5hbWUiLCAidGVzdEdyb3VwIik7CiAgICAgICAgU2ltcGxlVHJpZ2dlckltcGwgdHJpZ2dlciA9IG5ldyBTaW1wbGVUcmlnZ2VySW1wbCgpOwogICAgICAgIHRyaWdnZXIuc2V0Sm9iTmFtZShqb2JEZXRhaWwuZ2V0S2V5KCkuZ2V0TmFtZSgpKTsKICAgICAgICB0cmlnZ2VyLnNldFJlcGVhdENvdW50KDApOwogICAgICAgIHRyaWdnZXIuc2V0UmVwZWF0SW50ZXJ2YWwoMTApOw==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBzY2hlZHVsZXIuYWRkSm9iKGpvYkRldGFpbCx0cnVlKTsKICAgICAgICB9IGNhdGNoIChTY2hlZHVsZXJFeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0KICAgICAgICB0cnkgewogICAgICAgICAgICBpZiAoc2NoZWR1bGVyLmNoZWNrRXhpc3RzKHRyaWdnZXJLZXkpKSB7CiAgICAgICAgICAgICAgICBzY2hlZHVsZXIucmVzY2hlZHVsZUpvYih0cmlnZ2VyS2V5LCB0cmlnZ2VyKTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIHNjaGVkdWxlci5zY2hlZHVsZUpvYih0cmlnZ2VyKTsKICAgICAgICAgICAgfQogICAgICAgIH0gY2F0Y2ggKFNjaGVkdWxlckV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQ==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm4gPSBuOwo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
