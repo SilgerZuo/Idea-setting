@@ -10,6 +10,12 @@
         <mark key="^" line="27" column="41" />
         <mark key="." line="173" column="49" />
       </file>
+      <file name="$USER_HOME$/下载/spring-boot-quartz-demo/src/main/java/com/kaviddiss/bootquartz/job/SampleJob.java" timestamp="1511502115391">
+        <mark key="[" line="15" column="65" />
+        <mark key="]" line="10" column="13" />
+        <mark key="^" line="10" column="13" />
+        <mark key="." line="10" column="13" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1511495214146">
         <mark key="[" line="0" column="1" />
       </file>
@@ -47,6 +53,7 @@
         <mark key="." line="0" column="35" />
         <mark key="^" line="0" column="35" />
       </file>
+      <file name="$USER_HOME$/下载/spring-boot-quartz-demo/src/main/resources/quartz.properties" timestamp="1511501854613" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/order/test.java" timestamp="1511400030730">
         <mark key="[" line="26" column="35" />
         <mark key="]" line="28" column="19" />
@@ -205,6 +212,9 @@
         <mark key="^" line="17" column="31" />
         <mark key="." line="17" column="31" />
       </file>
+      <file name="$USER_HOME$/下载/spring-boot-quartz-demo/src/main/resources/application.properties" timestamp="1511501974549">
+        <mark key="[" line="9" column="24" />
+      </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/station/station-mapper.xml" timestamp="1510886815416">
         <mark key="[" line="80" column="16" />
         <mark key="]" line="80" column="16" />
@@ -235,12 +245,6 @@
         <mark key="]" line="108" column="59" />
         <mark key="^" line="108" column="59" />
         <mark key="." line="108" column="59" />
-      </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/car/CarOwnerServiceImpl.java" timestamp="1511431185127">
-        <mark key="'" line="224" column="0" />
-        <mark key="[" line="223" column="0" />
-        <mark key="]" line="223" column="0" />
-        <mark key="." line="223" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/coupon/CouponService.java" timestamp="1510901207348">
         <mark key="[" line="17" column="32" />
@@ -322,12 +326,6 @@
       <file name="/HTML File.txt.ft" timestamp="1511426931022">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/order/PaymentOrderServiceImpl.java" timestamp="1511416400059">
-        <mark key="'" line="188" column="120" />
-        <mark key="[" line="67" column="35" />
-        <mark key="]" line="67" column="35" />
-        <mark key="." line="67" column="35" />
-      </file>
       <file name="/dummy.sql" timestamp="1511501775283">
         <mark key="[" line="0" column="0" />
       </file>
@@ -342,8 +340,9 @@
         <mark key="." line="43" column="60" />
         <mark key="^" line="43" column="66" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511495923601">
-        <mark key="[" line="0" column="3" />
+      <file name="$USER_HOME$/下载/spring-boot-quartz-demo/src/main/java/com/kaviddiss/bootquartz/SchedulerConfig.java" timestamp="1511502667000" />
+      <file name="/Dummy.txt" timestamp="1511502655660">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
@@ -373,6 +372,7 @@
         <mark key="^" line="3" column="18" />
         <mark key="." line="3" column="18" />
       </file>
+      <file name="$USER_HOME$/下载/spring-boot-quartz-demo/src/main/java/com/kaviddiss/bootquartz/spring/AutowiringSpringBeanJobFactory.java" timestamp="1511502104483" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/repository/payment/account/SubAccountInfoMapper.java" timestamp="1511418119374">
         <mark key="[" line="24" column="3" />
         <mark key="]" line="24" column="3" />
