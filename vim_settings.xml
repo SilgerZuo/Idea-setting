@@ -216,12 +216,12 @@
         <mark key="." line="39" column="39" />
         <mark key="^" line="39" column="39" />
       </file>
-      <file name="$USER_HOME$/下载/spring-boot-quartz-demo/src/main/java/com/kaviddiss/bootquartz/service/TestServiceImpl.java" timestamp="1511574698275">
+      <file name="$USER_HOME$/下载/spring-boot-quartz-demo/src/main/java/com/kaviddiss/bootquartz/service/TestServiceImpl.java" timestamp="1511575419199">
         <mark key="'" line="39" column="8" />
-        <mark key="[" line="43" column="30" />
-        <mark key="]" line="25" column="47" />
-        <mark key="." line="25" column="47" />
-        <mark key="^" line="25" column="47" />
+        <mark key="[" line="47" column="28" />
+        <mark key="]" line="47" column="28" />
+        <mark key="." line="47" column="28" />
+        <mark key="^" line="45" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d8874501-6c64-497e-9ab5-718f798f8b35/console.sql" timestamp="1510902962686">
         <mark key="[" line="14" column="18" />
@@ -451,10 +451,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>&quot;&quot;);</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>&quot;&quot;);</text>
       </register>
       <register name="/" type="4">
         <text>person</text>
