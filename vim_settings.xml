@@ -32,10 +32,10 @@
         <mark key="." line="25" column="28" />
         <mark key="^" line="25" column="28" />
       </file>
-      <file name="$USER_HOME$/下载/spring-boot-quartz-demo/src/main/resources/quartz.properties" timestamp="1511594631791">
-        <mark key="[" line="6" column="39" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/下载/spring-boot-quartz-demo/src/main/resources/quartz.properties" timestamp="1511595056664">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
         <mark key="^" line="4" column="66" />
       </file>
       <file name="$USER_HOME$/下载/spring-boot-quartz-demo/src/main/java/com/kaviddiss/bootquartz/job/MyJob.java" timestamp="1511581397086">
@@ -167,9 +167,8 @@
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/generatorConfig.xml" timestamp="1511591449350" />
       <file name="$USER_HOME$/下载/spring-boot-quartz-demo/src/main/resources/application.properties" timestamp="1511594371656">
-        <mark key="[" line="0" column="104" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/下载/spring-boot-quartz-demo/src/main/java/com/kaviddiss/bootquartz/service/TestSamplerService.java" timestamp="1511508964709">
         <mark key="[" line="17" column="63" />
@@ -285,9 +284,10 @@
       <file name="/dummy.sql" timestamp="1511593901221">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/下载/spring-boot-quartz-demo/src/main/java/com/kaviddiss/bootquartz/SchedulerConfig.java" timestamp="1511594673664">
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/下载/spring-boot-quartz-demo/src/main/java/com/kaviddiss/bootquartz/SchedulerConfig.java" timestamp="1511594968576">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/pingPP/coupon/CouponService.java" timestamp="1511401564631">
         <mark key="[" line="43" column="60" />
@@ -295,7 +295,7 @@
         <mark key="." line="43" column="60" />
         <mark key="^" line="43" column="66" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511593646181">
+      <file name="/Dummy.txt" timestamp="1511595264305">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -315,6 +315,7 @@
         <mark key="." line="12" column="11" />
         <mark key="^" line="12" column="11" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/authentication/PlatformAuthenticationController.java" timestamp="1511595287860" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/constant/payment/TransferTypeEnum.java" timestamp="1511421901752">
         <mark key="[" line="19" column="4" />
         <mark key="]" line="19" column="4" />
@@ -479,11 +480,11 @@
       <jump line="178" column="0" filename="$USER_HOME$/下载/spring-boot-quartz-demo/src/main/resources/db/changelog/sql/tables_mysql_innodb.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>org.quartz.jobStore.dataSource=dataSource</text>
       </register>
       <register name="-" type="4">
-        <text>springLiquibase</text>
+        <text>org.quartz.jobStore.dataSource=dataSource</text>
       </register>
       <register name="/" type="4">
         <text>person</text>
@@ -495,28 +496,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QENvbmRpdGlvbmFsT25CZWFuKFRlc3RTZXJ2aWNlLmNsYXNzKQo=</text>
+        <text encoding="base64">ICAgICAgICBkYXRhU291cmNlLnNldE5hbWUoImRhdGFTb3VyY2UiKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QENvbmRpdGlvbmFsT25CZWFuKFRlc3RTZXJ2aWNlLmNsYXNzKQo=</text>
+        <text encoding="base64">ICAgIEBCZWFuKG5hbWU9ImRhdGFTb3VyY2UiKQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bGlxdWliYXNlLmNoYW5nZS1sb2c9Y2xhc3NwYXRoOmRiL2NoYW5nZWxvZy9kYi5jaGFuZ2Vsb2ctbWFzdGVyLnhtbAo=</text>
+        <text encoding="base64">QENvbmRpdGlvbmFsT25CZWFuKFRlc3RTZXJ2aWNlLmNsYXNzKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QENvbmRpdGlvbmFsT25CZWFuKFRlc3RTZXJ2aWNlLmNsYXNzKQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInNpbXBsZUpvYiBpcyBydW5uaW5nIik7CiAgICAgICAgU2NoZWR1bGVyIHNjaGVkdWxlciA9IGpvYkV4ZWN1dGlvbkNvbnRleHQuZ2V0U2NoZWR1bGVyKCk7CiAgICAgICAgSm9iS2V5IGtleSA9IGpvYkV4ZWN1dGlvbkNvbnRleHQuZ2V0Sm9iRGV0YWlsKCkuZ2V0S2V5KCk7CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgc2NoZWR1bGVyLmRlbGV0ZUpvYihrZXkpOwogICAgICAgIH0gY2F0Y2ggKFNjaGVkdWxlckV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQogICAgICAgIHRyeSB7CiAgICAgICAgICAgIHRlc3RTZXJ2aWNlLmNyZWF0ZSgpOwogICAgICAgIH0gY2F0Y2ggKFNjaGVkdWxlckV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">bGlxdWliYXNlLmNoYW5nZS1sb2c9Y2xhc3NwYXRoOmRiL2NoYW5nZWxvZy9kYi5jaGFuZ2Vsb2ctbWFzdGVyLnhtbAo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+b3JnLmxpcXVpYmFzZTwvZ3JvdXBJZD4KCQkJPGFydGlmYWN0SWQ+bGlxdWliYXNlLWNvcmU8L2FydGlmYWN0SWQ+CgkJPC9kZXBlbmRlbmN5Pg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
