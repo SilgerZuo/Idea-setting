@@ -29,6 +29,7 @@
       <file name="/XSLT Stylesheet.txt.ft" timestamp="1510735070591">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/pingplusplus/pingpp-java-account/1.2.1/pingpp-java-account-1.2.1.jar!/com/pingplusplus/model/Coupon.class" timestamp="1511601592212" />
       <file name="$USER_HOME$/下载/spring-boot-quartz-demo/src/main/java/com/kaviddiss/bootquartz/service/bootWay/BootWay.java" timestamp="1511512148346">
         <mark key="[" line="26" column="52" />
         <mark key="]" line="25" column="28" />
@@ -50,6 +51,7 @@
         <mark key="^" line="34" column="11" />
         <mark key="." line="48" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/royalty/PayRoyaltySettlementServiceImpl.java" timestamp="1511601408478" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/order/test.java" timestamp="1511400030730">
         <mark key="[" line="26" column="35" />
         <mark key="]" line="28" column="19" />
@@ -145,12 +147,6 @@
         <mark key="^" line="12" column="49" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/spring/spring-jdbc.xml" timestamp="1511591260621" />
-      <file name="$USER_HOME$/下载/spring-boot-quartz-demo/src/main/resources/db/changelog/sql/tables_mysql_innodb.sql" timestamp="1511592606806">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/constant/payment/PayOrderChannelConstantEnum.java" timestamp="1511421033957">
         <mark key="[" line="15" column="12" />
         <mark key="]" line="15" column="20" />
@@ -261,6 +257,12 @@
         <mark key="." line="39" column="39" />
         <mark key="^" line="39" column="39" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/coupon/PayCouponTemplateServiceImpl.java" timestamp="1511601857691">
+        <mark key="[" line="19" column="5" />
+        <mark key="]" line="18" column="25" />
+        <mark key="." line="18" column="25" />
+        <mark key="^" line="18" column="25" />
+      </file>
       <file name="$USER_HOME$/下载/spring-boot-quartz-demo/src/main/java/com/kaviddiss/bootquartz/service/TestServiceImpl.java" timestamp="1511596758387">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
@@ -319,7 +321,7 @@
         <mark key="." line="43" column="60" />
         <mark key="^" line="43" column="66" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511599122383">
+      <file name="/Dummy.txt" timestamp="1511601294261">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -504,9 +506,8 @@
       <jump line="178" column="0" filename="$USER_HOME$/下载/spring-boot-quartz-demo/src/main/resources/db/changelog/sql/tables_mysql_innodb.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1. 增加quartz
-2. 修改一些不能運行的地方</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBCYXNlCg==</text>
       </register>
       <register name="-" type="4">
         <text>SampleJob</text>
@@ -517,33 +518,33 @@
       <register name="0" type="4">
         <text>com.mvcc.entity.payment.account.SubAccountInfoEntity</text>
       </register>
-      <register name="1" type="4">
-        <text>1. 增加quartz
-2. 修改一些不能運行的地方</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBCYXNlCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICBDb3Vwb24K</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5rYXZpZGRpc3MuYm9vdHF1YXJ0ei5zcHJpbmcuQXV0b3dpcmluZ1NwcmluZ0JlYW5Kb2JGYWN0b3J5Owo=</text>
+      <register name="4" type="4">
+        <text>1. 增加quartz
+2. 修改一些不能運行的地方</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5rYXZpZGRpc3MuYm9vdHF1YXJ0ei5qb2IuU2FtcGxlSm9iOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBqb2JGYWN0b3J5Lgo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5rYXZpZGRpc3MuYm9vdHF1YXJ0ei5zcHJpbmcuQXV0b3dpcmluZ1NwcmluZ0JlYW5Kb2JGYWN0b3J5Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBqb2JGYWN0b3J5LnNldEFwcGxpY2F0aW9uQ29udGV4dChhcHBsaWNhdGlvbkNvbnRleHQpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5rYXZpZGRpc3MuYm9vdHF1YXJ0ei5qb2IuU2FtcGxlSm9iOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBBdXRvd2lyaW5nU3ByaW5nQmVhbkpvYkZhY3Rvcnkgam9iRmFjdG9yeSA9IG5ldyBBdXRvd2lyaW5nU3ByaW5nQmVhbkpvYkZhY3RvcnkoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
