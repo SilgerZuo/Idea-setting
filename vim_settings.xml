@@ -23,6 +23,9 @@
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/payment/account/PayAccountService.java" timestamp="1511491706816">
         <mark key="[" line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/pom.xml" timestamp="1511597374545">
+        <mark key="[" line="12" column="0" />
+      </file>
       <file name="/XSLT Stylesheet.txt.ft" timestamp="1510735070591">
         <mark key="[" line="0" column="0" />
       </file>
@@ -32,14 +35,20 @@
         <mark key="." line="25" column="28" />
         <mark key="^" line="25" column="28" />
       </file>
-      <file name="$USER_HOME$/下载/spring-boot-quartz-demo/src/main/resources/quartz.properties" timestamp="1511595056664">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="4" column="66" />
+      <file name="$USER_HOME$/下载/spring-boot-quartz-demo/src/main/resources/quartz.properties" timestamp="1511596077305">
+        <mark key="[" line="23" column="46" />
+        <mark key="]" line="23" column="46" />
+        <mark key="." line="23" column="46" />
+        <mark key="^" line="24" column="37" />
       </file>
       <file name="$USER_HOME$/下载/spring-boot-quartz-demo/src/main/java/com/kaviddiss/bootquartz/job/MyJob.java" timestamp="1511581397086">
         <mark key="[" line="16" column="19" />
+      </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/schedual/WithdrawalsSchedual.java" timestamp="1511597900483">
+        <mark key="[" line="47" column="9" />
+        <mark key="]" line="48" column="0" />
+        <mark key="^" line="34" column="11" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/order/test.java" timestamp="1511400030730">
         <mark key="[" line="26" column="35" />
@@ -98,6 +107,11 @@
         <mark key="." line="7" column="54" />
         <mark key="^" line="11" column="38" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/test/java/com/mvcc/service/impl/payment/royalty/PayRoyaltySettlementServiceImplTest.java" timestamp="1511597950835">
+        <mark key="[" line="26" column="4" />
+        <mark key="]" line="26" column="4" />
+        <mark key="." line="26" column="4" />
+      </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/coupon/couponService.java" timestamp="1510901173033">
         <mark key="[" line="12" column="17" />
         <mark key="]" line="12" column="17" />
@@ -115,6 +129,11 @@
       </file>
       <file name="/ActionScript File Header.txt.ft" timestamp="1510735109117">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/schedual/SchedulerConfig.java" timestamp="1511599079512">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/ProviderApplicationMain.java" timestamp="1511428594128">
         <mark key="[" line="12" column="34" />
@@ -166,9 +185,14 @@
         <mark key="." line="17" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/generatorConfig.xml" timestamp="1511591449350" />
-      <file name="$USER_HOME$/下载/spring-boot-quartz-demo/src/main/resources/application.properties" timestamp="1511594371656">
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/下载/spring-boot-quartz-demo/src/main/resources/application.properties" timestamp="1511598719240">
+        <mark key="[" line="8" column="46" />
+        <mark key="]" line="12" column="52" />
+        <mark key="." line="12" column="52" />
+        <mark key="^" line="12" column="52" />
+      </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/match/MatchServiceImpl.java" timestamp="1511598161793">
+        <mark key="[" line="373" column="52" />
       </file>
       <file name="$USER_HOME$/下载/spring-boot-quartz-demo/src/main/java/com/kaviddiss/bootquartz/service/TestSamplerService.java" timestamp="1511508964709">
         <mark key="[" line="17" column="63" />
@@ -218,6 +242,7 @@
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/station/StationController.java" timestamp="1510884885831">
         <mark key="[" line="83" column="5" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/quartz.properties" timestamp="1511598871543" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/resources/spring/spring-hsf-reference.xml" timestamp="1511492129067">
         <mark key="[" line="176" column="39" />
         <mark key="]" line="176" column="39" />
@@ -236,11 +261,10 @@
         <mark key="." line="39" column="39" />
         <mark key="^" line="39" column="39" />
       </file>
-      <file name="$USER_HOME$/下载/spring-boot-quartz-demo/src/main/java/com/kaviddiss/bootquartz/service/TestServiceImpl.java" timestamp="1511583192304">
-        <mark key="[" line="59" column="102" />
-        <mark key="]" line="58" column="52" />
-        <mark key="." line="58" column="52" />
-        <mark key="^" line="58" column="52" />
+      <file name="$USER_HOME$/下载/spring-boot-quartz-demo/src/main/java/com/kaviddiss/bootquartz/service/TestServiceImpl.java" timestamp="1511596758387">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d8874501-6c64-497e-9ab5-718f798f8b35/console.sql" timestamp="1510902962686">
         <mark key="[" line="14" column="18" />
@@ -281,13 +305,13 @@
       <file name="/HTML File.txt.ft" timestamp="1511426931022">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1511593901221">
+      <file name="/dummy.sql" timestamp="1511596485845">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/下载/spring-boot-quartz-demo/src/main/java/com/kaviddiss/bootquartz/SchedulerConfig.java" timestamp="1511594968576">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/下载/spring-boot-quartz-demo/src/main/java/com/kaviddiss/bootquartz/SchedulerConfig.java" timestamp="1511597640541">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/pingPP/coupon/CouponService.java" timestamp="1511401564631">
         <mark key="[" line="43" column="60" />
@@ -295,10 +319,10 @@
         <mark key="." line="43" column="60" />
         <mark key="^" line="43" column="66" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511595264305">
+      <file name="/Dummy.txt" timestamp="1511599122383">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="3" />
-        <mark key="." line="0" column="3" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/Singleton.txt.ft" timestamp="1510734917582">
         <mark key="[" line="0" column="0" />
@@ -322,8 +346,8 @@
         <mark key="." line="19" column="4" />
         <mark key="^" line="15" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/application.properties" timestamp="1511416982143">
-        <mark key="[" line="3" column="21" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/application.properties" timestamp="1511598503820">
+        <mark key="[" line="12" column="26" />
         <mark key="]" line="3" column="18" />
         <mark key="^" line="3" column="18" />
         <mark key="." line="3" column="18" />
@@ -362,7 +386,7 @@
         <mark key="." line="12" column="38" />
         <mark key="^" line="12" column="38" />
       </file>
-      <file name="$USER_HOME$/下载/spring-boot-quartz-demo/pom.xml" timestamp="1511593668660">
+      <file name="$USER_HOME$/下载/spring-boot-quartz-demo/pom.xml" timestamp="1511597547661">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
@@ -373,7 +397,7 @@
         <mark key="." line="28" column="22" />
         <mark key="^" line="28" column="22" />
       </file>
-      <file name="/fragment.java" timestamp="1511517521422">
+      <file name="/fragment.java" timestamp="1511597281949">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -481,10 +505,11 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>org.quartz.jobStore.dataSource=dataSource</text>
+        <text>1. 增加quartz
+2. 修改一些不能運行的地方</text>
       </register>
       <register name="-" type="4">
-        <text>org.quartz.jobStore.dataSource=dataSource</text>
+        <text>SampleJob</text>
       </register>
       <register name="/" type="4">
         <text>person</text>
@@ -492,32 +517,33 @@
       <register name="0" type="4">
         <text>com.mvcc.entity.payment.account.SubAccountInfoEntity</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>1. 增加quartz
+2. 修改一些不能運行的地方</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhU291cmNlLnNldE5hbWUoImRhdGFTb3VyY2UiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBCZWFuKG5hbWU9ImRhdGFTb3VyY2UiKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5rYXZpZGRpc3MuYm9vdHF1YXJ0ei5zcHJpbmcuQXV0b3dpcmluZ1NwcmluZ0JlYW5Kb2JGYWN0b3J5Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QENvbmRpdGlvbmFsT25CZWFuKFRlc3RTZXJ2aWNlLmNsYXNzKQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5rYXZpZGRpc3MuYm9vdHF1YXJ0ei5qb2IuU2FtcGxlSm9iOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QENvbmRpdGlvbmFsT25CZWFuKFRlc3RTZXJ2aWNlLmNsYXNzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBqb2JGYWN0b3J5Lgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bGlxdWliYXNlLmNoYW5nZS1sb2c9Y2xhc3NwYXRoOmRiL2NoYW5nZWxvZy9kYi5jaGFuZ2Vsb2ctbWFzdGVyLnhtbAo=</text>
+        <text encoding="base64">ICAgICAgICBqb2JGYWN0b3J5LnNldEFwcGxpY2F0aW9uQ29udGV4dChhcHBsaWNhdGlvbkNvbnRleHQpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBBdXRvd2lyaW5nU3ByaW5nQmVhbkpvYkZhY3Rvcnkgam9iRmFjdG9yeSA9IG5ldyBBdXRvd2lyaW5nU3ByaW5nQmVhbkpvYkZhY3RvcnkoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
