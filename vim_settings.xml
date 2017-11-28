@@ -262,7 +262,11 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/learnSocket/src/Quene/Student.java" timestamp="1511871803462" />
+      <file name="$USER_HOME$/IdeaProjects/learnSocket/src/Quene/Student.java" timestamp="1511872479211">
+        <mark key="[" line="54" column="9" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/account/PayAccountServiceImpl.java" timestamp="1511425738746">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="0" />
@@ -512,8 +516,8 @@
       <jump line="187" column="0" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/payment/order/PayOrderService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>选填，不用则传null ,服务方 app 对象的 id ，默认为订单应用。表示承接该交易服务的应用，由服务方和平台确定订单的层级链都能查询到该 order 对象。</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgeiAgY291bnREb3duTGF0Y2guY291bnREb3duKCk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>选填，不用则传null ,服务方 app 对象的 id ，默认为订单应用。表示承接该交易服务的应用，由服务方和平台确定订单的层级链都能查询到该 order 对象。</text>
@@ -525,31 +529,31 @@
         <text>com.mvcc.entity.payment.account.SubAccountInfoEntity</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBjaGFyZ2Vfb3JkZXJfbm8g6YCJ5aGr77yM5LiN55So5YiZ5LygbnVsbCAsIOaUr+S7mOS9v+eUqOeahOWVhuaIt+iuouWNleWPt++8jOm7mOiupOS9v+eUqOiuouWNleWvueixoeS4reeahOWVhuaIt+iuouWNleWPt+OAguW9k+WVhuaIt+iuouWNleWPt+WcqOa4oOmBk+iiq+S9v+eUqOaXtu+8jOmcgOabtOaNouaWsOeahOWVhuaIt+iuouWNleWPt+OAggo=</text>
+        <text encoding="base64">ICAgICAgeiAgY291bnREb3duTGF0Y2guY291bnREb3duKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBleHRyYSDpgInloavvvIzkuI3nlKjliJnkvKBudWxsIO+8jOeJueWumua4oOmBk+WPkei1t+S6pOaYk+aXtumcgOimgeeahOmineWkluWPguaVsO+8jOS7peWPiumDqOWIhua4oOmBk+aUr+S7mOaIkOWKn+i/lOWbnueahOmineWkluWPguaVsO+8jOivpue7huWPguiAgyDmlK/ku5jmuKDpgZMgZXh0cmEg5Y+C5pWw6K+05piOIOOAguWmgumFjee9ruivt+eCueWHu++8jGh0dHBzOi8vd3d3LnBpbmd4eC5jb20vYXBpP2xhbmd1YWdlPUphdmEjJUU2JTk0JUFGJUU0JUJCJTk4JUU2JUI4JUEwJUU5JTgxJTkzLWV4dHJhLSVFNSU4RiU4MiVFNiU5NSVCMCVFOCVBRiVCNCVFNiU5OCU4RQo=</text>
+        <text encoding="base64">ICAgICAgeiAgY291bnREb3duTGF0Y2guY291bnREb3duKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBleHRyYSDpgInloavvvIzkuI3nlKjliJnkvKBudWxsIO+8jOeJueWumua4oOmBk+WPkei1t+S6pOaYk+aXtumcgOimgeeahOmineWkluWPguaVsO+8jOS7peWPiumDqOWIhua4oOmBk+aUr+S7mOaIkOWKn+i/lOWbnueahOmineWkluWPguaVsO+8jOivpue7huWPguiAgyDmlK/ku5jmuKDpgZMgZXh0cmEg5Y+C5pWw6K+05piOIOOAguWmgumFjee9ruivt+eCueWHu++8jGh0dHBzOi8vd3d3LnBpbmd4eC5jb20vYXBpP2xhbmd1YWdlPUphdmEjJUU2JTk0JUFGJUU0JUJCJTk4JUU2JUI4JUEwJUU5JTgxJTkzLWV4dHJhLSVFNSU4RiU4MiVFNiU5NSVCMCVFOCVBRiVCNCVFNiU5OCU4RQo=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBjaGFyZ2Vfb3JkZXJfbm8g6YCJ5aGr77yM5LiN55So5YiZ5LygbnVsbCAsIOaUr+S7mOS9v+eUqOeahOWVhuaIt+iuouWNleWPt++8jOm7mOiupOS9v+eUqOiuouWNleWvueixoeS4reeahOWVhuaIt+iuouWNleWPt+OAguW9k+WVhuaIt+iuouWNleWPt+WcqOa4oOmBk+iiq+S9v+eUqOaXtu+8jOmcgOabtOaNouaWsOeahOWVhuaIt+iuouWNleWPt+OAggo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbU1hcC5wdXQoImV4dHJhIiwgZXh0cmEpOwo=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBleHRyYSDpgInloavvvIzkuI3nlKjliJnkvKBudWxsIO+8jOeJueWumua4oOmBk+WPkei1t+S6pOaYk+aXtumcgOimgeeahOmineWkluWPguaVsO+8jOS7peWPiumDqOWIhua4oOmBk+aUr+S7mOaIkOWKn+i/lOWbnueahOmineWkluWPguaVsO+8jOivpue7huWPguiAgyDmlK/ku5jmuKDpgZMgZXh0cmEg5Y+C5pWw6K+05piOIOOAguWmgumFjee9ruivt+eCueWHu++8jGh0dHBzOi8vd3d3LnBpbmd4eC5jb20vYXBpP2xhbmd1YWdlPUphdmEjJUU2JTk0JUFGJUU0JUJCJTk4JUU2JUI4JUEwJUU5JTgxJTkzLWV4dHJhLSVFNSU4RiU4MiVFNiU5NSVCMCVFOCVBRiVCNCVFNiU5OCU4RQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBNYXAgZXh0cmEsCg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBleHRyYSDpgInloavvvIzkuI3nlKjliJnkvKBudWxsIO+8jOeJueWumua4oOmBk+WPkei1t+S6pOaYk+aXtumcgOimgeeahOmineWkluWPguaVsO+8jOS7peWPiumDqOWIhua4oOmBk+aUr+S7mOaIkOWKn+i/lOWbnueahOmineWkluWPguaVsO+8jOivpue7huWPguiAgyDmlK/ku5jmuKDpgZMgZXh0cmEg5Y+C5pWw6K+05piOIOOAguWmgumFjee9ruivt+eCueWHu++8jGh0dHBzOi8vd3d3LnBpbmd4eC5jb20vYXBpP2xhbmd1YWdlPUphdmEjJUU2JTk0JUFGJUU0JUJCJTk4JUU2JUI4JUEwJUU5JTgxJTkzLWV4dHJhLSVFNSU4RiU4MiVFNiU5NSVCMCVFOCVBRiVCNCVFNiU5OCU4RQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICBNYXAgZXh0cmEsCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBwYXJhbU1hcC5wdXQoImV4dHJhIiwgZXh0cmEpOwo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBNYXAgZXh0cmEsCg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICBNYXAgZXh0cmEsCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBwYXJhbU1hcC5wdXQoImV4dHJhIiwgZXh0cmEpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
