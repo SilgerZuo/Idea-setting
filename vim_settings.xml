@@ -3,24 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/payment/account/PayDriverSubAccountService.java" timestamp="1511849555716">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="13" column="3" />
-        <mark key="^" line="13" column="3" />
-        <mark key="." line="13" column="3" />
-      </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/test/java/com/mvcc/service/impl/payment/account/PayUserServiceImplTest.java" timestamp="1511838999614">
-        <mark key="[" line="32" column="61" />
-        <mark key="]" line="32" column="61" />
-        <mark key="." line="32" column="61" />
-        <mark key="^" line="31" column="44" />
-      </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/repository/payment/coupon/LocalCouponTemplateMapper.java" timestamp="1511762259418">
-        <mark key="[" line="33" column="49" />
-        <mark key="]" line="30" column="16" />
-        <mark key="." line="30" column="16" />
-        <mark key="^" line="30" column="16" />
-      </file>
       <file name="/opt/software/jdk1.8.0_144/src.zip!/java/util/stream/Collector.java" timestamp="1511914864628" />
       <file name="/a.dummy" timestamp="1511837956900">
         <mark key="[" line="0" column="0" />
@@ -74,18 +56,6 @@
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/station/StationServiceImpl.java" timestamp="1510902473836">
         <mark key="[" line="288" column="71" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/resources/application.properties" timestamp="1511774068997">
-        <mark key="[" line="4" column="15" />
-        <mark key="]" line="6" column="22" />
-        <mark key="." line="6" column="22" />
-        <mark key="^" line="6" column="22" />
-      </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/app/payment/PayMentController.java" timestamp="1511781671021">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="^" line="53" column="107" />
-        <mark key="." line="30" column="0" />
-      </file>
       <file name="/ActionScript File Header.txt.ft" timestamp="1510735109117">
         <mark key="[" line="0" column="0" />
       </file>
@@ -119,12 +89,6 @@
         <mark key="." line="85" column="0" />
         <mark key="^" line="69" column="58" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/constant/payment/payEnum/UserType.java" timestamp="1511837857540">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="30" column="21" />
-        <mark key="^" line="30" column="21" />
-        <mark key="." line="30" column="21" />
-      </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/pay/coupon/grant.vue" timestamp="1511864088824">
         <mark key="[" line="292" column="0" />
         <mark key="]" line="292" column="0" />
@@ -135,12 +99,6 @@
         <mark key="]" line="106" column="8" />
         <mark key="^" line="106" column="67" />
         <mark key="." line="106" column="8" />
-      </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/payment/coupon/LocalCouponEntity.java" timestamp="1511783507309">
-        <mark key="[" line="55" column="19" />
-        <mark key="]" line="54" column="35" />
-        <mark key="^" line="54" column="35" />
-        <mark key="." line="54" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/ping++/pingpp-java/pom.xml" timestamp="1510294766946">
         <mark key="[" line="28" column="22" />
@@ -165,10 +123,11 @@
         <mark key="[" line="83" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/judge/index.vue" timestamp="1511853644634" />
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/account/PayAccountServiceImpl.java" timestamp="1511855611913">
-        <mark key="]" line="39" column="74" />
-        <mark key="^" line="39" column="74" />
-        <mark key="." line="39" column="74" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/account/PayAccountServiceImpl.java" timestamp="1511922702650">
+        <mark key="[" line="49" column="69" />
+        <mark key="]" line="50" column="0" />
+        <mark key="^" line="49" column="68" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/resources/spring/spring-hsf-reference.xml" timestamp="1511851932058">
         <mark key="[" line="212" column="22" />
@@ -180,19 +139,13 @@
         <mark key="[" line="21" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/coupon/PayCouponServiceImpl.java" timestamp="1511919381637" />
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/payment/subAccountInfo-mapper.xml" timestamp="1511770634156">
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/payment/subAccountInfo-mapper.xml" timestamp="1511922607884">
         <mark key="[" line="37" column="43" />
         <mark key="]" line="38" column="71" />
         <mark key="." line="38" column="71" />
         <mark key="^" line="38" column="76" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/coupon/PayCouponTemplateServiceImpl.java" timestamp="1511840166711">
-        <mark key="[" line="142" column="5" />
-        <mark key="]" line="143" column="0" />
-        <mark key="^" line="143" column="0" />
-        <mark key="." line="143" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/authentication/PlatformAuthenticationServiceImpl.java" timestamp="1511918895768">
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/authentication/PlatformAuthenticationServiceImpl.java" timestamp="1511921335820">
         <mark key="[" line="74" column="0" />
         <mark key="]" line="74" column="0" />
         <mark key="^" line="79" column="11" />
@@ -201,34 +154,25 @@
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/test/java/com/mvcc/service/impl/demand/DemandPoolServiceImplTest.java" timestamp="1511747553814">
         <mark key="[" line="22" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/controller/TestController.java" timestamp="1511833218202">
-        <mark key="[" line="49" column="5" />
-        <mark key="]" line="31" column="27" />
-        <mark key="." line="31" column="27" />
-        <mark key="^" line="31" column="27" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d8874501-6c64-497e-9ab5-718f798f8b35/console.sql" timestamp="1511921860013">
+        <mark key="[" line="3" column="0" />
       </file>
       <file name="/a.sql" timestamp="1511761379403">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/app/driver/CarOwnerAppController.java" timestamp="1511856617504">
-        <mark key="[" line="91" column="114" />
-        <mark key="]" line="91" column="48" />
-        <mark key="^" line="91" column="48" />
-        <mark key="." line="91" column="48" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/app/driver/CarOwnerAppController.java" timestamp="1511922222109">
+        <mark key="[" line="94" column="67" />
+        <mark key="]" line="94" column="67" />
+        <mark key="^" line="94" column="67" />
+        <mark key="." line="94" column="67" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/car/CarOwnerController.java" timestamp="1511406646599">
         <mark key="[" line="77" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/payment/localCouponTemplate-mapper.xml" timestamp="1511762930012">
-        <mark key="[" line="33" column="112" />
-        <mark key="]" line="16" column="52" />
-        <mark key="." line="16" column="52" />
-        <mark key="^" line="16" column="52" />
-      </file>
       <file name="/HTML File.txt.ft" timestamp="1511426931022">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1511840263762">
+      <file name="/dummy.sql" timestamp="1511922673683">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Singleton.txt.ft" timestamp="1510734917582">
@@ -240,46 +184,14 @@
         <mark key="." line="0" column="5" />
         <mark key="^" line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/payment/account/PayUserService.java" timestamp="1511839931783">
-        <mark key="[" line="56" column="17" />
-        <mark key="]" line="70" column="70" />
-        <mark key="." line="70" column="70" />
-        <mark key="^" line="70" column="70" />
-      </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/test/java/com/mvcc/service/impl/payment/account/PaySubPayAccountServiceImplTest.java" timestamp="1511855906565">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/application.properties" timestamp="1511777460978">
-        <mark key="[" line="6" column="17" />
-        <mark key="]" line="6" column="17" />
-        <mark key="^" line="4" column="13" />
-        <mark key="." line="6" column="17" />
-      </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/nice/NiceController.java" timestamp="1511747415985">
         <mark key="[" line="29" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/repository/payment/account/SubAccountInfoMapper.java" timestamp="1511863043217">
         <mark key="[" line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/repository/payment/account/DriverSubAccountMapper.java" timestamp="1511849657564">
-        <mark key="[" line="14" column="41" />
-        <mark key="]" line="14" column="28" />
-        <mark key="^" line="14" column="28" />
-        <mark key="." line="14" column="28" />
-      </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/test/java/com/mvcc/repository/payment/account/DriverSubAccountMapperTest.java" timestamp="1511848122736">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="^" line="28" column="53" />
-        <mark key="." line="33" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/coupon/LocalCouponServiceImpl.java" timestamp="1511754624882">
-        <mark key="[" line="17" column="6" />
-        <mark key="]" line="17" column="6" />
-        <mark key="." line="17" column="6" />
-        <mark key="^" line="18" column="49" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/test/java/com/mvcc/service/impl/authentication/PlatformAuthenticationServiceImplTest.java" timestamp="1511921876217">
+        <mark key="[" line="131" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/payment/coupon/LocalCouponTemplateService.java" timestamp="1511761895349">
         <mark key="[" line="22" column="0" />
@@ -292,16 +204,10 @@
       <file name="/vue.txt.ft" timestamp="1510735125894">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/coupon/LocalCouponTemplateServiceImpl.java" timestamp="1511848312659">
-        <mark key="[" line="22" column="4" />
-        <mark key="]" line="25" column="36" />
-        <mark key="." line="25" column="36" />
-        <mark key="^" line="25" column="36" />
-      </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/test/java/com/mvcc/service/impl/car/CarOwnerServiceImplTest.java" timestamp="1511747597463">
         <mark key="[" line="27" column="4" />
       </file>
-      <file name="/fragment.java" timestamp="1511855909796">
+      <file name="/fragment.java" timestamp="1511922565574">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -412,7 +318,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>parallelStream</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>Obj</text>
@@ -429,23 +335,23 @@
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text encoding="base64">ICAgICAgICBmb3IoTWFwIG1hcCA6IGxpc3QpIHsKICAgICAgICAgICAgU3RyaW5nIHBlcnNvbklkID0gKFN0cmluZykgbWFwLmdldCgicGVyc29uSWQiKTsKICAgICAgICAgICAgU3RhdGlvbiBzdGF0aW9uTWF4U3RhcnRDb3VudEJ5UGVyc29uSWQgPSBzdGF0aW9uTWFwcGVyLmZpbmRTdGF0aW9uTWF4U3RhcnRDb3VudEJ5UGVyc29uSWQocGVyc29uSWQpOwogICAgICAgICAgICBpZihzdGF0aW9uTWF4U3RhcnRDb3VudEJ5UGVyc29uSWQgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgbWFwLnB1dCgic3RhdGlvbklkIiwgc3RhdGlvbk1heFN0YXJ0Q291bnRCeVBlcnNvbklkLmdldFN0YXRpb25JZCgpKTsKICAgICAgICAgICAgICAgIG1hcC5wdXQoInN0YXRpb25OYW1lIiwgc3RhdGlvbk1heFN0YXJ0Q291bnRCeVBlcnNvbklkLmdldFN0YXRpb25OYW1lKCkpOwogICAgICAgICAgICB9CiAgICAgICAgfQ==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgICAgICBmb3IoTWFwIG1hcCA6IGxpc3QpIHsKICAgICAgICAgICAgTGlzdCByb2xlTmFtZXMgPSAoTGlzdCkgbWFwLmdldCgicm9sZU5hbWVzIik7Ci8vICAgICAgICAgICAgU3RyaW5nIHMgPSBMaXN0MlN0cmluZ1V0aWwubGlzdDJTdHJpbmcocm9sZU5hbWVzKTsKICAgICAgICAgICAgU3RyaW5nIHMgPSBTdHJpbmdVdGlsLmxpc3RUb1N0cmluZyhyb2xlTmFtZXMsICcsJyk7CiAgICAgICAgICAgIG1hcC5wdXQoInJvbGVOYW1lIiwgcyk7CiAgICAgICAgfQ==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICA7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
