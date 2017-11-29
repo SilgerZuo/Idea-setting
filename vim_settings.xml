@@ -14,7 +14,6 @@
         <mark key="." line="21" column="12" />
         <mark key="^" line="21" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/payment/order/PayOrderService.java" timestamp="1511949496982" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/test/java/com/mvcc/service/impl/payment/account/PayUserServiceImplTest.java" timestamp="1511937977343">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
@@ -27,7 +26,6 @@
         <mark key="." line="30" column="16" />
         <mark key="^" line="30" column="16" />
       </file>
-      <file name="/opt/software/jdk1.8.0_144/src.zip!/java/util/stream/Collector.java" timestamp="1511914864628" />
       <file name="/a.dummy" timestamp="1511837956900">
         <mark key="[" line="0" column="0" />
       </file>
@@ -95,16 +93,12 @@
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/ProviderApplicationMain.java" timestamp="1511428594128">
         <mark key="[" line="12" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/spring/spring-jdbc.xml" timestamp="1511927649277" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/order/PayOrderServiceImpl.java" timestamp="1511949522924">
         <mark key="[" line="82" column="36" />
         <mark key="]" line="82" column="36" />
         <mark key="." line="82" column="36" />
         <mark key="^" line="82" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/payment/coupon/PayCouponService.java" timestamp="1511857355436" />
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/repository/privilege/EmergencyPersonMapper.java" timestamp="1511853625091" />
-      <file name="/opt/software/jdk1.8.0_144/src.zip!/java/util/stream/Collectors.java" timestamp="1511915613911" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/test/java/com/mvcc/repository/payment/account/SubAccountInfoMapperTest.java" timestamp="1511943157899">
         <mark key="[" line="26" column="29" />
         <mark key="]" line="26" column="29" />
@@ -183,7 +177,6 @@
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/station/StationController.java" timestamp="1510884885831">
         <mark key="[" line="83" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/judge/index.vue" timestamp="1511853644634" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/account/PayAccountServiceImpl.java" timestamp="1511944038170">
         <mark key="[" line="48" column="29" />
         <mark key="]" line="48" column="29" />
@@ -279,7 +272,7 @@
       <file name="/Singleton.txt.ft" timestamp="1510734917582">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511949698016">
+      <file name="/Dummy.txt" timestamp="1511954278191">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -340,7 +333,6 @@
       <file name="/vue.txt.ft" timestamp="1510735125894">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/app/portal/LoginAppController.java" timestamp="1511938966943" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/coupon/LocalCouponTemplateServiceImpl.java" timestamp="1511848312659">
         <mark key="[" line="22" column="4" />
         <mark key="]" line="25" column="36" />
