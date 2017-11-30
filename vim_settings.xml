@@ -32,8 +32,11 @@
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/payment/account/PayAccountService.java" timestamp="1511491706816">
         <mark key="[" line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/pom.xml" timestamp="1512014014821">
-        <mark key="[" line="134" column="21" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/pom.xml" timestamp="1512014310562">
+        <mark key="[" line="152" column="21" />
+        <mark key="]" line="152" column="0" />
+        <mark key="^" line="151" column="35" />
+        <mark key="." line="152" column="0" />
       </file>
       <file name="/XSLT Stylesheet.txt.ft" timestamp="1510735070591">
         <mark key="[" line="0" column="0" />
@@ -148,7 +151,6 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/account/PaySubAccountServiceImpl.java" timestamp="1512010713925" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/payment/coupon/LocalCouponEntity.java" timestamp="1511783507309">
         <mark key="[" line="55" column="19" />
         <mark key="]" line="54" column="35" />
@@ -181,7 +183,6 @@
         <mark key="^" line="35" column="7" />
         <mark key="." line="35" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/test/java/com/mvcc/service/impl/person/PersonServiceImplTest.java" timestamp="1512009129258" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/spring/spring-hsf-service.xml" timestamp="1511943358680">
         <mark key="[" line="144" column="29" />
         <mark key="]" line="144" column="29" />
@@ -454,8 +455,8 @@
       <jump line="190" column="0" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/order/PayOrderServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>创建支付接口的错误信息提示码</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>创建支付接口的错误信息提示码</text>
@@ -467,31 +468,31 @@
         <text encoding="base64">ICAgIHB1YmxpYyBDaGFyZ2VDb2xsZWN0aW9uIGxpc3RDaGFyZ2UoU3RyaW5nIG9yZGVySWQsIE1hcDxTdHJpbmcsIE9iamVjdD4gcGFyYW1zKSB0aHJvd3MgUmF0ZUxpbWl0RXhjZXB0aW9uLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiIik7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiOiIgKyApOwogICAgICAgIGxvZ2dlci5pbmZvKCI6IiArICk7CiAgICAgICAgbG9nZ2VyLmluZm8oIjoiICsgKTsKICAgICAgICBsb2dnZXIuaW5mbygiOiIgKyApOw==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5sb2dnaW5nLkxvZ2dlcjsK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiIDoiKyApOwogICAgICAgIGxvZ2dlci5pbmZvKCIgOiIrICk7CiAgICAgICAgbG9nZ2VyLmluZm8oIiA6IisgKTsKICAgICAgICA=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBsb2NhbENvdXBvblRlbXBsYXRlU2VydmljZQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsb2NhbENvdXBvblRlbXBsYXRlU2VydmljCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2NhbENvdXBvblRlbXBsYXRlU2VydmljCg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
