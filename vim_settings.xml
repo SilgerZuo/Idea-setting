@@ -9,11 +9,6 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="13" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/account/PayDriverSubAccountServiceImpl.java" timestamp="1511940856684">
-        <mark key="]" line="21" column="12" />
-        <mark key="." line="21" column="12" />
-        <mark key="^" line="21" column="12" />
-      </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/test/java/com/mvcc/service/impl/payment/account/PayUserServiceImplTest.java" timestamp="1511937977343">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
@@ -55,6 +50,12 @@
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/pay/coupon/index.vue" timestamp="1511864626886">
         <mark key="[" line="6" column="81" />
+      </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/glossary/ResultInfoEnum.java" timestamp="1512007150529">
+        <mark key="[" line="36" column="34" />
+        <mark key="]" line="39" column="0" />
+        <mark key="^" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/repository/payment/royalTemplate/royalTemplateMapper.java" timestamp="1511407182012">
         <mark key="[" line="13" column="3" />
@@ -249,6 +250,12 @@
         <mark key="." line="31" column="27" />
         <mark key="^" line="31" column="27" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/app/payment/order/PayOrderController.java" timestamp="1512007096293">
+        <mark key="[" line="67" column="25" />
+        <mark key="]" line="67" column="25" />
+        <mark key="^" line="60" column="56" />
+        <mark key="." line="67" column="25" />
+      </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/test/java/com/mvcc/service/impl/payment/coupon/PayCouponTemplateServiceImplTest.java" timestamp="1511935616426">
         <mark key="[" line="35" column="81" />
         <mark key="]" line="35" column="81" />
@@ -282,7 +289,7 @@
       <file name="/Singleton.txt.ft" timestamp="1510734917582">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511954278191">
+      <file name="/Dummy.txt" timestamp="1512006652141">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -349,7 +356,6 @@
         <mark key="." line="25" column="36" />
         <mark key="^" line="25" column="36" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/MQMessage/carOwner/ExportCarOwnerToExcel.java" timestamp="1511956103344" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/test/java/com/mvcc/service/impl/car/CarOwnerServiceImplTest.java" timestamp="1511747597463">
         <mark key="[" line="27" column="4" />
       </file>
@@ -461,10 +467,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>收货地址</text>
+        <text>RateLimitException</text>
       </register>
       <register name="-" type="4">
-        <text>收货地址</text>
+        <text>RateLimitException</text>
       </register>
       <register name="/" type="4">
         <text>Obj</text>
@@ -472,32 +478,57 @@
       <register name="0" type="4">
         <text>com.mvcc.entity.payment.account.SubAccountInfoEntity</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>e.printStackTrace();
+                } catch (APIException e) {
+                    e.printStackTrace();
+                } catch (ChannelException e) {
+                    e.printStackTrace();
+                } catch (InvalidRequestException e) {
+                    e.printStackTrace();
+                } catch (APIConnectionException e) {
+                    e.printStackTrace();
+                } catch (AuthenticationException e) {
+                    e.printStackTrace();
+                } catch (IOException e) {
+                    e.printStackTrace();
+                }</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTdWJBY2NvdW50SW5mb0VudGl0eSBzdWJBY2NvdW50QnlQZXJzb25JZCA9IHN1YkFjY291bnRJbmZvTWFwcGVyLmZpbmRTdWJBY2NvdW50QnlQYXlVc2VySWQoZHJpdmVyUGF5VXNlcklkKTsK</text>
+      <register name="2" type="4">
+        <text>catch (APIException e) {
+                    e.printStackTrace();
+                } catch (ChannelException e) {
+                    e.printStackTrace();
+                } catch (InvalidRequestException e) {
+                    e.printStackTrace();
+                } catch (APIConnectionException e) {
+                    e.printStackTrace();
+                } catch (AuthenticationException e) {
+                    e.printStackTrace();
+                } catch (IOException e) {
+                    e.printStackTrace();
+                }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PGluY2x1ZGUgcmVmaWQ9InN1YkFjY291bnQiLz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ICAgICAgICBTdWJBY2NvdW50SW5mb0VudGl0eSBzdWJBY2NvdW50QnlQZXJzb25JZCA9IHN1YkFjY291bnRJbmZvTWFwcGVyLmZpbmRTdWJBY2NvdW50QnlQYXlVc2VySWQoZHJpdmVyUGF5VXNlcklkKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBPcmRlciBvcmRlciA9IHBpbmdQUE9yZGVyU2VydmljZS5hZGROZXdPcmRlcigiMjIyMTAxOTMxOTQxODE3Nzc0MiIsIDEwMDAsICIxOTIuMTY4LjAuMTQxIiwgIui/meaYr+S4gOS4quWVhuWTgeagh+mimCIsIDEwMDAsCg==</text>
+        <text encoding="base64">PGluY2x1ZGUgcmVmaWQ9InN1YkFjY291bnQiLz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBEcml2ZXJTdWJBY2NvdW50RW50aXR5IGJ5RHJpdmVySWQgPSBkcml2ZXJTdWJBY2NvdW50TWFwcGVyLmZpbmRCeURyaXZlcklkKGRyaXZlcklkKTsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBPcmRlciBvcmRlciA9IHBpbmdQUE9yZGVyU2VydmljZS5hZGROZXdPcmRlcigiMjIyMTAxOTMxOTQxODE3Nzc0MiIsIDEwMDAsICIxOTIuMTY4LjAuMTQxIiwgIui/meaYr+S4gOS4quWVhuWTgeagh+mimCIsIDEwMDAsCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3ViQWNjb3VudAo=</text>
+        <text encoding="base64">ICAgICAgICBEcml2ZXJTdWJBY2NvdW50RW50aXR5IGJ5RHJpdmVySWQgPSBkcml2ZXJTdWJBY2NvdW50TWFwcGVyLmZpbmRCeURyaXZlcklkKGRyaXZlcklkKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgRHJpdmVyU3ViQWNjb3VudE1hcHBlciBkcml2ZXJTdWJBY2NvdW50TWFwcGVyOwo=</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
