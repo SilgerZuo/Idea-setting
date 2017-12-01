@@ -67,17 +67,18 @@
         <mark key="." line="70" column="68" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/demand/DemandPoolServiceImpl.java" timestamp="1512031516534" />
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/order/PayOrderServiceImpl.java" timestamp="1512116230321">
-        <mark key="'" line="207" column="0" />
-        <mark key="[" line="161" column="33" />
-        <mark key="]" line="161" column="7" />
-        <mark key="^" line="161" column="7" />
-        <mark key="." line="161" column="7" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/order/PayOrderServiceImpl.java" timestamp="1512119060387">
+        <mark key="'" line="206" column="0" />
+        <mark key="[" line="135" column="34" />
+        <mark key="]" line="137" column="33" />
+        <mark key="." line="137" column="33" />
+        <mark key="^" line="136" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/app/payment/order/PayOrderAppController.java" timestamp="1512117257813">
-        <mark key="[" line="101" column="91" />
-        <mark key="]" line="103" column="0" />
-        <mark key="." line="103" column="0" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/app/payment/order/PayOrderAppController.java" timestamp="1512119455599">
+        <mark key="[" line="100" column="4" />
+        <mark key="]" line="100" column="4" />
+        <mark key="." line="100" column="4" />
+        <mark key="^" line="102" column="77" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/account/PaySettleAccountServiceImpl.java" timestamp="1512096947642">
         <mark key="[" line="89" column="26" />
@@ -110,7 +111,7 @@
         <mark key="." line="42" column="93" />
         <mark key="^" line="42" column="33" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d8874501-6c64-497e-9ab5-718f798f8b35/console.sql" timestamp="1512116811759">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d8874501-6c64-497e-9ab5-718f798f8b35/console.sql" timestamp="1512118633768">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -122,11 +123,11 @@
         <mark key="^" line="86" column="57" />
         <mark key="." line="87" column="49" />
       </file>
-      <file name="/dummy.sql" timestamp="1512116698356">
+      <file name="/dummy.sql" timestamp="1512120127993">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dajia/dajia-utils/2.0-SNAPSHOT/dajia-utils-2.0-20171130.054607-715.jar!/com/dajia/util/math/RadomUtil.class" timestamp="1512025436763" />
-      <file name="/Dummy.txt" timestamp="1512094513195">
+      <file name="/Dummy.txt" timestamp="1512119459910">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -160,7 +161,7 @@
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/app/geo/GeoController.java" timestamp="1512029146898">
         <mark key="[" line="75" column="6" />
       </file>
-      <file name="/fragment.java" timestamp="1512099072218">
+      <file name="/fragment.java" timestamp="1512119054182">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/payment/royalty/PayRoyaltySettlementService.java" timestamp="1512024856856">
@@ -270,11 +271,11 @@
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/d8874501-6c64-497e-9ab5-718f798f8b35/console.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBSZXN1bHRJbmZvKFJlc3VsdEluZm9FbnVtLlNVQ0NFU1MuZ2V0Q29kZSgpLCBvcmRlcik7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>public</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>public</text>
       </register>
       <register name="/" type="4">
         <text>Obj</text>
@@ -282,32 +283,34 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBDaGFyZ2VDb2xsZWN0aW9uIGxpc3RDaGFyZ2UoU3RyaW5nIG9yZGVySWQsIE1hcDxTdHJpbmcsIE9iamVjdD4gcGFyYW1zKSB0aHJvd3MgUmF0ZUxpbWl0RXhjZXB0aW9uLAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBSZXN1bHRJbmZvKFJlc3VsdEluZm9FbnVtLlNVQ0NFU1MuZ2V0Q29kZSgpLCBvcmRlcik7Cg==</text>
+      <register name="1" type="4">
+        <text>增加结算controller
+2. 精简创建结算账户
+3. 修改ip，不需要入参传入</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBSZXN1bHRJbmZvKFJlc3VsdEluZm9FbnVtLlNVQ0NFU1MuZ2V0Q29kZSgpLCBvcmRlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGNoYXJnZV9hbW91bnQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Q1JFQVRFIFRBQkxFIGBwZXJzb25gICgKICBgaWRgIGJpZ2ludCgyMCkgdW5zaWduZWQgTk9UIE5VTEwsCiAgYGZuYW1lYCB2YXJjaGFyKDEwMCkgTk9UIE5VTEwsCiAgYGxuYW1lYCB2YXJjaGFyKDEwMCkgTk9UIE5VTEwsCiAgYGFnZWAgdGlueWludCgzKSB1bnNpZ25lZCBOT1QgTlVMTCwKICBgc2V4YCB0aW55aW50KDEpIHVuc2lnbmVkIE5PVCBOVUxMLAogIFBSSU1BUlkgS0VZIChgaWRgKQopIEVOR0lORT1NeUlTQU0gREVGQVVMVCBDSEFSU0VUPXV0ZjgKCgoKCkNSRUFURSBQUk9DRURVUkUgYGdlbmVyYXRlYChJTiBudW0gSU5UKQogIEJFR0lOCiAgICBERUNMQVJFIGNoYXJzIHZhcmNoYXIoMTAwKSBERUZBVUxUICdhYmNkZWZnaGlqa2xtbm9wcXJzdHV2d3h5ekFCQ0RFRkdISUpLTE1OT1BRUlNUVVZXWFlaMDEyMzQ1Njc4OSc7CiAgICBERUNMQVJFIGZuYW1lIFZBUkNIQVIoMjUpIERFRkFVTFQgJyc7CiAgICBERUNMQVJFIGxuYW1lIFZBUkNIQVIoMjUpIERFRkFVTFQgJyc7CiAgICBERUNMQVJFIGlkIGludCBVTlNJR05FRDsKICAgIERFQ0xBUkUgbGVuIGludDsKICAgIHNldCBpZD0xOwogICAgREVMRVRFIGZyb20gcGVyc29uOwogICAgV0hJTEUgaWQgPD0gbnVtIERPCiAgICAgIHNldCBsZW4gPSBGTE9PUigxICsgUkFORCgpKjI1KTsKICAgICAgICBTRVQgZm5hbWUgPSBDT05DQVQoZm5hbWUsc3Vic3RyaW5nKGNoYXJzLEZMT09SKDEgKyBSQU5EKCkqNjIpLDEpKTsKICAgICAgICBTRVQgbGVuID0gbGVuIC0gMTsKICAgICAgRU5EIFdISUxFOwogICAgICBzZXQgbGVuID0gRkxPT1IoMStSQU5EKCkqMjUpOwogICAgICBzZXQgbG5hbWUgPSAnJzsKICAgICAgV0hJTEUgbGVuID4gMCBETwogICAgICAgIFNFVCBsbmFtZSA9IENPTkNBVChmbmFtZSxTVUJTVFIoY2hhcnMsRkxPT1IoMSArIFJBTkQoKSo2MiksMSkpOwogICAgICAgIFNFVCBsZW4gPSBsZW4gLSAxOwogICAgICBFTkQgV0hJTEU7CiAgICAgIElOU0VSVCBpbnRvIHBlcnNvbiBWQUxVRVMgKGlkLGZuYW1lLGxuYW1lLCBGTE9PUihSQU5EKCkqMTAwKSwgRkxPT1IoUkFORCgpKjIpKTsKICAgICAgc2V0IGlkID0gaWQgKyAxOwogICAgRU5EIFdISUxFOwogIEVORAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgV0hJTEUgbGVuID4gMCBETwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBSZXN1bHRJbmZvKFJlc3VsdEluZm9FbnVtLlNVQ0NFU1MuZ2V0Q29kZSgpLCBvcmRlcik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgc2V0IGZuYW1lID0gJyc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBSZXN1bHRJbmZvKFJlc3VsdEluZm9FbnVtLlNVQ0NFU1MuZ2V0Q29kZSgpLCBvcmRlcik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy4K</text>
+        <text encoding="base64">Q1JFQVRFIFRBQkxFIGBwZXJzb25gICgKICBgaWRgIGJpZ2ludCgyMCkgdW5zaWduZWQgTk9UIE5VTEwsCiAgYGZuYW1lYCB2YXJjaGFyKDEwMCkgTk9UIE5VTEwsCiAgYGxuYW1lYCB2YXJjaGFyKDEwMCkgTk9UIE5VTEwsCiAgYGFnZWAgdGlueWludCgzKSB1bnNpZ25lZCBOT1QgTlVMTCwKICBgc2V4YCB0aW55aW50KDEpIHVuc2lnbmVkIE5PVCBOVUxMLAogIFBSSU1BUlkgS0VZIChgaWRgKQopIEVOR0lORT1NeUlTQU0gREVGQVVMVCBDSEFSU0VUPXV0ZjgKCgoKCkNSRUFURSBQUk9DRURVUkUgYGdlbmVyYXRlYChJTiBudW0gSU5UKQogIEJFR0lOCiAgICBERUNMQVJFIGNoYXJzIHZhcmNoYXIoMTAwKSBERUZBVUxUICdhYmNkZWZnaGlqa2xtbm9wcXJzdHV2d3h5ekFCQ0RFRkdISUpLTE1OT1BRUlNUVVZXWFlaMDEyMzQ1Njc4OSc7CiAgICBERUNMQVJFIGZuYW1lIFZBUkNIQVIoMjUpIERFRkFVTFQgJyc7CiAgICBERUNMQVJFIGxuYW1lIFZBUkNIQVIoMjUpIERFRkFVTFQgJyc7CiAgICBERUNMQVJFIGlkIGludCBVTlNJR05FRDsKICAgIERFQ0xBUkUgbGVuIGludDsKICAgIHNldCBpZD0xOwogICAgREVMRVRFIGZyb20gcGVyc29uOwogICAgV0hJTEUgaWQgPD0gbnVtIERPCiAgICAgIHNldCBsZW4gPSBGTE9PUigxICsgUkFORCgpKjI1KTsKICAgICAgICBTRVQgZm5hbWUgPSBDT05DQVQoZm5hbWUsc3Vic3RyaW5nKGNoYXJzLEZMT09SKDEgKyBSQU5EKCkqNjIpLDEpKTsKICAgICAgICBTRVQgbGVuID0gbGVuIC0gMTsKICAgICAgRU5EIFdISUxFOwogICAgICBzZXQgbGVuID0gRkxPT1IoMStSQU5EKCkqMjUpOwogICAgICBzZXQgbG5hbWUgPSAnJzsKICAgICAgV0hJTEUgbGVuID4gMCBETwogICAgICAgIFNFVCBsbmFtZSA9IENPTkNBVChmbmFtZSxTVUJTVFIoY2hhcnMsRkxPT1IoMSArIFJBTkQoKSo2MiksMSkpOwogICAgICAgIFNFVCBsZW4gPSBsZW4gLSAxOwogICAgICBFTkQgV0hJTEU7CiAgICAgIElOU0VSVCBpbnRvIHBlcnNvbiBWQUxVRVMgKGlkLGZuYW1lLGxuYW1lLCBGTE9PUihSQU5EKCkqMTAwKSwgRkxPT1IoUkFORCgpKjIpKTsKICAgICAgc2V0IGlkID0gaWQgKyAxOwogICAgRU5EIFdISUxFOwogIEVORAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBSZXN1bHRJbmZvKFJlc3VsdEluZm9FbnVtLlNVQ0NFU1MuZ2V0Q29kZSgpLCBwYXlPcmRlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgV0hJTEUgbGVuID4gMCBETwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgc2V0IGZuYW1lID0gJyc7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy4K</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
