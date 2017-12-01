@@ -52,12 +52,12 @@
         <mark key="^" line="19" column="20" />
         <mark key="." line="19" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/app/payment/settleAccount/PaySettleAccountController.java" timestamp="1512098959200">
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/app/payment/settleAccount/PaySettleAccountController.java" timestamp="1512100189347">
         <mark key="'" line="13" column="0" />
-        <mark key="[" line="56" column="9" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
-        <mark key="^" line="54" column="32" />
+        <mark key="[" line="57" column="60" />
+        <mark key="]" line="57" column="61" />
+        <mark key="." line="57" column="61" />
+        <mark key="^" line="57" column="61" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/orders/orders-mapper.xml" timestamp="1512092128818" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/finance/PayFinanceServiceImpl.java" timestamp="1512012477922">
@@ -158,7 +158,7 @@
         <mark key="^" line="86" column="57" />
         <mark key="." line="87" column="49" />
       </file>
-      <file name="/dummy.sql" timestamp="1512099045583">
+      <file name="/dummy.sql" timestamp="1512099987791">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dajia/dajia-utils/2.0-SNAPSHOT/dajia-utils-2.0-20171130.054607-715.jar!/com/dajia/util/math/RadomUtil.class" timestamp="1512025436763" />
@@ -313,11 +313,11 @@
       <jump line="6" column="0" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/app/payment/settleAccount/PaySettleAccountController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>渠道参数错误</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>Obj</text>
@@ -326,31 +326,31 @@
         <text encoding="base64">ICAgIHB1YmxpYyBDaGFyZ2VDb2xsZWN0aW9uIGxpc3RDaGFyZ2UoU3RyaW5nIG9yZGVySWQsIE1hcDxTdHJpbmcsIE9iamVjdD4gcGFyYW1zKSB0aHJvd3MgUmF0ZUxpbWl0RXhjZXB0aW9uLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXlTZXR0bGVBY2NvdW50U2VydmljZS5jcmVhdGVCYW5rQWNjb3VudChwZXJzb25JZCwgYWNjb3VudCwgbmFtZSwgb3Blbl9iYW5rX2NvZGUpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFJBVEVfRVJST1IoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyAK</text>
+        <text encoding="base64">ICAgIFJBVEVfRVJST1IoKQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZWNpcGllbnQucHV0KCJzdWJfYmFuayIsIHN1Yl9iYW5rKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZWNpcGllbnQucHV0KCJwcm92Iixwcm92ICk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZWNpcGllbnQucHV0KCJzdWJfYmFuayIsIHN1Yl9iYW5rKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZWNpcGllbnQucHV0KCJjaXR5IixjaXR5ICk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZWNpcGllbnQucHV0KCJwcm92Iixwcm92ICk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
