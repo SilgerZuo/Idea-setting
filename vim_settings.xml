@@ -9,8 +9,8 @@
         <mark key="." line="197" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/test/java/com/mvcc/service/impl/payment/account/PayUserServiceImplTest.java" timestamp="1512374647228" />
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1512370690537">
-        <mark key="[" line="0" column="6" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1512380619316">
+        <mark key="[" line="0" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/payment/account/PaySubAccountInfoService.java" timestamp="1512024124272">
         <mark key="[" line="37" column="8" />
@@ -32,7 +32,7 @@
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d8874501-6c64-497e-9ab5-718f798f8b35/console.sql" timestamp="1512370699274">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d8874501-6c64-497e-9ab5-718f798f8b35/console.sql" timestamp="1512380426397">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -74,7 +74,7 @@
         <mark key="]" line="99" column="0" />
         <mark key="." line="99" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1512378540762">
+      <file name="/dummy.sql" timestamp="1512380447152">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/account/PayUserServiceImpl.java" timestamp="1512023886153">
@@ -102,18 +102,17 @@
         <mark key="^" line="88" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/notification/PushNotice2AppServiceImpl.java" timestamp="1512375134778" />
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/order/PayOrderServiceImpl.java" timestamp="1512377997667">
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/order/PayOrderServiceImpl.java" timestamp="1512381219133">
         <mark key="'" line="213" column="0" />
-        <mark key="[" line="113" column="30" />
-        <mark key="]" line="161" column="38" />
-        <mark key="." line="161" column="38" />
-        <mark key="^" line="161" column="38" />
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/app/payment/order/PayOrderAppController.java" timestamp="1512376188901">
-        <mark key="[" line="216" column="13" />
-        <mark key="]" line="216" column="12" />
-        <mark key="^" line="216" column="12" />
-        <mark key="." line="216" column="12" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/app/payment/order/PayOrderAppController.java" timestamp="1512381837262">
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="91" column="8" />
+        <mark key="." line="91" column="8" />
+        <mark key="^" line="93" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/orders/OrdersService.java" timestamp="1512034644732">
         <mark key="[" line="5" column="51" />
@@ -265,10 +264,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>加查询用户真是支付金钱接口</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>加查询用户真是支付金钱接口</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>Obj</text>
@@ -276,32 +275,52 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBDaGFyZ2VDb2xsZWN0aW9uIGxpc3RDaGFyZ2UoU3RyaW5nIG9yZGVySWQsIE1hcDxTdHJpbmcsIE9iamVjdD4gcGFyYW1zKSB0aHJvd3MgUmF0ZUxpbWl0RXhjZXB0aW9uLAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXlPcmRlclNlcgo=</text>
+      <register name="1" type="4">
+        <text>switch(channel) {
+            case &quot;alipay&quot;:
+                try {
+                    return new ResultInfo(ResultInfoEnum.SUCCESS.getCode(), payOrderService.addNewPayOrder(orderNum,
+                            chargeAmount, PayOrderChannelEnum.ALI_PAY, System.currentTimeMillis() / 1000 +
+                                    TimeLongConstant.TWO_HOUR));
+                } catch (Exception e) {
+                    e.printStackTrace();
+                    return new ResultInfo(ResultInfoEnum.ALI_PAY_ERROR.getCode());
+                } case &quot;wx&quot;:
+                try {
+                    return new ResultInfo(ResultInfoEnum.SUCCESS.getCode(), payOrderService.addNewPayOrder(orderNum,
+                            chargeAmount, PayOrderChannelEnum.WX_PAY, System.currentTimeMillis() / 1000 +
+                                    TimeLongConstant.TWO_HOUR));
+                } catch (Exception e) {
+                    e.printStackTrace();
+                    return new ResultInfo(ResultInfoEnum.WX_PAY_ERROR.getCode());
+                }
+            default:
+                return new ResultInfo(ResultInfoEnum.PAY_CHANNEL_ERROR.getCode());
+        }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXlDaGFyZ2VTZXJ2aWNlLmZpbmQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhZGROZXdQYXlPcmRlcigpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBvcmRlcnNTZXJ2aWNlLmZpbmRPcmRlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBPcmRlcnMgb3JkZXJCeU9yZGVyTnVtID0gb3JkZXJzU2VydmljZS5maW5kT3JkZXJCeU9yZGVyTnVtKCI3MjEzMDg5NTg2ODUwMzg1ODM0Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhZGROZXdQYXlPcmRlcihvcmRlck51bSwgb3JkZXIuZ2V0QWN0dWFsQW1vdW50KCksIGNoYW5uZWwsIFRpbWVMb25nQ29uc3RhbnQuT05FX0RBWSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmluZE9yZGVyQnlPcmRlcklkKG9yZGVyQnlPcmRlck51bS5nZXRQYXlPcmRlcklkKCkpLmdldEFjdHVhbEFtb3VudCgpOwo=</text>
+        <text encoding="base64">VVBEQVRFIG9yZGVycyBzZXQgcGFzc2VuZ2VyUHJpY2UgPSAwLjAxCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygib3JkZXJOdW06IiArIG9yZGVyTnVtKTsK</text>
+        <text encoding="base64">ICAgICAgICBwYXlPcmRlclNlcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygib3JkZXJOdW06IiArIG9yZGVyTnVtKTsK</text>
+        <text encoding="base64">ICAgICAgICBwYXlDaGFyZ2VTZXJ2aWNlLmZpbmQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBvcmRlcnNTZXJ2aWNlLmZpbmRPcmRlcgo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICBPcmRlciBmaW5kT3JkZXJCeU9yZGVyTnVtKFN0cmluZyBvcmRlck51bSkgdGhyb3dzIElPRXhjZXB0aW9uLCBCYXNlRXhjZXB0aW9uLCBJbnZhbGlkUmVxdWVzdEV4Y2VwdGlvbiwKICAgICAgICAgICAgQVBJRXhjZXB0aW9uLCBDaGFubmVsRXhjZXB0aW9uLCBSYXRlTGltaXRFeGNlcHRpb24sIEFQSUNvbm5lY3Rpb25FeGNlcHRpb24sIEF1dGhlbnRpY2F0aW9uRXhjZXB0aW9uOw==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBPcmRlcnMgb3JkZXJCeU9yZGVyTnVtID0gb3JkZXJzU2VydmljZS5maW5kT3JkZXJCeU9yZGVyTnVtKCI3MjEzMDg5NTg2ODUwMzg1ODM0Iik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
