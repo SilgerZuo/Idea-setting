@@ -3,16 +3,61 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1512468745331">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/payment/coupon/CouponController.java" timestamp="1512461196254">
+        <mark key="[" line="128" column="0" />
+        <mark key="]" line="129" column="3" />
+        <mark key="." line="129" column="3" />
+        <mark key="^" line="129" column="3" />
+      </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/payment/coupon/CouponTemplateController.java" timestamp="1512465758959">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="38" column="93" />
+        <mark key="." line="38" column="93" />
+        <mark key="^" line="38" column="93" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d6298b79-2557-4ecb-a987-d3a34340f048/console_2.sql" timestamp="1512469299040">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/order/PayOrderServiceImpl.java" timestamp="1512469704030" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/coupon/PayCouponServiceImpl.java" timestamp="1512461285187" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/router/index.js" timestamp="1512454578651">
+        <mark key="[" line="255" column="2" />
+        <mark key="]" line="255" column="1" />
+        <mark key="." line="255" column="1" />
+        <mark key="^" line="255" column="1" />
+      </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/coupon/PayCouponTemplateServiceImpl.java" timestamp="1512465899542">
+        <mark key="[" line="136" column="8" />
+        <mark key="]" line="136" column="36" />
+        <mark key="^" line="136" column="36" />
+        <mark key="." line="136" column="36" />
+      </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/app/payment/order/PayOrderAppController.java" timestamp="1512469763038">
+        <mark key="[" line="150" column="95" />
+        <mark key="]" line="148" column="0" />
+        <mark key="^" line="151" column="30" />
+        <mark key="." line="148" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell_1" timestamp="1512469731434">
+        <mark key="[" line="0" column="19" />
+      </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/controller/TestController.java" timestamp="1512441725760">
         <mark key="[" line="34" column="28" />
         <mark key="]" line="27" column="36" />
         <mark key="." line="27" column="36" />
         <mark key="^" line="27" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512456873142">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1512466269381">
+        <mark key="[" line="0" column="19" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d6298b79-2557-4ecb-a987-d3a34340f048/console_1.sql" timestamp="1512464001676">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="." line="0" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/pay/coupon/grant.vue" timestamp="1512456818308">
         <mark key="[" line="114" column="42" />
@@ -20,54 +65,52 @@
         <mark key="." line="114" column="42" />
         <mark key="^" line="114" column="41" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/orders/OrdersServiceImpl.java" timestamp="1512467546825" />
       <file name="/HTML File.txt.ft" timestamp="1512441581713">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/router/index.js" timestamp="1512454578651">
-        <mark key="[" line="255" column="2" />
-        <mark key="]" line="255" column="1" />
-        <mark key="." line="255" column="1" />
-        <mark key="^" line="255" column="1" />
-      </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/account/index.vue" timestamp="1512453693373" />
-      <file name="/dummy.sql" timestamp="1512455476054">
+      <file name="/dummy.sql" timestamp="1512468525342">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1512469578846">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBhID0gMSAvIDA7Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>null</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBhID0gMSAvIDA7Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICAvLyBzZWFyY2hQZXJzb25CeUdlbmRlcih0aGlzLmN1cnJlbnRQYWdlLCB0aGlzLnBlclBhZ2VTaXplLCB0aGlzLnNlYXJjaEtleS5nZW5kZXIpLnRoZW4ocmVzcG9uc2UgPT4gewogICAgICAgIC8vICAgdGhpcy50YWJsZURhdGEgPSByZXNwb25zZS5jb250ZW50Lmxpc3QKICAgICAgICAvLyAgIHRoaXMucGVyUGFnZVNpemUgPSByZXNwb25zZS5jb250ZW50LnBlclBhZ2VTaXplCiAgICAgICAgLy8gICB0aGlzLnRvdGFsID0gcmVzcG9uc2UuY29udGVudC50b3RhbAogICAgICAgIC8vIH0p</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBiID0gMSAvIDA7YAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWFyY2hQZXJzb25CeUdlbmRlcih0aGlzLmN1cnJlbnRQYWdlLCB0aGlzLnBlclBhZ2VTaXplLCBlYXJjaEtleS5nZW5kZXIpLnRoZW4ocmVzcG9uc2UgPT4gewo=</text>
+        <text encoding="base64">ICAgIEBQb3N0TWFwcGluZygiIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvdGVtcGxhdGU+Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IExvY2FsQ291cG9uVGVtcGxhdGVFbnRpdHkoQ291cG9uVGVtcGxhdGUucmV0cmlldmUoY291cG9uVGVtcGxhdGVJZCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIDx0ZW1wbGF0ZSBzbG90LXNjb3BlPSJzY29wZSI+Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBvcmRlckJ5T3JkZXJOdW0uc3RyZWFtCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIFBvc3RNYXBwaW5nKCIiKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBPcHRpb25hbDxDb3Vwb25UZW1wbGF0ZT5Db3Vwb25UZW1wbGF0ZSAgPSBPcHRpb25hbC5vZk51bGxhYmxlKHBheUNvdXBvblRlbXBsYXRlU2VydmljZS5maW5kQ291cG9uVGVtcGxhdGUoY291cG9uVGVtcGxhdGVJZCkpOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>)</text>
       </register>
     </registers>
     <search>
@@ -104,6 +147,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
