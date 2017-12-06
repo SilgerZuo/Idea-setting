@@ -9,14 +9,22 @@
         <mark key="." line="55" column="0" />
         <mark key="^" line="55" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512533004448">
+      <file name="/Dummy.txt" timestamp="1512543822292">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/payment/coupon/CouponTemplateController.java" timestamp="1512543939624">
+        <mark key="[" line="82" column="29" />
+        <mark key="]" line="82" column="29" />
+        <mark key="^" line="82" column="55" />
+        <mark key="." line="82" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/app/payment/coupon/PayCouponAppController.java" timestamp="1512532757545">
-        <mark key="[" line="67" column="85" />
-        <mark key="]" line="67" column="84" />
-        <mark key="^" line="67" column="84" />
-        <mark key="." line="67" column="84" />
+        <mark key="[" line="75" column="85" />
+        <mark key="]" line="75" column="84" />
+        <mark key="^" line="75" column="84" />
+        <mark key="." line="75" column="84" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/coupon/PayCouponServiceImpl.java" timestamp="1512532883487">
         <mark key="[" line="228" column="38" />
@@ -42,8 +50,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>startTimeOfday</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -61,7 +69,7 @@
         <text encoding="base64">ICAgICAgICBsaXN0LmYK</text>
       </register>
       <register name="-" type="4">
-        <text>HashMap</text>
+        <text>startTimeOfday</text>
       </register>
     </registers>
     <search>
@@ -83,6 +91,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
