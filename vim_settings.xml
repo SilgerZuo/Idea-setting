@@ -3,23 +3,26 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1512554248377">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1512556604597">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/payment/coupon/CouponTemplateController.java" timestamp="1512554749467">
-        <mark key="[" line="90" column="14" />
-        <mark key="]" line="89" column="23" />
-        <mark key="^" line="89" column="23" />
-        <mark key="." line="89" column="23" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/payment/coupon/CouponTemplateController.java" timestamp="1512557749588">
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="0" />
+        <mark key="^" line="100" column="0" />
+        <mark key="." line="100" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/payment/coupon/PayCouponTemplateService.java" timestamp="1512551673016">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/coupon/PayCouponServiceImpl.java" timestamp="1512554613507">
+      <file name="/a.dummy" timestamp="1512557772442">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/coupon/PayCouponServiceImpl.java" timestamp="1512557816988">
         <mark key="[" line="228" column="38" />
         <mark key="]" line="228" column="38" />
         <mark key="." line="228" column="38" />
@@ -53,6 +56,12 @@
         <mark key="^" line="75" column="84" />
         <mark key="." line="64" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/payment/coupon/PayCouponController.java" timestamp="1512558042514">
+        <mark key="[" line="142" column="25" />
+        <mark key="]" line="144" column="0" />
+        <mark key="^" line="133" column="18" />
+        <mark key="." line="144" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/coupon/LocalCouponTemplateServiceImpl.java" timestamp="1512551442897">
         <mark key="[" line="30" column="91" />
         <mark key="]" line="30" column="0" />
@@ -78,43 +87,43 @@
       <jump line="86" column="0" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/app/payment/coupon/PayCouponAppController.java" />
     </jumps>
     <registers>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="4">
         <text>//    CouponTemplate addNewCouponTemplate(String name, int amountOff, int amountAvailiable, int max_circulation, long timeStart,
 //                                        long timeEnd, long duration, boolean canRefundable, long
 //                                      startTimeOfDay, long endTimeOfDay, boolean useTimeLimit) throws
 //            InvalidRequestException, APIException, IOException, RateLimitException, ChannelException,
 //            AuthenticationException, APIConnectionException;</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">aGFzaE1hcCA=</text>
-      </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">ICAgIC8vICAgIHB1YmxpYyBDb3Vwb25UZW1wbGF0ZSBpbnNlcnRCYXNlQ291cG9uVGVtcGxhdGUoU3RyaW5nIG5hbWUsIGludCBhbW91bnRPZmYsIGludCBhbW91bnRBdmFpbGlhYmxlLCBpbnQKLy8gICAgICAgICAgICBtYXhfY2lyY3VsYXRpb24sIGxvbmcgdGltZVN0YXJ0LCBsb25nIHRpbWVFbmQsIGxvbmcgZHVyYXRpb24sIFBheUNvdXBvblJlZnVuZGFibGVUeXBlRW51bSBwYXlDb3Vwb25SZWZ1bmRhYmxlVHlwZUVudW0pIHRocm93cyBJT0V4Y2VwdGlvbiwgUmF0ZUxpbWl0RXhjZXB0aW9uLCBBUElFeGNlcHRpb24sIENoYW5uZWxFeGNlcHRpb24sCi8vICAgICAgICAgICAgSW52YWxpZFJlcXVlc3RFeGNlcHRpb24sIEFQSUNvbm5lY3Rpb25FeGNlcHRpb24sIEF1dGhlbnRpY2F0aW9uRXhjZXB0aW9uIHs=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>//        paramMap.put(&quot;redeemed&quot;, false);
 //        paramMap.put(&quot;expired&quot;, false);</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBsb2NhbENvdXBvblRlbXBsYXRlRW50aXRzCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICAgICAgICAvL+WIpOaWreaYr+WQpumcgOimgeiuvue9rgogICAgICAgIGlmICgwIDwgbG9jYWxDb3Vwb25UZW1wbGF0ZUVudGl0eS5nZXRFeHBpcmF0aW9uKCkuZ2V0VGltZVN0YXJ0KCkpIHsKICAgICAgICAgICAgLy/kvJjmg6DliLjlj6/nlKjnmoTlvIDlp4vml7bpl7TvvIznlKggVW5peCDml7bpl7TmiLPooajnpLrjgIIKCiAgICAgICAgfQogICAgICAgIGlmICgwIDwgbG9jYWxDb3Vwb25UZW1wbGF0ZUVudGl0eS5nZXRFeHBpcmF0aW9uKCkuZ2V0VGltZUVuZCgpKSB7CiAgICAgICAgICAgIC8v5LyY5oOg5Yi45Y+v55So55qE57uT5p2f5pe26Ze077yM55SoIFVuaXgg5pe26Ze05oiz6KGo56S644CCCiAgICAgICAgICAgIGV4cGlyYXRpb24ucHV0KCJ0aW1lX2VuZCIsIGxvY2FsQ291cG9uVGVtcGxhdGVFbnRpdHkuZ2V0RXhwaXJhdGlvbigpLmdldFRpbWVFbmQoKSk7CiAgICAgICAgfQ==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm5lZWRBbW91bnQgPSBuZWVkQW1vdW50Owo=</text>
-      </register>
       <register name="-" type="4">
-        <text encoding="base64">aGFzaE1hcCA=</text>
+        <text>有方法改成私有方法</text>
       </register>
     </registers>
     <search>
