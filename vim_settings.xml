@@ -3,28 +3,21 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/controller/TestController.java" timestamp="1512440531868">
-        <mark key="[" line="53" column="72" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
-        <mark key="^" line="55" column="19" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1512543822292">
+      <file name="/Dummy.txt" timestamp="1512552190310">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/payment/coupon/CouponTemplateController.java" timestamp="1512543939624">
-        <mark key="[" line="82" column="29" />
-        <mark key="]" line="82" column="29" />
-        <mark key="^" line="82" column="55" />
-        <mark key="." line="82" column="29" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/payment/coupon/CouponTemplateController.java" timestamp="1512552299676">
+        <mark key="[" line="79" column="17" />
+        <mark key="]" line="79" column="17" />
+        <mark key="." line="79" column="17" />
+        <mark key="^" line="79" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/app/payment/coupon/PayCouponAppController.java" timestamp="1512532757545">
-        <mark key="[" line="75" column="85" />
-        <mark key="]" line="75" column="84" />
-        <mark key="^" line="75" column="84" />
-        <mark key="." line="75" column="84" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/payment/coupon/PayCouponTemplateService.java" timestamp="1512551673016">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/coupon/PayCouponServiceImpl.java" timestamp="1512532883487">
         <mark key="[" line="228" column="38" />
@@ -36,40 +29,92 @@
         <mark key="^" line="229" column="39" />
         <mark key="." line="229" column="39" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/coupon/PayCouponTemplateServiceImpl.java" timestamp="1512532197691">
-        <mark key="[" line="135" column="0" />
-        <mark key="]" line="135" column="0" />
-        <mark key="." line="135" column="0" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/coupon/PayCouponTemplateServiceImpl.java" timestamp="1512552357962">
+        <mark key="[" line="47" column="4" />
+        <mark key="]" line="47" column="10" />
+        <mark key="^" line="47" column="10" />
+        <mark key="." line="47" column="10" />
       </file>
-      <file name="/fragment.java" timestamp="1512538879504">
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/controller/TestController.java" timestamp="1512440531868">
+        <mark key="[" line="53" column="72" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+        <mark key="^" line="55" column="19" />
+      </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/test/java/com/mvcc/service/impl/payment/coupon/PayCouponTemplateServiceImplTest.java" timestamp="1512550766744">
+        <mark key="[" line="37" column="2" />
+        <mark key="]" line="37" column="2" />
+        <mark key="." line="37" column="2" />
+        <mark key="^" line="37" column="15" />
+      </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/app/payment/coupon/PayCouponAppController.java" timestamp="1512551659331">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="^" line="75" column="84" />
+        <mark key="." line="64" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/coupon/LocalCouponTemplateServiceImpl.java" timestamp="1512551442897">
+        <mark key="[" line="30" column="91" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1512551277780">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/payment/coupon/LocalCouponTemplateEntity.java" timestamp="1512551479802">
+        <mark key="'" line="136" column="0" />
+        <mark key="[" line="135" column="0" />
+        <mark key="]" line="136" column="0" />
+        <mark key="^" line="31" column="22" />
+        <mark key="." line="136" column="0" />
+      </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="70" column="68" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/payment/coupon/CouponTemplateController.java" />
+      <jump line="33" column="30" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/payment/coupon/LocalCouponTemplateEntity.java" />
+      <jump line="32" column="0" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/payment/coupon/LocalCouponTemplateEntity.java" />
+      <jump line="31" column="22" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/payment/coupon/LocalCouponTemplateEntity.java" />
+      <jump line="147" column="0" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/payment/coupon/LocalCouponTemplateEntity.java" />
+      <jump line="86" column="0" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/app/payment/coupon/PayCouponAppController.java" />
+    </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="1" type="4">
+        <text>//    CouponTemplate addNewCouponTemplate(String name, int amountOff, int amountAvailiable, int max_circulation, long timeStart,
+//                                        long timeEnd, long duration, boolean canRefundable, long
+//                                      startTimeOfDay, long endTimeOfDay, boolean useTimeLimit) throws
+//            InvalidRequestException, APIException, IOException, RateLimitException, ChannelException,
+//            AuthenticationException, APIConnectionException;</text>
       </register>
       <register name="&quot;" type="4">
-        <text>startTimeOfday</text>
+        <text>public</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIC8vICAgIHB1YmxpYyBDb3Vwb25UZW1wbGF0ZSBpbnNlcnRCYXNlQ291cG9uVGVtcGxhdGUoU3RyaW5nIG5hbWUsIGludCBhbW91bnRPZmYsIGludCBhbW91bnRBdmFpbGlhYmxlLCBpbnQKLy8gICAgICAgICAgICBtYXhfY2lyY3VsYXRpb24sIGxvbmcgdGltZVN0YXJ0LCBsb25nIHRpbWVFbmQsIGxvbmcgZHVyYXRpb24sIFBheUNvdXBvblJlZnVuZGFibGVUeXBlRW51bSBwYXlDb3Vwb25SZWZ1bmRhYmxlVHlwZUVudW0pIHRocm93cyBJT0V4Y2VwdGlvbiwgUmF0ZUxpbWl0RXhjZXB0aW9uLCBBUElFeGNlcHRpb24sIENoYW5uZWxFeGNlcHRpb24sCi8vICAgICAgICAgICAgSW52YWxpZFJlcXVlc3RFeGNlcHRpb24sIEFQSUNvbm5lY3Rpb25FeGNlcHRpb24sIEF1dGhlbnRpY2F0aW9uRXhjZXB0aW9uIHs=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="4" type="4">
+        <text>//        paramMap.put(&quot;redeemed&quot;, false);
+//        paramMap.put(&quot;expired&quot;, false);</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBsb2NhbENvdXBvblRlbXBsYXRlRW50aXRzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsaXN0LmYK</text>
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgICAvL+WIpOaWreaYr+WQpumcgOimgeiuvue9rgogICAgICAgIGlmICgwIDwgbG9jYWxDb3Vwb25UZW1wbGF0ZUVudGl0eS5nZXRFeHBpcmF0aW9uKCkuZ2V0VGltZVN0YXJ0KCkpIHsKICAgICAgICAgICAgLy/kvJjmg6DliLjlj6/nlKjnmoTlvIDlp4vml7bpl7TvvIznlKggVW5peCDml7bpl7TmiLPooajnpLrjgIIKCiAgICAgICAgfQogICAgICAgIGlmICgwIDwgbG9jYWxDb3Vwb25UZW1wbGF0ZUVudGl0eS5nZXRFeHBpcmF0aW9uKCkuZ2V0VGltZUVuZCgpKSB7CiAgICAgICAgICAgIC8v5LyY5oOg5Yi45Y+v55So55qE57uT5p2f5pe26Ze077yM55SoIFVuaXgg5pe26Ze05oiz6KGo56S644CCCiAgICAgICAgICAgIGV4cGlyYXRpb24ucHV0KCJ0aW1lX2VuZCIsIGxvY2FsQ291cG9uVGVtcGxhdGVFbnRpdHkuZ2V0RXhwaXJhdGlvbigpLmdldFRpbWVFbmQoKSk7CiAgICAgICAgfQ==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLm5lZWRBbW91bnQgPSBuZWVkQW1vdW50Owo=</text>
       </register>
       <register name="-" type="4">
-        <text>startTimeOfday</text>
+        <text>public</text>
       </register>
     </registers>
     <search>
@@ -83,13 +128,13 @@
       <history-input />
     </history>
     <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed S</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed N</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed C</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
@@ -97,6 +142,21 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
