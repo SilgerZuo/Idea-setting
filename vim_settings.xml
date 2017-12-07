@@ -29,7 +29,6 @@
         <mark key="^" line="47" column="10" />
         <mark key="." line="47" column="10" />
       </file>
-      <file name="/CouponTemplateController.java" timestamp="1512558693085" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/authentication/PlatformAuthenticationServiceImpl.java" timestamp="1512565125336">
         <mark key="[" line="192" column="40" />
         <mark key="]" line="192" column="40" />
@@ -46,6 +45,12 @@
         <mark key="]" line="37" column="2" />
         <mark key="." line="37" column="2" />
         <mark key="^" line="37" column="15" />
+      </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/pay/coupon/index.vue" timestamp="1512612864358">
+        <mark key="[" line="26" column="18" />
+        <mark key="]" line="26" column="17" />
+        <mark key="^" line="26" column="17" />
+        <mark key="." line="26" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/payment/coupon/PayCouponController.java" timestamp="1512559437552">
         <mark key="[" line="146" column="0" />
@@ -82,6 +87,12 @@
         <mark key="]" line="218" column="51" />
         <mark key="." line="218" column="51" />
         <mark key="^" line="218" column="51" />
+      </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/nice/index.vue" timestamp="1512613427098">
+        <mark key="[" line="214" column="26" />
+        <mark key="]" line="214" column="25" />
+        <mark key="^" line="214" column="25" />
+        <mark key="." line="214" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/authentication/PlatformAuthenticationController.java" timestamp="1512565090805">
         <mark key="[" line="243" column="40" />
@@ -223,11 +234,17 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed F</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed OPEN_BRACKET</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Y</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
