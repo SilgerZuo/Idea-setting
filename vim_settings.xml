@@ -3,7 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/api/pay/coupon.js" timestamp="1512705513476">
+      <file name="/Dummy.txt" timestamp="1512714114960">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
+      </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/api/pay/coupon.js" timestamp="1512712813861">
         <mark key="'" line="20" column="13" />
         <mark key="[" line="65" column="75" />
         <mark key="]" line="63" column="8" />
@@ -13,32 +18,45 @@
       <file name="/a.dummy" timestamp="1512557772442">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/nice/NiceServiceImpl.java" timestamp="1512628268105">
+        <mark key="[" line="169" column="73" />
+        <mark key="]" line="170" column="60" />
+        <mark key="^" line="170" column="60" />
+        <mark key="." line="170" column="60" />
+      </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/coupon/PayCouponServiceImpl.java" timestamp="1512639993777">
         <mark key="[" line="159" column="28" />
         <mark key="]" line="159" column="28" />
         <mark key="." line="159" column="28" />
         <mark key="^" line="173" column="41" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/pingplusplus/pingpp-java-account/1.2.1/pingpp-java-account-1.2.1.jar!/com/pingplusplus/model/CouponTemplate.class" timestamp="1512697890349" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/coupon/PayCouponTemplateServiceImpl.java" timestamp="1512700894162">
         <mark key="[" line="85" column="94" />
         <mark key="]" line="99" column="64" />
         <mark key="^" line="99" column="64" />
         <mark key="." line="99" column="64" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/activity/index.vue" timestamp="1512703709241" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/test/java/com/mvcc/service/impl/payment/account/PayAccountServiceImplTest.java" timestamp="1512617328020">
         <mark key="[" line="17" column="33" />
         <mark key="]" line="25" column="39" />
         <mark key="^" line="25" column="39" />
         <mark key="." line="25" column="39" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/pay/coupon/index.vue" timestamp="1512705934425">
-        <mark key="'" line="78" column="26" />
-        <mark key="[" line="238" column="27" />
-        <mark key="]" line="305" column="33" />
-        <mark key="." line="305" column="33" />
-        <mark key="^" line="305" column="33" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1512617315949">
+        <mark key="[" line="0" column="1" />
+      </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/pay/coupon/index.vue" timestamp="1512714015452">
+        <mark key="'" line="406" column="13" />
+        <mark key="[" line="390" column="23" />
+        <mark key="]" line="390" column="23" />
+        <mark key="^" line="406" column="13" />
+        <mark key="." line="390" column="23" />
+      </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/app/payment/coupon/PayCouponAppController.java" timestamp="1512625840216">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="^" line="75" column="84" />
+        <mark key="." line="64" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/payment/coupon/PayCouponController.java" timestamp="1512640688624">
         <mark key="'" line="144" column="34" />
@@ -47,35 +65,6 @@
         <mark key="." line="162" column="4" />
         <mark key="^" line="162" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/constant/tagId/TagIdConstant.java" timestamp="1512564965431">
-        <mark key="[" line="19" column="23" />
-      </file>
-      <file name="/dummy.sql" timestamp="1512628444981">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/payment/coupon/LocalCouponTemplateEntity.java" timestamp="1512701088183">
-        <mark key="[" line="32" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1512705146425">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
-      </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/nice/NiceServiceImpl.java" timestamp="1512628268105">
-        <mark key="[" line="169" column="73" />
-        <mark key="]" line="170" column="60" />
-        <mark key="^" line="170" column="60" />
-        <mark key="." line="170" column="60" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1512617315949">
-        <mark key="[" line="0" column="1" />
-      </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/app/payment/coupon/PayCouponAppController.java" timestamp="1512625840216">
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="^" line="75" column="84" />
-        <mark key="." line="64" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/nice/niceApp-mapper.xml" timestamp="1512628290649">
         <mark key="'" line="27" column="38" />
         <mark key="[" line="9" column="82" />
@@ -83,10 +72,13 @@
         <mark key="." line="9" column="81" />
         <mark key="^" line="9" column="81" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/payment/coupon/PayCouponTemplateController.java" timestamp="1512701024539">
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/constant/tagId/TagIdConstant.java" timestamp="1512564965431">
+        <mark key="[" line="19" column="23" />
+      </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/payment/coupon/PayCouponTemplateController.java" timestamp="1512713550512">
+        <mark key="[" line="132" column="15" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="87" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/config/dev.env.js" timestamp="1512637780701">
         <mark key="[" line="5" column="14" />
@@ -94,8 +86,14 @@
         <mark key="." line="6" column="3" />
         <mark key="^" line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/orders/orderDetail.vue" timestamp="1512703323914" />
-      <file name="/fragment.java" timestamp="1512697536380">
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/account/index.vue" timestamp="1512712641198" />
+      <file name="/dummy.sql" timestamp="1512628444981">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/payment/coupon/LocalCouponTemplateEntity.java" timestamp="1512701088183">
+        <mark key="[" line="32" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1512712835558">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -131,13 +129,16 @@
       <jump line="322" column="8" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/pay/coupon/index.vue" />
       <jump line="234" column="0" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/pay/coupon/index.vue" />
       <jump line="78" column="26" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/pay/coupon/index.vue" />
+      <jump line="236" column="0" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/pay/coupon/index.vue" />
+      <jump line="417" column="7" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/pay/coupon/index.vue" />
+      <jump line="406" column="13" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/pay/coupon/index.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>bg-purple</text>
+        <text>能已经上线</text>
       </register>
       <register name="-" type="4">
-        <text>bg-purple</text>
+        <text>能已经上线</text>
       </register>
       <register name="/" type="4">
         <text>method</text>
@@ -146,31 +147,31 @@
         <text>searchByCondition</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBpbXBvcnQgbW9tZW50IGZyb20gJ21vbWVudCcK</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLW1vbWVudCh0aGlzLnRhYmxlRGF0YVtpbmRleF0ucHVibGlzaFRpbWUpLmZvcm1hdCgnWVlZWS1NTS1ERCBISDptbTpzcycpLS0+Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">PGVsLWRpYWxvZwogICAgICB0aXRsZT0i5o+Q56S6IgogICAgICA6dmlzaWJsZS5zeW5jPSJkZWxldGVEaWFsb2dWaXNpYmxlIgogICAgICB3aWR0aD0iMzAlIj4KICAgICAgPHNwYW4+56Gu6K6k5Yig6Zmk6K+l5LyY5oOg5Yi4PC9zcGFuPgogICAgICA8c3BhbiBzbG90PSJmb290ZXIiIGNsYXNzPSJkaWFsb2ctZm9vdGVyIj4KICAgIDxlbC1idXR0b24gQGNsaWNrPSJkaWFsb2dWaXNpYmxlID0gZmFsc2UiPuWPliDmtog8L2VsLWJ1dHRvbj4KICAgIDxlbC1idXR0b24gdHlwZT0icHJpbWFyeSIgQGNsaWNrPSJkaWFsb2dWaXNpYmxlID0gZmFsc2UiPuehriDlrpo8L2VsLWJ1dHRvbj4KICA8L3NwYW4+CiAgICA8L2VsLWRpYWxvZz4=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLTxwIHYtZWxzZSA+e3tuZXcgRGF0ZShzY29wZS5yb3cuZXhwaXJhdGlvbi50aW1lU3RhcnQpfX0gfiB7e25ldyBEYXRlKHNjb3BlLnJvdy5leHBpcmF0aW9uLnRpbWVFbmQpfX08L3A+ICAgICAgICAgICAgLS0+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0YWJsZQo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgaGFuZGxlRGVsZXRlQ2xvc2UoZG9uZSkgewogICAgICAgIHRoaXMuZGVsZXRlRGlhbG9nVmlzaWJsZSA9IGZhbHNlCiAgICAgICAgdGhpcy4kY29uZmlybSgn56Gu6K6k5YWz6Zet77yfJykKICAgICAgICAgIC50aGVuKF8gPT4gewogICAgICAgICAgICBjb25zb2xlLmxvZygnYWxyZWFkeSBkZWxldGVkJykKICAgICAgICAgIH0pCiAgICAgICAgICAuY2F0Y2goXyA9PiB7fSkKICAgICAgfQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5tb21lbnQoc2NvcGUucm93LmV4cGlyYXRpb24udGltZVN0YXJ0KS5mb3JtYXQoJ1lZWVktTU0tREQgSEg6bW06c3MnKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBpbXBvcnQgJ21vbWVudCcgZm9ybSAnbW9tZW50Jwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsb2NhbENvdXBvblRlbXBsYXRlRW50aXR5LmdldEV4cGlyYXRpb24oKS5zZXQK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmRlbGV0ZURpYWxvZ1Zpc2libGUgPSB0cnVlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsb2NhbENvdXBvblRlbXBsYXRlRW50aXR5LnNldEV4cGlyYXRpb24oKTsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMb2NhbENvdXBvblRlbXBsYXRlRW50aXR5IGxvY2FsQ291cG9uVGVtcGxhdGVFbnRpdHkxOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
