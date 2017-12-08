@@ -44,7 +44,7 @@
         <mark key="^" line="102" column="57" />
         <mark key="." line="102" column="57" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/payment/coupon/PayCouponController.java" timestamp="1512728053131">
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/payment/coupon/PayCouponController.java" timestamp="1512729040684">
         <mark key="'" line="176" column="0" />
         <mark key="[" line="162" column="19" />
         <mark key="]" line="162" column="18" />
@@ -61,25 +61,30 @@
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/payment/coupon/LocalCouponTemplateEntity.java" timestamp="1512701088183">
         <mark key="[" line="32" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512725327824">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1512729065859">
+        <mark key="[" line="0" column="3" />
+        <mark key="]" line="0" column="3" />
+        <mark key="." line="0" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/payment/coupon/PayCouponService.java" timestamp="1512723936538" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1512617315949">
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/api/pay/grant.js" timestamp="1512725879677" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/api/pay/grant.js" timestamp="1512728889269">
+        <mark key="[" line="92" column="9" />
+        <mark key="]" line="92" column="8" />
+        <mark key="^" line="92" column="8" />
+        <mark key="." line="92" column="8" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/db6bb179-e55d-467b-becc-eb3f76ab0a98/console_2.sql" timestamp="1512715610685">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/pay/coupon/grant.vue" timestamp="1512727955785">
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/pay/coupon/grant.vue" timestamp="1512728968349">
         <mark key="'" line="317" column="26" />
-        <mark key="[" line="422" column="28" />
-        <mark key="]" line="422" column="28" />
-        <mark key="." line="422" column="28" />
-        <mark key="^" line="418" column="10" />
+        <mark key="[" line="422" column="36" />
+        <mark key="]" line="422" column="36" />
+        <mark key="." line="422" column="36" />
+        <mark key="^" line="420" column="43" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/carInfo/index.vue" timestamp="1512715202199" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/payment/coupon/PayCouponTemplateController.java" timestamp="1512718630924">
@@ -90,7 +95,7 @@
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/car/CarOwnerServiceImpl.java" timestamp="1512715430310" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/account/index.vue" timestamp="1512712641198" />
-      <file name="/fragment.java" timestamp="1512724254477">
+      <file name="/fragment.java" timestamp="1512729042045">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -149,10 +154,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>users</text>
+        <text>优惠券详情可以查看信息</text>
       </register>
       <register name="-" type="4">
-        <text>users</text>
+        <text>优惠券详情可以查看信息</text>
       </register>
       <register name="/" type="4">
         <text>method</text>
