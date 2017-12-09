@@ -43,12 +43,12 @@
         <mark key="^" line="25" column="39" />
         <mark key="." line="25" column="39" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/pay/coupon/index.vue" timestamp="1512786694954">
-        <mark key="'" line="534" column="24" />
-        <mark key="[" line="150" column="38" />
-        <mark key="]" line="150" column="38" />
-        <mark key="." line="150" column="38" />
-        <mark key="^" line="150" column="37" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/pay/coupon/index.vue" timestamp="1512788519937">
+        <mark key="'" line="535" column="24" />
+        <mark key="[" line="564" column="91" />
+        <mark key="]" line="564" column="91" />
+        <mark key="." line="564" column="91" />
+        <mark key="^" line="400" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/payment/coupon/PayCouponController.java" timestamp="1512786958238">
         <mark key="'" line="176" column="0" />
@@ -66,7 +66,7 @@
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/payment/coupon/LocalCouponTemplateEntity.java" timestamp="1512785100765">
         <mark key="[" line="32" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512786136030">
+      <file name="/Dummy.txt" timestamp="1512787735158">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -91,7 +91,7 @@
         <mark key="." line="422" column="36" />
         <mark key="^" line="420" column="43" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/payment/coupon/PayCouponTemplateController.java" timestamp="1512718630924">
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/payment/coupon/PayCouponTemplateController.java" timestamp="1512787807278">
         <mark key="[" line="119" column="126" />
         <mark key="]" line="119" column="3" />
         <mark key="." line="119" column="3" />
@@ -156,10 +156,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>stringObjectHashMap</text>
+        <text>ew Date().setHours(0)</text>
       </register>
       <register name="-" type="4">
-        <text>stringObjectHashMap</text>
+        <text>ew Date().setHours(0)</text>
       </register>
       <register name="/" type="4">
         <text>method</text>
