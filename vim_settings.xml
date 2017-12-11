@@ -37,11 +37,11 @@
         <mark key="." line="114" column="36" />
         <mark key="^" line="113" column="39" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/pay/coupon/index.vue" timestamp="1512802371972">
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/pay/coupon/index.vue" timestamp="1512957728421">
         <mark key="'" line="626" column="0" />
-        <mark key="[" line="537" column="34" />
-        <mark key="]" line="537" column="34" />
-        <mark key="." line="537" column="34" />
+        <mark key="[" line="45" column="32" />
+        <mark key="]" line="45" column="32" />
+        <mark key="." line="45" column="32" />
         <mark key="^" line="537" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/glossary/ResultInfoEnum.java" timestamp="1512800669848">
@@ -186,10 +186,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>MWCX-108 车主管理，编辑，车辆状态，应该是不可点击状态样式，黑色与标准字体大小一致</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>MWCX-108 车主管理，编辑，车辆状态，应该是不可点击状态样式，黑色与标准字体大小一致</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>method</text>
