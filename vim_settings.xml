@@ -80,11 +80,11 @@
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/payment/webhooks/PayWebhooksController.java" timestamp="1512978191527">
-        <mark key="[" line="21" column="4" />
-        <mark key="]" line="19" column="11" />
-        <mark key="." line="19" column="11" />
-        <mark key="^" line="19" column="11" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/payment/webhooks/PayWebhooksController.java" timestamp="1513045189502">
+        <mark key="[" line="41" column="15" />
+        <mark key="]" line="41" column="15" />
+        <mark key="." line="41" column="15" />
+        <mark key="^" line="41" column="55" />
       </file>
       <file name="/dummy.sql" timestamp="1512997282172">
         <mark key="[" line="0" column="0" />
@@ -95,10 +95,10 @@
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/test/java/com/mvcc/service/impl/nice/NiceServiceImplTest.java" timestamp="1513043020760">
         <mark key="'" line="43" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512996858656">
+      <file name="/Dummy.txt" timestamp="1513044912382">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/MQMessage/geo/InsertGeoByEntity.java" timestamp="1512996851225">
         <mark key="[" line="26" column="0" />
@@ -156,8 +156,8 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/db6bb179-e55d-467b-becc-eb3f76ab0a98/console_2.sql" timestamp="1512715610685">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/webhooks/PayWebhooksServiceImpl.java" timestamp="1512982867928">
-        <mark key="[" line="35" column="68" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/webhooks/PayWebhooksServiceImpl.java" timestamp="1513044261759">
+        <mark key="[" line="42" column="25" />
         <mark key="]" line="17" column="26" />
         <mark key="." line="17" column="26" />
         <mark key="^" line="17" column="26" />
@@ -165,7 +165,7 @@
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/car/carOwner-mapper.xml" timestamp="1512956260540">
         <mark key="[" line="84" column="63" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/test/java/com/mvcc/service/impl/payment/webhooks/PayWebhooksServiceImplTest.java" timestamp="1513043490558">
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/test/java/com/mvcc/service/impl/payment/webhooks/PayWebhooksServiceImplTest.java" timestamp="1513044238914">
         <mark key="[" line="26" column="44" />
         <mark key="]" line="26" column="44" />
         <mark key="^" line="26" column="32" />
@@ -273,10 +273,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1376067027892127230</text>
+        <text>1. nice的picUrl小bug修改</text>
       </register>
       <register name="-" type="4">
-        <text>1376067027892127230</text>
+        <text>1. nice的picUrl小bug修改</text>
       </register>
       <register name="/" type="4">
         <text>method</text>
