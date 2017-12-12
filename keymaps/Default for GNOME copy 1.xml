@@ -12,5 +12,13 @@
     <keyboard-shortcut first-keystroke="alt 2" />
   </action>
   <action id="ActivateFavoritesToolWindow" />
+  <action id="EditorTextEnd" />
+  <action id="EditorTextStart" />
+  <action id="Git.Stash">
+    <keyboard-shortcut first-keystroke="ctrl end" />
+  </action>
+  <action id="Git.Unstash">
+    <keyboard-shortcut first-keystroke="ctrl home" />
+  </action>
   <action id="MaximizeToolWindow" />
 </keymap>
