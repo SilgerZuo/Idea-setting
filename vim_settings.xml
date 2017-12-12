@@ -96,7 +96,7 @@
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/test/java/com/mvcc/service/impl/nice/NiceServiceImplTest.java" timestamp="1513043020760">
         <mark key="'" line="43" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513052071820">
+      <file name="/Dummy.txt" timestamp="1513072716252">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -125,7 +125,6 @@
         <mark key="." line="197" column="49" />
         <mark key="^" line="197" column="49" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/repository/orders/OrdersMapper.java" timestamp="1513047317347" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/authentication/PlatformAuthenticationController.java" timestamp="1513052061262">
         <mark key="[" line="248" column="31" />
         <mark key="]" line="41" column="31" />
@@ -180,14 +179,13 @@
         <mark key="^" line="26" column="32" />
         <mark key="." line="26" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/orders/OrdersServiceImpl.java" timestamp="1513047309060" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/payment/coupon/PayCouponTemplateController.java" timestamp="1512801068917">
         <mark key="[" line="49" column="83" />
         <mark key="]" line="49" column="82" />
         <mark key="." line="49" column="82" />
         <mark key="^" line="49" column="82" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/db6bb179-e55d-467b-becc-eb3f76ab0a98/console.sql" timestamp="1513059530686">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/db6bb179-e55d-467b-becc-eb3f76ab0a98/console.sql" timestamp="1513072710930">
         <mark key="[" line="4" column="66" />
         <mark key="]" line="0" column="65" />
         <mark key="^" line="0" column="65" />
