@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/payment/order/PayOrderService.java" timestamp="1513155027318">
+        <mark key="[" line="208" column="0" />
+      </file>
       <file name="/fragment.js" timestamp="1512807193774">
         <mark key="[" line="0" column="0" />
       </file>
@@ -68,7 +71,7 @@
         <mark key="^" line="46" column="7" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1513154014950">
+      <file name="/dummy.sql" timestamp="1513155830503">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/payment/coupon/LocalCouponTemplateEntity.java" timestamp="1512791959253">
@@ -91,11 +94,12 @@
         <mark key="^" line="0" column="92" />
         <mark key="." line="0" column="92" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/order/PayOrderServiceImpl.java" timestamp="1513154940102">
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/order/PayOrderServiceImpl.java" timestamp="1513155872635">
         <mark key="'" line="84" column="23" />
-        <mark key="[" line="329" column="0" />
-        <mark key="]" line="91" column="89" />
-        <mark key="." line="91" column="89" />
+        <mark key="[" line="306" column="61" />
+        <mark key="]" line="306" column="60" />
+        <mark key="." line="306" column="60" />
+        <mark key="^" line="306" column="60" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/nice/NiceServiceImpl.java" timestamp="1513152505362">
         <mark key="'" line="71" column="0" />
@@ -302,11 +306,11 @@
       <jump line="83" column="23" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/order/PayOrderServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>getDriverPrice</text>
       </register>
       <register name="-" type="4">
-        <text>1. nice的picUrl小bug修改</text>
+        <text>getDriverPrice</text>
       </register>
       <register name="/" type="4">
         <text>method</text>
@@ -314,32 +318,33 @@
       <register name="0" type="4">
         <text>payOrder.getCouponAmount();</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>BigDecimal.valueOf(payOrder.getActualAmount())
+                .multiply(new BigDecimal(&quot;1&quot;).subtract(passengerFloat)).setScale(0, BigDecimal.ROUND_HALF_UP)</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Ly8gICAgICAgIDsK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">RXZlbnREYXRhIGRhdGEgPSBldmVudC5nZXREYXRhKCk7Ci8vICAgICAgICBDaGFyZ2UgY2hhcmdlR290ID0gKENoYXJnZSkgZGF0YS5nZXRPYmplY3QoKTsKLy8gICAgICAgIFN0cmluZyBvcmRlcklkID0gY2hhcmdlR290LmdldE9yZGVyTm8oKTsKCi8vICAgICAgICBFdmVudCBldmVudFRtcD0gbmV3IEV2ZW50KCk7Ci8vICAgICAgICBldmVudFRtcC5zZXRJZCgoU3RyaW5nKSBldmVudC5nZXQoImlkIikpOwovLyAgICAgICAgZXZlbnRUbXAuc2V0T2JqZWN0KChTdHJpbmcpIGV2ZW50LmdldCgib2JqZWN0IikpOwovLyAgICAgICAgZXZlbnRUbXAuc2V0TGl2ZW1vZGUoKEJvb2xlYW4pIGV2ZW50LmdldCgibGl2ZW1vZGUiKSk7Ci8vICAgICAgICBldmVudFRtcC5zZXRDcmVhdGVkKCgoSW50ZWdlcilldmVudC5nZXQoImNyZWF0ZWQiKSkubG9uZ1ZhbHVlKCkpOwovLyAgICAgICAgLy/lhbbku5bmlbDmja7pg73lj6/ku6XojrflvpflubbovazvvIzllK/ni6zov5nkuKpkYXRh5piv5Y+Y5pWw77yM5omA5Lul6KaB5omL5Yqo6L2sCi8vICAgICAgICBDaGFyZ2UgZGF0YSA9KENoYXJnZSlCZWFuTWFwVXRpbHMubWFwMkJlYW4oIENoYXJnZS5jbGFzcywKLy8gICAgICAgICAgICAgICAgKE1hcDxTdHJpbmcsIE9iamVjdD4pICgoTGlua2VkSGFzaE1hcClldmVudC5nZXQoImRhdGEiKSkuZ2V0KCJvYmplY3QiKSk7Ci8vCi8vICAgICAgICBldmVudFRtcC5zZXRQZW5kaW5nV2ViaG9va3MoKEludGVnZXIpIGV2ZW50LmdldCgicGVuZGluZ193ZWJob29rcyIpKTsKLy8gICAgICAgIGV2ZW50VG1wLnNldFR5cGUoKFN0cmluZykgZXZlbnQuZ2V0KCJ0eXBlIikpOwovLyAgICAgICAgZXZlbnRUbXAuc2V0UmVxdWVzdCgoU3RyaW5nKSBldmVudC5nZXQoInJlcXVlc3QiKSk7Ci8vCi8vICAgICAgICBFdmVudCBldmVudFRtcCA9IFBheVdlYmhvb2tzRGF0YVV0aWwudHJhbnNmZXIyRGF0YShldmVudCwgbmV3IENoYXJnZSgpKTsKLy8gICAgICAgIENoYXJnZSBjaGFyZ2UgPShDaGFyZ2UpZXZlbnRUbXAuZ2V0RGF0YSgpLmdldE9iamVjdCgpOwovLyAgICAgICAgU3RyaW5nIG9yZGVyTm8gPSBjaGFyZ2UuZ2V0T3JkZXJObygpOwovLyAgICAgICAgLy8xLue7k+eul+WunuaXtuWIhua2pue7k+eulwovLyAgICAgICAgcGF5V2ViaG9va3NTZXJ2aWNlLmRvUm95YWx0eVNldHRsZShvcmRlck5vKTsKLy8KLy8KLy8KLy8gICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihyZXF1ZXN0KTsKLy8gICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihldmVudCk=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAgICAgICBPcmRlcnMgb3JkZXJzID0gbmV3IE9yZGVycygpOwogICAgICAgIG9yZGVycy5zZXRPcmRlcklkKG9yZGVySWQpOwogICAgICAgIG9yZGVycy5zZXRQYXNzZW5nZXJQYXlUaW1lKFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpKTsKICAgICAgICBvcmRlcnNTZXJ2aWNlLnVwZGF0ZU9yZGVyQnlFbnRpdHkob3JkZXJzKTs=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAvLyDorqLljZXnirbmgIHmlLnkuLrlt7Lnu4/mlK/ku5jvvIzmmoLml7bmsqHmnInlgZoK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBvcmRlcnMuc2V0Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBvcmRlcnNTZXJ2aWNlLnVwZGF0ZU9yZGVyQnlFbnRpdHkob3JkZXJzKTsK</text>
+        <text encoding="base64">ICAgICAgICBvcmRlcnMuc2V0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBvcmRlcnMuc2V0Cg==</text>
+        <text encoding="base64">ICAgICAgICBvcmRlcnNTZXJ2aWNlLnVwZGF0ZU9yZGVyQnlFbnRpdHkob3JkZXJzKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBvcmRlcnMuc2V0Cg==</text>
       </register>
     </registers>
     <search>
