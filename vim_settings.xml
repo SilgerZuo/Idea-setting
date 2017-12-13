@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/nice/NiceFieldsConstent.java" timestamp="1513144824524" />
       <file name="/fragment.js" timestamp="1512807193774">
         <mark key="[" line="0" column="0" />
       </file>
@@ -82,17 +83,14 @@
         <mark key="^" line="36" column="33" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1513136924324">
+      <file name="/dummy.sql" timestamp="1513144407892">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/payment/coupon/LocalCouponTemplateEntity.java" timestamp="1512791959253">
         <mark key="[" line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/test/java/com/mvcc/service/impl/nice/NiceServiceImplTest.java" timestamp="1513043020760">
-        <mark key="'" line="43" column="0" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/Pingplusplus/pingpp-java/2.2.4/pingpp-java-2.2.4.jar!/com/pingplusplus/model/Event.class" timestamp="1513131001940" />
-      <file name="/Dummy.txt" timestamp="1513072716252">
+      <file name="/Dummy.txt" timestamp="1513144258098">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -114,7 +112,7 @@
         <mark key="]" line="79" column="89" />
         <mark key="." line="79" column="89" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/nice/NiceServiceImpl.java" timestamp="1513050747557">
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/nice/NiceServiceImpl.java" timestamp="1513144806325">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="197" column="50" />
         <mark key="]" line="197" column="49" />
@@ -136,11 +134,12 @@
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/payment/coupon/PayCouponService.java" timestamp="1512804019337">
         <mark key="[" line="107" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/app/payment/order/PayOrderAppController.java" timestamp="1513137448074">
-        <mark key="'" line="159" column="0" />
-        <mark key="[" line="177" column="35" />
-        <mark key="]" line="180" column="0" />
-        <mark key="." line="180" column="0" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/app/payment/order/PayOrderAppController.java" timestamp="1513145529511">
+        <mark key="'" line="165" column="0" />
+        <mark key="[" line="184" column="34" />
+        <mark key="]" line="167" column="28" />
+        <mark key="." line="167" column="28" />
+        <mark key="^" line="167" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/router/index.js" timestamp="1512964695183">
         <mark key="[" line="144" column="16" />
@@ -197,7 +196,7 @@
         <mark key="^" line="0" column="65" />
         <mark key="." line="0" column="65" />
       </file>
-      <file name="/fragment.java" timestamp="1513135991570">
+      <file name="/fragment.java" timestamp="1513144258088">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/spring/spring-hsf-service.xml" timestamp="1512962495785">
@@ -293,44 +292,44 @@
       <jump line="53" column="53" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/payment/webhooks/PayWebhooksController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwYXlPcmRlci5nZXQK</text>
+      <register name="&quot;" type="4">
+        <text>orderByOrderNum</text>
       </register>
       <register name="-" type="4">
-        <text>orderNo</text>
+        <text>orderByOrderNum</text>
       </register>
       <register name="/" type="4">
         <text>method</text>
       </register>
       <register name="0" type="4">
-        <text>addNewCouponToSingleUser</text>
+        <text>payOrder.getCouponAmount();</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXlPcmRlci5nZXQK</text>
+        <text encoding="base64">ICAgICAgICBvcmRlckJ5T3JkZXJOdW0uc2V0RHJpdmVyUHJpY2UoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBPcmRlclNlcgo=</text>
+        <text encoding="base64">ICAgICAgICBvcmRlckJ5T3JkZXJOdW0uc2V0UGFzc2VuZ2VyUHJpYyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBvcmRlcnMuc2V0UGFzc2VuZ2VyUHJpY2UoQmlnRGVjaW1hbC52YWx1ZU9mKGNoYXJnZS5nZXRBbW91bnQoKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwYXlPcmRlci5nZXRDb3Vwb25BbW91bnQoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBvcmRlcnMuc2V0UGFzc2VuZ2VyUHJpY2UoQmlnRGVjaW1hbC52YWx1ZU9mKGNoYXJnZS5nZXRBbW91bnQoKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBvcmRlcnNTZXJ2aWNlLmZpbmRPcmRlckJ5T3JkZXJOdW0ob3IpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBvcmRlcnMuc2V0T3JkZXJJZChsb2NhbE9yZGVySWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBvcmRlcnMuc2V0UGFzc2VuZ2VyUGF5VGltZSgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIEV2ZW50RGF0YSBkYXRhID0gZXZlbnQuZ2V0RGF0YSgpOwovLyAgICAgICAgQ2hhcmdlIGNoYXJnZUdvdCA9IChDaGFyZ2UpIGRhdGEuZ2V0T2JqZWN0KCk7Ci8vICAgICAgICBTdHJpbmcgb3JkZXJJZCA9IGNoYXJnZUdvdC5nZXRPcmRlck5vKCk7CgovLyAgICAgICAgRXZlbnQgZXZlbnRUbXA9IG5ldyBFdmVudCgpOwovLyAgICAgICAgZXZlbnRUbXAuc2V0SWQoKFN0cmluZykgZXZlbnQuZ2V0KCJpZCIpKTsKLy8gICAgICAgIGV2ZW50VG1wLnNldE9iamVjdCgoU3RyaW5nKSBldmVudC5nZXQoIm9iamVjdCIpKTsKLy8gICAgICAgIGV2ZW50VG1wLnNldExpdmVtb2RlKChCb29sZWFuKSBldmVudC5nZXQoImxpdmVtb2RlIikpOwovLyAgICAgICAgZXZlbnRUbXAuc2V0Q3JlYXRlZCgoKEludGVnZXIpZXZlbnQuZ2V0KCJjcmVhdGVkIikpLmxvbmdWYWx1ZSgpKTsKLy8gICAgICAgIC8v5YW25LuW5pWw5o2u6YO95Y+v5Lul6I635b6X5bm26L2s77yM5ZSv54us6L+Z5LiqZGF0YeaYr+WPmOaVsO+8jOaJgOS7peimgeaJi+WKqOi9rAovLyAgICAgICAgQ2hhcmdlIGRhdGEgPShDaGFyZ2UpQmVhbk1hcFV0aWxzLm1hcDJCZWFuKCBDaGFyZ2UuY2xhc3MsCi8vICAgICAgICAgICAgICAgIChNYXA8U3RyaW5nLCBPYmplY3Q+KSAoKExpbmtlZEhhc2hNYXApZXZlbnQuZ2V0KCJkYXRhIikpLmdldCgib2JqZWN0IikpOwovLwovLyAgICAgICAgZXZlbnRUbXAuc2V0UGVuZGluZ1dlYmhvb2tzKChJbnRlZ2VyKSBldmVudC5nZXQoInBlbmRpbmdfd2ViaG9va3MiKSk7Ci8vICAgICAgICBldmVudFRtcC5zZXRUeXBlKChTdHJpbmcpIGV2ZW50LmdldCgidHlwZSIpKTsKLy8gICAgICAgIGV2ZW50VG1wLnNldFJlcXVlc3QoKFN0cmluZykgZXZlbnQuZ2V0KCJyZXF1ZXN0IikpOwo=</text>
+        <text encoding="base64">ICAgICAgICBPcmRlcnMgb3JkZXJzID0gbmV3IE9yZGVycygpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXlPcmRlci5nZXQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXlPcmRlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZXZlbnQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
