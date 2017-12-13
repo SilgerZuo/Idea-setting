@@ -82,7 +82,7 @@
         <mark key="^" line="46" column="7" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1513148227405">
+      <file name="/dummy.sql" timestamp="1513151064435">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/payment/coupon/LocalCouponTemplateEntity.java" timestamp="1512791959253">
@@ -110,12 +110,12 @@
         <mark key="]" line="90" column="89" />
         <mark key="." line="90" column="89" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/nice/NiceServiceImpl.java" timestamp="1513149799968">
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/nice/NiceServiceImpl.java" timestamp="1513150965394">
         <mark key="'" line="71" column="0" />
         <mark key="[" line="154" column="5" />
-        <mark key="]" line="218" column="47" />
-        <mark key="." line="218" column="47" />
-        <mark key="^" line="218" column="47" />
+        <mark key="]" line="222" column="47" />
+        <mark key="." line="222" column="47" />
+        <mark key="^" line="222" column="47" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/authentication/PlatformAuthenticationController.java" timestamp="1513052061262">
         <mark key="[" line="248" column="31" />
