@@ -71,7 +71,7 @@
         <mark key="^" line="46" column="7" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1513218826184">
+      <file name="/dummy.sql" timestamp="1513221326740">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/payment/coupon/LocalCouponTemplateEntity.java" timestamp="1512791959253">
@@ -100,13 +100,6 @@
         <mark key="]" line="338" column="0" />
         <mark key="." line="338" column="0" />
         <mark key="^" line="338" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/nice/NiceServiceImpl.java" timestamp="1513220698713">
-        <mark key="'" line="73" column="7" />
-        <mark key="[" line="72" column="40" />
-        <mark key="]" line="73" column="7" />
-        <mark key="." line="73" column="7" />
-        <mark key="^" line="73" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/authentication/PlatformAuthenticationController.java" timestamp="1513052061262">
         <mark key="[" line="248" column="31" />
@@ -169,6 +162,13 @@
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/car/carOwner-mapper.xml" timestamp="1512956260540">
         <mark key="[" line="84" column="63" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/MQMessage/platformAuthentication/ExportPlatToExcel.java" timestamp="1513222107381">
+        <mark key="'" line="54" column="11" />
+        <mark key="[" line="54" column="41" />
+        <mark key="]" line="54" column="40" />
+        <mark key="^" line="54" column="40" />
+        <mark key="." line="54" column="40" />
+      </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/test/java/com/mvcc/service/impl/payment/webhooks/PayWebhooksServiceImplTest.java" timestamp="1513044238914">
         <mark key="[" line="28" column="44" />
         <mark key="]" line="28" column="44" />
@@ -206,6 +206,7 @@
         <mark key="^" line="159" column="41" />
         <mark key="." line="159" column="41" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/framework/utils/ExportUtil.java" timestamp="1513221366214" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/payment/royalty/PayRoyaltySettlementService.java" timestamp="1512976399316">
         <mark key="[" line="22" column="14" />
         <mark key="]" line="22" column="14" />
@@ -214,7 +215,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="25" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/nice/NiceModule.java" />
       <jump line="27" column="38" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/nice/niceApp-mapper.xml" />
       <jump line="328" column="29" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/pay/coupon/index.vue" />
       <jump line="20" column="13" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/api/pay/coupon.js" />
@@ -314,13 +314,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/nice/NiceServiceImpl.java" />
       <jump line="65" column="14" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/nice/NiceServiceImpl.java" />
       <jump line="73" column="7" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/nice/NiceServiceImpl.java" />
+      <jump line="53" column="11" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/MQMessage/platformAuthentication/ExportPlatToExcel.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>personId</text>
+        <text>g</text>
       </register>
       <register name="-" type="4">
-        <text>personId</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
         <text>method</text>
@@ -331,29 +332,29 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgdXBkYXRlTmljZUNhY2hlQW5kREI0QXBwKE5pY2VNb2R1bGUgbmljZU1vZHVsZSkgdGhyb3dzCiAgICAgICAgICAgIEJhc2VFeGNlcHRpb24gewogICAgICAgIHVwZGF0ZVdpdGhFbnRpdHlCeUNvZGUobmljZU1vZHVsZSk7CiAgICAgICAgCiAgICB9</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB1cGRhdGVXaXRoRW50aXR5QnlDb2RlKG5pY2VNb2R1bGUpOwoK</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgdXBkYXRlTmljZUNhY2hlQW5kREI0QXBwKE5pY2VNb2R1bGUgbmljZU1vZHVsZSkgdGhyb3dzCiAgICAgICAgICAgIEJhc2VFeGNlcHRpb24gewogICAgICAgIHVwZGF0ZVdpdGhFbnRpdHlCeUNvZGUobmljZU1vZHVsZSk7CiAgICAgICAgCiAgICB9</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB1cGRhdGVXaXRoRW50aXR5QnlDb2RlKG5pY2VNb2R1bGUpOwoK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmljZURldGFpbC5zZXRDdXJyZW50Q291bnQoY3VycmVudENvdW50KTsKICAgICAgICAgICAgbmljZU1hcHBlci51cGRhdGVCeVByaW1hcnlLZXkobmljZURldGFpbCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmljZUJ5T3JkZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
