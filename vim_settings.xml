@@ -56,6 +56,13 @@
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/glossary/ResultInfoEnum.java" timestamp="1512800669848">
         <mark key="[" line="43" column="41" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/pay/coupon/index.vue" timestamp="1513236703671">
+        <mark key="'" line="645" column="25" />
+        <mark key="[" line="458" column="42" />
+        <mark key="]" line="474" column="5" />
+        <mark key="." line="474" column="5" />
+        <mark key="^" line="474" column="5" />
+      </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/constant/tagId/TagIdConstant.java" timestamp="1513050921865">
         <mark key="[" line="19" column="23" />
       </file>
@@ -77,10 +84,10 @@
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/payment/coupon/LocalCouponTemplateEntity.java" timestamp="1512791959253">
         <mark key="[" line="32" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513223735177">
+      <file name="/Dummy.txt" timestamp="1513236643817">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="3" />
-        <mark key="." line="0" column="3" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/MQMessage/geo/InsertGeoByEntity.java" timestamp="1512996851225">
         <mark key="[" line="26" column="0" />
@@ -197,6 +204,9 @@
         <mark key="^" line="12" column="13" />
         <mark key="." line="12" column="5" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/account/index.vue" timestamp="1513235400804">
+        <mark key="[" line="86" column="60" />
+      </file>
       <file name="/fragment.java" timestamp="1513223735209">
         <mark key="[" line="0" column="0" />
       </file>
@@ -220,8 +230,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="315" column="43" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/pay/coupon/index.vue" />
-      <jump line="92" column="0" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/pay/coupon/index.vue" />
       <jump line="94" column="65" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/pay/coupon/index.vue" />
       <jump line="75" column="6" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/payment/coupon/PayCouponController.java" />
       <jump line="58" column="0" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/payment/coupon/PayCouponController.java" />
@@ -320,13 +328,15 @@
       <jump line="245" column="86" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/authentication/PlatformAuthenticationController.java" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/authentication/PlatformAuthenticationController.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/authentication/PlatformAuthenticationController.java" />
+      <jump line="233" column="22" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/pay/coupon/index.vue" />
+      <jump line="645" column="25" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/pay/coupon/index.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>添加一行吐槽注释</text>
+        <text>1. 导出数据为空的bug修复</text>
       </register>
       <register name="-" type="4">
-        <text>添加一行吐槽注释</text>
+        <text>1. 导出数据为空的bug修复</text>
       </register>
       <register name="/" type="4">
         <text>method</text>
@@ -335,28 +345,28 @@
         <text>payOrder.getCouponAmount();</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgeyByZXF1aXJlZDogdHJ1ZSwgbWVzc2FnZTogJ+ivt+i+k+WFpea0u+WKqOWQjeensCcsIHRyaWdnZXI6ICdibHVyJyB9LAo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICBpZiAobnVsbCA9PSBkYXRhTGlzdCB8fCBkYXRhTGlzdC5zaXplKCkgPT0gMCkgewoKICAgICAgICB9</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgeyBtaW46IDEsIG1heDogMTAwMDAwLCBtZXNzYWdlOiAn6ZW/5bqm5ZyoIDMgZGTliLAgNSDkuKrlrZfnrKYnLCB0cmlnZ2VyOiAnYmx1cicgfQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICAgIHJlZ2lvbjogWwogICAgICAgICAgICB7IHJlcXVpcmVkOiB0cnVlLCBtZXNzYWdlOiAn6K+36YCJ5oup5rS75Yqo5Yy65Z+fJywgdHJpZ2dlcjogJ2NoYW5nZScgfQogICAgICAgICAgXSwKICAgICAgICAgIGRhdGUxOiBbCiAgICAgICAgICAgIHsgdHlwZTogJ2RhdGUnLCByZXF1aXJlZDogdHJ1ZSwgbWVzc2FnZTogJ+ivt+mAieaLqeaXpeacnycsIHRyaWdnZXI6ICdjaGFuZ2UnIH0KICAgICAgICAgIF0sCiAgICAgICAgICBkYXRlMjogWwogICAgICAgICAgICB7IHR5cGU6ICdkYXRlJywgcmVxdWlyZWQ6IHRydWUsIG1lc3NhZ2U6ICfor7fpgInmi6nml7bpl7QnLCB0cmlnZ2VyOiAnY2hhbmdlJyB9CiAgICAgICAgICBdLAogICAgICAgICAgdHlwZTogWwogICAgICAgICAgICB7IHR5cGU6ICdhcnJheScsIHJlcXVpcmVkOiB0cnVlLCBtZXNzYWdlOiAn6K+36Iez5bCR6YCJ5oup5LiA5Liq5rS75Yqo5oCn6LSoJywgdHJpZ2dlcjogJ2NoYW5nZScgfQogICAgICAgICAgXSwKICAgICAgICAgIHJlc291cmNlOiBbCiAgICAgICAgICAgIHsgcmVxdWlyZWQ6IHRydWUsIG1lc3NhZ2U6ICfor7fpgInmi6nmtLvliqjotYTmupAnLCB0cmlnZ2VyOiAnY2hhbmdlJyB9CiAgICAgICAgICBdLAogICAgICAgICAgZGVzYzogWwogICAgICAgICAgICB7IHJlcXVpcmVkOiB0cnVlLCBtZXNzYWdlOiAn6K+35aGr5YaZ5rS75Yqo5b2i5byPJywgdHJpZ2dlcjogJ2JsdXInIH0KICAgICAgICAgIF0=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobnVsbCA9PSBkYXRhTGlzdCB8fCBkYXRhTGlzdC5zaXplKCkgPT0gMCkgewo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICBpZiAobnVsbCA9PSBkYXRhTGlzdCB8fCBkYXRhTGlzdC5zaXplKCkgPT0gMCkgewoKICAgICAgICB9</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpZiAobnVsbCA9PSBkYXRhTGlzdCB8fCBkYXRhTGlzdC5zaXplKCkgPT0gMCkgewo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
