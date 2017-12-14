@@ -71,7 +71,7 @@
         <mark key="^" line="46" column="7" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1513217605483">
+      <file name="/dummy.sql" timestamp="1513218826184">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/payment/coupon/LocalCouponTemplateEntity.java" timestamp="1512791959253">
@@ -101,11 +101,12 @@
         <mark key="." line="338" column="0" />
         <mark key="^" line="338" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/nice/NiceServiceImpl.java" timestamp="1513217809035">
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/nice/NiceServiceImpl.java" timestamp="1513218786873">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="178" column="39" />
-        <mark key="]" line="178" column="0" />
-        <mark key="." line="178" column="0" />
+        <mark key="]" line="179" column="7" />
+        <mark key="." line="179" column="7" />
+        <mark key="^" line="179" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/authentication/PlatformAuthenticationController.java" timestamp="1513052061262">
         <mark key="[" line="248" column="31" />
@@ -331,28 +332,28 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmljZURldGFpbC5zZXRDdXJyZW50Q291bnQoY3VycmVudENvdW50KTsKICAgICAgICAgICAgbmljZU1hcHBlci51cGRhdGVCeVByaW1hcnlLZXkobmljZURldGFpbCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmljZUJ5T3JkZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmljZURldGFpbC5zZXRDdXJyZW50Q291bnQoY3VycmVudENvdW50KTsKICAgICAgICAgICAgbmljZU1hcHBlci51cGRhdGVCeVByaW1hcnlLZXkobmljZURldGFpbCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmljZUJ5T3JkZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmljZUJ5T3JkZXIuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBuaWNlRGV0YWlsLnNldExldmVsQ291bnQobGV2ZWxDb3VudCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmljZUJ5T3JkZXIuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmljZURldGFpbC5zZXRMZXZlbENvdW50KGxldmVsQ291bnQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBuaWNlRGV0YWlsLnNldExldmVsQ291bnQobGV2ZWxDb3VudCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmljZURldGFpbC5zZXRMZXZlbENvdW50KGxldmVsQ291bnQpOwo=</text>
       </register>
     </registers>
     <search>
