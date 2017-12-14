@@ -94,19 +94,19 @@
         <mark key="^" line="0" column="92" />
         <mark key="." line="0" column="92" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/order/PayOrderServiceImpl.java" timestamp="1513216764146">
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/order/PayOrderServiceImpl.java" timestamp="1513220676146">
         <mark key="'" line="336" column="44" />
         <mark key="[" line="301" column="50" />
         <mark key="]" line="338" column="0" />
         <mark key="." line="338" column="0" />
         <mark key="^" line="338" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/nice/NiceServiceImpl.java" timestamp="1513218786873">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="178" column="39" />
-        <mark key="]" line="179" column="7" />
-        <mark key="." line="179" column="7" />
-        <mark key="^" line="179" column="7" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/nice/NiceServiceImpl.java" timestamp="1513220698713">
+        <mark key="'" line="73" column="7" />
+        <mark key="[" line="72" column="40" />
+        <mark key="]" line="73" column="7" />
+        <mark key="." line="73" column="7" />
+        <mark key="^" line="73" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/authentication/PlatformAuthenticationController.java" timestamp="1513052061262">
         <mark key="[" line="248" column="31" />
@@ -214,8 +214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="25" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/nice/NiceEntity.java" />
-      <jump line="64" column="0" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/nice/NiceEntity.java" />
       <jump line="76" column="25" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/nice/NiceModule.java" />
       <jump line="27" column="38" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/nice/niceApp-mapper.xml" />
       <jump line="328" column="29" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/pay/coupon/index.vue" />
@@ -314,13 +312,15 @@
       <jump line="290" column="0" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/nice/NiceServiceImpl.java" />
       <jump line="44" column="0" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/nice/NiceServiceImpl.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/nice/NiceServiceImpl.java" />
+      <jump line="65" column="14" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/nice/NiceServiceImpl.java" />
+      <jump line="73" column="7" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/nice/NiceServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>personId</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>personId</text>
       </register>
       <register name="/" type="4">
         <text>method</text>
@@ -329,31 +329,31 @@
         <text>payOrder.getCouponAmount();</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgdXBkYXRlTmljZUNhY2hlQW5kREI0QXBwKE5pY2VNb2R1bGUgbmljZU1vZHVsZSkgdGhyb3dzCiAgICAgICAgICAgIEJhc2VFeGNlcHRpb24gewogICAgICAgIHVwZGF0ZVdpdGhFbnRpdHlCeUNvZGUobmljZU1vZHVsZSk7CiAgICAgICAgCiAgICB9</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmljZURldGFpbC5zZXRDdXJyZW50Q291bnQoY3VycmVudENvdW50KTsKICAgICAgICAgICAgbmljZU1hcHBlci51cGRhdGVCeVByaW1hcnlLZXkobmljZURldGFpbCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB1cGRhdGVXaXRoRW50aXR5QnlDb2RlKG5pY2VNb2R1bGUpOwoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmljZUJ5T3JkZQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmljZUJ5T3JkZXIuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBuaWNlRGV0YWlsLnNldExldmVsQ291bnQobGV2ZWxDb3VudCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmljZURldGFpbC5zZXRDdXJyZW50Q291bnQoY3VycmVudENvdW50KTsKICAgICAgICAgICAgbmljZU1hcHBlci51cGRhdGVCeVByaW1hcnlLZXkobmljZURldGFpbCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmljZURldGFpbC5zZXRMZXZlbENvdW50KGxldmVsQ291bnQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmljZUJ5T3JkZQo=</text>
       </register>
     </registers>
     <search>
