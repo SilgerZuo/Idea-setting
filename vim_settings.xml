@@ -34,12 +34,12 @@
         <mark key="." line="463" column="0" />
         <mark key="^" line="611" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/driver/index.vue" timestamp="1513307830760">
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/driver/index.vue" timestamp="1513310420928">
         <mark key="'" line="336" column="0" />
-        <mark key="[" line="302" column="35" />
-        <mark key="]" line="302" column="35" />
-        <mark key="^" line="302" column="22" />
-        <mark key="." line="302" column="35" />
+        <mark key="[" line="301" column="48" />
+        <mark key="]" line="113" column="34" />
+        <mark key="^" line="113" column="34" />
+        <mark key="." line="113" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/payment/webhooks/PayWebhooksController.java" timestamp="1513148513731">
         <mark key="[" line="46" column="0" />
@@ -47,7 +47,7 @@
         <mark key="^" line="46" column="7" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/api/driverOwner.js" timestamp="1513307406866" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/api/driverOwner.js" timestamp="1513310230667" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/resources/application.properties" timestamp="1513243664436">
         <mark key="[" line="6" column="23" />
         <mark key="]" line="6" column="21" />
@@ -103,7 +103,7 @@
         <mark key="." line="72" column="71" />
         <mark key="^" line="72" column="71" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/car/carOwner-mapper.xml" timestamp="1513307438546">
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/car/carOwner-mapper.xml" timestamp="1513310251820">
         <mark key="[" line="89" column="101" />
         <mark key="]" line="89" column="101" />
         <mark key="." line="89" column="101" />
@@ -178,25 +178,25 @@
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/constant/tagId/TagIdConstant.java" timestamp="1513050921865">
         <mark key="[" line="19" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/car/CarOwnerController.java" timestamp="1513305038031">
-        <mark key="[" line="141" column="57" />
-        <mark key="]" line="157" column="7" />
-        <mark key="." line="157" column="7" />
-        <mark key="^" line="157" column="7" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/car/CarOwnerController.java" timestamp="1513309298347">
+        <mark key="[" line="68" column="50" />
+        <mark key="]" line="68" column="50" />
+        <mark key="." line="68" column="50" />
+        <mark key="^" line="68" column="50" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/repository/person/PersonMapper.java" timestamp="1513304416812">
         <mark key="'" line="211" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1513306988015">
+      <file name="/dummy.sql" timestamp="1513309117113">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/payment/coupon/LocalCouponTemplateEntity.java" timestamp="1512791959253">
         <mark key="[" line="32" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513307846301">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1513310426076">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/MQMessage/geo/InsertGeoByEntity.java" timestamp="1512996851225">
         <mark key="[" line="26" column="0" />
@@ -375,10 +375,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>MWCX-135 优惠券，精确搜索，搜索完清空搜索内容，敲回车，没搜索全部内容，是空白的</text>
+        <text>有效期限从时间戳改成6,10,100（长期）</text>
       </register>
       <register name="-" type="4">
-        <text>MWCX-135 优惠券，精确搜索，搜索完清空搜索内容，敲回车，没搜索全部内容，是空白的</text>
+        <text>有效期限从时间戳改成6,10,100（长期）</text>
       </register>
       <register name="/" type="4">
         <text>method</text>
