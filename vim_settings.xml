@@ -187,14 +187,14 @@
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/repository/person/PersonMapper.java" timestamp="1513304416812">
         <mark key="'" line="211" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1513309117113">
+      <file name="/dummy.sql" timestamp="1513318361774">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/payment/coupon/LocalCouponTemplateEntity.java" timestamp="1512791959253">
         <mark key="[" line="32" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513310426076">
-        <mark key="[" line="0" column="7" />
+      <file name="/Dummy.txt" timestamp="1513319005287">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
@@ -223,8 +223,17 @@
         <mark key="." line="8" column="38" />
         <mark key="^" line="8" column="38" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/application.properties" timestamp="1513243871988">
-        <mark key="[" line="6" column="23" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/application.properties" timestamp="1513318740459">
+        <mark key="[" line="10" column="31" />
+        <mark key="]" line="10" column="30" />
+        <mark key="^" line="10" column="30" />
+        <mark key="." line="10" column="30" />
+      </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/api/notification.js" timestamp="1513318360415">
+        <mark key="[" line="22" column="1" />
+        <mark key="]" line="22" column="1" />
+        <mark key="^" line="22" column="1" />
+        <mark key="." line="22" column="1" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/MQMessage/platformAuthentication/ExportPlatToExcel.java" timestamp="1513223551943">
         <mark key="[" line="54" column="0" />
@@ -272,7 +281,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="406" column="13" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/pay/coupon/index.vue" />
       <jump line="246" column="16" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/pay/coupon/index.vue" />
       <jump line="53" column="17" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/api/pay/grant.js" />
       <jump line="85" column="0" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/api/pay/grant.js" />
@@ -372,6 +380,7 @@
       <jump line="211" column="0" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/repository/person/PersonMapper.java" />
       <jump line="303" column="62" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/driver/index.vue" />
       <jump line="336" column="0" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/driver/index.vue" />
+      <jump line="168" column="41" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/nice/NiceServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
