@@ -18,7 +18,7 @@
         <mark key="^" line="36" column="6" />
         <mark key="." line="36" column="6" />
       </file>
-      <file name="/a.dummy" timestamp="1512962337376">
+      <file name="/a.dummy" timestamp="1513609662060">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/MQMessage/platformAuthentication/CreateUserForFirstLogin.java" timestamp="1513051396620">
@@ -56,7 +56,6 @@
         <mark key="^" line="6" column="21" />
         <mark key="." line="6" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/nice/index.vue" timestamp="1513563214693" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/repository/nice/NiceMapper.java" timestamp="1513586207667">
         <mark key="'" line="10" column="17" />
         <mark key="[" line="83" column="0" />
@@ -156,6 +155,11 @@
         <mark key="^" line="159" column="41" />
         <mark key="." line="159" column="41" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/TestApplication.java" timestamp="1513609580674">
+        <mark key="[" line="12" column="27" />
+        <mark key="]" line="12" column="27" />
+        <mark key="." line="12" column="27" />
+      </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/driver/CarOwner.java" timestamp="1513303120510">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="45" column="19" />
@@ -245,7 +249,7 @@
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513603169352">
+      <file name="/Dummy.txt" timestamp="1513609674739">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -256,7 +260,6 @@
         <mark key="^" line="21" column="77" />
         <mark key="." line="21" column="77" />
       </file>
-      <file name="/NiceServiceImpl.java" timestamp="1513564317811" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/MQMessage/geo/InsertGeoByEntity.java" timestamp="1512996851225">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -295,7 +298,6 @@
         <mark key="^" line="10" column="30" />
         <mark key="." line="10" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/nice/NiceController.java" timestamp="1513562996239" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/api/notification.js" timestamp="1513318360415">
         <mark key="[" line="22" column="1" />
         <mark key="]" line="22" column="1" />
@@ -313,14 +315,12 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/authentication/platformAuthentication-mapper.xml" timestamp="1513578266659" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/test/java/com/mvcc/service/impl/payment/webhooks/PayWebhooksServiceImplTest.java" timestamp="1513044238914">
         <mark key="[" line="28" column="44" />
         <mark key="]" line="28" column="44" />
         <mark key="^" line="28" column="32" />
         <mark key="." line="28" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/index.html" timestamp="1513608125571" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/nice/PersonNiceSub.java" timestamp="1513586366123">
         <mark key="'" line="105" column="0" />
         <mark key="[" line="97" column="0" />
@@ -470,10 +470,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>personRoleByCode.getPersonRoleId()</text>
+        <text>第一次车主审核增加driver角色和carOwner</text>
       </register>
       <register name="-" type="4">
-        <text>personRoleByCode.getPersonRoleId()</text>
+        <text>第一次车主审核增加driver角色和carOwner</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
@@ -481,32 +481,62 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGN1cnJlbnRDb3VudCA9IDA7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUGVyc29uUm9sZSBwZXJzb25Sb2xlQnlDb2RlID0gcGVyc29uUm9sZVNlcnZpY2UuZmluZFBlcnNvblJvbGVCeUNvZGUoUm9sZUNvbnN0YW50LlBMQVRGT1JNX0RSSVZFUik7Cg==</text>
+      <register name="1" type="4">
+        <text>&quot;\n&quot; +
+                &quot;Main Controls - *FIGlet and AOL Macro Fonts Supported*\n&quot; +
+                &quot;Font:\n&quot; +
+                &quot;Character Width:\n&quot; +
+                &quot;Character Height:\n&quot; +
+                &quot;Type Something \n&quot; +
+                &quot;\t\n&quot; +
+                &quot;\t\n&quot; +
+                &quot;Other Stuff From patorjk.com That You Might Like:\n&quot; +
+                &quot;\n&quot; +
+                &quot;    Typing Speed Test\n&quot; +
+                &quot;    Keyboard Layout Analzyer\n&quot; +
+                &quot;    Text Color Fader\n&quot; +
+                &quot;    Snake Game\n&quot; +
+                &quot;    Follow Me on Instagram\n&quot; +
+                &quot;    Main Page\n&quot; +
+                &quot;\n&quot; +
+                &quot;patorjk.com\n&quot; +
+                &quot;\n&quot; +
+                &quot;    ______ _         __     __   _                  ____                                                 __ ____\n&quot; +
+                &quot;   / ____/(_)____ _ / /_   / /_ (_)____   ____ _   / __/____   _____   __  __ ____   __  __ _____ ___   / // __/\n&quot; +
+                &quot;  / /_   / // __ `// __ \\ / __// // __ \\ / __ `/  / /_ / __ \\ / ___/  / / / // __ \\ / / / // ___// _ \\ / // /_  \n&quot; +
+                &quot; / __/  / // /_/ // / / // /_ / // / / // /_/ /  / __// /_/ // /     / /_/ // /_/ // /_/ /(__  )/  __// // __/  \n&quot; +
+                &quot;/_/    /_/ \\__, //_/ /_/ \\__//_//_/ /_/ \\__, /  /_/   \\____//_/      \\__, / \\____/ \\__,_//____/ \\___//_//_/     \n&quot; +
+                &quot;          /____/                       /____/                       /____/                                      \n&quot; +
+                &quot;\n&quot;</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBwZXJzb25Sb2xlU3ViU2VydmljZS5pbnNlcnRQZXJzb25Sb2xlU3ViQnlFbnRpdHkoKTsK</text>
+      <register name="2" type="4">
+        <text>&quot;    ______ _         __     __   _                  ____                                   \n&quot; +
+                &quot;   / ____/(_)____ _ / /_   / /_ (_)____   ____ _   / __/____   _____   __  __ ____   __  __\n&quot; +
+                &quot;  / /_   / // __ `// __ \\ / __// // __ \\ / __ `/  / /_ / __ \\ / ___/  / / / // __ \\ / / / /\n&quot; +
+                &quot; / __/  / // /_/ // / / // /_ / // / / // /_/ /  / __// /_/ // /     / /_/ // /_/ // /_/ / \n&quot; +
+                &quot;/_/    /_/ \\__, //_/ /_/ \\__//_//_/ /_/ \\__, /  /_/   \\____//_/      \\__, / \\____/ \\__,_/  \n&quot; +
+                &quot;          /____/                       /____/                       /____/                 &quot;</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGVyc29uUm9sZVN1Yi4K</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImFzZGZhc2RmYXNkZmFzZGZhc2RmYXNkZmFzZGZhc2RmYXNkZiIpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiYXNkZmFzZGZhc2RmYXNkZmFzZGZhc2RmYXNkZmFzZGZhc2RmIik7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJhc2RmYXNkZmFzZGZhc2RmYXNkZmFzZGZhc2RmYXNkZmFzZGYiKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImFzZGZhc2RmYXNkZmFzZGZhc2RmYXNkZmFzZGZhc2RmYXNkZiIpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiYXNkZmFzZGZhc2RmYXNkZmFzZGZhc2RmYXNkZmFzZGZhc2RmIik7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJhc2RmYXNkZmFzZGZhc2RmYXNkZmFzZGZhc2RmYXNkZmFzZGYiKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImFzZGZhc2RmYXNkZmFzZGZhc2RmYXNkZmFzZGZhc2RmYXNkZiIpOw==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUGVyc29uUm9sZSBwZXJzb25Sb2xlQnlDb2RlID0gcGVyc29uUm9sZVNlcnZpY2UuZmluZFBlcnNvblJvbGVCeUNvZGUoUm9sZUNvbnN0YW50LlBMQVRGT1JNX0RSSVZFUik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBwZXJzb25Sb2xlU3ViU2VydmljZS5pbnNlcnRQZXJzb25Sb2xlU3ViQnlFbnRpdHkoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByb2xlU2VydmljZS5maW5kUGVyc29uUm9sZUJ5SWQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGVyc29uUm9sZVN1Yi4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIFN0cmluZyBjb3Vwb24sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpIC8gMTAwMCArIFRpbWVMb25nQ29uc3RhbnQuT05FX0RBWSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBPcmRlciBvcmRlciA9IHBpbmdQUE9yZGVyU2VydmljZS5hZGROZXdQYXlPcmRlcigiNTY4NzIyNjcwNDA5MTc2MjU4MiIsIDUwMCwgUGF5T3JkZXJDaGFubmVsRW51bS5XWF9QQVksCg==</text>
+        <text encoding="base64">ICAgICAgICByb2xlU2VydmljZS5maW5kUGVyc29uUm9sZUJ5SWQoKQo=</text>
       </register>
     </registers>
     <search>
