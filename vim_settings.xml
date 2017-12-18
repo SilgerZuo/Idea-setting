@@ -68,12 +68,12 @@
         <mark key="." line="338" column="0" />
         <mark key="^" line="338" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/nice/NiceServiceImpl.java" timestamp="1513581584097">
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/nice/NiceServiceImpl.java" timestamp="1513583808144">
         <mark key="'" line="360" column="0" />
-        <mark key="[" line="240" column="15" />
-        <mark key="]" line="240" column="15" />
-        <mark key="^" line="245" column="75" />
-        <mark key="." line="240" column="15" />
+        <mark key="[" line="250" column="0" />
+        <mark key="]" line="250" column="0" />
+        <mark key="^" line="247" column="57" />
+        <mark key="." line="250" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/payment/coupon/PayCouponService.java" timestamp="1512804019337">
         <mark key="[" line="107" column="0" />
@@ -433,8 +433,8 @@
       <jump line="86" column="18" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/nice/NiceModule.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>stream</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>stream</text>
@@ -445,29 +445,29 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGN1cnJlbnRDb3VudCA9IDA7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyBCb29sZWFuIGdldFJldGFpbkxldmVsKCkgewogICAgICAgIHJldHVybiByZXRhaW5MZXZlbDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRSZXRhaW5MZXZlbChCb29sZWFuIHJldGFpbkxldmVsKSB7CiAgICAgICAgdGhpcy5yZXRhaW5MZXZlbCA9IHJldGFpbkxldmVsOwogICAgfQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBwYXNzZW5nZXJGbG9hdCxwaWNVcmwzCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB1cGRhdGUgYWxsIG5ldyBuaWNlSW5mbyB0byBuaWNlTW9kdWxlLGluY2x1ICBuaWNlSWQsIG5pY2VDb2RlSCwgbmljZUNvZGVMLCB1cExldmVsTmVlZCxuaWNlT3JkZXIscHJpY2VGbG9hdCwK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBuaWNlRGV0YWlsLnNldFJldGFpbkxldmVsKG5pY2VCeU9yZGVyLmdldFJldGFpbkxldmVsKCkpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBuaWNlRGV0YWlsLnNldAo=</text>
-      </register>
-      <register name="6" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIHB1YmxpYyBCb29sZWFuIGdldFJldGFpbkxldmVsKCkgewogICAgICAgIHJldHVybiByZXRhaW5MZXZlbDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRSZXRhaW5MZXZlbChCb29sZWFuIHJldGFpbkxldmVsKSB7CiAgICAgICAgdGhpcy5yZXRhaW5MZXZlbCA9IHJldGFpbkxldmVsOwogICAgfQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBwYXNzZW5nZXJGbG9hdCxwaWNVcmwzCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAvLyB1cGRhdGUgYWxsIG5ldyBuaWNlSW5mbyB0byBuaWNlTW9kdWxlLGluY2x1ICBuaWNlSWQsIG5pY2VDb2RlSCwgbmljZUNvZGVMLCB1cExldmVsTmVlZCxuaWNlT3JkZXIscHJpY2VGbG9hdCwK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBuaWNlRGV0YWlsLnNldFJldGFpbkxldmVsKG5pY2VCeU9yZGVyLmdldFJldGFpbkxldmVsKCkpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBuaWNlRGV0YWlsLnNldAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHRNYXAucHV0QWxsKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHRNYXAucHV0QWxsKCk7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
