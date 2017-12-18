@@ -37,4 +37,10 @@
     <keyboard-shortcut first-keystroke="ctrl home" />
   </action>
   <action id="MaximizeToolWindow" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="alt l" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="alt h" />
+  </action>
 </keymap>
