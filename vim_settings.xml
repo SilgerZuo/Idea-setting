@@ -9,6 +9,12 @@
       <file name="/a.dummy" timestamp="1513609662060">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/royalty/PayRoyaltySettlementServiceImpl.java" timestamp="1513677364597">
+        <mark key="[" line="138" column="40" />
+        <mark key="]" line="137" column="29" />
+        <mark key="." line="137" column="29" />
+        <mark key="^" line="137" column="29" />
+      </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/glossary/ResultInfoEnum.java" timestamp="1512800669848">
         <mark key="[" line="43" column="41" />
       </file>
@@ -24,6 +30,12 @@
         <mark key="]" line="113" column="34" />
         <mark key="^" line="113" column="34" />
         <mark key="." line="113" column="34" />
+      </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/test/java/com/mvcc/service/impl/payment/royalty/PayRoyaltySettlementServiceImplTest.java" timestamp="1513677344722">
+        <mark key="[" line="61" column="37" />
+        <mark key="]" line="63" column="7" />
+        <mark key="^" line="63" column="7" />
+        <mark key="." line="63" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/repository/station/StationMapper.java" timestamp="1513674050329">
         <mark key="'" line="19" column="17" />
@@ -170,7 +182,7 @@
         <mark key="." line="217" column="7" />
         <mark key="^" line="217" column="7" />
       </file>
-      <file name="/dummy.sql" timestamp="1513674357639">
+      <file name="/dummy.sql" timestamp="1513676453302">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/payment/coupon/LocalCouponTemplateEntity.java" timestamp="1512791959253">
@@ -201,6 +213,7 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/test/java/com/mvcc/service/impl/payment/webhooks/PayWebhooksServiceImplTest.java" timestamp="1513675928868" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/nice/PersonNiceSub.java" timestamp="1513586366123">
         <mark key="'" line="105" column="0" />
         <mark key="[" line="97" column="0" />
@@ -232,7 +245,7 @@
         <mark key="." line="17" column="99" />
         <mark key="^" line="17" column="99" />
       </file>
-      <file name="/fragment.java" timestamp="1513671684915">
+      <file name="/fragment.java" timestamp="1513677314753">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -339,11 +352,11 @@
       <jump line="19" column="17" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/repository/station/StationMapper.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>params</text>
       </register>
       <register name="-" type="4">
-        <text>使用nicemodule</text>
+        <text>params</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
