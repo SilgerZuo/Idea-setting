@@ -12,6 +12,9 @@
     <keyboard-shortcut first-keystroke="alt 2" />
   </action>
   <action id="ActivateFavoritesToolWindow" />
+  <action id="ChooseDebugConfiguration">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
     <keyboard-shortcut first-keystroke="alt s" />
