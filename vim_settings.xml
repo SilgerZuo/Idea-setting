@@ -75,9 +75,6 @@
         <mark key="." line="111" column="34" />
         <mark key="^" line="111" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/repository/station/StationMapper.java" timestamp="1513674050329">
-        <mark key="'" line="19" column="17" />
-      </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/payment/user/PayUserController.java" timestamp="1513741369629">
         <mark key="[" line="34" column="5" />
         <mark key="]" line="31" column="20" />
@@ -107,11 +104,11 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/framework/common/BaseExceptionAdvice.java" timestamp="1513651210876">
-        <mark key="[" line="23" column="59" />
-        <mark key="]" line="24" column="17" />
-        <mark key="^" line="24" column="17" />
-        <mark key="." line="24" column="17" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/framework/common/BaseExceptionAdvice.java" timestamp="1513780655950">
+        <mark key="[" line="29" column="20" />
+        <mark key="]" line="41" column="6" />
+        <mark key="^" line="41" column="6" />
+        <mark key="." line="41" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/station/station-mapper.xml" timestamp="1513674077893">
         <mark key="[" line="68" column="59" />
@@ -153,12 +150,6 @@
         <mark key="]" line="76" column="10" />
         <mark key="." line="76" column="10" />
         <mark key="^" line="76" column="10" />
-      </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/account/PayAccountServiceImpl.java" timestamp="1513742106584">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/resources/spring/spring-hsf-reference.xml" timestamp="1513757727194">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/payment/LocalWithdrawalMapper.xml" timestamp="1513759582320">
         <mark key="'" line="75" column="38" />
@@ -203,10 +194,10 @@
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/payment/coupon/LocalCouponTemplateEntity.java" timestamp="1512791959253">
         <mark key="[" line="32" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513778380546">
+      <file name="/Dummy.txt" timestamp="1513780667327">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/payment/account/PayUserService.java" timestamp="1513736920395">
         <mark key="[" line="53" column="24" />
@@ -214,7 +205,7 @@
         <mark key="^" line="53" column="7" />
         <mark key="." line="53" column="7" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dajia/dajia-springboot-mysql/2.0-SNAPSHOT/dajia-springboot-mysql-2.0-20171220.125744-2395.jar!/com/dajia/springboot/provider/configuration/MybatisConfiguration.class" timestamp="1513778539898" />
+      <file name="$MAVEN_REPOSITORY$/com/dajia/dajia-springboot-mysql/2.0-SNAPSHOT/dajia-springboot-mysql-2.0-20171220.125744-2395.jar!/com/dajia/springboot/provider/configuration/MybatisConfiguration.class" timestamp="1513780159455" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/pom.xml" timestamp="1513647600185">
         <mark key="[" line="64" column="0" />
       </file>
@@ -349,11 +340,12 @@
       <jump line="65" column="4" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/test/java/com/mvcc/service/impl/payment/royalty/PayRoyaltySettlementServiceImplTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>1. 本地结算账号
+2. 增加支付完成后的结算逻辑</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>只有对应controller调用对应的异常处理器</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
@@ -361,32 +353,33 @@
       <register name="0" type="4">
         <text encoding="base64">CgogICAgLyoqCiAgICAgKiBpbnNlcnQgaW50byBsb2NhbCB3aXRoZHJhd2FsIHdpdGggZW50aXR5CiAgICAgKiBAcGFyYW0gd2l0aGRyYXdhbEFjY291bnRFbnRpdHkKICAgICAqIEByZXR1cm4KICAgICAqLwogICAgaW50IGluc2VydE5ld1dpdGhkcmF3YWxCeUVudGl0eShMb2NhbFdpdGhkcmF3YWxBY2NvdW50RW50aXR5IHdpdGhkcmF3YWxBY2NvdW50RW50aXR5KTsKCiAgICAvKioKICAgICAqIHVwZGF0ZSB3aXRoZHJhd2FsIHdpdGggZW50aXR5CiAgICAgKgogICAgICogQHBhcmFtIGxvY2FsV2l0aGRyYXdhbEFjY291bnRFbnRpdHkKICAgICAqIEByZXR1cm4KICAgICAqLwogICAgaW50IHVwZGF0ZVdpdGhkcmF3YWxCeUVudGl0eShMb2NhbFdpdGhkcmF3YWxBY2NvdW50RW50aXR5IGxvY2FsV2l0aGRyYXdhbEFjY291bnRFbnRpdHkpOwoKICAgIC8qKgogICAgICogZGVsZXRlIGZyb20gd2l0aGRyYXdhbCB3aXRoIG1hcCxpbmNsdWRpbmcgYWNjdElkCiAgICAgKgogICAgICogQHBhcmFtIG1hcAogICAgICogQHJldHVybgogICAgICovCiAgICBpbnQgZGVsZXRlV2l0aGRyYXdhbEJ5SWQoTWFwIG1hcCk7CgogICAgLyoqCiAgICAgKiBmaW5kICBmcm9tIHdpdGhkcmF3YWwgd2l0aCBtYXAsaW5jbHVkaW5nIGFjY3RJZAogICAgICoKICAgICAqIEBwYXJhbSBtYXAKICAgICAqIEByZXR1cm4KICAgICAqLwogICAgTG9jYWxXaXRoZHJhd2FsQWNjb3VudEVudGl0eSBmaW5kV2l0aGRyYXdhbEJ5SWQoTWFwIG1hcCk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>1. 本地结算账号
+2. 增加支付完成后的结算逻辑</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IHBhcmFtTWFwID0gbmV3IEhhc2hNYXAoKTsKICAgICAgICBwYXJhbU1hcC5wdXQoInN0YXR1cyIsICJjYW5jZWxlZCIpOwogICAgICAgIAogICAgICAgIHJldHVybiBSb3lhbHR5U2V0dGxlbWVudC51cGRhdGUocm95YWx0eUlkLCBwYXJhbU1hcCk7</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gUm95YWx0eVNldHRsZW1lbnQudXBkYXRlKHJveWFsdHlJZCwgcGFyYW1NYXApOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbU1hcC5wdXQoInN0YXR1cyIsICJwZW5kaW5nIik7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IHBhcmFtTWFwPSBuZXcgSGFzaE1hcCgpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="8" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IHBhcmFtTWFwID0gbmV3IEhhc2hNYXAoKTsKICAgICAgICBwYXJhbU1hcC5wdXQoInN0YXR1cyIsICJjYW5jZWxlZCIpOwogICAgICAgIAogICAgICAgIHJldHVybiBSb3lhbHR5U2V0dGxlbWVudC51cGRhdGUocm95YWx0eUlkLCBwYXJhbU1hcCk7</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gUm95YWx0eVNldHRsZW1lbnQudXBkYXRlKHJveWFsdHlJZCwgcGFyYW1NYXApOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwYXJhbU1hcC5wdXQoInN0YXR1cyIsICJwZW5kaW5nIik7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IHBhcmFtTWFwPSBuZXcgSGFzaE1hcCgpOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYXlSb3lhbHR5U2V0dGxlbWVudFNlcnZpY2UuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
