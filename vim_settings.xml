@@ -28,7 +28,13 @@
         <mark key="^" line="58" column="49" />
         <mark key="." line="58" column="49" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/pom.xml" timestamp="1513782292671" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/pom.xml" timestamp="1513783275177" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/framework/basetest/BaseTest.java" timestamp="1513783559289">
+        <mark key="[" line="18" column="23" />
+        <mark key="]" line="19" column="89" />
+        <mark key="^" line="19" column="89" />
+        <mark key="." line="19" column="89" />
+      </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/payment/Withdrawal/PayWithdrawalService.java" timestamp="1513757058757">
         <mark key="[" line="3" column="60" />
         <mark key="]" line="3" column="60" />
@@ -215,7 +221,7 @@
         <mark key="." line="5" column="14" />
         <mark key="^" line="5" column="29" />
       </file>
-      <file name="/fragment.java" timestamp="1513771401301">
+      <file name="/fragment.java" timestamp="1513783561530">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/payment/royalty/PayRoyaltySettlementService.java" timestamp="1513769326804">
