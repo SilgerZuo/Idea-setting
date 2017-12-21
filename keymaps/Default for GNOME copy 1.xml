@@ -15,6 +15,7 @@
   <action id="ChooseDebugConfiguration">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
+  <action id="Diff.PrevChange" />
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
     <keyboard-shortcut first-keystroke="alt j" />
@@ -42,10 +43,10 @@
   </action>
   <action id="MaximizeToolWindow" />
   <action id="NextTab">
-    <keyboard-shortcut first-keystroke="alt u" />
+    <keyboard-shortcut first-keystroke="alt o" />
   </action>
   <action id="PreviousTab">
-    <keyboard-shortcut first-keystroke="alt o" />
+    <keyboard-shortcut first-keystroke="alt u" />
   </action>
   <action id="SelectNextOccurrence" />
 </keymap>
