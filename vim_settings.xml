@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/db6bb179-e55d-467b-becc-eb3f76ab0a98/console_8.sql" timestamp="1513821587371">
@@ -26,7 +26,7 @@
         <mark key="^" line="93" column="94" />
         <mark key="." line="93" column="94" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/royalty/PayRoyaltySettlementServiceImpl.java" timestamp="1513845643934">
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/royalty/PayRoyaltySettlementServiceImpl.java" timestamp="1513850038452">
         <mark key="'" line="69" column="29" />
         <mark key="[" line="58" column="50" />
         <mark key="]" line="58" column="49" />
@@ -86,11 +86,11 @@
         <mark key="." line="72" column="3" />
         <mark key="^" line="72" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/payment/webhooks/PayWebhooksController.java" timestamp="1513847341021">
-        <mark key="[" line="29" column="13" />
-        <mark key="]" line="29" column="13" />
-        <mark key="." line="29" column="13" />
-        <mark key="^" line="49" column="37" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/payment/webhooks/PayWebhooksController.java" timestamp="1513849772023">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="39" column="16" />
       </file>
       <file name="/dummy.sql" timestamp="1513821632632">
         <mark key="[" line="0" column="0" />
@@ -104,10 +104,10 @@
         <mark key="." line="37" column="59" />
         <mark key="^" line="37" column="59" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513843428751">
+      <file name="/Dummy.txt" timestamp="1513850300749">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
       </file>
       <file name="$MAVEN_REPOSITORY$/Pingplusplus/pingpp-java/2.2.4/pingpp-java-2.2.4.jar!/com/pingplusplus/model/Charge.class" timestamp="1513846167459" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/order/PayOrderServiceImpl.java" timestamp="1513845353733">
@@ -131,11 +131,11 @@
         <mark key="^" line="190" column="31" />
         <mark key="." line="190" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/webhooks/PayWebhooksServiceImpl.java" timestamp="1513846205267">
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="70" column="7" />
-        <mark key="." line="70" column="7" />
-        <mark key="^" line="70" column="7" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/webhooks/PayWebhooksServiceImpl.java" timestamp="1513850100525">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
+        <mark key="^" line="74" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/pom.xml" timestamp="1513647600185">
         <mark key="[" line="64" column="0" />
@@ -152,7 +152,8 @@
         <mark key="^" line="98" column="37" />
         <mark key="." line="98" column="37" />
       </file>
-      <file name="/fragment.java" timestamp="1513826466199">
+      <file name="$MAVEN_REPOSITORY$/com/dajia/dajia-utils/2.0-SNAPSHOT/dajia-utils-2.0-20171221.064540-1067.jar!/com/dajia/util/bean/BeanMapUtils.class" timestamp="1513848841061" />
+      <file name="/fragment.java" timestamp="1513850074369">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/repository/payment/withdrawal/LocalWithdrawalMapper.java" timestamp="1513843151328">
@@ -266,10 +267,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ModelAttribute</text>
+        <text>释远程支付后的内容</text>
       </register>
       <register name="-" type="4">
-        <text>ModelAttribute</text>
+        <text>释远程支付后的内容</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
@@ -277,35 +278,37 @@
       <register name="0" type="4">
         <text encoding="base64">CgogICAgLyoqCiAgICAgKiBpbnNlcnQgaW50byBsb2NhbCB3aXRoZHJhd2FsIHdpdGggZW50aXR5CiAgICAgKiBAcGFyYW0gd2l0aGRyYXdhbEFjY291bnRFbnRpdHkKICAgICAqIEByZXR1cm4KICAgICAqLwogICAgaW50IGluc2VydE5ld1dpdGhkcmF3YWxCeUVudGl0eShMb2NhbFdpdGhkcmF3YWxBY2NvdW50RW50aXR5IHdpdGhkcmF3YWxBY2NvdW50RW50aXR5KTsKCiAgICAvKioKICAgICAqIHVwZGF0ZSB3aXRoZHJhd2FsIHdpdGggZW50aXR5CiAgICAgKgogICAgICogQHBhcmFtIGxvY2FsV2l0aGRyYXdhbEFjY291bnRFbnRpdHkKICAgICAqIEByZXR1cm4KICAgICAqLwogICAgaW50IHVwZGF0ZVdpdGhkcmF3YWxCeUVudGl0eShMb2NhbFdpdGhkcmF3YWxBY2NvdW50RW50aXR5IGxvY2FsV2l0aGRyYXdhbEFjY291bnRFbnRpdHkpOwoKICAgIC8qKgogICAgICogZGVsZXRlIGZyb20gd2l0aGRyYXdhbCB3aXRoIG1hcCxpbmNsdWRpbmcgYWNjdElkCiAgICAgKgogICAgICogQHBhcmFtIG1hcAogICAgICogQHJldHVybgogICAgICovCiAgICBpbnQgZGVsZXRlV2l0aGRyYXdhbEJ5SWQoTWFwIG1hcCk7CgogICAgLyoqCiAgICAgKiBmaW5kICBmcm9tIHdpdGhkcmF3YWwgd2l0aCBtYXAsaW5jbHVkaW5nIGFjY3RJZAogICAgICoKICAgICAqIEBwYXJhbSBtYXAKICAgICAqIEByZXR1cm4KICAgICAqLwogICAgTG9jYWxXaXRoZHJhd2FsQWNjb3VudEVudGl0eSBmaW5kV2l0aGRyYXdhbEJ5SWQoTWFwIG1hcCk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>//        Event eventTmp = PayWebhooksDataUtil.transfer2Data(event, new Charge());
+//        Charge charge = (Charge) eventTmp.getData().getObject();
+//        String localOrderId = charge.getOrderNo();</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0iICsgIlxuIiArIEpzb25VdGlsLmphdmFPYmplY3RUb0pzb25TdHJpbmcoCiAgICAgICAgICAgICAgICBldmVudCkgKwogICAgICAgICAgICAgICAgIlxuIiArICI9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PSIpOw==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBvcmRlcnNTZXJ2aWNlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHBheVdlYmhvb2tzU2VydmljZS51cGRhdGVBZnRlclBhaWVkKGV2ZW50KTsK</text>
+        <text encoding="base64">ICAgICAgICBKc29uVXRpbC4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHBheVdlYmhvb2tzU2VydmljZS51cGRhdGVBZnRlclBhaWVkKGV2ZW50KTsK</text>
+        <text encoding="base64">ICAgICAgICBldmVudC4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHBheVdlYmhvb2tzU2VydmljZS51cGRhdGVBZnRlclBhaWVkKGV2ZW50KTsK</text>
+        <text encoding="base64">ICAgICAgICBkYXRhCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgSW52YWxpZFJlcXVlc3RFeGNlcHRpb24sCiAgICAgICAgICAgIEFQSUV4Y2VwdGlvbiwKICAgICAgICAgICAgQ2hhbm5lbEV4Y2VwdGlvbiwKICAgICAgICAgICAgUmF0ZUxpbWl0RXhjZXB0aW9uLAogICAgICAgICAgICBBUElDb25uZWN0aW9uRXhjZXB0aW9uLAogICAgICAgICAgICBBdXRoZW50aWNhdGlvbkV4Y2VwdGlvbiwKICAgICAgICAgICAgSU9FeGNlcHRpb24sCiAgICAgICAgICAgIEJhc2VFeGNlcHRpbw==</text>
-      </register>
-      <register name="7" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0iICsgIlxuIiArIEpzb25VdGlsLmphdmFPYmplY3RUb0pzb25TdHJpbmcoCiAgICAgICAgICAgICAgICBldmVudCkgKwogICAgICAgICAgICAgICAgIlxuIiArICI9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PSIpOw==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHBheVdlYmhvb2tzU2VydmljZS51cGRhdGVBZnRlclBhaWVkKGV2ZW50KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHBheVdlYmhvb2tzU2VydmljZS51cGRhdGVBZnRlclBhaWVkKGV2ZW50KTsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
