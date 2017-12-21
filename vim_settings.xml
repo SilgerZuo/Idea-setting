@@ -104,10 +104,10 @@
         <mark key="." line="37" column="59" />
         <mark key="^" line="37" column="59" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513850300749">
+      <file name="/Dummy.txt" timestamp="1513855037994">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
+        <mark key="]" line="0" column="3" />
+        <mark key="." line="0" column="3" />
       </file>
       <file name="$MAVEN_REPOSITORY$/Pingplusplus/pingpp-java/2.2.4/pingpp-java-2.2.4.jar!/com/pingplusplus/model/Charge.class" timestamp="1513846167459" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/order/PayOrderServiceImpl.java" timestamp="1513845353733">
@@ -146,6 +146,12 @@
         <mark key="^" line="120" column="12" />
         <mark key="." line="120" column="12" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/test/java/com/mvcc/service/impl/payment/Withdrawal/LocalWithdrawalServiceImplTest.java" timestamp="1513854971058">
+        <mark key="[" line="17" column="8" />
+        <mark key="]" line="17" column="7" />
+        <mark key="^" line="17" column="7" />
+        <mark key="." line="17" column="7" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/db6bb179-e55d-467b-becc-eb3f76ab0a98/console.sql" timestamp="1513840300972">
         <mark key="[" line="98" column="38" />
         <mark key="]" line="98" column="37" />
@@ -153,7 +159,7 @@
         <mark key="." line="98" column="37" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dajia/dajia-utils/2.0-SNAPSHOT/dajia-utils-2.0-20171221.064540-1067.jar!/com/dajia/util/bean/BeanMapUtils.class" timestamp="1513848841061" />
-      <file name="/fragment.java" timestamp="1513850074369">
+      <file name="/fragment.java" timestamp="1513853993881">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/repository/payment/withdrawal/LocalWithdrawalMapper.java" timestamp="1513843151328">
@@ -267,10 +273,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>释远程支付后的内容</text>
+        <text>支付后，进行订单修改和分润结算</text>
       </register>
       <register name="-" type="4">
-        <text>释远程支付后的内容</text>
+        <text>支付后，进行订单修改和分润结算</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
