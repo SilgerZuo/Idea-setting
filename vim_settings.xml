@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/db6bb179-e55d-467b-becc-eb3f76ab0a98/console_8.sql" timestamp="1513821587371">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/fragment.js" timestamp="1512807193774">
         <mark key="[" line="0" column="0" />
       </file>
@@ -28,12 +31,11 @@
         <mark key="^" line="58" column="49" />
         <mark key="." line="58" column="49" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/pom.xml" timestamp="1513783275177" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/framework/basetest/BaseTest.java" timestamp="1513783559289">
         <mark key="[" line="18" column="23" />
-        <mark key="]" line="19" column="89" />
-        <mark key="^" line="19" column="89" />
-        <mark key="." line="19" column="89" />
+        <mark key="]" line="18" column="89" />
+        <mark key="^" line="18" column="89" />
+        <mark key="." line="18" column="89" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/payment/Withdrawal/PayWithdrawalService.java" timestamp="1513757058757">
         <mark key="[" line="3" column="60" />
@@ -44,10 +46,13 @@
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/glossary/ResultInfoEnum.java" timestamp="1512800669848">
         <mark key="[" line="43" column="41" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/pay/coupon/index.vue" timestamp="1513734995880">
-        <mark key="[" line="384" column="22" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/pay/coupon/index.vue" timestamp="1513821443059">
+        <mark key="[" line="625" column="31" />
         <mark key="]" line="384" column="22" />
         <mark key="." line="384" column="22" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/db6bb179-e55d-467b-becc-eb3f76ab0a98/console_7.sql" timestamp="1513820533025">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/repository/payment/withdrawal/WithdrawalMapper.java" timestamp="1513757102397">
         <mark key="[" line="7" column="0" />
@@ -55,7 +60,7 @@
         <mark key="." line="25" column="47" />
         <mark key="^" line="25" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/test/java/com/mvcc/service/impl/payment/royalty/PayRoyaltySettlementServiceImplTest.java" timestamp="1513774569254">
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/test/java/com/mvcc/service/impl/payment/royalty/PayRoyaltySettlementServiceImplTest.java" timestamp="1513822527836">
         <mark key="'" line="65" column="4" />
         <mark key="[" line="76" column="5" />
         <mark key="]" line="77" column="3" />
@@ -87,7 +92,6 @@
         <mark key="." line="31" column="20" />
         <mark key="^" line="31" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/spring/spring-jdbc.xml" timestamp="1513778377412" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/order/PayOrderServiceImpl.java" timestamp="1513760233541">
         <mark key="[" line="395" column="0" />
         <mark key="]" line="395" column="0" />
@@ -139,11 +143,11 @@
         <mark key="^" line="31" column="13" />
         <mark key="." line="32" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/payment/coupon/PayCouponTemplateController.java" timestamp="1513664232951">
-        <mark key="[" line="57" column="76" />
-        <mark key="]" line="57" column="75" />
-        <mark key="^" line="57" column="75" />
-        <mark key="." line="57" column="75" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/payment/coupon/PayCouponTemplateController.java" timestamp="1513821350481">
+        <mark key="[" line="81" column="13" />
+        <mark key="]" line="120" column="12" />
+        <mark key="^" line="120" column="12" />
+        <mark key="." line="120" column="12" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/payment/withdrawal/LocalWithdrawalAccountEntity.java" timestamp="1513759378737">
         <mark key="[" line="74" column="0" />
@@ -182,7 +186,7 @@
         <mark key="." line="68" column="50" />
         <mark key="^" line="68" column="50" />
       </file>
-      <file name="/dummy.sql" timestamp="1513762021663">
+      <file name="/dummy.sql" timestamp="1513821632632">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/payment/coupon/LocalCouponTemplateEntity.java" timestamp="1512791959253">
@@ -199,7 +203,6 @@
         <mark key="^" line="53" column="7" />
         <mark key="." line="53" column="7" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dajia/dajia-springboot-mysql/2.0-SNAPSHOT/dajia-springboot-mysql-2.0-20171220.125744-2395.jar!/com/dajia/springboot/provider/configuration/MybatisConfiguration.class" timestamp="1513780159455" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/pom.xml" timestamp="1513647600185">
         <mark key="[" line="64" column="0" />
       </file>
@@ -209,11 +212,11 @@
         <mark key="." line="32" column="33" />
         <mark key="^" line="32" column="49" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/db6bb179-e55d-467b-becc-eb3f76ab0a98/console.sql" timestamp="1513760178409">
-        <mark key="[" line="98" column="17" />
-        <mark key="]" line="98" column="17" />
-        <mark key="^" line="86" column="11" />
-        <mark key="." line="98" column="17" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/db6bb179-e55d-467b-becc-eb3f76ab0a98/console.sql" timestamp="1513821211702">
+        <mark key="[" line="77" column="9" />
+        <mark key="]" line="83" column="14" />
+        <mark key="^" line="83" column="14" />
+        <mark key="." line="83" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/config/dev.env.js" timestamp="1513670519059">
         <mark key="[" line="5" column="14" />
@@ -221,7 +224,7 @@
         <mark key="." line="5" column="14" />
         <mark key="^" line="5" column="29" />
       </file>
-      <file name="/fragment.java" timestamp="1513783561530">
+      <file name="/fragment.java" timestamp="1513822478572">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/payment/royalty/PayRoyaltySettlementService.java" timestamp="1513769326804">
@@ -335,11 +338,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1. 本地结算账号
-2. 增加支付完成后的结算逻辑</text>
+        <text>createTime</text>
       </register>
       <register name="-" type="4">
-        <text>只有对应controller调用对应的异常处理器</text>
+        <text>createTime</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
