@@ -12,11 +12,11 @@
       <file name="/a.dummy" timestamp="1513757214014">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/test/java/com/mvcc/service/payment/withdrawal/LocalWithdrawalServiceTest.java" timestamp="1513827333269">
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/test/java/com/mvcc/service/payment/withdrawal/LocalWithdrawalServiceTest.java" timestamp="1513836716179">
         <mark key="[" line="38" column="39" />
-        <mark key="]" line="45" column="7" />
-        <mark key="." line="45" column="7" />
-        <mark key="^" line="45" column="7" />
+        <mark key="]" line="46" column="4" />
+        <mark key="." line="46" column="4" />
+        <mark key="^" line="46" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/redisCache/RedisCacheServiceImpl.java" timestamp="1513824020985" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/royalty/PayRoyaltySettlementServiceImpl.java" timestamp="1513774158226">
@@ -29,11 +29,11 @@
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/glossary/ResultInfoEnum.java" timestamp="1512800669848">
         <mark key="[" line="43" column="41" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/pay/coupon/index.vue" timestamp="1513826981916">
-        <mark key="[" line="723" column="18" />
-        <mark key="]" line="723" column="17" />
-        <mark key="." line="723" column="17" />
-        <mark key="^" line="723" column="17" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-web/src/views/pay/coupon/index.vue" timestamp="1513836737684">
+        <mark key="[" line="669" column="7" />
+        <mark key="]" line="724" column="17" />
+        <mark key="." line="724" column="17" />
+        <mark key="^" line="724" column="17" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/db6bb179-e55d-467b-becc-eb3f76ab0a98/console_7.sql" timestamp="1513820533025">
         <mark key="[" line="0" column="0" />
@@ -52,12 +52,12 @@
         <mark key="." line="72" column="3" />
         <mark key="^" line="72" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/order/PayOrderServiceImpl.java" timestamp="1513829212774">
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/order/PayOrderServiceImpl.java" timestamp="1513835126789">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="466" column="0" />
-        <mark key="]" line="432" column="21" />
-        <mark key="^" line="432" column="21" />
-        <mark key="." line="432" column="21" />
+        <mark key="[" line="447" column="13" />
+        <mark key="]" line="449" column="20" />
+        <mark key="^" line="449" column="20" />
+        <mark key="." line="449" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/nice/NiceServiceImpl.java" timestamp="1513826188593" />
       <file name="$MAVEN_REPOSITORY$/com/dajia/dajia-framework-support-cache/2.0.0-SNAPSHOT/dajia-framework-support-cache-2.0.0-20171221.004558-1566.jar!/com/seeyon/framework/cache/redis/lock/RedisLockInstruction.class" timestamp="1513828894011" />
@@ -108,7 +108,7 @@
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/payment/coupon/LocalCouponTemplateEntity.java" timestamp="1512791959253">
         <mark key="[" line="32" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513827557093">
+      <file name="/Dummy.txt" timestamp="1513835153184">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
