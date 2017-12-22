@@ -6,6 +6,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/db6bb179-e55d-467b-becc-eb3f76ab0a98/console_8.sql" timestamp="1513821587371">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/test/java/com/mvcc/service/impl/payment/account/PayUserServiceImplTest.java" timestamp="1513915453790">
+        <mark key="[" line="42" column="40" />
+        <mark key="]" line="42" column="39" />
+        <mark key="^" line="42" column="39" />
+        <mark key="." line="42" column="39" />
+      </file>
       <file name="/fragment.js" timestamp="1512807193774">
         <mark key="[" line="0" column="0" />
       </file>
@@ -55,6 +61,12 @@
         <mark key="." line="104" column="71" />
         <mark key="^" line="104" column="74" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/test/java/com/mvcc/service/impl/payment/finance/PassengerFinanceServiceImplTest.java" timestamp="1513914520904">
+        <mark key="[" line="38" column="37" />
+        <mark key="]" line="38" column="36" />
+        <mark key="^" line="38" column="36" />
+        <mark key="." line="38" column="36" />
+      </file>
       <file name="/a.sql" timestamp="1513302475387">
         <mark key="[" line="0" column="0" />
       </file>
@@ -63,6 +75,12 @@
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/payment/coupon/PayCouponController.java" timestamp="1513668909565">
         <mark key="[" line="60" column="65" />
+      </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/finance/PayFinanceServiceImpl.java" timestamp="1513914354257">
+        <mark key="[" line="87" column="22" />
+        <mark key="]" line="78" column="32" />
+        <mark key="." line="78" column="32" />
+        <mark key="^" line="78" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/app/driver/CarOwnerAppController.java" timestamp="1513653605301">
         <mark key="[" line="82" column="0" />
@@ -107,17 +125,18 @@
         <mark key="." line="37" column="59" />
         <mark key="^" line="37" column="59" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513907839137">
-        <mark key="[" line="0" column="3" />
-        <mark key="]" line="0" column="3" />
-        <mark key="." line="0" column="3" />
+      <file name="/Dummy.txt" timestamp="1513914863664">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/order/PayOrderServiceImpl.java" timestamp="1513845353733">
-        <mark key="'" line="455" column="0" />
-        <mark key="[" line="406" column="87" />
-        <mark key="]" line="411" column="46" />
-        <mark key="^" line="411" column="46" />
-        <mark key="." line="411" column="46" />
+      <file name="/PayFinanceServiceImpl.java" timestamp="1513913766346" />
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/order/PayOrderServiceImpl.java" timestamp="1513915324753">
+        <mark key="'" line="460" column="0" />
+        <mark key="[" line="397" column="116" />
+        <mark key="]" line="416" column="0" />
+        <mark key="^" line="416" column="0" />
+        <mark key="." line="416" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/payment/coupon/PayCouponService.java" timestamp="1512804019337">
         <mark key="[" line="107" column="0" />
@@ -158,7 +177,7 @@
         <mark key="^" line="76" column="10" />
         <mark key="." line="76" column="10" />
       </file>
-      <file name="/fragment.java" timestamp="1513861963026">
+      <file name="/fragment.java" timestamp="1513914002010">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/spring/spring-hsf-service.xml" timestamp="1513860763705">
@@ -278,10 +297,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>分润结算测试，分润之后分润确定，但是目前有问题，会从待处理迅速变成失败</text>
+        <text>1. 删除优惠券bug</text>
       </register>
       <register name="-" type="4">
-        <text>分润结算测试，分润之后分润确定，但是目前有问题，会从待处理迅速变成失败</text>
+        <text>1. 删除优惠券bug</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
@@ -290,36 +309,34 @@
         <text>subAccountService.findSubAcctByPersonId(localDriverId);</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICA8aHNmOnByb3ZpZGVyIGlkPSJwb3J0YWxTZXJ2aWNlSFNGIgogICAgICAgICAgICAgICAgICBpbnRlcmZhY2U9ImNvbS5tdmNjLnNlcnZpY2UucG9ydGFsLlBvcnRhbFNlcnZpY2UiCiAgICAgICAgICAgICAgICAgIHJlZj0icG9ydGFsU2VydmljZSIKICAgICAgICAgICAgICAgICAgZ3JvdXA9IiR7c3ByaW5nLmhzZi5ncm91cH0iIHZlcnNpb249IiR7c3ByaW5nLmhzZi52ZXJzaW9ufSIgY2xpZW50VGltZW91dD0iMzAwMDAwIi8+CgoKCiAgICA8aHNmOnByb3ZpZGVyIGlkPSJwYXlXaXRoZHJhd2FsU2VydmljZUhTRiIKICAgICAgICAgICAgICAgICAgaW50ZXJmYWNlPSJjb20ubXZjYy5zZXJ2aWNlLnBheW1lbnQud2l0aGRyYXdhbC5QYXlXaXRoZHJhd2FsU2VydmljZSIKICAgICAgICAgICAgICAgICAgcmVmPSJwYXlXaXRoZHJhd2FsU2VydmljZSIKICAgICAgICAgICAgICAgICAgZ3JvdXA9IiR7c3ByaW5nLmhzZi5ncm91cH0iIHZlcnNpb249IiR7c3ByaW5nLmhzZi52ZXJzaW9ufSIgY2xpZW50VGltZW91dD0iMzAwMDAwIi8+CgogICAgPGhzZjpwcm92aWRlciBpZD0ibG9jYWxXaXRoZHJhd2FsU2VydmljZUhTRiIKICAgICAgICAgICAgICAgICAgaW50ZXJmYWNlPSJjb20ubXZjYy5zZXJ2aWNlLnBheW1lbnQud2l0aGRyYXdhbC5Mb2NhbFdpdGhkcmF3YWxTZXJ2aWNlIgogICAgICAgICAgICAgICAgICByZWY9ImxvY2FsV2l0aGRyYXdhbFNlcnZpY2UiCiAgICAgICAgICAgICAgICAgIGdyb3VwPSIke3NwcmluZy5oc2YuZ3JvdXB9IiB2ZXJzaW9uPSIke3NwcmluZy5oc2YudmVyc2lvbn0iIGNsaWVudFRpbWVvdXQ9IjMwMDAwMCIvPgogICAgCiAgICA8aHNmOnByb3ZpZGVyIGlkPSJQYXlSb3lhbHR5U2VydmljZSIK</text>
+        <text encoding="base64">ICAgICAqIOmXrumimO+8muacieS4ieS4quS5mOWuou+8jOeul+S4iuWPuOacuuWbm+S4quS5mOWuou+8jOS4ieS4quS5mOWuouavj+asoeS/ruaUueWbm+asoe+8jOS4gOS4quiuouWNleS/ruaUuTEy5qyh77yM6L+Y5pivCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzdWJBY2NvdW50SW5mb1NlcnZpY2UubG9jYWxEcml2ZXJJZCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwcmljZU1hcC5wdXQoImRyaXZlciIsTWF0aC5yb3VuZCh0b3RhbFByaWNlLm11bHRpcGx5KG5ldyBCaWdEZWNpbWFsKCIxIikuc3VidHJhY3QocGFzc2VuZ2VyRmxvYXQpKS5kb3VibGVWYWx1ZSgpKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CiAgICA8aHNmOnByb3ZpZGVyIGlkPSJwb3J0YWxTZXJ2aWNlSFNGIgogICAgICAgICAgICAgICAgICBpbnRlcmZhY2U9ImNvbS5tdmNjLnNlcnZpY2UucG9ydGFsLlBvcnRhbFNlcnZpY2UiCiAgICAgICAgICAgICAgICAgIHJlZj0icG9ydGFsU2VydmljZSIKICAgICAgICAgICAgICAgICAgZ3JvdXA9IiR7c3ByaW5nLmhzZi5ncm91cH0iIHZlcnNpb249IiR7c3ByaW5nLmhzZi52ZXJzaW9ufSIgY2xpZW50VGltZW91dD0iMzAwMDAwIi8+CgoKCiAgICA8aHNmOnByb3ZpZGVyIGlkPSJwYXlXaXRoZHJhd2FsU2VydmljZUhTRiIKICAgICAgICAgICAgICAgICAgaW50ZXJmYWNlPSJjb20ubXZjYy5zZXJ2aWNlLnBheW1lbnQud2l0aGRyYXdhbC5QYXlXaXRoZHJhd2FsU2VydmljZSIKICAgICAgICAgICAgICAgICAgcmVmPSJwYXlXaXRoZHJhd2FsU2VydmljZSIKICAgICAgICAgICAgICAgICAgZ3JvdXA9IiR7c3ByaW5nLmhzZi5ncm91cH0iIHZlcnNpb249IiR7c3ByaW5nLmhzZi52ZXJzaW9ufSIgY2xpZW50VGltZW91dD0iMzAwMDAwIi8+CgogICAgPGhzZjpwcm92aWRlciBpZD0ibG9jYWxXaXRoZHJhd2FsU2VydmljZUhTRiIKICAgICAgICAgICAgICAgICAgaW50ZXJmYWNlPSJjb20ubXZjYy5zZXJ2aWNlLnBheW1lbnQud2l0aGRyYXdhbC5Mb2NhbFdpdGhkcmF3YWxTZXJ2aWNlIgogICAgICAgICAgICAgICAgICByZWY9ImxvY2FsV2l0aGRyYXdhbFNlcnZpY2UiCiAgICAgICAgICAgICAgICAgIGdyb3VwPSIke3NwcmluZy5oc2YuZ3JvdXB9IiB2ZXJzaW9uPSIke3NwcmluZy5oc2YudmVyc2lvbn0iIGNsaWVudFRpbWVvdXQ9IjMwMDAwMCIvPgogICAgCiAgICA8aHNmOnByb3ZpZGVyIGlkPSJQYXlSb3lhbHR5U2VydmljZSIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzdWJBY2NvdW50SW5mb1NlcnZpY2UubG9jYWxEcml2ZXJJZCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="8" type="4">
-        <text>//        Event eventTmp = PayWebhooksDataUtil.transfer2Data(event, new Charge());
-//        Charge charge = (Charge) eventTmp.getData().getObject();
-//        String localOrderId = charge.getOrderNo();</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBvcmRlcnNTZXJ2aWNlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
