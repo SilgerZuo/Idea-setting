@@ -91,6 +91,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/db6bb179-e55d-467b-becc-eb3f76ab0a98/console_2.sql" timestamp="1512715610685">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/app/payment/coupon/PayCouponAppController.java" timestamp="1513928703360">
+        <mark key="[" line="83" column="5" />
+        <mark key="]" line="83" column="4" />
+        <mark key="^" line="83" column="4" />
+        <mark key="." line="83" column="4" />
+      </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/webhooks/PayWebhooksServiceImpl.java" timestamp="1513925419368">
         <mark key="[" line="59" column="18" />
         <mark key="]" line="60" column="58" />
@@ -158,14 +164,14 @@
         <mark key="^" line="8" column="61" />
         <mark key="." line="8" column="61" />
       </file>
-      <file name="/dummy.sql" timestamp="1513926730918">
+      <file name="/dummy.sql" timestamp="1513928707644">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/payment/coupon/LocalCouponTemplateEntity.java" timestamp="1512791959253">
         <mark key="[" line="32" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513925506513">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1513928584645">
+        <mark key="[" line="0" column="4" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -300,10 +306,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZWNoYXJnZS5nZXRDaGFyZ2UoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>版本优惠券使用，和使用后价格更新方式</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
@@ -312,28 +318,28 @@
         <text encoding="base64">ICAgIDxoc2Y6Y29uc3VtZXIgaWQ9InBheVJveWFsdHlTZXJ2aWNlIgogICAgICAgICAgICAgICAgICBpbnRlcmZhY2U9ImNvbS5tdmNjLnNlcnZpY2UucGF5bWVudC5yb3lhbHR5LlBheVJveWFsdHlTZXJ2aWNlIgogICAgICAgICAgICAgICAgICBncm91cD0iJHtzcHJpbmcuaHNmLmdyb3VwfSIKICAgICAgICAgICAgICAgICAgdmVyc2lvbj0iJHtzcHJpbmcuaHNmLnZlcnNpb259Ij4KICAgIDwvaHNmOmNvbnN1bWVyPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZWNoYXJnZS5nZXRDaGFyZ2UoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByb3lhbHR5U2V0dGxlbWVudC5nZXRJZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGNyZWF0ZVJlYWNoYXJnZSgpIHsKCiAgICB9</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gY291cG9uQ29sbGVjdGlvbjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZWNoYXJnZS5nZXRDaGFyZ2UoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByb3lhbHR5U2V0dGxlbWVudC5nZXRJZAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGNyZWF0ZVJlYWNoYXJnZSgpIHsKCiAgICB9</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
