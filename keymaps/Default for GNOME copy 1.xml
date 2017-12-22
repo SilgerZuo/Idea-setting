@@ -12,8 +12,14 @@
     <keyboard-shortcut first-keystroke="alt 2" />
   </action>
   <action id="ActivateFavoritesToolWindow" />
+  <action id="CallHierarchy" />
+  <action id="CallHierarchy.BaseOnThisType" />
+  <action id="ChangesView.ShelveSilently" />
   <action id="ChooseDebugConfiguration">
-    <keyboard-shortcut first-keystroke="ctrl alt right" />
+    <keyboard-shortcut first-keystroke="ctrl alt h" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
   <action id="Diff.PrevChange" />
   <action id="EditorDown">
@@ -41,12 +47,18 @@
   <action id="Git.Unstash">
     <keyboard-shortcut first-keystroke="ctrl home" />
   </action>
+  <action id="GuiDesigner.QuickJavadoc">
+    <mouse-shortcut keystroke="alt button2" />
+  </action>
   <action id="MaximizeToolWindow" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="alt o" />
   </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="alt u" />
+  </action>
+  <action id="QuickJavaDoc">
+    <mouse-shortcut keystroke="alt button2" />
   </action>
   <action id="SelectNextOccurrence" />
 </keymap>
