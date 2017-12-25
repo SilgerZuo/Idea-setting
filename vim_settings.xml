@@ -111,7 +111,6 @@
         <mark key="^" line="8" column="61" />
         <mark key="." line="8" column="61" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-consumer/src/main/resources/application.properties" timestamp="1514023659087" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/payment/royalty/PayRoyaltyService.java" timestamp="1513861560887">
         <mark key="[" line="10" column="12" />
         <mark key="]" line="10" column="15" />
@@ -130,7 +129,7 @@
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/payment/coupon/LocalCouponTemplateEntity.java" timestamp="1512791959253">
         <mark key="[" line="32" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1514024148919">
+      <file name="/Dummy.txt" timestamp="1514166181301">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -158,7 +157,6 @@
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/payment/coupon/PayCouponService.java" timestamp="1512804019337">
         <mark key="[" line="107" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/resources/application.properties" timestamp="1514023667720" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1513933282378">
         <mark key="[" line="0" column="0" />
       </file>
