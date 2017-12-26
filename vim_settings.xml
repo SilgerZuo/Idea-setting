@@ -15,7 +15,6 @@
       <file name="/File Header.txt.ft" timestamp="1514194752225">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dajia/dajia-springboot-mysql/2.0-SNAPSHOT/dajia-springboot-mysql-2.0-20171226.035757-2530.jar!/com/dajia/springboot/provider/configuration/MybatisConfiguration.class" timestamp="1514271031082" />
       <file name="/fragment.js" timestamp="1512807193774">
         <mark key="[" line="0" column="0" />
       </file>
@@ -43,7 +42,6 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/db6bb179-e55d-467b-becc-eb3f76ab0a98/console_7.sql" timestamp="1513820533025">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/resources/log4j.properties" timestamp="1514270944523" />
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/CoustomerObjectMapper.java" timestamp="1514267888411">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -58,15 +56,14 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1514194751536">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-utils/pom.xml" timestamp="1514260654598" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/payment/coupon/PayCouponService.java" timestamp="1512804019337">
         <mark key="[" line="107" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/Withdrawal/PayWithdrawalServiceImpl.java" timestamp="1514282378922">
-        <mark key="[" line="66" column="22" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
-        <mark key="^" line="58" column="53" />
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/Withdrawal/PayWithdrawalServiceImpl.java" timestamp="1514282553343">
+        <mark key="[" line="65" column="23" />
+        <mark key="]" line="66" column="23" />
+        <mark key="." line="66" column="23" />
+        <mark key="^" line="66" column="23" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1513933282378">
         <mark key="[" line="0" column="0" />
@@ -97,7 +94,6 @@
       <file name="/JavaFXApplication.txt.ft" timestamp="1514194736764">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/charge/PayRechargeServiceImpl.java" timestamp="1514274077036" />
       <file name="/a.sql" timestamp="1513302475387">
         <mark key="[" line="0" column="0" />
       </file>
@@ -128,14 +124,12 @@
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/payment/coupon/LocalCouponTemplateEntity.java" timestamp="1512791959253">
         <mark key="[" line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payment/Withdrawal/LocalWithdrawalServiceImpl.java" timestamp="1514276949647" />
       <file name="/Dummy.txt" timestamp="1514276041585">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="3" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.9.RELEASE/spring-web-4.3.9.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class" timestamp="1514268456629" />
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/nice/NiceServiceImpl.java" timestamp="1514253429019">
         <mark key="[" line="206" column="33" />
         <mark key="]" line="294" column="19" />
@@ -148,7 +142,6 @@
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-utils/pom.xml" timestamp="1514169443584">
         <mark key="[" line="27" column="54" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/app/payment/order/PayOrderAppController.java" timestamp="1514275649704" />
       <file name="/Class.txt.ft" timestamp="1514194819921">
         <mark key="[" line="0" column="0" />
       </file>
@@ -163,11 +156,9 @@
         <mark key="^" line="23" column="104" />
         <mark key="." line="23" column="104" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-api/src/main/java/com/mvcc/constant/payment/payEnum/PayOrderChannelEnum.java" timestamp="1514282004331" />
       <file name="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-api/pom.xml" timestamp="1514169493554">
         <mark key="[" line="29" column="51" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/test/java/com/mvcc/service/impl/payment/coupon/PayCouponServiceImplTest.java" timestamp="1514275316830" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/db6bb179-e55d-467b-becc-eb3f76ab0a98/console.sql" timestamp="1514258985113">
         <mark key="[" line="5" column="27" />
         <mark key="]" line="26" column="7" />
