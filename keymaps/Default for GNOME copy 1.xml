@@ -18,6 +18,9 @@
   <action id="ChooseDebugConfiguration">
     <keyboard-shortcut first-keystroke="ctrl alt h" />
   </action>
+  <action id="CloseActiveTab">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+  </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
