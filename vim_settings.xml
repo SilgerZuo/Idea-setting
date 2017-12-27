@@ -127,19 +127,19 @@
         <mark key="." line="0" column="22" />
         <mark key="^" line="0" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/resources/spring/spring-hsf-service.xml" timestamp="1514368122105">
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/resources/spring/spring-hsf-service.xml" timestamp="1514371375318">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="250" column="51" />
-        <mark key="]" line="265" column="42" />
-        <mark key="." line="265" column="42" />
-        <mark key="^" line="265" column="42" />
+        <mark key="[" line="269" column="45" />
+        <mark key="]" line="269" column="45" />
+        <mark key="^" line="267" column="22" />
+        <mark key="." line="269" column="45" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-consumer/src/main/resources/spring/spring-hsf-reference.xml" timestamp="1514368126905">
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-consumer/src/main/resources/spring/spring-hsf-reference.xml" timestamp="1514371405997">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="309" column="0" />
-        <mark key="]" line="309" column="0" />
-        <mark key="^" line="309" column="22" />
-        <mark key="." line="309" column="0" />
+        <mark key="[" line="314" column="22" />
+        <mark key="]" line="314" column="22" />
+        <mark key="^" line="314" column="22" />
+        <mark key="." line="314" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/localWithdrawal/LocalWithdrawalService.java" timestamp="1514369281033">
         <mark key="[" line="5" column="0" />
@@ -353,10 +353,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>withdrawal</text>
+        <text>L</text>
       </register>
       <register name="-" type="4">
-        <text>withdrawal</text>
+        <text>L</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxudWxsXD4=</text>
