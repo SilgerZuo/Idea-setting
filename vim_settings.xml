@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/payment/withdrawal/PayWithdrawalService.java" timestamp="1514282369819">
@@ -45,6 +45,9 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="/dummy.sql" timestamp="1514355554705">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1514354846579">
         <mark key="[" line="0" column="0" />
       </file>
@@ -70,6 +73,9 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.4.RELEASE/spring-boot-autoconfigure-1.5.4.RELEASE.jar!/org/springframework/boot/autoconfigure/jackson/JacksonProperties.class" timestamp="1514346319089" />
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/payment/coupon/PayCouponTemplateController.java" timestamp="1514354838534" />
       <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.8.8/jackson-databind-2.8.8.jar!/com/fasterxml/jackson/databind/PropertyNamingStrategy.class" timestamp="1514346424017" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1514355574871">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/test/java/com/mvcc/service/impl/payment/webhooks/PayWebhooksServiceImplTest.java" timestamp="1514276647786">
         <mark key="[" line="29" column="44" />
         <mark key="]" line="29" column="44" />
