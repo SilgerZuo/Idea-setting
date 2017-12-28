@@ -67,6 +67,11 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/authentication/platformAuthenticationApp-mapper.xml" timestamp="1514440719990">
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/localRecharge/local-mapper.xml" timestamp="1514362927574">
         <mark key="[" line="5" column="58" />
         <mark key="]" line="5" column="102" />
@@ -98,12 +103,17 @@
         <mark key="^" line="81" column="35" />
         <mark key="." line="96" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payRoyalty/PayRoyaltyServiceImpl.java" timestamp="1514437571461">
-        <mark key="'" line="71" column="0" />
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payRoyalty/PayRoyaltyServiceImpl.java" timestamp="1514442454979">
+        <mark key="'" line="129" column="12" />
+        <mark key="[" line="146" column="38" />
+        <mark key="]" line="148" column="25" />
+        <mark key="." line="148" column="25" />
+        <mark key="^" line="148" column="25" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1514355574871">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/orders/orders-mapper.xml" timestamp="1514440596925" />
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/payment/webhooks/PayWebhooksController.java" timestamp="1514345924944">
         <mark key="[" line="48" column="45" />
         <mark key="]" line="48" column="49" />
@@ -131,7 +141,7 @@
         <mark key="." line="5" column="14" />
         <mark key="^" line="5" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payWebhooks/PayWebhooksServiceImpl.java" timestamp="1514352906165">
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payWebhooks/PayWebhooksServiceImpl.java" timestamp="1514439869960">
         <mark key="[" line="61" column="0" />
         <mark key="]" line="62" column="0" />
         <mark key="^" line="62" column="0" />
@@ -201,7 +211,7 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1514437445111">
+      <file name="/Dummy.txt" timestamp="1514440674608">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -300,10 +310,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="232" column="0" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/nice/NiceServiceImpl.java" />
-      <jump line="359" column="0" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/nice/NiceServiceImpl.java" />
-      <jump line="49" column="39" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/nice/NiceServiceImpl.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/nice/NiceServiceImpl.java" />
       <jump line="362" column="0" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/nice/NiceServiceImpl.java" />
       <jump line="360" column="0" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/nice/NiceServiceImpl.java" />
       <jump line="132" column="28" filename="$USER_HOME$/workspace/ideaProject/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/person/PersonServiceImpl.java" />
@@ -400,13 +406,17 @@
       <jump line="86" column="15" filename="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payRoyalty/PayRoyaltyServiceImpl.java" />
       <jump line="112" column="50" filename="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payRoyalty/PayRoyaltyServiceImpl.java" />
       <jump line="121" column="0" filename="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payRoyalty/PayRoyaltyServiceImpl.java" />
+      <jump line="122" column="0" filename="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payRoyalty/PayRoyaltyServiceImpl.java" />
+      <jump line="115" column="52" filename="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payRoyalty/PayRoyaltyServiceImpl.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payRoyalty/PayRoyaltyServiceImpl.java" />
+      <jump line="128" column="12" filename="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payRoyalty/PayRoyaltyServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>tianbl</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="-" type="4">
-        <text>tianbl</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxudWxsXD4=</text>
@@ -415,34 +425,34 @@
         <text encoding="base64">ICAgIEBHZXR0ZXIKICAgIEBTZXR0ZXIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3JkZXIK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgPHNlbGVjdCBpZD0ibGlzdEFjY3RGb3JFeGNlbDIiCiAgICAgICAgICAgIHBhcmFtZXRlclR5cGU9InN0cmluZyIKICAgICAgICAgICAgcmVzdWx0VHlwZT0ibWFwIj4KICAgICAgICBTRUxFQ1QKICAgICAgICBub1JvbGUudXNlck5hbWUgYXMgJ+eUqOaIt+WQjScsCiAgICAgICAgbm9Sb2xlLm1vYmlsZSBhcyAn5omL5py65Y+3JywKICAgICAgICBoYXNSb2xlLnJvbGVOYW1lIGFzICfop5LoibInLAogICAgICAgIGlmKG5vUm9sZS5pc1ZhbGlkPTEsJ+WQr+eUqCcsJ+WwgeWBnCcpIEFTICfnirbmgIEnLAogICAgICAgIG5vUm9sZS5wbGF0Zm9ybUF1dGhlbnRpY2F0aW9uSWQgYXMgJ+i0puWPt0lEJwogICAgICAgIEZST00gKFNFTEVDVAoKICAgICAgICBwbGF0LnVzZXJOYW1lLAogICAgICAgIHBsYXQucGxhdGZvcm1BdXRoZW50aWNhdGlvbklkLAogICAgICAgIHBsYXQuaXNWYWxpZCwKICAgICAgICBwZXJzb24ubW9iaWxlLAogICAgICAgIHBlcnNvbi5wZXJzb25JZAoKICAgICAgICBGUk9NIHBsYXRmb3JtYXV0aGVudGljYXRpb24gcGxhdCBMRUZUIEpPSU4gcGVyc29uIE9OIHBlcnNvbi5wZXJzb25JZCA9IHBsYXQucGVyc29uSWQKICAgICAgICApIG5vUm9sZSBMRUZUIEpPSU4gKHNlbGVjdCBncm91cF9jb25jYXQocHIucm9sZU5hbWUpIGFzIHJvbGVOYW1lLHBycy5wZXJzb25JZCBmcm9tIHBlcnNvbnJvbGVzdWIgcHJzIExFRlQgSk9JTiBwZXJzb25yb2xlIHByCiAgICAgICAgb24gcHJzLnBlcnNvblJvbGVJZCA9IHByLnBlcnNvblJvbGVJZCBHUk9VUCBCWSBwZXJzb25JZCkgYXMgaGFzUm9sZSBvbiBub1JvbGUucGVyc29uSWQgPSBoYXNSb2xlLnBlcnNvbklkCiAgICAgICAgV0hFUkUgdXNlck5hbWUgbGlrZSAiJSIje2tleVdvcmR9IiUiIG9yIG1vYmlsZSBsaWtlICIlIiN7a2V5V29yZH0iJSIKICAgIDwvc2VsZWN0Pg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYVJveWFsdAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlqb2luUG9pbnQuCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYS4K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IENvbgo=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">IAo=</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgPHNlbGVjdCBpZD0ibGlzdEFjY3RGb3JFeGNlbDIiCiAgICAgICAgICAgIHBhcmFtZXRlclR5cGU9InN0cmluZyIKICAgICAgICAgICAgcmVzdWx0VHlwZT0ibWFwIj4KICAgICAgICBTRUxFQ1QKICAgICAgICBub1JvbGUudXNlck5hbWUgYXMgJ+eUqOaIt+WQjScsCiAgICAgICAgbm9Sb2xlLm1vYmlsZSBhcyAn5omL5py65Y+3JywKICAgICAgICBoYXNSb2xlLnJvbGVOYW1lIGFzICfop5LoibInLAogICAgICAgIGlmKG5vUm9sZS5pc1ZhbGlkPTEsJ+WQr+eUqCcsJ+WwgeWBnCcpIEFTICfnirbmgIEnLAogICAgICAgIG5vUm9sZS5wbGF0Zm9ybUF1dGhlbnRpY2F0aW9uSWQgYXMgJ+i0puWPt0lEJwogICAgICAgIEZST00gKFNFTEVDVAoKICAgICAgICBwbGF0LnVzZXJOYW1lLAogICAgICAgIHBsYXQucGxhdGZvcm1BdXRoZW50aWNhdGlvbklkLAogICAgICAgIHBsYXQuaXNWYWxpZCwKICAgICAgICBwZXJzb24ubW9iaWxlLAogICAgICAgIHBlcnNvbi5wZXJzb25JZAoKICAgICAgICBGUk9NIHBsYXRmb3JtYXV0aGVudGljYXRpb24gcGxhdCBMRUZUIEpPSU4gcGVyc29uIE9OIHBlcnNvbi5wZXJzb25JZCA9IHBsYXQucGVyc29uSWQKICAgICAgICApIG5vUm9sZSBMRUZUIEpPSU4gKHNlbGVjdCBncm91cF9jb25jYXQocHIucm9sZU5hbWUpIGFzIHJvbGVOYW1lLHBycy5wZXJzb25JZCBmcm9tIHBlcnNvbnJvbGVzdWIgcHJzIExFRlQgSk9JTiBwZXJzb25yb2xlIHByCiAgICAgICAgb24gcHJzLnBlcnNvblJvbGVJZCA9IHByLnBlcnNvblJvbGVJZCBHUk9VUCBCWSBwZXJzb25JZCkgYXMgaGFzUm9sZSBvbiBub1JvbGUucGVyc29uSWQgPSBoYXNSb2xlLnBlcnNvbklkCiAgICAgICAgV0hFUkUgdXNlck5hbWUgbGlrZSAiJSIje2tleVdvcmR9IiUiIG9yIG1vYmlsZSBsaWtlICIlIiN7a2V5V29yZH0iJSIKICAgIDwvc2VsZWN0Pg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
