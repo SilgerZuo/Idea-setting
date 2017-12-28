@@ -1,5 +1,5 @@
 <templateSet group="user">
-  <template name="todo" value="// todo $date$ " toReformat="false" toShortenFQNames="true">
+  <template name="todo" value="// todo $date$ " description="" toReformat="false" toShortenFQNames="true">
     <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
