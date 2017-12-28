@@ -223,10 +223,10 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1514452942838">
+      <file name="/Dummy.txt" timestamp="1514455473140">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="3" />
-        <mark key="." line="0" column="3" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/authentication/platformAuthentication-mapper.xml" timestamp="1514433118262">
         <mark key="[" line="131" column="51" />
@@ -437,10 +437,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>noStatus</text>
+        <text>1. fix sql</text>
       </register>
       <register name="-" type="4">
-        <text>noStatus</text>
+        <text>1. fix sql</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxudWxsXD4=</text>
