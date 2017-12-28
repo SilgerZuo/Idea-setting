@@ -67,6 +67,8 @@
         <mark key="^" line="46" column="10" />
         <mark key="." line="46" column="10" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/spring-boot/spring-boot-samples/spring-boot-sample-activemq/src/main/java/sample/activemq/SampleActiveMQApplication.java" timestamp="1514467111587" />
+      <file name="$USER_HOME$/workspace/ideaProject/spring-boot/spring-boot-samples/spring-boot-sample-activemq/src/test/java/sample/activemq/SampleActiveMqTests.java" timestamp="1514467053139" />
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/app/payment/withdrawal/PayWithdrawalController.java" timestamp="1514366502549">
         <mark key="[" line="39" column="41" />
         <mark key="]" line="44" column="0" />
@@ -109,6 +111,7 @@
         <mark key="^" line="95" column="25" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/spring-boot/spring-boot-samples/spring-boot-sample-activemq/pom.xml" timestamp="1514467004355" />
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-consumer/src/main/resources/application.properties" timestamp="1514466605449">
         <mark key="[" line="4" column="14" />
         <mark key="]" line="7" column="21" />
@@ -148,13 +151,8 @@
         <mark key="^" line="510" column="31" />
         <mark key="." line="510" column="31" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/spring-boot/spring-boot-samples/spring-boot-sample-activemq/src/main/resources/application.properties" timestamp="1514467114675" />
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/orders/orders-mapper.xml" timestamp="1514440596925" />
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/car/CarOwnerServiceImpl.java" timestamp="1514464149481">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/payment/webhooks/PayWebhooksController.java" timestamp="1514345924944">
         <mark key="[" line="48" column="45" />
         <mark key="]" line="48" column="49" />
@@ -197,6 +195,7 @@
         <mark key="]" line="308" column="0" />
         <mark key="." line="308" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-jms/5.0.2.RELEASE/spring-jms-5.0.2.RELEASE.jar!/org/springframework/jms/core/JmsMessagingTemplate.class" timestamp="1514467128755" />
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/car/CarOwnerController.java" timestamp="1514464158339">
         <mark key="'" line="74" column="6" />
         <mark key="[" line="2" column="0" />
@@ -223,6 +222,7 @@
         <mark key="^" line="7" column="89" />
         <mark key="." line="7" column="89" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/spring-boot/spring-boot-samples/spring-boot-sample-activemq/src/main/java/sample/activemq/Producer.java" timestamp="1514467117947" />
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-api/src/main/java/com/mvcc/glossary/ResultInfoEnum.java" timestamp="1514375729269">
         <mark key="[" line="88" column="0" />
         <mark key="]" line="91" column="51" />
