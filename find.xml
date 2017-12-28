@@ -18,19 +18,19 @@
       <mask>*java</mask>
       <mask>*xm.</mask>
       <mask>*xm</mask>
-      <mask>*.ja</mask>
-      <mask>*.v</mask>
       <mask>*.vu</mask>
       <mask>*xml</mask>
-      <mask>*.vue</mask>
       <mask>*.xml</mask>
       <mask>ml</mask>
       <mask>m</mask>
       <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
-      <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.v</mask>
+      <mask>*.vue</mask>
     </recentFileMasks>
   </component>
 </application>
