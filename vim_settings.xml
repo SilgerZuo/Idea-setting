@@ -102,8 +102,11 @@
         <mark key="." line="32" column="7" />
         <mark key="^" line="32" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-api/src/main/java/com/mvcc/constant/tagId/TagIdConstant.java" timestamp="1514526905253">
-        <mark key="[" line="109" column="64" />
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-api/src/main/java/com/mvcc/constant/tagId/TagIdConstant.java" timestamp="1514866106397">
+        <mark key="[" line="119" column="31" />
+        <mark key="]" line="122" column="87" />
+        <mark key="^" line="122" column="87" />
+        <mark key="." line="122" column="87" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-web/src/router/index.js" timestamp="1514860892665">
         <mark key="[" line="191" column="28" />
@@ -131,8 +134,8 @@
         <mark key="^" line="61" column="16" />
         <mark key="." line="61" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/match/MatchServiceImpl.java" timestamp="1514864936628">
-        <mark key="[" line="261" column="0" />
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/match/MatchServiceImpl.java" timestamp="1514865989551">
+        <mark key="[" line="255" column="31" />
         <mark key="]" line="261" column="0" />
         <mark key="." line="261" column="0" />
         <mark key="^" line="261" column="15" />
@@ -174,6 +177,12 @@
         <mark key="^" line="5" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/demand/DemandPool.java" timestamp="1514862072532" />
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/MQMessage/match/GetTotalScoreMQ.java" timestamp="1514866063406">
+        <mark key="[" line="43" column="35" />
+        <mark key="]" line="42" column="45" />
+        <mark key="^" line="42" column="45" />
+        <mark key="." line="42" column="45" />
+      </file>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/MQMessage/match/InsertMathIntoCacheCallBack.java" timestamp="1514532453972">
         <mark key="[" line="20" column="70" />
         <mark key="]" line="20" column="86" />
@@ -479,11 +488,11 @@
       <jump line="203" column="20" filename="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-web/src/views/driver/index.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>((List)list).get;</text>
       </register>
       <register name="-" type="4">
-        <text>paramMap</text>
+        <text>((List)list).get;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxudWxsXD4=</text>
@@ -492,22 +501,22 @@
         <text encoding="base64">ICAgIDxoc2Y6Y29uc3VtZXIgaWQ9ImxvY2FsV2l0aGRyYXdhbFNlcnZpY2UiCiAgICAgICAgICAgICAgICAgIGludGVyZmFjZT0iY29tLm12Y2Muc2VydmljZS5sb2NhbFdpdGhkcmF3YWwuTG9jYWxXaXRoZHJhd2FsU2VydmljZSIKICAgICAgICAgICAgICAgICAgZ3JvdXA9IiR7c3ByaW5nLmhzZi5ncm91cH0iCiAgICAgICAgICAgICAgICAgIHZlcnNpb249IiR7c3ByaW5nLmhzZi52ZXJzaW9ufSI+CiAgICA8L2hzZjpjb25zdW1lcj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBNYXAgcGFyYW1NYXAgPSAoTWFwKSBtYXA7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGxpc3QuZ2V0Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICAgICAgICAgICAgbGlzdC5hZGQoZEx1Z2dhZ2VUbXApCiAgICAgICAgICAgIGxpc3QuYWRkKCk=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTGlua2VkTGlzdCBsaW5rZWRMaXN0ID0gbmV3IExpbmtlZExpc3QoKTsK</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJhc2RmYXNkZnNmIik7ZGQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTGlua2VkTGlzdCBsaW5rZWRMaXN0ID0gbmV3IExpbmtlZExpc3QoKTsK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -826,17 +835,17 @@
           <key char="111" code="0" mods="0" />
         </keys>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICBwZXJzb25MaXN0LmZvckVhY2gocGVyc29uIC0+IHsKICAgICAgICAgICAgRGVtYW5kUG9vbCBwb29sID0gbmV3IERlbWFuZFBvb2woKTsKICAgICAgICAgICAgcG9vbC5zZXRQZXJzb25JZChwZXJzb24uZ2V0UGVyc29uSWQoKSk7CiAgICAgICAgICAgIHBvb2wuc2V0U3RhcnRJZCgiMTExNzAyNTczODczNzc0OTE1MiIpOyAgIC8v5Ye65Y+R56uZCiAgICAgICAgICAgIHBvb2wuc2V0RGVzdElkKCIxNjg3NjMyNTQ4OTY4MDIxNTczIik7ICAgIC8v55uu55qE56uZCiAgICAgICAgICAgIHBvb2wuc2V0RGVtYW5kVHlwZShEZW1hbmRDb25zdGFudC5ERU1BTkRfVFlQRV9QQVNTRU5HRVIpOy8v6ZyA5rGC57G75Z6LLeS5mOWuogogICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgdGhpcy5kZW1hbmRQb29sU2VydmljZS5pbnNlcnREZW1hbmRUb1Bvb2wocG9vbCk7CiAgICAgICAgICAgIH0gY2F0Y2ggKEJhc2VFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgbG9nLmluZm8oIui/m+WFpemcgOaxguaxoOW8guW4uCIpOwogICAgICAgICAgICB9CiAgICAgICAgfSk7</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJhc2RmYXNkZnNmIik7ZGQK</text>
       </register>
       <register name="7" type="4">
+        <text encoding="base64">ICAgICAgICBwZXJzb25MaXN0LmZvckVhY2gocGVyc29uIC0+IHsKICAgICAgICAgICAgRGVtYW5kUG9vbCBwb29sID0gbmV3IERlbWFuZFBvb2woKTsKICAgICAgICAgICAgcG9vbC5zZXRQZXJzb25JZChwZXJzb24uZ2V0UGVyc29uSWQoKSk7CiAgICAgICAgICAgIHBvb2wuc2V0U3RhcnRJZCgiMTExNzAyNTczODczNzc0OTE1MiIpOyAgIC8v5Ye65Y+R56uZCiAgICAgICAgICAgIHBvb2wuc2V0RGVzdElkKCIxNjg3NjMyNTQ4OTY4MDIxNTczIik7ICAgIC8v55uu55qE56uZCiAgICAgICAgICAgIHBvb2wuc2V0RGVtYW5kVHlwZShEZW1hbmRDb25zdGFudC5ERU1BTkRfVFlQRV9QQVNTRU5HRVIpOy8v6ZyA5rGC57G75Z6LLeS5mOWuogogICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgdGhpcy5kZW1hbmRQb29sU2VydmljZS5pbnNlcnREZW1hbmRUb1Bvb2wocG9vbCk7CiAgICAgICAgICAgIH0gY2F0Y2ggKEJhc2VFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgbG9nLmluZm8oIui/m+WFpemcgOaxguaxoOW8guW4uCIpOwogICAgICAgICAgICB9CiAgICAgICAgfSk7</text>
+      </register>
+      <register name="8" type="4">
         <text encoding="base64">ICAgICAgICBwZXJzb25MaXN0LnBhcmFsbGVsU3RyZWFtKAogICAgICAgIH0pOw==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwZXJzb25MaXN0LnBhcmEK</text>
+        <text encoding="base64">ICAgICAgICBwYXJhCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
