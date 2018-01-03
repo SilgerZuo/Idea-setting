@@ -9,7 +9,7 @@
         <mark key="^" line="15" column="34" />
         <mark key="." line="15" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/nice/niceApp-mapper.xml" timestamp="1514979939094">
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/nice/niceApp-mapper.xml" timestamp="1514984043260">
         <mark key="[" line="6" column="89" />
         <mark key="]" line="23" column="49" />
         <mark key="^" line="23" column="49" />
@@ -205,7 +205,7 @@
         <mark key="." line="40" column="10" />
         <mark key="^" line="40" column="10" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/db6bb179-e55d-467b-becc-eb3f76ab0a98/console.sql" timestamp="1514979349094">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/db6bb179-e55d-467b-becc-eb3f76ab0a98/console.sql" timestamp="1514983447648">
         <mark key="[" line="113" column="28" />
         <mark key="]" line="85" column="5" />
         <mark key="^" line="85" column="5" />
@@ -381,13 +381,13 @@
         <mark key="^" line="13" column="38" />
         <mark key="." line="13" column="21" />
       </file>
-      <file name="/dummy.sql" timestamp="1514978125408">
+      <file name="/dummy.sql" timestamp="1514983479309">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1514982835186">
-        <mark key="[" line="0" column="8" />
+      <file name="/Dummy.txt" timestamp="1514984450113">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
@@ -411,11 +411,11 @@
         <mark key="^" line="98" column="83" />
         <mark key="." line="70" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/nice/NiceServiceImpl.java" timestamp="1514982000254">
-        <mark key="[" line="325" column="55" />
-        <mark key="]" line="325" column="55" />
-        <mark key="^" line="325" column="55" />
-        <mark key="." line="325" column="55" />
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/nice/NiceServiceImpl.java" timestamp="1514984357963">
+        <mark key="[" line="326" column="0" />
+        <mark key="]" line="326" column="0" />
+        <mark key="^" line="325" column="31" />
+        <mark key="." line="326" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/repository/feedback/FeedBackMapper.java" timestamp="1514535590916">
         <mark key="[" line="32" column="19" />
@@ -559,11 +559,11 @@
       <jump line="654" column="33" filename="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-web/src/views/pay/coupon/index.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ice update</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>ice update</text>
+        <text>seasonCount</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxudWxsXD4=</text>
@@ -577,17 +577,17 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICAvLyBpZiB0aGVyZSBpcyBubyBidWcgcmVwb3J0ZWQsICBqdXN0IGRlbGV0ZQogICAgICAgIHJlc3VsdE1hcC5wdXQoIm5pY2VDb2RlQWxsIiwKICAgICAgICAgICAgICAgICAgICAgIChTdHJpbmcpIG5pY2VNYXAuZ2V0KCJuaWNlQ29kZUgiKSArIChTdHJpbmcpIG5pY2VNYXAuZ2V0KCJuaWNlQ29kZUwiKSk7CiAgICAgICAgcmVzdWx0TWFwLnB1dCgibmljZUNvZGVIIiwKICAgICAgICAgICAgICAgICAgICAgIChTdHJpbmcpIG5pY2VNYXAuZ2V0KCJuaWNlQ29kZUgiKSk7CiAgICAgICAgcmVzdWx0TWFwLnB1dCgibmljZUNvZGVMIiwKICAgICAgICAgICAgICAgICAgICAgIChTdHJpbmcpIG5pY2VNYXAuZ2V0KCJuaWNlQ29kZUwiKSk7</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHRNYXAucHV0QWxsKHBlcnNvbk5pY2VNYXApOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -907,16 +907,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">aWYgKHBlcnNvbk5pY2U0QXBwICE9IG51bGwpIHsKICAgICAgICAgICAgTWFwPFN0cmluZywgT2JqZWN0PiBtYXAgPSBCZWFuTWFwVXRpbHMuYmVhbjJNYXAocGVyc29uTmljZTRBcHApOwogICAgICAgICAgICByZWRpc0NsaWVudC5obXNldCgKICAgICAgICAgICAgICAgICAgICBjYWNoZWRLZXksCiAgICAgICAgICAgICAgICAgICAgbWFwKTsKICAgICAgICB9</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBQZXJzb25OaWNlU3ViIHBlcnNvbk5pY2U0QXBwID0gZmluZFBlcnNvbk5pY2U0QXBwKG5pY2VNb2R1bGUuZ2V0UGVyc29uSWQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvL+iOt+WPluaJgOacieeahE5pY2VNb2R1bGVzLOi/reS7o+W+queOr+S+neasoeabtOaWsOe8k+WtmAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
