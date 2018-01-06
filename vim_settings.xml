@@ -91,7 +91,7 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515210953243">
+      <file name="/Dummy.txt" timestamp="1515218191276">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -156,12 +156,12 @@
       <file name="/XHTML File.txt.ft" timestamp="1515131714987">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-web/src/views/pay/royal/index.vue" timestamp="1515211037399">
-        <mark key="'" line="290" column="5" />
-        <mark key="[" line="137" column="10" />
-        <mark key="]" line="291" column="21" />
-        <mark key="." line="291" column="21" />
-        <mark key="^" line="212" column="67" />
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-web/src/views/pay/royal/index.vue" timestamp="1515218682153">
+        <mark key="'" line="289" column="5" />
+        <mark key="[" line="69" column="24" />
+        <mark key="]" line="138" column="0" />
+        <mark key="." line="138" column="0" />
+        <mark key="^" line="74" column="28" />
       </file>
       <file name="/Class.txt.ft" timestamp="1515131886475">
         <mark key="[" line="0" column="0" />
@@ -314,11 +314,11 @@
       <jump line="290" column="5" filename="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-web/src/views/pay/royal/index.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxudWxsXD4=</text>
@@ -327,24 +327,22 @@
         <text>listPlatRoyalByCondition</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgdGhpcy4kbm90aWZ5LmVycm9yKCfmsqHmnInmm7TlpJrmlbDmja7kuoYnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>} else {
-                 
-                }</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgdGhpcy4kbm90aWZ5LmVycm9yKCfmsqHmnInmm7TlpJrmlbDmja7kuoYnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChyZXNwb25zZS5jb250ZW50ICE9PSBudWxsKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgdGhpcy4kbm90aWZ5LmVycm9yKCfmsqHmnInmm7TlpJrmlbDmja7kuoYnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmF0ZUxpbWl0RXhjZXB0aW9uLCBBUElFeGNlcHRpb24sIENoYW5uZWxFeGNlcHRpb24sIEludmFsaWRSZXF1ZXN0RXhjZXB0aW9uLCBBUElDb25uZWN0aW9uRXhjZXB0aW9uLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -663,17 +661,19 @@
           <key char="111" code="0" mods="0" />
         </keys>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">Y2F0Y2goKGVycm9yKSA9PiB7CiAgICAgICAgICAgICAgdGhpcy4kbm90aWZ5LmVycm9yKCfmsqHmnInmm7TlpJrmlbDmja7kuoYnKQogICAgICAgICAgICB9KQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgdGhpcy4kbm90aWZ5LmVycm9yKCfmsqHmnInmm7TlpJrmlbDmja7kuoYnKQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIDxkaXYgdi1pZj0iZGlzcGxheVJhZGlvPT09J2RyaXZlciciPgo=</text>
+      <register name="8" type="4">
+        <text>} else {
+                 
+                }</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">PHNwYW4gdi1lbHNlLWlmPSJzY29wZS5yb3cucm95YWx0eVN0YXR1cz09PSdjcmVhdGVkJyI+5pyq57uT566XPC9zcGFuPgogICAgICAgICAgICA8c3BhbiB2LWVsc2U+5pyq57uT566XPC9zcGFuPg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChyZXNwb25zZS5jb250ZW50ICE9PSBudWxsKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
