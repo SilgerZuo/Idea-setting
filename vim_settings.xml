@@ -64,12 +64,12 @@
         <mark key="]" line="140" column="0" />
         <mark key="." line="174" column="281" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/payment/royal/PayRoyalController.java" timestamp="1515229864697">
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/payment/royal/PayRoyalController.java" timestamp="1515230713301">
         <mark key="'" line="69" column="99" />
-        <mark key="[" line="71" column="5" />
-        <mark key="]" line="71" column="4" />
-        <mark key="." line="71" column="4" />
-        <mark key="^" line="71" column="4" />
+        <mark key="[" line="61" column="63" />
+        <mark key="]" line="61" column="15" />
+        <mark key="." line="69" column="63" />
+        <mark key="^" line="61" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payRoyalty/PayRoyaltyServiceImpl.java" timestamp="1515229315085">
         <mark key="'" line="209" column="34" />
