@@ -96,7 +96,7 @@
         <mark key="]" line="140" column="0" />
         <mark key="." line="174" column="281" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/app/login/LoginAppController.java" timestamp="1515489017273" />
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/app/login/LoginAppController.java" timestamp="1515489675590" />
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/framework/utils/FindAcctPayDetailFJTask.java" timestamp="1515378675099">
         <mark key="[" line="12" column="69" />
         <mark key="]" line="26" column="7" />
@@ -115,12 +115,12 @@
         <mark key="." line="32" column="26" />
         <mark key="^" line="32" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/car/CarOwnerServiceImpl.java" timestamp="1515488395965">
-        <mark key="'" line="254" column="0" />
-        <mark key="[" line="183" column="40" />
-        <mark key="]" line="176" column="52" />
-        <mark key="." line="176" column="52" />
-        <mark key="^" line="176" column="52" />
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/car/CarOwnerServiceImpl.java" timestamp="1515492748939">
+        <mark key="'" line="239" column="65" />
+        <mark key="[" line="339" column="15" />
+        <mark key="]" line="339" column="15" />
+        <mark key="." line="339" column="15" />
+        <mark key="^" line="341" column="47" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/orders/orders-mapper.xml" timestamp="1515468519588">
         <mark key="[" line="228" column="15" />
@@ -234,7 +234,7 @@
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1515489555384">
+      <file name="/dummy.sql" timestamp="1515492019432">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -251,10 +251,10 @@
         <mark key="." line="40" column="25" />
         <mark key="^" line="33" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515489167950">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1515491904157">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="13" />
+        <mark key="." line="0" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/MQMessage/platformAuthentication/ExportPlatToExcel.java" timestamp="1515123865761">
         <mark key="[" line="48" column="42" />
@@ -351,7 +351,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="273" column="0" filename="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/match/MatchServiceImpl.java" />
       <jump line="377" column="8" filename="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/match/MatchServiceImpl.java" />
       <jump line="572" column="50" filename="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/match/MatchServiceImpl.java" />
       <jump line="1112" column="15" filename="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/match/MatchServiceImpl.java" />
@@ -451,13 +450,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/app/payment/account/PayAccountDetailAppController.java" />
       <jump line="118" column="0" filename="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payWithdrawal/PayWithdrawalServiceImpl.java" />
       <jump line="183" column="0" filename="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payWithdrawal/PayWithdrawalServiceImpl.java" />
+      <jump line="239" column="65" filename="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/car/CarOwnerServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>refresh redis after confirm redis</text>
+        <text>update password did not convert 2 md5</text>
       </register>
       <register name="-" type="4">
-        <text>refresh redis after confirm redis</text>
+        <text>update password did not convert 2 md5</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxudWxsXD4=</text>
@@ -466,22 +466,22 @@
         <text>queryPageNum,perPageSize,personId</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIDx3aGVyZT4K</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tdmNjLnNlcnZpY2UuaW1wbC5wYXlBY2NvdW50LlBheVN1YkFjY291bnRTZXJ2aWNlSW1wbDsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5kYWppYS51dGlsLlN0cmluZ1V0aWxzOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PC93aGVyZT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3JnLmFwYWNoZS5jb21tb25zLmxhbmczLlN0cmluZ1V0aWxzCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">PGlmIHRlc3Q9ImtleVdvcmQgIT0gbnVsbCBhbmQgJycgIT0ga2V5V29yZCI+CmFuZCAocGVyLm1vYmlsZSBsaWtlICIlIiN7a2V5V29yZH0iJSIgb3IgcGxhdC51c2VyTmFtZSBsaWtlICIlIiN7a2V5V29yZH0iJSIpCjwvaWY+</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8xLuaJvuWIsOi9puS4u+Wnk+WQjQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -800,21 +800,17 @@
           <key char="111" code="0" mods="0" />
         </keys>
       </register>
-      <register name="6" type="4">
-        <text>Map nameMap = new HashMap();
-            nameMap.put(&quot;carOwnerId&quot;,
-                    ownerId);
-            Map nameByCarOwnerId = carOwnerMapper.findNameByCarOwnerId(nameMap);
-            //              2.找到更新personName</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBDYXJPd25lciBvd25lckJ5UGVyc29uSWQgPSBjYXJPd25lck1hcHBlci5maW5kT3duZXJCeVBlcnNvbklkKHBhcmFtTWFwKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjYXJPd25lci5zZXRDYXJPd25lcklkKG93bmVySWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjYXJPd25lck1hcHBlci5maW5kT3duZXJCeVBlcnNvbklkKGNhck93bmVyLmdldFBlcnNvbklkKCkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXAo=</text>
+        <text encoding="base64">ICAgICAgICB1cGRhdGUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb2NhbFdpdGhkcmF3YWxBY2NvdW50TWFwcGVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFJlZGlzS2V5Q29uc3RhbnQuQ0FSX09XTkVSX0NBQ0hFX0NPREUgKyBjYXJPd25lci5nZXRQZXJzb25JZCgpKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
