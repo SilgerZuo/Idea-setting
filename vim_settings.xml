@@ -119,12 +119,12 @@
         <mark key="." line="32" column="26" />
         <mark key="^" line="32" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/car/CarOwnerServiceImpl.java" timestamp="1515555989292">
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/car/CarOwnerServiceImpl.java" timestamp="1515567086258">
         <mark key="'" line="357" column="28" />
-        <mark key="[" line="244" column="15" />
-        <mark key="]" line="244" column="15" />
-        <mark key="^" line="244" column="15" />
-        <mark key="." line="244" column="15" />
+        <mark key="[" line="351" column="54" />
+        <mark key="]" line="264" column="34" />
+        <mark key="^" line="264" column="34" />
+        <mark key="." line="264" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/orders/orders-mapper.xml" timestamp="1515468519588">
         <mark key="[" line="228" column="15" />
@@ -236,7 +236,7 @@
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1515554950386">
+      <file name="/dummy.sql" timestamp="1515564497369">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -253,8 +253,8 @@
         <mark key="." line="40" column="25" />
         <mark key="^" line="33" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515554401763">
-        <mark key="[" line="0" column="3" />
+      <file name="/Dummy.txt" timestamp="1515566934148">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
@@ -285,7 +285,7 @@
         <mark key="]" line="126" column="0" />
         <mark key="." line="126" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/car/CarOwnerApp-Mapper.xml" timestamp="1515554305906">
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/car/CarOwnerApp-Mapper.xml" timestamp="1515566766452">
         <mark key="[" line="72" column="13" />
         <mark key="]" line="55" column="3" />
         <mark key="^" line="55" column="3" />
@@ -301,6 +301,12 @@
         <mark key="]" line="13" column="12" />
         <mark key="." line="13" column="12" />
         <mark key="^" line="13" column="12" />
+      </file>
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/driver/CarOwner.java" timestamp="1515563012989">
+        <mark key="[" line="115" column="9" />
+        <mark key="]" line="116" column="19" />
+        <mark key="^" line="116" column="19" />
+        <mark key="." line="116" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/payment/withdrawal/LocalWithdrawalEntity.java" timestamp="1515463784565">
         <mark key="[" line="28" column="12" />
@@ -337,7 +343,7 @@
         <mark key="^" line="317" column="28" />
         <mark key="." line="317" column="28" />
       </file>
-      <file name="/fragment.java" timestamp="1515554766596">
+      <file name="/fragment.java" timestamp="1515566646094">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payOrder/PayOrderServiceImpl.java" timestamp="1515143055226">
@@ -451,10 +457,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>add some withdrawal exception</text>
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="-" type="4">
-        <text>add some withdrawal exception</text>
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxudWxsXD4=</text>
@@ -463,22 +469,22 @@
         <text>queryPageNum,perPageSize,personId</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3Q2FyT3duZXI7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3JlYXRlU3ViQWNjb3VudElmTmVlZChjYXJPd25lcik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiAxNy0xMS03IOatpOaWueazlemcgOimgea1i+ivle+8jOWmguaenOa1i+ivleS4jemAmui/h+mcgOimgeS/ruaUuWNvbnRyb2xsZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiAxNy0xMS03IOatpOaWueazlemcgOimgea1i+ivle+8jOWmguaenOa1i+ivleS4jemAmui/h+mcgOimgeS/ruaUuWNvbnRyb2xsZXIK</text>
+        <text encoding="base64">ICAgICAgICBjcmVhdGVTdWJBY2NvdW50SWZOZWVkKGNhck93bmVyKTsK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -798,31 +804,18 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjcmVhdGVTdWJBY2NvdW50SWZOZWVkKCkK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoKEludmFsaWRSZXF1ZXN0RXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgCg==</text>
+      <register name="7" type="4">
+        <text>StringUtils
+                .isNotEmpty(carOwner.getCarInfo())</text>
       </register>
       <register name="8" type="4">
-        <text>e.printStackTrace();
-        } catch(APIException e) {
-            e.printStackTrace();
-        } catch(IOException e) {
-            e.printStackTrace();
-        } catch(RateLimitException e) {
-            e.printStackTrace();
-        } catch(ChannelException e) {
-            e.printStackTrace();
-        } catch(AuthenticationException e) {
-            e.printStackTrace();
-        } catch(APIConnectionException e) {
-            e.printStackTrace();
-        } catch(BaseException e) {
-            e.printStackTrace();
-        }</text>
+        <text>StringUtils.isNotEmpty(newCarOwner.getLicensePic()) ||
+                    StringUtils.isNotEmpty(newCarOwner.getCarOwnerId())</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FyT3duZXIuaW5qZWN0SW4ob3duZXJCeVBlcnNvbklkLmdldCgpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
