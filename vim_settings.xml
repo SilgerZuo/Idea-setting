@@ -90,7 +90,7 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1515640641540">
+      <file name="/dummy.sql" timestamp="1515641884705">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -152,10 +152,11 @@
         <mark key="^" line="270" column="77" />
         <mark key="." line="148" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-web/src/views/pay/coupon/grant.vue" timestamp="1515137812484">
-        <mark key="[" line="416" column="22" />
-        <mark key="]" line="416" column="22" />
-        <mark key="." line="416" column="22" />
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-web/src/views/pay/coupon/grant.vue" timestamp="1515643203885">
+        <mark key="[" line="25" column="51" />
+        <mark key="]" line="25" column="51" />
+        <mark key="." line="25" column="51" />
+        <mark key="^" line="23" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/test/java/com/mvcc/service/impl/payment/account/PayAccountServiceImplTest.java" timestamp="1515569259831">
         <mark key="[" line="23" column="71" />
@@ -179,6 +180,7 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-web/src/views/pay/coupon/index.vue" timestamp="1515642786600" />
       <file name="/fragment.java" timestamp="1515587327050">
         <mark key="[" line="0" column="0" />
       </file>
@@ -293,10 +295,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>realName</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>realName</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxudWxsXD4=</text>
@@ -304,25 +306,25 @@
       <register name="0" type="4">
         <text>queryPageNum,perPageSize,personId</text>
       </register>
-      <register name="1" type="4">
-        <text>addNewPayOrder(orderByOrderNum, payOrder.getActualAmount(),
-                                PayOrderChannelEnum.ALI_PAY,
-                                System.currentTimeMillis() / 1000 + TimeLongConstant.T</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>addNewPayOrder(orderByOrderNum, payOrder.getActualAmount(),
+                                PayOrderChannelEnum.ALI_PAY,
+                                System.currentTimeMillis() / 1000 + TimeLongConstant.T</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpcEFkZHJlc3MgPSAiMTI3LjAuMC4xIjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICAgQ2hhcmdlQ29sbGVjdGlvbiBjaGFyZ2VDb2xsZWN0aW9uQ2FjaGUgPSBCZWFuTWFwVXRpbHMKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5tYXAyQmVhbihDaGFyZ2VDb2xsZWN0aW9uLmNsYXNzLCByZWRpc0NsaWVudC5oZ2V0QWxsKHBhc3NLZXkpKTs=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpcEFkZHJlc3MgPSAiMTI3LjAuMC4xIjsK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -642,16 +644,16 @@
         </keys>
       </register>
       <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICAgQ2hhcmdlQ29sbGVjdGlvbiBjaGFyZ2VDb2xsZWN0aW9uQ2FjaGUgPSBCZWFuTWFwVXRpbHMKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5tYXAyQmVhbihDaGFyZ2VDb2xsZWN0aW9uLmNsYXNzLCByZWRpc0NsaWVudC5oZ2V0QWxsKHBhc3NLZXkpKTs=</text>
+      </register>
+      <register name="7" type="4">
         <text encoding="base64">ZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2hhcmdlQ29sbGVjdGlvbkNhY2hlCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5tYXAyQmVhbihDaGFyZ2VDb2xsZWN0aW9uLmNsYXNzLCByZWRpc0NsaWVudC5oZ2V0QWxsKHBhc3NLZXkpKTsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDaGFyZ2VDb2xsZWN0aW9uIGNoYXJnZUNvbGxlY3Rpb25DYWNoZSA9IEJlYW5NYXBVdGlscwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5tYXAyQmVhbihDaGFyZ2VDb2xsZWN0aW9uLmNsYXNzLCByZWRpc0NsaWVudC5oZ2V0QWxsKHBhc3NLZXkpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
