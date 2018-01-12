@@ -106,10 +106,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515677171418">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
+      <file name="/Dummy.txt" timestamp="1515677238285">
+        <mark key="[" line="0" column="3" />
+        <mark key="]" line="0" column="3" />
+        <mark key="." line="0" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-api/src/main/java/com/mvcc/constant/payment/CarOwnerStatusConstant.java" timestamp="1515550212208">
         <mark key="[" line="9" column="40" />
@@ -321,11 +321,11 @@
       <jump line="638" column="53" filename="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-web/src/views/pay/coupon/index.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpcEFkZHJlc3MgPSAiMTI3LjAuMC4xIjsK</text>
+      <register name="&quot;" type="4">
+        <text>fix long 2 Integer</text>
       </register>
       <register name="-" type="4">
-        <text>ix time bug</text>
+        <text>fix long 2 Integer</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxudWxsXD4=</text>
