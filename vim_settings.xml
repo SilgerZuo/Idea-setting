@@ -34,6 +34,12 @@
         <mark key="]" line="30" column="55" />
         <mark key="." line="30" column="55" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-api/src/main/java/com/mvcc/glossary/CDNConstantEnum.java" timestamp="1516011784641">
+        <mark key="[" line="43" column="36" />
+        <mark key="]" line="43" column="36" />
+        <mark key="^" line="43" column="21" />
+        <mark key="." line="43" column="36" />
+      </file>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/authentication/PlatformAuthenticationServiceImpl.java" timestamp="1516009312976" />
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/orders/OrdersService.java" timestamp="1515740907779">
         <mark key="[" line="509" column="0" />
@@ -125,10 +131,11 @@
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/MQMessage/royal/ExportPlatRoyalToExcel.java" timestamp="1516010410366">
-        <mark key="[" line="30" column="56" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/MQMessage/royal/ExportPlatRoyalToExcel.java" timestamp="1516011707269">
+        <mark key="[" line="33" column="89" />
+        <mark key="]" line="33" column="91" />
+        <mark key="." line="33" column="91" />
+        <mark key="^" line="33" column="91" />
       </file>
       <file name="/dummy.sql" timestamp="1515747466794">
         <mark key="[" line="0" column="0" />
@@ -313,11 +320,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-web/src/views/pay/royal/index.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>judgeFrom</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">T2JqZWN0IA==</text>
+        <text>judgeFrom</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxudWxsXD4=</text>
