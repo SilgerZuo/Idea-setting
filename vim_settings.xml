@@ -87,6 +87,7 @@
         <mark key="^" line="73" column="128" />
         <mark key="." line="73" column="128" />
       </file>
+      <file name="/opt/jdk-8u151-linux-x64/jdk1.8.0_151/src.zip!/java/util/ArrayList.java" timestamp="1516084557526" />
       <file name="$USER_HOME$/workspace/ideaProject/study-example/fork-join/testForkJoin/src/main/forkJoinTest.java" timestamp="1514987184623">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="29" column="0" />
@@ -159,12 +160,12 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payRoyalty/PayRoyaltyServiceImpl.java" timestamp="1516083362646">
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payRoyalty/PayRoyaltyServiceImpl.java" timestamp="1516084806142">
         <mark key="'" line="375" column="47" />
         <mark key="[" line="511" column="45" />
-        <mark key="]" line="511" column="45" />
-        <mark key="." line="511" column="45" />
-        <mark key="^" line="513" column="24" />
+        <mark key="]" line="327" column="15" />
+        <mark key="." line="327" column="15" />
+        <mark key="^" line="327" column="15" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1516071091655">
         <mark key="[" line="0" column="19" />
