@@ -93,7 +93,6 @@
         <mark key="^" line="73" column="128" />
         <mark key="." line="73" column="128" />
       </file>
-      <file name="/opt/jdk-8u151-linux-x64/jdk1.8.0_151/src.zip!/java/util/ArrayList.java" timestamp="1516084557526" />
       <file name="$USER_HOME$/workspace/ideaProject/study-example/fork-join/testForkJoin/src/main/forkJoinTest.java" timestamp="1514987184623">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="29" column="0" />
@@ -140,8 +139,8 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/payment/royal/PayRoyalController.java" timestamp="1516086610703">
-        <mark key="[" line="112" column="59" />
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/payment/royal/PayRoyalController.java" timestamp="1516088950415">
+        <mark key="[" line="126" column="5" />
         <mark key="]" line="112" column="74" />
         <mark key="." line="112" column="74" />
         <mark key="^" line="112" column="74" />
@@ -166,12 +165,12 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payRoyalty/PayRoyaltyServiceImpl.java" timestamp="1516085585695">
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payRoyalty/PayRoyaltyServiceImpl.java" timestamp="1516088925047">
         <mark key="'" line="375" column="47" />
-        <mark key="[" line="511" column="45" />
-        <mark key="]" line="327" column="15" />
-        <mark key="." line="327" column="15" />
-        <mark key="^" line="327" column="15" />
+        <mark key="[" line="150" column="24" />
+        <mark key="]" line="150" column="13" />
+        <mark key="." line="150" column="13" />
+        <mark key="^" line="150" column="13" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1516071091655">
         <mark key="[" line="0" column="19" />
@@ -338,8 +337,8 @@
       <jump line="509" column="23" filename="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-web/src/views/pay/royal/index.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">Pg==</text>
@@ -351,22 +350,22 @@
         <text>分润状态</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">cmVzcG9uc2UgPT4gewogICAgICAgICAgICAgIHRoaXMucmVmcmVzaFRhYmxlKHJlc3BvbnNlLmNvbnRlbnQ=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGlzdFBsYXRSb3lhbEJ5Q29uZGl0aW9uNEV4cG9ydCh0aGlzLmFibGVEYXRhLikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcXVlcnlQZXJQYWdlU2l6ZSwK</text>
+      <register name="5" type="4">
+        <text encoding="base64">cmVzcG9uc2UgPT4gewogICAgICAgICAgICAgIHRoaXMucmVmcmVzaFRhYmxlKHJlc3BvbnNlLmNvbnRlbnQ=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -686,7 +685,7 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcXVlcnlQYWdlTnVtLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGlzdFBsYXRSb3lhbEJ5Q29uZGl0aW9uNEV4cG9ydCh0aGlzLmFibGVEYXRhLikK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgcXVlcnlQZXJQYWdlU2l6ZSwK</text>
@@ -695,7 +694,7 @@
         <text encoding="base64">ICAgICAgcXVlcnlQYWdlTnVtLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtYXAucHV0KCLliIbmtqbml7bpl7QiLCBhUm95YWx0eS5nZXRDcmVhdGVkKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgcXVlcnlQZXJQYWdlU2l6ZSwK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
