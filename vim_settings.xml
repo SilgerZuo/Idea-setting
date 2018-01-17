@@ -45,10 +45,10 @@
         <mark key="^" line="85" column="29" />
         <mark key="." line="85" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/study-example/fork-join/testForkJoin/src/main/forkJoinTest.java" timestamp="1514987184623">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/workspace/ideaProject/study-example/fork-join/testForkJoin/src/main/forkJoinTest.java" timestamp="1516180411355">
+        <mark key="[" line="66" column="44" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/test/java/com/mvcc/service/impl/nice/NiceServiceImplTest.java" timestamp="1516157714526">
         <mark key="[" line="49" column="0" />
@@ -122,11 +122,11 @@
         <mark key="^" line="185" column="48" />
         <mark key="." line="204" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/privilege/CarOwnerSubServiceImpl.java" timestamp="1516177474830">
-        <mark key="[" line="31" column="4" />
-        <mark key="]" line="31" column="11" />
-        <mark key="^" line="31" column="11" />
-        <mark key="." line="31" column="11" />
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/privilege/CarOwnerSubServiceImpl.java" timestamp="1516180759592">
+        <mark key="[" line="48" column="69" />
+        <mark key="]" line="49" column="3" />
+        <mark key="^" line="49" column="3" />
+        <mark key="." line="49" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/payAccount/PaySubAccountInfoService.java" timestamp="1516073509526">
         <mark key="[" line="38" column="0" />
@@ -204,7 +204,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516175280590">
+      <file name="/Dummy.txt" timestamp="1516179843786">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -435,11 +435,11 @@
       <jump line="513" column="0" filename="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/car/CarOwnerServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>userName</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>userName</text>
+        <text>= new Timer(true);</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxudWxsXD4=</text>
@@ -448,27 +448,22 @@
         <text>分润状态</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB0aAo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICB0aW1lci5zY2hlZHVsZUF0Rml4ZWRSYXRlKG5ldyBUaW1lclRhc2soKSB7CiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBydW4oKSB7CiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInNkZmFzZmQiKTsKICAgICAgICAgICAgfQogICAgICAgIH0sIDAsIDEwMDBMICogMUwpOw==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gdG9kbyAxMi8yNy8xNyAgY3JlYXRlIHJlc3VsdCBsaXN0IG9mIG1hcAo=</text>
+        <text encoding="base64">ICAgICAgICBTY2hlZHVsZWRFeGVjdXRvclNlcnZpY2UgdGltZXIgOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="5" type="4">
-        <text>//        calendar.setTime(new Date());
-//        Date now = new Date();
-//        calendar.set(now.getYear(), now.getMonth(), now.getDate()-1, now.getHours(), now.getMinutes(), now.getSeconds());
-//        calendar.set(Calendar.HOUR_OF_DAY, 0);
-//        calendar.set(Calendar.MINUTE, 0);
-//        calendar.set(Calendar.SECOND, 0);</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -787,17 +782,23 @@
           <key char="111" code="0" mods="0" />
         </keys>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">KCkgLT57CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigic2RmYXNmZCIpOw==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>new TimerTask() {
+            @Override
+            public void run() {
+                System.out.println(hahah);
+                
+            }
+        }</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aW1lci5zY2hlZHVsZUF0Rml4ZWRSYXRlKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
