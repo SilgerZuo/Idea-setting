@@ -102,12 +102,12 @@
         <mark key="^" line="41" column="84" />
         <mark key="." line="41" column="84" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-web/src/views/pay/coupon/grant.vue" timestamp="1516161496467">
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-web/src/views/pay/coupon/grant.vue" timestamp="1516168124808">
         <mark key="'" line="186" column="10" />
         <mark key="[" line="427" column="71" />
-        <mark key="]" line="435" column="21" />
-        <mark key="^" line="186" column="10" />
-        <mark key="." line="435" column="21" />
+        <mark key="]" line="427" column="71" />
+        <mark key="^" line="427" column="71" />
+        <mark key="." line="427" column="71" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/payment/webhooks/PayWebhooksController.java" timestamp="1516000927843">
         <mark key="[" line="34" column="39" />
