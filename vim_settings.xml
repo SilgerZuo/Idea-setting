@@ -102,12 +102,20 @@
         <mark key="^" line="41" column="84" />
         <mark key="." line="41" column="84" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-web/src/views/pay/coupon/grant.vue" timestamp="1516161496467">
+        <mark key="'" line="186" column="10" />
+        <mark key="[" line="427" column="71" />
+        <mark key="]" line="435" column="21" />
+        <mark key="^" line="186" column="10" />
+        <mark key="." line="435" column="21" />
+      </file>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/payment/webhooks/PayWebhooksController.java" timestamp="1516000927843">
         <mark key="[" line="34" column="39" />
         <mark key="]" line="34" column="38" />
         <mark key="^" line="34" column="38" />
         <mark key="." line="34" column="38" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payCoupon/PayCouponServiceImpl.java" timestamp="1516160972948" />
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/payAccount/PaySubAccountInfoService.java" timestamp="1516073509526">
         <mark key="[" line="38" column="0" />
       </file>
@@ -144,6 +152,11 @@
         <mark key="^" line="34" column="60" />
         <mark key="." line="34" column="60" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-api/src/main/java/com/mvcc/glossary/ResultInfoEnum.java" timestamp="1516160801709">
+        <mark key="[" line="89" column="48" />
+        <mark key="]" line="89" column="48" />
+        <mark key="." line="89" column="48" />
+      </file>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/feedback/FeedBackAppController.java" timestamp="1515996780466">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
@@ -173,13 +186,19 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516156997574">
+      <file name="/Dummy.txt" timestamp="1516160856109">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/test/java/com/mvcc/service/impl/payCharge/PayRechargeServiceImplTest.java" timestamp="1515743092864">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/payment/coupon/PayCouponController.java" timestamp="1516161054474">
+        <mark key="[" line="175" column="13" />
+        <mark key="]" line="189" column="32" />
+        <mark key="^" line="189" column="32" />
+        <mark key="." line="189" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/payWebhooks/PayWebhooksService.java" timestamp="1516001843893">
         <mark key="[" line="10" column="0" />
@@ -271,7 +290,14 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1516154893826">
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-web/src/views/pay/coupon/index.vue" timestamp="1516161448627">
+        <mark key="'" line="652" column="75" />
+        <mark key="[" line="646" column="62" />
+        <mark key="]" line="652" column="75" />
+        <mark key="^" line="652" column="75" />
+        <mark key="." line="652" column="75" />
+      </file>
+      <file name="/fragment.java" timestamp="1516161056130">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payOrder/PayOrderServiceImpl.java" timestamp="1516154849111">
@@ -282,9 +308,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="125" column="29" filename="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-web/src/views/pay/royal/index.vue" />
-      <jump line="318" column="2" filename="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-web/src/views/pay/royal/index.vue" />
-      <jump line="246" column="43" filename="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-web/src/views/pay/royal/index.vue" />
       <jump line="251" column="28" filename="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-web/src/views/pay/royal/index.vue" />
       <jump line="214" column="20" filename="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-web/src/views/pay/royal/index.vue" />
       <jump line="273" column="7" filename="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-web/src/views/pay/royal/index.vue" />
@@ -382,13 +405,16 @@
       <jump line="509" column="23" filename="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-web/src/views/pay/royal/index.vue" />
       <jump line="105" column="7" filename="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payAccount/PayAccountServiceImpl.java" />
       <jump line="60" column="57" filename="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payAccount/PayAccountServiceImpl.java" />
+      <jump line="652" column="75" filename="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-web/src/views/pay/coupon/index.vue" />
+      <jump line="437" column="33" filename="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-web/src/views/pay/coupon/grant.vue" />
+      <jump line="186" column="10" filename="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-web/src/views/pay/coupon/grant.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">SW50ZWdlciA=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxudWxsXD4=</text>
