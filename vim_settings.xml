@@ -108,7 +108,12 @@
         <mark key="^" line="34" column="38" />
         <mark key="." line="34" column="38" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payCoupon/PayCouponServiceImpl.java" timestamp="1516160972948" />
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payCoupon/PayCouponServiceImpl.java" timestamp="1516170473250">
+        <mark key="[" line="204" column="31" />
+        <mark key="]" line="204" column="31" />
+        <mark key="^" line="185" column="48" />
+        <mark key="." line="204" column="31" />
+      </file>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/payAccount/PaySubAccountInfoService.java" timestamp="1516073509526">
         <mark key="[" line="38" column="0" />
       </file>
@@ -172,8 +177,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516169352637">
-        <mark key="[" line="0" column="3" />
+      <file name="/Dummy.txt" timestamp="1516170557549">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
@@ -398,10 +403,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>add total withdrawal</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>add total withdrawal</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxudWxsXD4=</text>
