@@ -208,8 +208,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516266452094">
-        <mark key="[" line="0" column="4" />
+      <file name="/Dummy.txt" timestamp="1516267268155">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
@@ -230,10 +230,10 @@
         <mark key="^" line="844" column="3" />
         <mark key="." line="844" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/Interceptor/LoginInterceptor.java" timestamp="1516263958591">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/Interceptor/LoginInterceptor.java" timestamp="1516267234739">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
         <mark key="^" line="57" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/payWebhooks/PayWebhooksService.java" timestamp="1516001843893">
@@ -257,11 +257,11 @@
         <mark key="^" line="29" column="35" />
         <mark key="." line="29" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/nice/NiceServiceImpl.java" timestamp="1516265852153">
-        <mark key="[" line="146" column="15" />
-        <mark key="]" line="146" column="19" />
-        <mark key="^" line="146" column="19" />
-        <mark key="." line="146" column="19" />
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/nice/NiceServiceImpl.java" timestamp="1516267255336">
+        <mark key="[" line="151" column="0" />
+        <mark key="]" line="151" column="0" />
+        <mark key="^" line="151" column="0" />
+        <mark key="." line="151" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/MQMessage/royal/ExportRoyalToExcel.java" timestamp="1515994776898">
         <mark key="[" line="11" column="86" />
@@ -443,10 +443,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ice up/down bug</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>ice up/down bug</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxudWxsXD4=</text>
@@ -454,25 +454,25 @@
       <register name="0" type="4">
         <text>分润状态</text>
       </register>
-      <register name="1" type="4">
-        <text>else {
-                order = 1;
-            }</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9yZGVyLS07Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc3RlcmVvdHlwZS5Db21wb25lbnQ7Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
+      <register name="3" type="4">
+        <text>else {
+                order = 1;
+            }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9yZGVyLS07Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -791,17 +791,17 @@
           <key char="111" code="0" mods="0" />
         </keys>
       </register>
-      <register name="6" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text encoding="base64">dHJ5IHsKICAgICAgICAgICAgICAgIE5pY2VNb2R1bGUgbmljZURldGFpbEJ5UGVyc29uSWQgPSBuaWNlTWFwcGVyLmZpbmROaWNlRGV0YWlsQnlQZXJzb25JZChwZXJzb24uZ2V0UGVyc29uSWQoKSk7CiAgICAgICAgICAgICAgICBpZighbmljZURldGFpbEJ5UGVyc29uSWQuaXNSZXRhaW5MZXZlbCgpICYmICEobmljZURldGFpbEJ5UGVyc29uSWQuZ2V0TmljZU9yZGVyKCkgPD0gbmljZURldGFpbEJ5UGVyc29uSWQKICAgICAgICAgICAgICAgICAgICAgICAgLmdldExhc3RTZWFzb25OaWNlT3JkZXIoKSkgJiYgbmljZURldGFpbEJ5UGVyc29uSWQuZ2V0U2Vhc29uQ291bnQoKSA8IG5pY2VEZXRhaWxCeVBlcnNvbklkCiAgICAgICAgICAgICAgICAgICAgICAgIC5nZXRSZXNlcnZlTGV2ZWxOZWVkKCkgfHwgbmljZURldGFpbEJ5UGVyc29uSWQuZ2V0TmljZU9yZGVyKCkgPCBuaWNlRGV0YWlsQnlQZXJzb25JZC5nZXRMYXN0U2Vhc29uTmljZU9yZGVyKCkpIHsKICAgICAgICAgICAgICAgICAgICAvL+WmguaenOayoeaciei+vuWIsOS/nee6p+imgeaxggogICAgICAgICAgICAgICAgICAgIGludCBvcmRlciA9IG5pY2VEZXRhaWxCeVBlcnNvbklkLmdldE5pY2VPcmRlcigpICsgNTsKICAgICAgICAgICAgICAgICAgICBhc3luY05pY2VJbmZvV2l0aE5ld09yZGVyKG5pY2VEZXRhaWxCeVBlcnNvbklkLCBvcmRlcik7CiAgICAgICAgICAgICAgICAgICAgbmljZURldGFpbEJ5UGVyc29uSWQuc2V0TGV2ZWxDb3VudCgwKTsKICAgICAgICAgICAgICAgICAgICBuaWNlRGV0YWlsQnlQZXJzb25JZC5zZXRDdXJyZW50Q291bnQoMCk7CiAgICAgICAgICAgICAgICAgICAgbmljZURldGFpbEJ5UGVyc29uSWQuc2V0U2Vhc29uQ291bnQoMCk7CiAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgIC8v5aaC5p6c6L6+5Yiw5LqG5L+d57qn6KaB5rGC77yM5LuF5LuF5pu05pawCiAgICAgICAgICAgICAgICAgICAgbmljZURldGFpbEJ5UGVyc29uSWQuc2V0TGV2ZWxDb3VudCgwKTsKICAgICAgICAgICAgICAgICAgICBuaWNlRGV0YWlsQnlQZXJzb25JZC5zZXRDdXJyZW50Q291bnQoMCk7CiAgICAgICAgICAgICAgICAgICAgbmljZURldGFpbEJ5UGVyc29uSWQuc2V0U2Vhc29uQ291bnQoMCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAvL+i/meS4qui1m+Wto+i/h+WOu++8jOaKiui/meS4qui1m+Wto+eahOetiee6p+S/neeVmeWIsOS4iuS4qui1m+Wto+etiee6p+Wtl+autQogICAgICAgICAgICAgICAgbmljZURldGFpbEJ5UGVyc29uSWQuc2V0TGFzdFNlYXNvbk5pY2VPcmRlcihuaWNlRGV0YWlsQnlQZXJzb25JZC5nZXROaWNlT3JkZXIoKSk7CiAgICAgICAgICAgICAgICBuaWNlRGV0YWlsQnlQZXJzb25JZC5zZXRSZXRhaW5MZXZlbChmYWxzZSk7CiAgICAgICAgICAgICAgICAvLyB1cGRhdGUKICAgICAgICAgICAgICAgIHVwZGF0ZVdpdGhFbnRpdHlCeUNvZGUobmljZURldGFpbEJ5UGVyc29uSWQpOwogICAgICAgICAgICB9IGNhdGNoIChCYXNlRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgIH0=</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICAgICAgICBTdHJpbmcgcGVyc29uSWQgPSBhdXRoZW50aWNhdGlvbi5nZXRQZXJzb25JZCgpOwogICAgICAgIFN0cmluZyB1c2VyX3Rva2VuID0gVG9rZW5VdGlsLmdlbmVyYXRlVG9rZW4ocGVyc29uSWQpOwogICAgICAgIFN0cmluZyB0b2tlbktleSA9IEtleUtpdC5mb3JtYXRLZXkoQ2FjaGVNb2R1bGUuVlBGT1JNLCBDYWNoZVNjb3BlLlBFUlNJU1RFTlQsIFJlZGlzS2V5Q29uc3RhbnQKICAgICAgICAgICAgICAgIC5UT0tFTl9DQUNIRURfUFJFRklYICsgdXNlcl90b2tlbik7CiAgICAgICAgcmVkaXNDbGllbnQuc2V0bngodG9rZW5LZXksIFRpbWVMb25nQ29uc3RhbnQuT05FX0RBWSwgcGVyc29uSWQpOw==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
