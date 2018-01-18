@@ -48,10 +48,11 @@
         <mark key="^" line="49" column="66" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payFinance/PayFinanceServiceImpl.java" timestamp="1516239595229" />
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/test/java/com/mvcc/service/impl/nice/NiceServiceImplTest.java" timestamp="1516157714526">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/test/java/com/mvcc/service/impl/nice/NiceServiceImplTest.java" timestamp="1516241760005">
+        <mark key="[" line="58" column="58" />
+        <mark key="]" line="58" column="58" />
+        <mark key="." line="58" column="58" />
+        <mark key="^" line="49" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-api/src/main/java/com/mvcc/constant/tagId/TagIdConstant.java" timestamp="1516068632446">
         <mark key="[" line="93" column="71" />
@@ -202,7 +203,7 @@
         <mark key="^" line="73" column="128" />
         <mark key="." line="73" column="128" />
       </file>
-      <file name="/dummy.sql" timestamp="1516188296273">
+      <file name="/dummy.sql" timestamp="1516241135394">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -249,6 +250,12 @@
         <mark key="]" line="29" column="35" />
         <mark key="^" line="29" column="35" />
         <mark key="." line="29" column="35" />
+      </file>
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/nice/NiceServiceImpl.java" timestamp="1516242150474">
+        <mark key="[" line="181" column="0" />
+        <mark key="]" line="181" column="0" />
+        <mark key="." line="181" column="0" />
+        <mark key="^" line="117" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/MQMessage/royal/ExportRoyalToExcel.java" timestamp="1515994776898">
         <mark key="[" line="11" column="86" />
@@ -312,10 +319,10 @@
         <mark key="." line="43" column="43" />
         <mark key="^" line="43" column="43" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/db6bb179-e55d-467b-becc-eb3f76ab0a98/console.sql" timestamp="1516178917369">
-        <mark key="[" line="32" column="42" />
-        <mark key="]" line="32" column="40" />
-        <mark key="." line="32" column="40" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/db6bb179-e55d-467b-becc-eb3f76ab0a98/console.sql" timestamp="1516240361395">
+        <mark key="[" line="34" column="29" />
+        <mark key="]" line="34" column="28" />
+        <mark key="." line="34" column="28" />
         <mark key="^" line="32" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payAccount/PaySubAccountInfoServiceImpl.java" timestamp="1515135206005">
@@ -434,10 +441,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGQK</text>
+        <text encoding="base64">ICAgICAgICBuaWNlRGV0YWlsLnNldEN1cnJlbnRDb3VudCgwKTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxudWxsXD4=</text>
@@ -446,7 +453,7 @@
         <text>分润状态</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGQK</text>
+        <text encoding="base64">ICAgICAgICBuaWNlRGV0YWlsLnNldEN1cnJlbnRDb3VudCgwKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -458,10 +465,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aGlsZSgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGQK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -784,13 +791,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGdldFdpdGhkcmF3YWxBbW91bnRJc05vdEVub3VnaC5nZXRzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgbHQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
