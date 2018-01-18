@@ -16,6 +16,12 @@
         <mark key="^" line="111" column="111" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/app/driver/CarOwnerAppController.java" timestamp="1516258701342" />
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payRoyalty/PayRoyaltySettlementServiceImpl.java" timestamp="1516284306518">
+        <mark key="[" line="121" column="52" />
+        <mark key="]" line="122" column="43" />
+        <mark key="^" line="122" column="43" />
+        <mark key="." line="122" column="43" />
+      </file>
       <file name="$USER_HOME$/workspace/ideaProject/DownloadDemo/DubboxDemo/Parent/pom.xml" timestamp="1516190744155">
         <mark key="[" line="23" column="20" />
         <mark key="]" line="50" column="16" />
@@ -127,9 +133,6 @@
         <mark key="^" line="41" column="84" />
         <mark key="." line="41" column="84" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/MQMessage/platformAuthentication/CreateUserForFirstLogin.java" timestamp="1516263281444">
-        <mark key="[" line="78" column="38" />
-      </file>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/payment/webhooks/PayWebhooksController.java" timestamp="1516000927843">
         <mark key="[" line="34" column="39" />
         <mark key="]" line="34" column="38" />
@@ -148,11 +151,11 @@
         <mark key="^" line="49" column="18" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payWebhooks/PayWebhooksServiceImpl.java" timestamp="1516001848560">
-        <mark key="[" line="124" column="8" />
-        <mark key="]" line="124" column="35" />
-        <mark key="." line="124" column="35" />
-        <mark key="^" line="124" column="35" />
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payWebhooks/PayWebhooksServiceImpl.java" timestamp="1516284747429">
+        <mark key="[" line="132" column="21" />
+        <mark key="]" line="132" column="31" />
+        <mark key="." line="132" column="31" />
+        <mark key="^" line="132" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/MQMessage/carOwner/ExportCarOwnerToExcel.java" timestamp="1516017517302">
         <mark key="[" line="56" column="20" />
@@ -241,10 +244,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516277022929">
+      <file name="/Dummy.txt" timestamp="1516284751082">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="3" />
+        <mark key="." line="0" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/test/java/com/mvcc/service/impl/payCharge/PayRechargeServiceImplTest.java" timestamp="1515743092864">
         <mark key="[" line="17" column="0" />
@@ -362,7 +365,7 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1516263860632">
+      <file name="/fragment.java" timestamp="1516284078232">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payOrder/PayOrderServiceImpl.java" timestamp="1516255321783">
@@ -475,11 +478,11 @@
       <jump line="23" column="0" filename="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-api/src/main/java/com/mvcc/constant/push/PushConstant.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>1.  fix login bug</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxudWxsXD4=</text>
