@@ -8,7 +8,7 @@
         <mark key="]" line="11" column="44" />
         <mark key="." line="11" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/portal/LoginController.java" timestamp="1516261762943">
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/portal/LoginController.java" timestamp="1516268650061">
         <mark key="[" line="88" column="74" />
         <mark key="]" line="88" column="73" />
         <mark key="." line="88" column="73" />
@@ -48,11 +48,11 @@
         <mark key="^" line="85" column="29" />
         <mark key="." line="85" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/InterceptorConfiguration.java" timestamp="1516266447098">
-        <mark key="[" line="22" column="45" />
-        <mark key="]" line="4" column="59" />
-        <mark key="^" line="4" column="59" />
-        <mark key="." line="4" column="59" />
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/InterceptorConfiguration.java" timestamp="1516269665255">
+        <mark key="[" line="22" column="82" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-utils/src/main/java/com/mvcc/util/TokenUtil.java" timestamp="1516257364001">
         <mark key="[" line="19" column="49" />
@@ -208,8 +208,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516267960299">
-        <mark key="[" line="0" column="3" />
+      <file name="/Dummy.txt" timestamp="1516269634116">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
@@ -230,11 +230,11 @@
         <mark key="^" line="844" column="3" />
         <mark key="." line="844" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/Interceptor/LoginInterceptor.java" timestamp="1516267234739">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="57" column="34" />
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/Interceptor/LoginInterceptor.java" timestamp="1516269292721">
+        <mark key="[" line="45" column="92" />
+        <mark key="]" line="45" column="91" />
+        <mark key="." line="45" column="91" />
+        <mark key="^" line="45" column="91" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/payWebhooks/PayWebhooksService.java" timestamp="1516001843893">
         <mark key="[" line="10" column="0" />
@@ -257,11 +257,11 @@
         <mark key="^" line="29" column="35" />
         <mark key="." line="29" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/nice/NiceServiceImpl.java" timestamp="1516267255336">
-        <mark key="[" line="151" column="0" />
-        <mark key="]" line="151" column="0" />
-        <mark key="^" line="151" column="0" />
-        <mark key="." line="151" column="0" />
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/nice/NiceServiceImpl.java" timestamp="1516268612993">
+        <mark key="[" line="152" column="25" />
+        <mark key="]" line="152" column="24" />
+        <mark key="^" line="152" column="24" />
+        <mark key="." line="152" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/MQMessage/royal/ExportRoyalToExcel.java" timestamp="1515994776898">
         <mark key="[" line="11" column="86" />
@@ -443,10 +443,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>close</text>
+        <text>fix</text>
       </register>
       <register name="-" type="4">
-        <text>close</text>
+        <text>fix</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxudWxsXD4=</text>
