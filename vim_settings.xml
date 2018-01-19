@@ -204,11 +204,11 @@
         <mark key="^" line="34" column="60" />
         <mark key="." line="34" column="60" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-api/src/main/java/com/mvcc/glossary/ResultInfoEnum.java" timestamp="1516256455403">
-        <mark key="[" line="125" column="26" />
-        <mark key="]" line="125" column="25" />
-        <mark key="^" line="125" column="25" />
-        <mark key="." line="119" column="28" />
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-api/src/main/java/com/mvcc/glossary/ResultInfoEnum.java" timestamp="1516343797596">
+        <mark key="[" line="95" column="42" />
+        <mark key="]" line="95" column="42" />
+        <mark key="^" line="95" column="51" />
+        <mark key="." line="95" column="42" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/framework/schedulerX/NiceChangeAfterSeasonScheduler.java" timestamp="1516333623089">
         <mark key="[" line="2" column="0" />
@@ -261,7 +261,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516333784724">
+      <file name="/Dummy.txt" timestamp="1516344437134">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -403,16 +403,15 @@
       <file name="/fragment.java" timestamp="1516330531121">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payOrder/PayOrderServiceImpl.java" timestamp="1516255321783">
-        <mark key="[" line="171" column="66" />
-        <mark key="]" line="171" column="66" />
-        <mark key="." line="171" column="66" />
-        <mark key="^" line="219" column="16" />
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payOrder/PayOrderServiceImpl.java" timestamp="1516344562528">
+        <mark key="'" line="461" column="0" />
+        <mark key="[" line="161" column="34" />
+        <mark key="]" line="161" column="70" />
+        <mark key="." line="161" column="70" />
+        <mark key="^" line="161" column="70" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="0" filename="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payRoyalty/PayRoyaltyServiceImpl.java" />
-      <jump line="267" column="0" filename="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payRoyalty/PayRoyaltyServiceImpl.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payRoyalty/PayRoyaltyServiceImpl.java" />
       <jump line="65" column="99" filename="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/payment/royal/PayRoyalController.java" />
       <jump line="209" column="34" filename="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payRoyalty/PayRoyaltyServiceImpl.java" />
@@ -511,13 +510,15 @@
       <jump line="23" column="0" filename="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-api/src/main/java/com/mvcc/constant/push/PushConstant.java" />
       <jump line="22" column="64" filename="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/ConsumerApplicationMain.java" />
       <jump line="12" column="4" filename="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/ConsumerApplicationMain.java" />
+      <jump line="159" column="0" filename="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payOrder/PayOrderServiceImpl.java" />
+      <jump line="455" column="0" filename="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payOrder/PayOrderServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>try to add schedular</text>
       </register>
       <register name="-" type="4">
-        <text>implements</text>
+        <text>try to add schedular</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxudWxsXD4=</text>
@@ -532,16 +533,16 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29udGV4dC5hbm5vdGF0aW9uLkJlYW47Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbGliYWJhLmVkYXMuc2NoZWR1bGVyWC5TY2hlZHVsZXJYQ2xpZW50Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgT3B0aW9uYWw8U3RyaW5nPiBhbW91bnQgPSBPcHRpb25hbC5vZk51bGxhYmxlKG9yZGVyQnlPcmRlck51bSkubWFwKChPcmRlcnMgYSkgLT4gewo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0gY2F0Y2goSU9FeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgICAgICB9IGNhdGNoKFJhdGVMaW1pdEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgICAgIH0gY2F0Y2goQVBJRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICAgICAgfSBjYXRjaChDaGFubmVsRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICAgICAgfSBjYXRjaChJbnZhbGlkUmVxdWVzdEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgICAgIH0gY2F0Y2goQVBJQ29ubmVjdGlvbkV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgICAgIH0gY2F0Y2goQXV0aGVudGljYXRpb25FeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICAgICAgfSk7</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -860,20 +861,33 @@
           <key char="111" code="0" mods="0" />
         </keys>
       </register>
-      <register name="6" type="4">
-        <text>import com.alibaba.dts.shade.com.alibaba.common.logging.Logger;
-import com.alibaba.edas.schedulerX.ProcessResult;
-import com.alibaba.edas.schedulerX.ScxSimpleJobContext;
-import com.alibaba.edas.schedulerX.ScxSimpleJobProcessor;</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QENvbXBvbmVudAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CiAgICBAQXV0b3dpcmVkCiAgICBwcml2YXRlIE5pY2VTZXJ2aWNlIG5pY2VTZXJ2aWNlOwoKICAgIEBPdmVycmlkZQogICAgcHVibGljIFByb2Nlc3NSZXN1bHQgcHJvY2VzcyhTY3hTaW1wbGVKb2JDb250ZXh0IHNjeFNpbXBsZUpvYkNvbnRleHQpIHsKICAgICAgICB0cnkgewogICAgICAgICAgICBuaWNlU2VydmljZS5hc3luY05pY2VBZnRlclNlYXNvbigpOwogICAgICAgIH0gY2F0Y2goQmFzZUV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBuZXcgUHJvY2Vzc1Jlc3VsdCh0cnVlKTsvL3RydWXooajnpLrmiafooYzmiJDlip/vvIxmYWxzZeihqOekuuWksei0pQogICAgfQo=</text>
+      <register name="8" type="4">
+        <text>}
+            } catch(IOException e) {
+                e.printStackTrace();
+            } catch(RateLimitException e) {
+                e.printStackTrace();
+            } catch(APIException e) {
+                e.printStackTrace();
+            } catch(ChannelException e) {
+                e.printStackTrace();
+            } catch(InvalidRequestException e) {
+                e.printStackTrace();
+            } catch(APIConnectionException e) {
+                e.printStackTrace();
+            } catch(AuthenticationException e) {
+                e.printStackTrace();
+            }
+            return null;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
