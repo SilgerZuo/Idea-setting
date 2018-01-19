@@ -113,6 +113,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/SchedualConfiguration.java" timestamp="1516333822790">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1516262676467">
         <mark key="[" line="0" column="19" />
         <mark key="]" line="0" column="0" />
@@ -205,11 +210,11 @@
         <mark key="^" line="125" column="25" />
         <mark key="." line="119" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/framework/schedulerX/NiceChangeAfterSeasonScheduler.java" timestamp="1516329322933">
-        <mark key="[" line="27" column="47" />
-        <mark key="]" line="28" column="34" />
-        <mark key="^" line="28" column="34" />
-        <mark key="." line="28" column="34" />
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/framework/schedulerX/NiceChangeAfterSeasonScheduler.java" timestamp="1516333623089">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="34" column="63" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/feedback/FeedBackAppController.java" timestamp="1515996780466">
         <mark key="[" line="30" column="0" />
@@ -256,11 +261,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516331119606">
+      <file name="/Dummy.txt" timestamp="1516333784724">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/geo/GeoServiceImpl.java" timestamp="1516332543093" />
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/test/java/com/mvcc/service/impl/payCharge/PayRechargeServiceImplTest.java" timestamp="1515743092864">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -338,11 +344,11 @@
         <mark key="]" line="126" column="0" />
         <mark key="." line="126" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/pom.xml" timestamp="1516330918715">
-        <mark key="[" line="149" column="0" />
-        <mark key="]" line="149" column="20" />
-        <mark key="." line="149" column="20" />
-        <mark key="^" line="149" column="20" />
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/pom.xml" timestamp="1516333205629">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="63" column="39" />
+        <mark key="." line="63" column="39" />
+        <mark key="^" line="63" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/nice/nice-mapper.xml" timestamp="1516263324823">
         <mark key="[" line="121" column="85" />
@@ -378,6 +384,7 @@
         <mark key="." line="43" column="43" />
         <mark key="^" line="43" column="43" />
       </file>
+      <file name="/pom.xml" timestamp="1516333110187" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/db6bb179-e55d-467b-becc-eb3f76ab0a98/console.sql" timestamp="1516331323626">
         <mark key="[" line="32" column="27" />
         <mark key="]" line="32" column="27" />
@@ -502,11 +509,11 @@
       <jump line="12" column="4" filename="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/ConsumerApplicationMain.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>realName</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29udGV4dC5hbm5vdGF0aW9uLkJlYW47Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>realName</text>
+        <text>implements</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxudWxsXD4=</text>
@@ -514,23 +521,26 @@
       <register name="0" type="4">
         <text>分润状态</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yazwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+c3ByaW5nLXdlYjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+NC4xLjUuUkVMRUFTRTwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29udGV4dC5hbm5vdGF0aW9uLkJlYW47Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hbGliYWJhLmVkYXMuc2NoZWR1bGVyWC5TY2hlZHVsZXJYQ2xpZW50Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzY2hlZHVhbEJlYW4uc2NoZWR1bGVyWENsaWVudCgpLnNldFNlcnZpY2VHcm91cCgiIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzY2hlZHVhbEJlYW4uc2NoZWR1bGVyWENsaWVudCgpLnNldFNlcnZpY2VHcm91cCgiIik7Cg==</text>
+      <register name="4" type="4">
+        <text>import com.alibaba.dts.shade.com.alibaba.common.logging.Logger;
+import com.alibaba.edas.schedulerX.ProcessResult;
+import com.alibaba.edas.schedulerX.ScxSimpleJobContext;
+import com.alibaba.edas.schedulerX.ScxSimpleJobProcessor;</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzY2hlZHVhbEJlYW4uc2NoZWR1bGVyWENsaWVudCgpLnNldFNlcnZpY2VHcm91cCgiIik7Cg==</text>
+        <text encoding="base64">QENvbXBvbmVudAo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -850,16 +860,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTY2hlZHVhbEJlYW4gc2NoZWR1YWxCZWFuID0gbmV3IFNjaGVkdWFsQmVhbigpOwo=</text>
+        <text encoding="base64">CiAgICBAQXV0b3dpcmVkCiAgICBwcml2YXRlIE5pY2VTZXJ2aWNlIG5pY2VTZXJ2aWNlOwoKICAgIEBPdmVycmlkZQogICAgcHVibGljIFByb2Nlc3NSZXN1bHQgcHJvY2VzcyhTY3hTaW1wbGVKb2JDb250ZXh0IHNjeFNpbXBsZUpvYkNvbnRleHQpIHsKICAgICAgICB0cnkgewogICAgICAgICAgICBuaWNlU2VydmljZS5hc3luY05pY2VBZnRlclNlYXNvbigpOwogICAgICAgIH0gY2F0Y2goQmFzZUV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBuZXcgUHJvY2Vzc1Jlc3VsdCh0cnVlKTsvL3RydWXooajnpLrmiafooYzmiJDlip/vvIxmYWxzZeihqOekuuWksei0pQogICAgfQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTG9nZ2VyIGxvZ2dlciA9IExvZ2dlcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c2NoZWQK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIiIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
