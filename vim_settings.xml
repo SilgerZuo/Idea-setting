@@ -8,12 +8,8 @@
         <mark key="]" line="11" column="44" />
         <mark key="." line="11" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/portal/LoginController.java" timestamp="1516273764795">
-        <mark key="'" line="114" column="50" />
-        <mark key="[" line="111" column="112" />
-        <mark key="]" line="111" column="111" />
-        <mark key="." line="111" column="111" />
-        <mark key="^" line="111" column="111" />
+      <file name="/a.dummy" timestamp="1516330936609">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payRoyalty/PayRoyaltySettlementServiceImpl.java" timestamp="1516284306518">
         <mark key="[" line="121" column="52" />
@@ -84,6 +80,12 @@
         <mark key="." line="49" column="66" />
         <mark key="^" line="49" column="66" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-consumer/src/main/resources/application.properties" timestamp="1516330450934">
+        <mark key="[" line="16" column="31" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="19" column="4" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/test/java/com/mvcc/service/impl/nice/NiceServiceImplTest.java" timestamp="1516265991612">
         <mark key="[" line="53" column="27" />
         <mark key="]" line="53" column="27" />
@@ -106,22 +108,21 @@
         <mark key="]" line="132" column="0" />
         <mark key="." line="132" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/app/login/LoginAppController.java" timestamp="1516276866655">
-        <mark key="'" line="373" column="0" />
-        <mark key="[" line="221" column="0" />
-        <mark key="]" line="221" column="0" />
-        <mark key="." line="221" column="0" />
-        <mark key="^" line="218" column="78" />
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/webapp/web.xml" timestamp="1516330210976">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1516262676467">
         <mark key="[" line="0" column="19" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/ConsumerApplicationMain.java" timestamp="1516255546838">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/ConsumerApplicationMain.java" timestamp="1516330419665">
+        <mark key="'" line="12" column="4" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/test/java/com/mvcc/service/impl/payment/account/PaySubPayAccountServiceImplTest.java" timestamp="1516071197498">
         <mark key="[" line="41" column="78" />
@@ -146,6 +147,12 @@
         <mark key="]" line="49" column="0" />
         <mark key="^" line="49" column="18" />
         <mark key="." line="49" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/SchedualBean.java" timestamp="1516330512133">
+        <mark key="[" line="10" column="27" />
+        <mark key="]" line="12" column="27" />
+        <mark key="^" line="12" column="27" />
+        <mark key="." line="12" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payWebhooks/PayWebhooksServiceImpl.java" timestamp="1516284747429">
         <mark key="[" line="132" column="21" />
@@ -174,6 +181,12 @@
         <mark key="[" line="134" column="0" />
         <mark key="]" line="134" column="0" />
         <mark key="." line="134" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/SchedualBean.java" timestamp="1516330759340">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="12" column="13" />
+        <mark key="." line="12" column="13" />
+        <mark key="^" line="12" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-api/src/main/java/com/mvcc/constant/nice/NiceFieldsConstent.java" timestamp="1514963408064">
         <mark key="[" line="21" column="53" />
@@ -233,13 +246,6 @@
         <mark key="." line="45" column="91" />
         <mark key="^" line="45" column="91" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-api/src/main/java/com/mvcc/constant/push/PushConstant.java" timestamp="1516276078661">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="92" column="6" />
-        <mark key="]" line="94" column="59" />
-        <mark key="." line="94" column="59" />
-        <mark key="^" line="94" column="59" />
-      </file>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/payment/coupon/LocalCouponTemplateEntity.java" timestamp="1515059755477">
         <mark key="[" line="76" column="0" />
         <mark key="]" line="76" column="0" />
@@ -250,7 +256,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516329326551">
+      <file name="/Dummy.txt" timestamp="1516331119606">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -332,11 +338,11 @@
         <mark key="]" line="126" column="0" />
         <mark key="." line="126" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/pom.xml" timestamp="1516329606155">
-        <mark key="[" line="149" column="21" />
-        <mark key="]" line="155" column="20" />
-        <mark key="." line="155" column="20" />
-        <mark key="^" line="155" column="20" />
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/pom.xml" timestamp="1516330918715">
+        <mark key="[" line="149" column="0" />
+        <mark key="]" line="149" column="20" />
+        <mark key="." line="149" column="20" />
+        <mark key="^" line="149" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/nice/nice-mapper.xml" timestamp="1516263324823">
         <mark key="[" line="121" column="85" />
@@ -344,7 +350,7 @@
         <mark key="." line="83" column="22" />
         <mark key="^" line="34" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/app/payment/order/PayOrderAppController.java" timestamp="1516278222335">
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/app/payment/order/PayOrderAppController.java" timestamp="1516331764297">
         <mark key="[" line="168" column="61" />
         <mark key="]" line="171" column="0" />
         <mark key="^" line="171" column="0" />
@@ -372,10 +378,10 @@
         <mark key="." line="43" column="43" />
         <mark key="^" line="43" column="43" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/db6bb179-e55d-467b-becc-eb3f76ab0a98/console.sql" timestamp="1516265105276">
-        <mark key="[" line="37" column="65" />
-        <mark key="]" line="37" column="64" />
-        <mark key="." line="37" column="64" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/db6bb179-e55d-467b-becc-eb3f76ab0a98/console.sql" timestamp="1516331323626">
+        <mark key="[" line="32" column="27" />
+        <mark key="]" line="32" column="27" />
+        <mark key="." line="32" column="27" />
         <mark key="^" line="37" column="64" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payAccount/PaySubAccountInfoServiceImpl.java" timestamp="1515135206005">
@@ -383,7 +389,7 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1516284078232">
+      <file name="/fragment.java" timestamp="1516330531121">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payOrder/PayOrderServiceImpl.java" timestamp="1516255321783">
@@ -394,8 +400,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="40" filename="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/authentication/PlatformAuthenticationServiceImpl.java" />
-      <jump line="86" column="30" filename="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/payAccount/PayUserService.java" />
       <jump line="65" column="0" filename="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payRoyalty/PayRoyaltyServiceImpl.java" />
       <jump line="267" column="0" filename="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payRoyalty/PayRoyaltyServiceImpl.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payRoyalty/PayRoyaltyServiceImpl.java" />
@@ -494,13 +498,15 @@
       <jump line="29" column="31" filename="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-api/src/main/java/com/mvcc/constant/push/PushConstant.java" />
       <jump line="135" column="0" filename="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-api/src/main/java/com/mvcc/constant/push/PushConstant.java" />
       <jump line="23" column="0" filename="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-api/src/main/java/com/mvcc/constant/push/PushConstant.java" />
+      <jump line="22" column="64" filename="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/ConsumerApplicationMain.java" />
+      <jump line="12" column="4" filename="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/ConsumerApplicationMain.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>fix royal succeeded</text>
+        <text>realName</text>
       </register>
       <register name="-" type="4">
-        <text>fix royal succeeded</text>
+        <text>realName</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxudWxsXD4=</text>
@@ -508,23 +514,23 @@
       <register name="0" type="4">
         <text>分润状态</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oImRvaW5nIHNjaGVkdWxhciBqb2IiKTsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICAKICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yazwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+c3ByaW5nLXdlYjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+NC4xLjUuUkVMRUFTRTwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBzY2hlZHVhbEJlYW4uc2NoZWR1bGVyWENsaWVudCgpLnNldFNlcnZpY2VHcm91cCgiIik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzY2hlZHVhbEJlYW4uc2NoZWR1bGVyWENsaWVudCgpLnNldFNlcnZpY2VHcm91cCgiIik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICBzY2hlZHVhbEJlYW4uc2NoZWR1bGVyWENsaWVudCgpLnNldFNlcnZpY2VHcm91cCgiIik7Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -844,16 +850,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxoc2Y6Cg==</text>
+        <text encoding="base64">ICAgICAgICBTY2hlZHVhbEJlYW4gc2NoZWR1YWxCZWFuID0gbmV3IFNjaGVkdWFsQmVhbigpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZWRpc0NsaWVudAo=</text>
+        <text encoding="base64">c2NoZWQK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
