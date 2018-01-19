@@ -74,6 +74,11 @@
         <mark key="^" line="21" column="58" />
         <mark key="." line="21" column="58" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/DownloadDemo/spring_webservice/springWSTest/src/main/java/com/itar/ws/controller/CountryEndpoint.java" timestamp="1516353451509">
+        <mark key="[" line="13" column="49" />
+        <mark key="]" line="13" column="49" />
+        <mark key="." line="13" column="49" />
+      </file>
       <file name="$USER_HOME$/workspace/ideaProject/study-example/fork-join/testForkJoin/src/main/forkJoinTest.java" timestamp="1516189348968">
         <mark key="[" line="49" column="67" />
         <mark key="]" line="49" column="66" />
@@ -198,6 +203,12 @@
         <mark key="]" line="21" column="53" />
         <mark key="." line="21" column="53" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/DownloadDemo/spring_webservice/springWSTest/src/main/java/com/itar/ws/config/WebServiceConfig.java" timestamp="1516353423589">
+        <mark key="[" line="30" column="52" />
+        <mark key="]" line="30" column="52" />
+        <mark key="." line="30" column="52" />
+        <mark key="^" line="30" column="79" />
+      </file>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/localWithdrawal/LocalWithdrawalService.java" timestamp="1516156487322">
         <mark key="[" line="34" column="54" />
         <mark key="]" line="34" column="60" />
@@ -261,7 +272,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516344437134">
+      <file name="/Dummy.txt" timestamp="1516353001294">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -400,7 +411,7 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1516330531121">
+      <file name="/fragment.java" timestamp="1516352729767">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payOrder/PayOrderServiceImpl.java" timestamp="1516344562528">
@@ -515,10 +526,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>try to add schedular</text>
+        <text>http://www.yourcompany.com/webservice</text>
       </register>
       <register name="-" type="4">
-        <text>try to add schedular</text>
+        <text>http://www.yourcompany.com/webservice</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxudWxsXD4=</text>
