@@ -15,7 +15,6 @@
         <mark key="." line="111" column="111" />
         <mark key="^" line="111" column="111" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/app/driver/CarOwnerAppController.java" timestamp="1516258701342" />
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payRoyalty/PayRoyaltySettlementServiceImpl.java" timestamp="1516284306518">
         <mark key="[" line="121" column="52" />
         <mark key="]" line="122" column="43" />
@@ -55,7 +54,6 @@
         <mark key="^" line="45" column="28" />
         <mark key="." line="47" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/orders/OrdersServiceImpl.java" timestamp="1516275108849" />
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/authentication/PlatformAuthenticationServiceImpl.java" timestamp="1516275677880">
         <mark key="[" line="290" column="8" />
         <mark key="]" line="290" column="58" />
@@ -86,7 +84,6 @@
         <mark key="." line="49" column="66" />
         <mark key="^" line="49" column="66" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payFinance/PayFinanceServiceImpl.java" timestamp="1516239595229" />
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/test/java/com/mvcc/service/impl/nice/NiceServiceImplTest.java" timestamp="1516265991612">
         <mark key="[" line="53" column="27" />
         <mark key="]" line="53" column="27" />
@@ -116,7 +113,6 @@
         <mark key="." line="221" column="0" />
         <mark key="^" line="218" column="78" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-web/src/views/nice/index.vue" timestamp="1516243980360" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1516262676467">
         <mark key="[" line="0" column="19" />
         <mark key="]" line="0" column="0" />
@@ -162,8 +158,6 @@
         <mark key="]" line="56" column="20" />
         <mark key="." line="56" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/DownloadDemo/DubboxDemo/Provider/src/main/java/com/yingjun/dubbox/services/UserServiceImpl.java" timestamp="1516240165230" />
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/resources/spring/spring-hsf-service.xml" timestamp="1516286512051" />
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/driver/CarOwnerSubFieldsConstant.java" timestamp="1515059582094">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -174,6 +168,11 @@
         <mark key="]" line="104" column="68" />
         <mark key="." line="104" column="68" />
         <mark key="^" line="104" column="68" />
+      </file>
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-consumer/src/main/resources/spring/spring-hsf-reference.xml" timestamp="1516327880945">
+        <mark key="[" line="134" column="0" />
+        <mark key="]" line="134" column="0" />
+        <mark key="." line="134" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-api/src/main/java/com/mvcc/constant/nice/NiceFieldsConstent.java" timestamp="1514963408064">
         <mark key="[" line="21" column="53" />
@@ -234,7 +233,6 @@
         <mark key="." line="94" column="59" />
         <mark key="^" line="94" column="59" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/DownloadDemo/DubboxDemo/Consumer/src/test/java/com/yingjun/dubbox/ConsumerTest.java" timestamp="1516240057751" />
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/payment/coupon/LocalCouponTemplateEntity.java" timestamp="1515059755477">
         <mark key="[" line="76" column="0" />
         <mark key="]" line="76" column="0" />
@@ -479,8 +477,8 @@
       <jump line="23" column="0" filename="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-api/src/main/java/com/mvcc/constant/push/PushConstant.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDxoc2Y6Cg==</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -492,22 +490,22 @@
         <text>分润状态</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIDxoc2Y6Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZWRpc0NsaWVudAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyAK</text>
+        <text encoding="base64">ICAgICAgICByZWRpc0NsaWVudAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyAK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -827,16 +825,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBkcml2ZXJJZAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwbGF0Cg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBkcml2ZXJJZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwbGF0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGVyc29uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
