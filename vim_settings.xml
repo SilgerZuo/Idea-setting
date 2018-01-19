@@ -323,6 +323,10 @@
         <mark key="^" line="152" column="24" />
         <mark key="." line="152" column="24" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/PersonDemo/DubboFromZero/pom.xml" timestamp="1516343106389">
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/MQMessage/royal/ExportRoyalToExcel.java" timestamp="1515994776898">
         <mark key="[" line="11" column="86" />
         <mark key="]" line="11" column="86" />
@@ -510,7 +514,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29udGV4dC5hbm5vdGF0aW9uLkJlYW47Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>implements</text>
@@ -522,25 +526,22 @@
         <text>分润状态</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29udGV4dC5hbm5vdGF0aW9uLkJlYW47Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbGliYWJhLmVkYXMuc2NoZWR1bGVyWC5TY2hlZHVsZXJYQ2xpZW50Owo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>import com.alibaba.dts.shade.com.alibaba.common.logging.Logger;
-import com.alibaba.edas.schedulerX.ProcessResult;
-import com.alibaba.edas.schedulerX.ScxSimpleJobContext;
-import com.alibaba.edas.schedulerX.ScxSimpleJobProcessor;</text>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29udGV4dC5hbm5vdGF0aW9uLkJlYW47Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5hbGliYWJhLmVkYXMuc2NoZWR1bGVyWC5TY2hlZHVsZXJYQ2xpZW50Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QENvbXBvbmVudAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -859,17 +860,20 @@ import com.alibaba.edas.schedulerX.ScxSimpleJobProcessor;</text>
           <key char="111" code="0" mods="0" />
         </keys>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CiAgICBAQXV0b3dpcmVkCiAgICBwcml2YXRlIE5pY2VTZXJ2aWNlIG5pY2VTZXJ2aWNlOwoKICAgIEBPdmVycmlkZQogICAgcHVibGljIFByb2Nlc3NSZXN1bHQgcHJvY2VzcyhTY3hTaW1wbGVKb2JDb250ZXh0IHNjeFNpbXBsZUpvYkNvbnRleHQpIHsKICAgICAgICB0cnkgewogICAgICAgICAgICBuaWNlU2VydmljZS5hc3luY05pY2VBZnRlclNlYXNvbigpOwogICAgICAgIH0gY2F0Y2goQmFzZUV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBuZXcgUHJvY2Vzc1Jlc3VsdCh0cnVlKTsvL3RydWXooajnpLrmiafooYzmiJDlip/vvIxmYWxzZeihqOekuuWksei0pQogICAgfQo=</text>
+      <register name="6" type="4">
+        <text>import com.alibaba.dts.shade.com.alibaba.common.logging.Logger;
+import com.alibaba.edas.schedulerX.ProcessResult;
+import com.alibaba.edas.schedulerX.ScxSimpleJobContext;
+import com.alibaba.edas.schedulerX.ScxSimpleJobProcessor;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QENvbXBvbmVudAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTG9nZ2VyIGxvZ2dlciA9IExvZ2dlcgo=</text>
+        <text encoding="base64">CiAgICBAQXV0b3dpcmVkCiAgICBwcml2YXRlIE5pY2VTZXJ2aWNlIG5pY2VTZXJ2aWNlOwoKICAgIEBPdmVycmlkZQogICAgcHVibGljIFByb2Nlc3NSZXN1bHQgcHJvY2VzcyhTY3hTaW1wbGVKb2JDb250ZXh0IHNjeFNpbXBsZUpvYkNvbnRleHQpIHsKICAgICAgICB0cnkgewogICAgICAgICAgICBuaWNlU2VydmljZS5hc3luY05pY2VBZnRlclNlYXNvbigpOwogICAgICAgIH0gY2F0Y2goQmFzZUV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBuZXcgUHJvY2Vzc1Jlc3VsdCh0cnVlKTsvL3RydWXooajnpLrmiafooYzmiJDlip/vvIxmYWxzZeihqOekuuWksei0pQogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIiIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
