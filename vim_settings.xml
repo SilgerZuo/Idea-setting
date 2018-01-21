@@ -6,7 +6,6 @@
       <file name="/a.dummy" timestamp="1516330936609">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-web/src/api/UEditor/ueditor.config.js" timestamp="1516355622120" />
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payRoyalty/PayRoyaltySettlementServiceImpl.java" timestamp="1516284306518">
         <mark key="[" line="121" column="52" />
         <mark key="]" line="122" column="43" />
@@ -131,7 +130,6 @@
         <mark key="." line="132" column="31" />
         <mark key="^" line="132" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/DownloadDemo/DubboxDemo/Provider/src/main/resources/web.xml" timestamp="1516329835908" />
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/framework/utils/ExportUtil.java" timestamp="1516073455231">
         <mark key="[" line="61" column="34" />
         <mark key="]" line="104" column="68" />
@@ -198,12 +196,11 @@
         <mark key="." line="45" column="91" />
         <mark key="^" line="45" column="91" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516353001294">
+      <file name="/Dummy.txt" timestamp="1516521524834">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/geo/GeoServiceImpl.java" timestamp="1516332543093" />
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/payment/coupon/PayCouponController.java" timestamp="1516161054474">
         <mark key="[" line="175" column="13" />
         <mark key="]" line="189" column="32" />
@@ -262,7 +259,7 @@
         <mark key="." line="83" column="22" />
         <mark key="^" line="34" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/app/payment/order/PayOrderAppController.java" timestamp="1516331764297">
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/app/payment/order/PayOrderAppController.java" timestamp="1516521353701">
         <mark key="[" line="168" column="61" />
         <mark key="]" line="171" column="0" />
         <mark key="^" line="171" column="0" />
@@ -280,22 +277,21 @@
         <mark key="." line="43" column="43" />
         <mark key="^" line="43" column="43" />
       </file>
-      <file name="/pom.xml" timestamp="1516333110187" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/db6bb179-e55d-467b-becc-eb3f76ab0a98/console.sql" timestamp="1516331323626">
         <mark key="[" line="32" column="27" />
         <mark key="]" line="32" column="27" />
         <mark key="." line="32" column="27" />
         <mark key="^" line="37" column="64" />
       </file>
-      <file name="/fragment.java" timestamp="1516352729767">
+      <file name="/fragment.java" timestamp="1516521501399">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payOrder/PayOrderServiceImpl.java" timestamp="1516355571592">
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payOrder/PayOrderServiceImpl.java" timestamp="1516521493684">
         <mark key="'" line="461" column="0" />
-        <mark key="[" line="161" column="34" />
-        <mark key="]" line="161" column="70" />
-        <mark key="." line="161" column="70" />
-        <mark key="^" line="161" column="70" />
+        <mark key="[" line="163" column="84" />
+        <mark key="]" line="163" column="84" />
+        <mark key="." line="163" column="84" />
+        <mark key="^" line="163" column="94" />
       </file>
     </filemarks>
     <jumps>
@@ -402,10 +398,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>http://www.yourcompany.com/webservice</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>http://www.yourcompany.com/webservice</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxudWxsXD4=</text>
