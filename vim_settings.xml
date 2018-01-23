@@ -10,6 +10,13 @@
         <mark key="." line="76" column="19" />
         <mark key="^" line="76" column="19" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/userAction/user-action.xml" timestamp="1516614960196">
+        <mark key="'" line="26" column="5" />
+        <mark key="[" line="34" column="122" />
+        <mark key="]" line="27" column="13" />
+        <mark key="^" line="27" column="13" />
+        <mark key="." line="27" column="13" />
+      </file>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/userAction/UserLoginHistoryServiceImpl.java" timestamp="1516619281539">
         <mark key="'" line="41" column="15" />
         <mark key="[" line="8" column="0" />
@@ -19,47 +26,6 @@
       </file>
       <file name="/a.dummy" timestamp="1516605997701">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/framework/servlet/WebServletConfiguration.java" timestamp="1516621662436" />
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/userAction/UserActionEntity.java" timestamp="1516607619263">
-        <mark key="[" line="32" column="8" />
-        <mark key="]" line="32" column="13" />
-        <mark key="^" line="32" column="13" />
-        <mark key="." line="32" column="13" />
-      </file>
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/InterceptorConfiguration.java" timestamp="1516621398886">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="16" column="0" />
-        <mark key="." line="23" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-api/src/main/java/com/mvcc/constant/tagId/TagIdConstant.java" timestamp="1516609215838">
-        <mark key="[" line="178" column="51" />
-        <mark key="]" line="178" column="51" />
-        <mark key="^" line="178" column="48" />
-        <mark key="." line="178" column="51" />
-      </file>
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/test/java/com/mvcc/MQMessage/time.java" timestamp="1516619626016" />
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/app/login/LoginAppController.java" timestamp="1516620685030">
-        <mark key="'" line="55" column="0" />
-        <mark key="[" line="183" column="8" />
-        <mark key="]" line="70" column="47" />
-        <mark key="." line="70" column="47" />
-        <mark key="^" line="70" column="47" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1516610015228">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/car/CarOwnerServiceImpl.java" timestamp="1516611051544" />
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/MQMessage/carOwner/UpdateCarOwnerCertificated.java" timestamp="1516609249470" />
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/userAction/user-action.xml" timestamp="1516614960196">
-        <mark key="'" line="26" column="5" />
-        <mark key="[" line="34" column="122" />
-        <mark key="]" line="27" column="13" />
-        <mark key="^" line="27" column="13" />
-        <mark key="." line="27" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/resources/spring/spring-hsf-service.xml" timestamp="1516611631731">
         <mark key="[" line="277" column="23" />
@@ -92,6 +58,12 @@
         <mark key="^" line="27" column="71" />
         <mark key="." line="27" column="71" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/userAction/UserActionEntity.java" timestamp="1516607619263">
+        <mark key="[" line="32" column="8" />
+        <mark key="]" line="32" column="13" />
+        <mark key="^" line="32" column="13" />
+        <mark key="." line="32" column="13" />
+      </file>
       <file name="/a.sql" timestamp="1516600301981">
         <mark key="[" line="0" column="0" />
       </file>
@@ -100,6 +72,12 @@
         <mark key="]" line="109" column="35" />
         <mark key="." line="109" column="35" />
         <mark key="^" line="109" column="35" />
+      </file>
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/InterceptorConfiguration.java" timestamp="1516621398886">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="16" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/userAction/userLoginHistory-mapper.xml" timestamp="1516613257069">
         <mark key="[" line="27" column="0" />
@@ -112,8 +90,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/MQMessage/judge/AfterJourneyIsJudge.java" timestamp="1516609109465" />
-      <file name="/Dummy.txt" timestamp="1516621067537">
+      <file name="/Dummy.txt" timestamp="1516672129105">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -124,11 +101,29 @@
         <mark key="." line="65" column="86" />
         <mark key="^" line="53" column="14" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-api/src/main/java/com/mvcc/constant/tagId/TagIdConstant.java" timestamp="1516609215838">
+        <mark key="[" line="178" column="51" />
+        <mark key="]" line="178" column="51" />
+        <mark key="^" line="178" column="48" />
+        <mark key="." line="178" column="51" />
+      </file>
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/app/login/LoginAppController.java" timestamp="1516620685030">
+        <mark key="'" line="55" column="0" />
+        <mark key="[" line="183" column="8" />
+        <mark key="]" line="70" column="47" />
+        <mark key="." line="70" column="47" />
+        <mark key="^" line="70" column="47" />
+      </file>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/MQMessage/loginHistory/LoginHistoryMQ.java" timestamp="1516611544403">
         <mark key="[" line="21" column="48" />
         <mark key="]" line="22" column="3" />
         <mark key="^" line="22" column="3" />
         <mark key="." line="22" column="3" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1516610015228">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/db6bb179-e55d-467b-becc-eb3f76ab0a98/console.sql" timestamp="1516620136158">
         <mark key="[" line="39" column="38" />
