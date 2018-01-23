@@ -53,6 +53,7 @@
         <mark key="." line="23" column="3" />
         <mark key="^" line="23" column="3" />
       </file>
+      <file name="/LoginInterceptor.java" timestamp="1516679234811" />
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/test/java/com/mvcc/service/impl/userAction/UserActionServiceImplTest.java" timestamp="1516611445724">
         <mark key="[" line="27" column="52" />
         <mark key="]" line="27" column="71" />
@@ -68,7 +69,7 @@
       <file name="/a.sql" timestamp="1516600301981">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/framework/filter/LoginStatusFilter.java" timestamp="1516677774972">
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/framework/filter/LoginStatusFilter.java" timestamp="1516679247716">
         <mark key="[" line="109" column="36" />
         <mark key="]" line="109" column="35" />
         <mark key="." line="109" column="35" />
@@ -86,7 +87,7 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="31" column="28" />
       </file>
-      <file name="/dummy.sql" timestamp="1516675574881">
+      <file name="/dummy.sql" timestamp="1516679937455">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
