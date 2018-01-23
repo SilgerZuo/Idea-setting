@@ -10,6 +10,12 @@
         <mark key="." line="76" column="19" />
         <mark key="^" line="76" column="19" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/platStatistics/PlatformStatisticsController.java" timestamp="1516680469189">
+        <mark key="[" line="16" column="15" />
+        <mark key="]" line="16" column="65" />
+        <mark key="^" line="16" column="65" />
+        <mark key="." line="16" column="65" />
+      </file>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/userAction/user-action.xml" timestamp="1516614960196">
         <mark key="'" line="26" column="5" />
         <mark key="[" line="34" column="122" />
@@ -24,7 +30,7 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="14" column="10" />
       </file>
-      <file name="/a.dummy" timestamp="1516605997701">
+      <file name="/a.dummy" timestamp="1516680282277">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/resources/spring/spring-hsf-service.xml" timestamp="1516611631731">
@@ -33,7 +39,6 @@
         <mark key="^" line="277" column="23" />
         <mark key="." line="277" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/framework/servlet/WebServletConfiguration.java" timestamp="1516678208419" />
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-consumer/src/main/resources/spring/spring-hsf-reference.xml" timestamp="1516611589139">
         <mark key="[" line="324" column="22" />
         <mark key="]" line="324" column="22" />
@@ -53,7 +58,6 @@
         <mark key="." line="23" column="3" />
         <mark key="^" line="23" column="3" />
       </file>
-      <file name="/LoginInterceptor.java" timestamp="1516679234811" />
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/test/java/com/mvcc/service/impl/userAction/UserActionServiceImplTest.java" timestamp="1516611445724">
         <mark key="[" line="27" column="52" />
         <mark key="]" line="27" column="71" />
@@ -117,14 +121,18 @@
         <mark key="." line="70" column="47" />
         <mark key="^" line="70" column="47" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/MQMessage/PlatStatistics/PlatformStatisticsImpl.java" timestamp="1516680295558">
+        <mark key="[" line="9" column="31" />
+        <mark key="]" line="9" column="30" />
+        <mark key="^" line="9" column="30" />
+        <mark key="." line="9" column="30" />
+      </file>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/MQMessage/loginHistory/LoginHistoryMQ.java" timestamp="1516611544403">
         <mark key="[" line="21" column="48" />
         <mark key="]" line="22" column="3" />
         <mark key="^" line="22" column="3" />
         <mark key="." line="22" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/app/payment/order/PayOrderAppController.java" timestamp="1516674303754" />
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payRoyalty/PayRoyaltyServiceImpl.java" timestamp="1516674466825" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1516610015228">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -133,8 +141,6 @@
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/payCoupon/PayCouponService.java" timestamp="1516674034628">
         <mark key="[" line="111" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/ConsumerApplicationMain.java" timestamp="1516677809996" />
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/app/payment/coupon/PayCouponAppController.java" timestamp="1516673989200" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/db6bb179-e55d-467b-becc-eb3f76ab0a98/console.sql" timestamp="1516620136158">
         <mark key="[" line="39" column="38" />
         <mark key="]" line="39" column="48" />
@@ -148,6 +154,12 @@
       </file>
       <file name="/fragment.java" timestamp="1516611379909">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/MQMessage/PlatStatistics/PlatformStatisticsServiceImpl.java" timestamp="1516680452248">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="10" column="11" />
+        <mark key="^" line="10" column="11" />
+        <mark key="." line="10" column="11" />
       </file>
     </filemarks>
     <jumps>
