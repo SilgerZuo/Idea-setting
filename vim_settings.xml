@@ -15,6 +15,9 @@
         <mark key="." line="6" column="2" />
         <mark key="^" line="6" column="2" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/DownloadDemo/xxpay-master/xxpay-dal/src/main/java/org/xxpay/dal/dao/mapper/PayChannelMapper.java" timestamp="1516799049524">
+        <mark key="[" line="29" column="1" />
+      </file>
       <file name="$USER_HOME$/workspace/ideaProject/DownloadDemo/xxpay-master/xxpay4spring-boot/pom.xml" timestamp="1516798151371" />
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payRoyalty/PayRoyaltySettlementServiceImpl.java" timestamp="1516765293302">
         <mark key="[" line="53" column="0" />
@@ -34,6 +37,7 @@
         <mark key="^" line="21" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/DownloadDemo/xxpay-master/xxpay4dubbo/xxpay4dubbo-service/src/main/java/org/xxpay/dubbo/service/BaseService4PayOrder.java" timestamp="1516798373899" />
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/framework/utils/ExportUtil.java" timestamp="1516799545249" />
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/userAction/UserLoginHistory.java" timestamp="1516605549320">
         <mark key="[" line="22" column="20" />
         <mark key="]" line="23" column="3" />
@@ -84,7 +88,7 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="31" column="28" />
       </file>
-      <file name="/dummy.sql" timestamp="1516774341033">
+      <file name="/dummy.sql" timestamp="1516799579347">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -143,6 +147,7 @@
         <mark key="." line="27" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/DownloadDemo/xxpay-master/xxpay4dubbo/xxpay4dubbo-service/src/main/java/org/xxpay/dubbo/service/BaseNotify4MchPay.java" timestamp="1516798362731" />
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payRoyalty/PayRoyaltyServiceImpl.java" timestamp="1516799453945" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1516610015228">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -167,7 +172,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/db6bb179-e55d-467b-becc-eb3f76ab0a98/console.sql" timestamp="1516774670917">
         <mark key="[" line="66" column="49" />
       </file>
-      <file name="/fragment.java" timestamp="1516794311283">
+      <file name="/fragment.java" timestamp="1516799547269">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
