@@ -9,6 +9,12 @@
         <mark key="." line="42" column="0" />
         <mark key="^" line="41" column="85" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-web/config/dev.env.js" timestamp="1516793692024">
+        <mark key="[" line="6" column="3" />
+        <mark key="]" line="6" column="2" />
+        <mark key="." line="6" column="2" />
+        <mark key="^" line="6" column="2" />
+      </file>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payRoyalty/PayRoyaltySettlementServiceImpl.java" timestamp="1516765293302">
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="0" />
@@ -86,7 +92,7 @@
         <mark key="^" line="27" column="55" />
         <mark key="." line="27" column="55" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516781989595">
+      <file name="/Dummy.txt" timestamp="1516794311247">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -150,6 +156,9 @@
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/db6bb179-e55d-467b-becc-eb3f76ab0a98/console.sql" timestamp="1516774670917">
         <mark key="[" line="66" column="49" />
+      </file>
+      <file name="/fragment.java" timestamp="1516794311283">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -256,10 +265,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxudWxsXD4=</text>
