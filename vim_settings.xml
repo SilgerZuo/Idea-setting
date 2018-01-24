@@ -48,7 +48,11 @@
         <mark key="." line="27" column="55" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/judge/JudgeServiceImpl.java" timestamp="1516774266760" />
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/test/java/com/mvcc/service/impl/nice/NiceServiceImplTest.java" timestamp="1516774736492" />
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/test/java/com/mvcc/service/impl/nice/NiceServiceImplTest.java" timestamp="1516779188167">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-api/src/main/java/com/mvcc/constant/tagId/TagIdConstant.java" timestamp="1516609215838">
         <mark key="[" line="178" column="51" />
         <mark key="]" line="178" column="51" />
@@ -146,7 +150,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516776216917">
+      <file name="/Dummy.txt" timestamp="1516779194543">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -285,11 +289,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payWebhooks/PayWebhooksServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maW5kSW5mb0J5T3JkZXJJZChvcmRlckJ5T3JkZXJJZC5nZXRPcmRlcklkKCkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>1 fix royalTy bug</text>
       </register>
       <register name="-" type="4">
-        <text>orderId</text>
+        <text>1 fix royalTy bug</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxudWxsXD4=</text>
@@ -298,22 +302,22 @@
         <text encoding="base64">ICAgIEBHZXR0ZXIKICAgIEBTZXR0ZXIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maW5kSW5mb0J5T3JkZXJJZChvcmRlckJ5T3JkZXJJZC5nZXRPcmRlcklkKCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBQYXlBY2N0SW5mb0FmdGVyT3JkZXIgaW5mb0J5T3JkZXJJZCA9IHBheUFjY3RJbmZvQWZ0ZXJPcmRlck1hcHBlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maW5kSW5mb0J5T3JkZXJJZChvcmRlckJ5T3JkZXJJZC5nZXRPcmRlcklkKCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBQYXlBY2N0SW5mb0FmdGVyT3JkZXIgaW5mb0J5T3JkZXJJZCA9IHBheUFjY3RJbmZvQWZ0ZXJPcmRlck1hcHBlcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbU1hcC5wdXQoInNvdXJjZV9ubyIsIHBhcmFtcy5nZXQoInNvdXJjZV9ubyIpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbU1hcC5wdXQoIm1ldGFkYXRhIiwgcGFyYW1zLmdldCgibWV0YWRhdGEiKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXJhbU1hcC5wdXQoInNvdXJjZV9ubyIsIHBhcmFtcy5nZXQoInNvdXJjZV9ubyIpKTsK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -633,16 +637,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFJveWFsdHk+IGRhdGEgPSByb3lhbHR5Q29sbGVjdGlvbi5nZXREYXRhKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXJhbU1hcC5wdXQoIm1ldGFkYXRhIiwgcGFyYW1zLmdldCgibWV0YWRhdGEiKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHR5cGU6ICdlcnJvcicK</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFJveWFsdHk+IGRhdGEgPSByb3lhbHR5Q29sbGVjdGlvbi5nZXREYXRhKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHR5cGU6ICcnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHR5cGU6ICdlcnJvcicK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB0aGlzLm5vCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHR5cGU6ICcnCg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
