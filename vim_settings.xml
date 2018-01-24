@@ -18,8 +18,6 @@
       <file name="$USER_HOME$/workspace/ideaProject/DownloadDemo/xxpay-master/xxpay-dal/src/main/java/org/xxpay/dal/dao/mapper/PayChannelMapper.java" timestamp="1516799049524">
         <mark key="[" line="29" column="1" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/DownloadDemo/xxpay-master/xxpay-mgr/src/main/java/org/xxpay/mgr/controller/RefundOrderController.java" timestamp="1516802058319" />
-      <file name="$USER_HOME$/workspace/ideaProject/DownloadDemo/xxpay-master/xxpay-mgr/src/main/java/org/xxpay/XxPayMgrApplication.java" timestamp="1516802641550" />
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payRoyalty/PayRoyaltySettlementServiceImpl.java" timestamp="1516765293302">
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="0" />
@@ -43,7 +41,6 @@
         <mark key="." line="23" column="3" />
         <mark key="^" line="23" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/DownloadDemo/xxpay-master/xxpay-shop/src/main/resources/templates/openQrPay.ftl" timestamp="1516802855377" />
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/test/java/com/mvcc/service/impl/userAction/UserActionServiceImplTest.java" timestamp="1516611445724">
         <mark key="[" line="27" column="52" />
         <mark key="]" line="27" column="71" />
@@ -86,7 +83,11 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="31" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/DownloadDemo/xxpay-master/xxpay-shop/src/main/java/org/xxpay/shop/controller/GoodsOrderController.java" timestamp="1516802802539" />
+      <file name="$USER_HOME$/workspace/ideaProject/DownloadDemo/xxpay-master/xxpay4spring-boot/src/main/java/org/xxpay/boot/ctrl/QueryPayOrderController.java" timestamp="1516803500579">
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="123" column="0" />
+        <mark key="." line="123" column="0" />
+      </file>
       <file name="/dummy.sql" timestamp="1516799579347">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -98,7 +99,7 @@
         <mark key="^" line="27" column="55" />
         <mark key="." line="27" column="55" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516802030134">
+      <file name="/Dummy.txt" timestamp="1516803480251">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -275,8 +276,8 @@
       <jump line="191" column="0" filename="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/payment/coupon/PayCouponController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>xxpay</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>xxpay</text>
@@ -288,19 +289,19 @@
         <text encoding="base64">ICAgIEBHZXR0ZXIKICAgIEBTZXR0ZXIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG8uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG8uCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzYWRmYWFzZGZhc2Rmc2FmCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
@@ -623,16 +624,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzYWRmYWFzZGZhc2Rmc2FmCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maW5kSW5mb0J5T3JkZXJJZChvcmRlckJ5T3JkZXJJZC5nZXRPcmRlcklkKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBQYXlBY2N0SW5mb0FmdGVyT3JkZXIgaW5mb0J5T3JkZXJJZCA9IHBheUFjY3RJbmZvQWZ0ZXJPcmRlck1hcHBlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maW5kSW5mb0J5T3JkZXJJZChvcmRlckJ5T3JkZXJJZC5nZXRPcmRlcklkKCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
