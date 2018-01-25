@@ -95,12 +95,12 @@
         <mark key="[" line="17" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/authentication/PlatformAuthenticationServiceImpl.java" timestamp="1516847438352" />
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payWithdrawal/PayWithdrawalServiceImpl.java" timestamp="1516852644739">
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payWithdrawal/PayWithdrawalServiceImpl.java" timestamp="1516856145400">
         <mark key="'" line="188" column="0" />
-        <mark key="[" line="160" column="29" />
-        <mark key="]" line="187" column="76" />
-        <mark key="." line="187" column="76" />
-        <mark key="^" line="187" column="76" />
+        <mark key="[" line="186" column="81" />
+        <mark key="]" line="186" column="81" />
+        <mark key="." line="186" column="81" />
+        <mark key="^" line="186" column="68" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/DownloadDemo/xxpay-master/xxpay-mgr/src/main/resources/application.properties" timestamp="1516802718990">
         <mark key="[" line="17" column="32" />
@@ -145,10 +145,10 @@
         <mark key="^" line="27" column="55" />
         <mark key="." line="27" column="55" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516852670564">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="23" />
-        <mark key="." line="0" column="23" />
+      <file name="/Dummy.txt" timestamp="1516856194419">
+        <mark key="[" line="0" column="22" />
+        <mark key="]" line="0" column="22" />
+        <mark key="." line="0" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/test/java/com/mvcc/service/impl/nice/NiceServiceImplTest.java" timestamp="1516779188167">
         <mark key="[" line="66" column="0" />
@@ -342,11 +342,11 @@
       <jump line="184" column="0" filename="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payWithdrawal/PayWithdrawalServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IG9yZGVyIHN0YXR1cw==</text>
       </register>
       <register name="-" type="4">
-        <text>name doesnot match aliPay account</text>
+        <text encoding="base64">IG9yZGVyIHN0YXR1cw==</text>
       </register>
       <register name="/" type="4">
         <text>insert</text>
@@ -355,22 +355,22 @@
         <text encoding="base64">ICAgIEBHZXR0ZXIKICAgIEBTZXR0ZXIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFJlc3VsdEluZm8oUmVzdWx0SW5mb0VudW0uUEFSQU1fSVNfRU1QVFkuZ2V0Q29kZSgpLCBSZXN1bHRJbmZvRW51bS4pCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCI/Pz8/Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgQU5EICggb2Qub3JkZXJTdGF0dXMgPSAnMycgT1Igb2Qub3JkZXJTdGF0dXMgPSAnNicpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCI/Pz8/Iik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtYXAK</text>
+        <text encoding="base64">ICAgICAgQU5EICggb2Qub3JkZXJTdGF0dXMgPSAnMycgT1Igb2Qub3JkZXJTdGF0dXMgPSAnNicpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gb3JkZXJzTWFwcGVyLmxpc3REcml2ZXJJbmNvbWVCeURyaXZlcklkKG1hcCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYXAK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -690,16 +690,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBNYXAgbWFwID0gbmV3IEhhc2hNYXAoKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gb3JkZXJzTWFwcGVyLmxpc3REcml2ZXJJbmNvbWVCeURyaXZlcklkKG1hcCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">ICAgICAgICBNYXAgbWFwID0gbmV3IEhhc2hNYXAoKTsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIFdpdGhkcmF3YWwgYWRkTmV3V2l0aGRyYXdhbChTdHJpbmcgZHJpdmVySWQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaW50IGFtb3VudCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBTdHJpbmcgY2hhbm5lbCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBTdHJpbmcgd2l0aERyYXdBY2NvdW50SWQpIHRocm93cwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgSW52YWxpZFJlcXVlc3RFeGNlcHRpb24sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBUElFeGNlcHRpb24sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBJT0V4Y2VwdGlvbiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFJhdGVMaW1pdEV4Y2VwdGlvbiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIENoYW5uZWxFeGNlcHRpb24sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBdXRoZW50aWNhdGlvbkV4Y2VwdGlvbiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFQSUNvbm5lY3Rpb25FeGNlcHRpb24sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBCYXNlRXhjZXB0aW9uOw==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
