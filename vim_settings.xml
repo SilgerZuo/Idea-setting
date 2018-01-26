@@ -209,11 +209,10 @@
         <mark key="." line="24" column="58" />
         <mark key="^" line="24" column="58" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-web/src/views/pay/royal/index.vue" timestamp="1516963306681">
-        <mark key="[" line="404" column="21" />
-        <mark key="]" line="297" column="35" />
-        <mark key="." line="297" column="35" />
-        <mark key="^" line="297" column="35" />
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-web/src/views/pay/royal/index.vue" timestamp="1516967389057">
+        <mark key="[" line="546" column="37" />
+        <mark key="]" line="548" column="0" />
+        <mark key="." line="548" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-api/src/main/java/com/mvcc/service/payCoupon/PayCouponService.java" timestamp="1516866928938">
         <mark key="[" line="395" column="30" />
@@ -374,10 +373,10 @@
         <mark key="." line="51" column="86" />
         <mark key="^" line="51" column="86" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516961646928">
+      <file name="/Dummy.txt" timestamp="1516967470552">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
+        <mark key="]" line="0" column="15" />
+        <mark key="." line="0" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-consumer/src/main/java/com/mvcc/web/controller/payment/coupon/PayCouponController.java" timestamp="1516947723275">
         <mark key="[" line="217" column="19" />
@@ -560,10 +559,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>userAccount</text>
+        <text>finance</text>
       </register>
       <register name="-" type="4">
-        <text>userAccount</text>
+        <text>finance</text>
       </register>
       <register name="/" type="4">
         <text>insert</text>
@@ -572,13 +571,13 @@
         <text>listDriverFinance</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMuZHJpdmVyRGV0YWlsRm9ybS5iYWxhbmNlID0gMC4xCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHt7ZHJpdmVyRGV0YWlsRm9ybS51c2VyQWNjb3VudH19Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCkK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgIAo=</text>
@@ -587,7 +586,7 @@
         <text encoding="base64">ICAgICAgICAgIHt7ZHJpdmVyRGV0YWlsRm9ybS51c2VyQWNjb3VudH19Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -907,16 +906,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIHt7ZHJpdmVyRGV0YWlsRm9ybS51c2VyQWNjb3VudH19Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBQYWdlSGVscGVyLnN0YXJ0UGFnZShxdWVyeVBhZ2VOdW0sIHF1ZXJ5UGFnZVNpemUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbmNlCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
