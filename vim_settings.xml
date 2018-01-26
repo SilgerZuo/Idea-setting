@@ -228,12 +228,15 @@
         <mark key="." line="99" column="13" />
         <mark key="^" line="107" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payWithdrawal/PayWithdrawalServiceImpl.java" timestamp="1516859562732">
+      <file name="/a.sql" timestamp="1516945552470">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payWithdrawal/PayWithdrawalServiceImpl.java" timestamp="1516945854394">
         <mark key="'" line="188" column="0" />
-        <mark key="[" line="186" column="81" />
-        <mark key="]" line="144" column="21" />
-        <mark key="." line="144" column="21" />
-        <mark key="^" line="144" column="21" />
+        <mark key="[" line="138" column="13" />
+        <mark key="]" line="138" column="12" />
+        <mark key="." line="138" column="12" />
+        <mark key="^" line="138" column="12" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/userAction/userLoginHistory-mapper.xml" timestamp="1516613257069">
         <mark key="[" line="27" column="0" />
@@ -254,7 +257,7 @@
         <mark key="^" line="33" column="37" />
         <mark key="." line="33" column="37" />
       </file>
-      <file name="/dummy.sql" timestamp="1516939209289">
+      <file name="/dummy.sql" timestamp="1516945884146">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -269,6 +272,12 @@
         <mark key="]" line="275" column="0" />
         <mark key="^" line="275" column="0" />
         <mark key="." line="275" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/resources/mybatis/mapper/localWithdrawal/LocalWithdrawalMapper.xml" timestamp="1516945707511">
+        <mark key="[" line="22" column="13" />
+        <mark key="]" line="23" column="3" />
+        <mark key="^" line="23" column="3" />
+        <mark key="." line="23" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/DownloadDemo/xxpay-master/xxpay4spring-boot/src/main/resources/application.yml" timestamp="1516802885705">
         <mark key="[" line="9" column="13" />
@@ -286,6 +295,11 @@
         <mark key="." line="22" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payAccount/PayAccountServiceImpl.java" timestamp="1516933914516" />
+      <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-api/src/main/java/com/mvcc/entity/payment/withdrawal/LocalWithdrawalEntity.java" timestamp="1516945771148">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-api/src/main/java/com/mvcc/constant/orders/OrderConstant.java" timestamp="1516934512938" />
       <file name="$USER_HOME$/workspace/ideaProject/dajiashequ/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/LocalWithdrawal/LocalWithdrawalServiceImpl.java" timestamp="1516931073151">
         <mark key="[" line="43" column="122" />
@@ -412,10 +426,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0TGlzdAo=</text>
+        <text encoding="base64">QERhdGEK</text>
       </register>
       <register name="-" type="4">
-        <text>add</text>
+        <text>localWId</text>
       </register>
       <register name="/" type="4">
         <text>insert</text>
@@ -424,22 +438,22 @@
         <text>couponTemplateI</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0TGlzdAo=</text>
+        <text encoding="base64">QERhdGEK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHBheUxvY2FsTnVtID0gYVJveWFsdHkuZ2V0U291cmNlTm8oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0TGlzdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHBheUxvY2FsTnVtID0gYVJveWFsdHkuZ2V0U291cmNlTm8oKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYVJveWFsdHkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYVJveWFsdHkK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -759,16 +773,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IoTWFwIG1hcCA6IHJlc3VsdExpc3QpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHRMaXN0Lgo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IoTWFwIG1hcCA6IHJlc3VsdExpc3QpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PE1hcD4gcmVzdWx0TGlzdCA9IGRvUGFja1Jlc3VsdExpc3Qocm95YWx0aWVzKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHRMaXN0Lgo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
