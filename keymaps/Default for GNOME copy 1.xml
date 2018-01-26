@@ -59,6 +59,10 @@
   <action id="Git.Unstash">
     <keyboard-shortcut first-keystroke="ctrl home" />
   </action>
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
   <action id="GuiDesigner.QuickJavadoc">
     <mouse-shortcut keystroke="alt button2" />
   </action>
