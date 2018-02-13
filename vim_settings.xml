@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/ideaProject/study-example/SortAlgorithm/src/main/java/Test/Test.java" timestamp="1518490380367">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/downLoadDemo/xxpay-master/xxpay4dubbo/xxpay4dubbo-web/src/main/java/org/xxpay/dubbo/web/ctrl/RefundOrderController.java" timestamp="1517318786975">
         <mark key="[" line="108" column="69" />
         <mark key="]" line="53" column="37" />
@@ -12,8 +17,11 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="&quot;" type="4">
-        <text>https://github.com/SilgerZuo/Idea-setting.git</text>
+      <register name="1" type="2">
+        <text encoding="base64">QFJldGVudGlvbihSZW4pCg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QFJldGVudGlvbihSZW4pCg==</text>
       </register>
       <register name="-" type="4">
         <text>https://github.com/SilgerZuo/Idea-setting.git</text>
