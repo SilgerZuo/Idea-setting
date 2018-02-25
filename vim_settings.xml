@@ -6,10 +6,11 @@
       <file name="/Dummy.txt" timestamp="1519312159513">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/study-example/SortAlgorithm/src/main/java/Test/Test.java" timestamp="1518490380367">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/workspace/ideaProject/study-example/SortAlgorithm/src/main/java/Test/Test.java" timestamp="1519541021682">
+        <mark key="[" line="16" column="31" />
+        <mark key="]" line="16" column="30" />
+        <mark key="." line="16" column="30" />
+        <mark key="^" line="16" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/study-example/Reflect/src/main/java/somePackage/TestDemo.java" timestamp="1519312157502">
         <mark key="[" line="11" column="34" />
@@ -17,6 +18,7 @@
         <mark key="." line="12" column="40" />
         <mark key="^" line="12" column="40" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/study-example/SortAlgorithm/src/main/java/quickSort/QuickSort.java" timestamp="1519540252551" />
       <file name="$USER_HOME$/workspace/downLoadDemo/xxpay-master/xxpay4dubbo/xxpay4dubbo-web/src/main/java/org/xxpay/dubbo/web/ctrl/RefundOrderController.java" timestamp="1519538608591">
         <mark key="[" line="92" column="0" />
         <mark key="]" line="92" column="0" />
@@ -28,6 +30,9 @@
         <mark key="^" line="6" column="40" />
         <mark key="." line="6" column="40" />
       </file>
+      <file name="/opt/jdk1.8.0_161/src.zip!/java/util/concurrent/Executors.java" timestamp="1519540823291" />
+      <file name="/opt/jdk1.8.0_161/src.zip!/java/util/concurrent/ThreadPoolExecutor.java" timestamp="1519541010080" />
+      <file name="$USER_HOME$/workspace/ideaProject/study-example/fork-join/testForkJoin/src/main/forkJoinTest.java" timestamp="1519541068987" />
       <file name="$USER_HOME$/workspace/ideaProject/study-example/Reflect/src/main/java/somePackage/AnotherClass.java" timestamp="1519311531353">
         <mark key="[" line="4" column="4" />
         <mark key="]" line="6" column="7" />
@@ -38,21 +43,33 @@
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBUIGEgPSBuZXcgdCgpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBUIGEgPSBuZXcgdCgpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBBY2NlcHRQZW5kaW5nRXhjZXB0Cg==</text>
+      <register name="2" type="4">
+        <text>1. callable
+    2. thread
+    3. xian cheng chi
+    3. Feature
+    fork join.Class
+    Stream.builder()
+    H</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBUIGEgPSBuZXcgdCgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBBY2NlcHRQZW5kaW5nRXhjZXB0Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">QFJldGVudGlvbihSZW4pCg==</text>
       </register>
       <register name="-" type="4">
@@ -81,6 +98,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
