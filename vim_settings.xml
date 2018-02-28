@@ -30,6 +30,11 @@
         <mark key="." line="12" column="40" />
         <mark key="^" line="12" column="40" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/study-example/ProgramDesignPattern/src/main/java/monitor/component/Spyer.java" timestamp="1519821283846">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/downLoadDemo/xxpay-master/xxpay4dubbo/xxpay4dubbo-web/src/main/java/org/xxpay/dubbo/web/ctrl/RefundOrderController.java" timestamp="1519538608591">
         <mark key="[" line="92" column="0" />
         <mark key="]" line="92" column="0" />
@@ -51,30 +56,33 @@
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">aHR0cHM6Ly9naXRodWIuY29tL1NpbGdlclp1by9JZGVhLXNldHRpbmcuZ2l0Cg==</text>
+        <text encoding="base64">cGFja2FnZSBtb25pdG9yLmNvbXBvbmVudDsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aHR0cHM6Ly9naXRodWIuY29tL1NpbGdlclp1by9JZGVhLXNldHRpbmcuZ2l0Cg==</text>
+        <text encoding="base64">cGFja2FnZSBtb25pdG9yLmNvbXBvbmVudDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aHR0cHM6Ly9naXRodWIuY29tL1NpbGdlclp1by9JZGVhLXNldHRpbmcuZ3QK</text>
+        <text encoding="base64">aHR0cHM6Ly9naXRodWIuY29tL1NpbGdlclp1by9JZGVhLXNldHRpbmcuZ2l0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBvYmplY3RPYmplY3RIYXNoTWFwLnJlZHVyZWQK</text>
+        <text encoding="base64">aHR0cHM6Ly9naXRodWIuY29tL1NpbGdlclp1by9JZGVhLXNldHRpbmcuZ3QK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBJbnRTdHJlYW0ucmFuZ2VDbG9zZWQoMSwgMTAwKS5tYXBUb09iaigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBvYmplY3RPYmplY3RIYXNoTWFwLnJlZHVyZWQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBJbnRTdHJlYW0ucmFuZ2VDbG9zZWQoMSwgMTAwKS5tYXBUb09iaigpOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>1. callable
     2. thread
     3. xian cheng chi
@@ -82,9 +90,6 @@
     fork join.Class
     Stream.builder()
     H</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBUIGEgPSBuZXcgdCgpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>add class loader and forName</text>
