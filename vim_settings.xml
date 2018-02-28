@@ -3,10 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1519312159513">
+      <file name="/Dummy.txt" timestamp="1519813564099">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/learnSocket/src/MyClient.java" timestamp="1519570274847" />
       <file name="$USER_HOME$/workspace/ideaProject/study-example/SortAlgorithm/src/main/java/Test/Test.java" timestamp="1519541021682">
         <mark key="[" line="16" column="31" />
         <mark key="]" line="16" column="30" />
@@ -18,25 +19,22 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/learnSocket/src/MyMain.java" timestamp="1519568397715" />
+      <file name="$USER_HOME$/IdeaProjects/learnSocket/src/test.java" timestamp="1519568366796">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/ideaProject/study-example/Reflect/src/main/java/somePackage/TestDemo.java" timestamp="1519312157502">
         <mark key="[" line="11" column="34" />
         <mark key="]" line="12" column="40" />
         <mark key="." line="12" column="40" />
         <mark key="^" line="12" column="40" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/learnSocket/src/MyServer.java" timestamp="1519570366128" />
       <file name="$USER_HOME$/workspace/downLoadDemo/xxpay-master/xxpay4dubbo/xxpay4dubbo-web/src/main/java/org/xxpay/dubbo/web/ctrl/RefundOrderController.java" timestamp="1519538608591">
         <mark key="[" line="92" column="0" />
         <mark key="]" line="92" column="0" />
         <mark key="." line="92" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/learnSocket/src/test.java" timestamp="1519568366796">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/learnSocket/src/Main.java" timestamp="1519567695341" />
       <file name="$USER_HOME$/workspace/ideaProject/study-example/Reflect/src/main/java/somePackage/SomeClass.java" timestamp="1519311515417">
         <mark key="[" line="2" column="24" />
         <mark key="]" line="6" column="40" />
@@ -55,8 +53,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBvYmplY3RPYmplY3RIYXNoTWFwLnJlZHVyZWQK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBvYmplY3RPYmplY3RIYXNoTWFwLnJlZHVyZWQK</text>
+      <register name="&quot;" type="4">
+        <text>add class loader and forName</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBJbnRTdHJlYW0ucmFuZ2VDbG9zZWQoMSwgMTAwKS5tYXBUb09iaigpOwo=</text>
@@ -89,7 +87,7 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>add class loader and forName</text>
       </register>
     </registers>
     <search>
