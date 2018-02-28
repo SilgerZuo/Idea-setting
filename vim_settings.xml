@@ -13,7 +13,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ideaProject/study-example/SortAlgorithm/src/main/java/Test/Test.java" timestamp="1519541021682">
+      <file name="$USER_HOME$/workspace/ideaProject/study-example/SortAlgorithm/src/main/java/Test/Test.java" timestamp="1519824643115">
         <mark key="[" line="16" column="31" />
         <mark key="]" line="16" column="30" />
         <mark key="." line="16" column="30" />
@@ -23,11 +23,6 @@
         <mark key="[" line="58" column="0" />
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/learnSocket/src/test.java" timestamp="1519568366796">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/study-example/Reflect/src/main/java/somePackage/TestDemo.java" timestamp="1519312157502">
         <mark key="[" line="11" column="34" />
@@ -40,15 +35,32 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/downLoadDemo/xxpay-master/xxpay4dubbo/xxpay4dubbo-web/src/main/java/org/xxpay/dubbo/web/ctrl/RefundOrderController.java" timestamp="1519538608591">
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="." line="92" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/learnSocket/src/test.java" timestamp="1519568366796">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/ideaProject/study-example/ProgramDesignPattern/src/main/java/monitor/component/Spyer.java" timestamp="1519821283846">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/downLoadDemo/xxpay-master/xxpay4dubbo/xxpay4dubbo-web/src/main/java/org/xxpay/dubbo/web/ctrl/RefundOrderController.java" timestamp="1519538608591">
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="." line="92" column="0" />
+      <file name="$USER_HOME$/workspace/ideaProject/study-example/SortAlgorithm/src/main/java/quickSort/QuickSort.java" timestamp="1519824771325">
+        <mark key="[" line="277" column="16" />
+        <mark key="]" line="277" column="16" />
+        <mark key="^" line="276" column="41" />
+        <mark key="." line="277" column="16" />
+      </file>
+      <file name="$USER_HOME$/workspace/ideaProject/study-example/SortAlgorithm/src/main/java/quickSort/QuickSortTest.java" timestamp="1519824629324">
+        <mark key="[" line="21" column="18" />
+        <mark key="]" line="21" column="27" />
+        <mark key="." line="21" column="27" />
+        <mark key="^" line="21" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/study-example/Reflect/src/main/java/somePackage/SomeClass.java" timestamp="1519311515417">
         <mark key="[" line="2" column="24" />
@@ -68,8 +80,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBsb2NrLnRyeUxvY2soKTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsb2NrLnRyeUxvY2soKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">cGFja2FnZSBtb25pdG9yLmNvbXBvbmVudDsK</text>
@@ -96,7 +108,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text encoding="base64">PSA=</text>
       </register>
     </registers>
     <search>
@@ -116,10 +128,10 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed S</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed C</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
