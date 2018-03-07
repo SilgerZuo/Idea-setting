@@ -41,6 +41,12 @@
         <mark key="." line="232" column="32" />
         <mark key="^" line="232" column="32" />
       </file>
+      <file name="$USER_HOME$/workspace/shareTrip/shareTrip-web/src/views/login/index.vue" timestamp="1520423027666">
+        <mark key="[" line="79" column="9" />
+        <mark key="]" line="69" column="37" />
+        <mark key="." line="69" column="37" />
+        <mark key="^" line="69" column="37" />
+      </file>
       <file name="$USER_HOME$/workspace/downLoadDemo/xxpay-master/xxpay4dubbo/xxpay4dubbo-web/src/main/java/org/xxpay/dubbo/web/ctrl/RefundOrderController.java" timestamp="1519538608591">
         <mark key="[" line="92" column="0" />
         <mark key="]" line="92" column="0" />
@@ -61,7 +67,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/shareTrip/shareTrip-web/src/router/index.js" timestamp="1520420766049" />
       <file name="$USER_HOME$/workspace/ideaProject/study-example/SortAlgorithm/src/main/java/quickSort/QuickSort.java" timestamp="1519824771325">
         <mark key="[" line="277" column="16" />
         <mark key="]" line="277" column="16" />
@@ -90,37 +95,45 @@
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFzZGZhc2RmCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>不知道</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGVtcFtrKytdCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">PGVsLXRhYmxlCiAgICAgIDpkYXRhPSJ0YWJsZURhdGEzIgogICAgICBoZWlnaHQ9IjI1MCIKICAgICAgYm9yZGVyCiAgICAgIHN0eWxlPSJ3aWR0aDogMTAwJSI+CiAgICAgIDxlbC10YWJsZS1jb2x1bW4KICAgICAgICBwcm9wPSJhZGRyZXNzIgogICAgICAgIGxhYmVsPSLlnLDlnYAiPgogICAgICA8L2VsLXRhYmxlLWNvbHVtbj4KICAgICAgPGVsLXRhYmxlLWNvbHVtbgogICAgICAgIHByb3A9ImFkZHJlc3MiCiAgICAgICAgbGFiZWw9IuWcsOWdgCI+CiAgICAgIDwvZWwtdGFibGUtY29sdW1uPgogICAgPC9lbC10YWJsZT4=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb2NrLnRyeUxvY2soKTsK</text>
+        <text encoding="base64">ICAgICAgL2VsLXRhYmxlLWNvbHVtbj4K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">cGFja2FnZSBtb25pdG9yLmNvbXBvbmVudDsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">PGVsLXRhYmxlLWNvbHVtbgogICAgICAgIHByb3A9InhpbmdtaW5nIgogICAgICAgIGxhYmVsPSLml6XmnJ8iCiAgICAgICAgd2lkdGg9IjE4MCI+CiAgICAgIDwvZWwtdGFibGUtY29sdW1uPgogICAgICA8ZWwtdGFibGUtY29sdW1uCiAgICAgICAgcHJvcD0ibGluZ3F1c2hpamlhbiIKICAgICAgICBsYWJlbD0i5aeT5ZCNIgogICAgICAgIHdpZHRoPSIxODAiPgogICAgICA8L2VsLXRhYmxlLWNvbHVtbj4KICAgICAgPGVsLXRhYmxlLWNvbHVtbgogICAgICAgIHByb3A9InhpYW5nbXUiCiAgICAgICAgbGFiZWw9IuWcsOWdgCI+CiAgICAgIDwvZWwtdGFibGUtY29sdW1uPgogICAgICA8ZWwtdGFibGUtY29sdW1uCiAgICAgICAgcHJvcD0iYnVtZW4iCiAgICAgICAgbGFiZWw9IuWcsOWdgCI+CiAgICAgIDwvZWwtdGFibGUtY29sdW1uPgogICAgICA8ZWwtdGFibGUtY29sdW1uCiAgICAgICAgcHJvcD0ieXVhbmdvbmd6aGl3ZWkiCiAgICAgICAgbGFiZWw9IuWcsOWdgCI+CiAgICAgIDwvZWwtdGFibGUtY29sdW1uPgogICAgICA8ZWwtdGFibGUtY29sdW1uCiAgICAgICAgcHJvcD0ieXVhbmdvbmdqaWJpZSIKICAgICAgICBsYWJlbD0i5Zyw5Z2AIj4KICAgICAgPC9lbC10YWJsZS1jb2x1bW4+CiAgICAgIDxlbC10YWJsZS1jb2x1bW4KICAgICAgICBwcm9wPSJqaWFuZ2ppbmxlaXhpbmciCiAgICAgICAgbGFiZWw9IuWcsOWdgCI+CiAgICAgIDwvZWwtdGFibGUtY29sdW1uPgogICAgICA8ZWwtdGFibGUtY29sdW1uCiAgICAgICAgcHJvcD0iaHVvamlhbmdqaWJpZSIKICAgICAgICBsYWJlbD0i5Zyw5Z2AIj4KICAgICAgPC9lbC10YWJsZS1jb2x1bW4+CiAgICAgIDxlbC10YWJsZS1jb2x1bW4KICAgICAgICBwcm9wPSJhZGRyZXNzIgogICAgICAgIGxhYmVsPSLlnLDlnYAiPgogICAgICA8L2VsLXRhYmxlLWNvbHVtbj4KICAgICAgPGVsLXRhYmxlLWNvbHVtbgogICAgICAgIHByb3A9ImFkZHJlc3MiCiAgICAgICAgbGFiZWw9IuWcsOWdgCI+CiAgICAgIDw=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aHR0cHM6Ly9naXRodWIuY29tL1NpbGdlclp1by9JZGVhLXNldHRpbmcuZ2l0Cg==</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aHR0cHM6Ly9naXRodWIuY29tL1NpbGdlclp1by9JZGVhLXNldHRpbmcuZ3QK</text>
+        <text encoding="base64">ICAgICAgbG9naW5Gb3JtCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBvYmplY3RPYmplY3RIYXNoTWFwLnJlZHVyZWQK</text>
+      <register name="8" type="4">
+        <text>: {
+        username: '',
+        password: ''
+      },
+      loginRules: {
+        username: [{ required: true, trigger: 'blur', validator: validateUsername }],
+        password: [{ required: true, trigger: 'blur', validator: validatePass }]
+      },
+      loading: false,</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBJbnRTdHJlYW0ucmFuZ2VDbG9zZWQoMSwgMTAwKS5tYXBUb09iaigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bG93IA==</text>
+        <text>不知道</text>
       </register>
     </registers>
     <search>
@@ -154,6 +167,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
