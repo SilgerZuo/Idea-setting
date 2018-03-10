@@ -41,11 +41,11 @@
         <mark key="." line="232" column="32" />
         <mark key="^" line="232" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/shareTrip/shareTrip-web/src/views/login/index.vue" timestamp="1520423027666">
-        <mark key="[" line="79" column="9" />
-        <mark key="]" line="69" column="37" />
-        <mark key="." line="69" column="37" />
-        <mark key="^" line="69" column="37" />
+      <file name="$USER_HOME$/workspace/shareTrip/shareTrip-web/src/views/login/index.vue" timestamp="1520687050989">
+        <mark key="[" line="113" column="24" />
+        <mark key="]" line="113" column="24" />
+        <mark key="." line="113" column="24" />
+        <mark key="^" line="97" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/downLoadDemo/xxpay-master/xxpay4dubbo/xxpay4dubbo-web/src/main/java/org/xxpay/dubbo/web/ctrl/RefundOrderController.java" timestamp="1519538608591">
         <mark key="[" line="92" column="0" />
@@ -61,6 +61,9 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/shareTrip/shareTrip-utils/src/main/java/com/mvcc/util/CookieUtil.java" timestamp="1520687059219">
+        <mark key="[" line="24" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/study-example/ProgramDesignPattern/src/main/java/monitor/component/Spyer.java" timestamp="1519821283846">
         <mark key="[" line="0" column="0" />
@@ -98,7 +101,7 @@
         <text encoding="base64">ICAgIGFzZGZhc2RmCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>不知道</text>
+        <text>平台网网商城支持</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -133,7 +136,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>不知道</text>
+        <text>平台网网商城支持</text>
       </register>
     </registers>
     <search>
