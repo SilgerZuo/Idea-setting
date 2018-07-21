@@ -8,10 +8,16 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519814266510">
+      <file name="/Dummy.txt" timestamp="1532147134805">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/ideaProject/study-project/learnspring/startlearnspring/pom.xml" timestamp="1532148346277">
+        <mark key="[" line="16" column="41" />
+        <mark key="]" line="16" column="40" />
+        <mark key="." line="16" column="40" />
+        <mark key="^" line="16" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/ideaProject/study-example/SortAlgorithm/src/main/java/Test/Test.java" timestamp="1519824643115">
         <mark key="[" line="16" column="31" />
@@ -57,7 +63,6 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/shareTrip/shareTrip-provider/src/main/java/com/mvcc/service/impl/payAccount/PayAccountServiceImpl.java" timestamp="1532135659918" />
       <file name="$USER_HOME$/IdeaProjects/learnSocket/src/test.java" timestamp="1519568366796">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -80,6 +85,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/study-project/dream1/pom.xml" timestamp="1532146460757">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/ideaProject/study-example/SortAlgorithm/src/main/java/quickSort/QuickSort.java" timestamp="1519824771325">
         <mark key="[" line="277" column="16" />
         <mark key="]" line="277" column="16" />
@@ -98,6 +108,15 @@
         <mark key="^" line="6" column="40" />
         <mark key="." line="6" column="40" />
       </file>
+      <file name="$USER_HOME$/workspace/ideaProject/study-project/learnspring/startlearnspring/src/main/java/com/zwc/dreamwalk/longpass/startlearnspring/web/controller/FirstController.java" timestamp="1532147682088">
+        <mark key="[" line="12" column="8" />
+        <mark key="]" line="6" column="14" />
+        <mark key="." line="6" column="14" />
+        <mark key="^" line="6" column="14" />
+      </file>
+      <file name="/fragment.java" timestamp="1532147134780">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/ideaProject/study-example/Reflect/src/main/java/somePackage/AnotherClass.java" timestamp="1519311531353">
         <mark key="[" line="4" column="4" />
         <mark key="]" line="6" column="7" />
@@ -108,45 +127,37 @@
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFzZGZhc2RmCg==</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>map</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">PGVsLXRhYmxlCiAgICAgIDpkYXRhPSJ0YWJsZURhdGEzIgogICAgICBoZWlnaHQ9IjI1MCIKICAgICAgYm9yZGVyCiAgICAgIHN0eWxlPSJ3aWR0aDogMTAwJSI+CiAgICAgIDxlbC10YWJsZS1jb2x1bW4KICAgICAgICBwcm9wPSJhZGRyZXNzIgogICAgICAgIGxhYmVsPSLlnLDlnYAiPgogICAgICA8L2VsLXRhYmxlLWNvbHVtbj4KICAgICAgPGVsLXRhYmxlLWNvbHVtbgogICAgICAgIHByb3A9ImFkZHJlc3MiCiAgICAgICAgbGFiZWw9IuWcsOWdgCI+CiAgICAgIDwvZWwtdGFibGUtY29sdW1uPgogICAgPC9lbC10YWJsZT4=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgL2VsLXRhYmxlLWNvbHVtbj4K</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">PGVsLXRhYmxlLWNvbHVtbgogICAgICAgIHByb3A9InhpbmdtaW5nIgogICAgICAgIGxhYmVsPSLml6XmnJ8iCiAgICAgICAgd2lkdGg9IjE4MCI+CiAgICAgIDwvZWwtdGFibGUtY29sdW1uPgogICAgICA8ZWwtdGFibGUtY29sdW1uCiAgICAgICAgcHJvcD0ibGluZ3F1c2hpamlhbiIKICAgICAgICBsYWJlbD0i5aeT5ZCNIgogICAgICAgIHdpZHRoPSIxODAiPgogICAgICA8L2VsLXRhYmxlLWNvbHVtbj4KICAgICAgPGVsLXRhYmxlLWNvbHVtbgogICAgICAgIHByb3A9InhpYW5nbXUiCiAgICAgICAgbGFiZWw9IuWcsOWdgCI+CiAgICAgIDwvZWwtdGFibGUtY29sdW1uPgogICAgICA8ZWwtdGFibGUtY29sdW1uCiAgICAgICAgcHJvcD0iYnVtZW4iCiAgICAgICAgbGFiZWw9IuWcsOWdgCI+CiAgICAgIDwvZWwtdGFibGUtY29sdW1uPgogICAgICA8ZWwtdGFibGUtY29sdW1uCiAgICAgICAgcHJvcD0ieXVhbmdvbmd6aGl3ZWkiCiAgICAgICAgbGFiZWw9IuWcsOWdgCI+CiAgICAgIDwvZWwtdGFibGUtY29sdW1uPgogICAgICA8ZWwtdGFibGUtY29sdW1uCiAgICAgICAgcHJvcD0ieXVhbmdvbmdqaWJpZSIKICAgICAgICBsYWJlbD0i5Zyw5Z2AIj4KICAgICAgPC9lbC10YWJsZS1jb2x1bW4+CiAgICAgIDxlbC10YWJsZS1jb2x1bW4KICAgICAgICBwcm9wPSJqaWFuZ2ppbmxlaXhpbmciCiAgICAgICAgbGFiZWw9IuWcsOWdgCI+CiAgICAgIDwvZWwtdGFibGUtY29sdW1uPgogICAgICA8ZWwtdGFibGUtY29sdW1uCiAgICAgICAgcHJvcD0iaHVvamlhbmdqaWJpZSIKICAgICAgICBsYWJlbD0i5Zyw5Z2AIj4KICAgICAgPC9lbC10YWJsZS1jb2x1bW4+CiAgICAgIDxlbC10YWJsZS1jb2x1bW4KICAgICAgICBwcm9wPSJhZGRyZXNzIgogICAgICAgIGxhYmVsPSLlnLDlnYAiPgogICAgICA8L2VsLXRhYmxlLWNvbHVtbj4KICAgICAgPGVsLXRhYmxlLWNvbHVtbgogICAgICAgIHByb3A9ImFkZHJlc3MiCiAgICAgICAgbGFiZWw9IuWcsOWdgCI+CiAgICAgIDw=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZGQK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbG9naW5Gb3JtCg==</text>
-      </register>
-      <register name="8" type="4">
-        <text>: {
-        username: '',
-        password: ''
-      },
-      loginRules: {
-        username: [{ required: true, trigger: 'blur', validator: validateUsername }],
-        password: [{ required: true, trigger: 'blur', validator: validatePass }]
-      },
-      loading: false,</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+NC4zLjExLlJFTEVBU0U8L3ZlcnNpb24+Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGFydGlmYWN0SWQ+c3ByaW5nLXdlYjwvYXJ0aWZhY3RJZD4K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yazwvZ3JvdXBJZD4K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4K</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5zcHJpbmctYm9vdC1zdGFydGVyLXRlc3Q8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDxzY29wZT50ZXN0PC9zY29wZT4KICAgICAgICA8L2RlcGVuZGVuY3k+</text>
+      </register>
       <register name="-" type="4">
-        <text>map</text>
+        <text />
       </register>
     </registers>
     <search>
@@ -183,6 +194,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
